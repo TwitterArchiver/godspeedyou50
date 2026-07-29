@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067124099160453120",
+        "3_2067124099156209664"
+      ]
+    },
+    "author_id": "1518404201168007168",
+    "conversation_id": "2067124108652163182",
+    "created_at": "2026-06-17T05:56:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T06:56:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067124108652163182"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/kgdq3c0sFb",
+          "end": 34,
+          "expanded_url": "https://x.com/godspeedyou50/status/2067124108652163182/photo/1",
+          "media_key": "3_2067124099160453120",
+          "start": 11,
+          "url": "https://t.co/kgdq3c0sFb"
+        },
+        {
+          "display_url": "pic.x.com/kgdq3c0sFb",
+          "end": 34,
+          "expanded_url": "https://x.com/godspeedyou50/status/2067124108652163182/photo/1",
+          "media_key": "3_2067124099156209664",
+          "start": 11,
+          "url": "https://t.co/kgdq3c0sFb"
+        },
+        {
+          "display_url": "x.com/nonentity_xxx1…",
+          "end": 58,
+          "expanded_url": "https://twitter.com/nonentity_xxx17/status/2067113498510012753",
+          "start": 35,
+          "url": "https://t.co/ICebjh3A6H"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067124108652163182",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067113498510012753",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "卧槽？ 必须摧毁形象 https://t.co/kgdq3c0sFb https://t.co/ICebjh3A6H"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2067124099160453120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK_maoUbsAAodjM.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2067124099156209664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK_maoTa8AAnxB_.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1467,
+        "media_key": "3_2067113486099030016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK_cw3laIAA7aH9.jpg",
+        "width": 1072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067124099160453120",
+            "3_2067124099156209664"
+          ]
+        },
+        "author_id": "1518404201168007168",
+        "conversation_id": "2067124108652163182",
+        "created_at": "2026-06-17T05:56:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T06:56:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067124108652163182"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kgdq3c0sFb",
+              "end": 34,
+              "expanded_url": "https://x.com/godspeedyou50/status/2067124108652163182/photo/1",
+              "media_key": "3_2067124099160453120",
+              "start": 11,
+              "url": "https://t.co/kgdq3c0sFb"
+            },
+            {
+              "display_url": "pic.x.com/kgdq3c0sFb",
+              "end": 34,
+              "expanded_url": "https://x.com/godspeedyou50/status/2067124108652163182/photo/1",
+              "media_key": "3_2067124099156209664",
+              "start": 11,
+              "url": "https://t.co/kgdq3c0sFb"
+            },
+            {
+              "display_url": "x.com/nonentity_xxx1…",
+              "end": 58,
+              "expanded_url": "https://twitter.com/nonentity_xxx17/status/2067113498510012753",
+              "start": 35,
+              "url": "https://t.co/ICebjh3A6H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067124108652163182",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067113498510012753",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "卧槽？ 必须摧毁形象 https://t.co/kgdq3c0sFb https://t.co/ICebjh3A6H"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067113486099030016"
+          ]
+        },
+        "author_id": "1919465517829783552",
+        "conversation_id": "2067113498510012753",
+        "created_at": "2026-06-17T05:13:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T06:13:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067113498510012753"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dSkRrHV2rd",
+              "end": 37,
+              "expanded_url": "https://x.com/Nonentity_xxx17/status/2067113498510012753/photo/1",
+              "media_key": "3_2067113486099030016",
+              "start": 14,
+              "url": "https://t.co/dSkRrHV2rd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067113498510012753",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "把Js从身边溢移除了ovo https://t.co/dSkRrHV2rd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2048720319872192919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1360,
+          "following_count": 354,
+          "like_count": 1153,
+          "listed_count": 1,
+          "media_count": 191,
+          "tweet_count": 2678
+        },
+        "username": "godspeedyou50",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-05T18:53:44.000Z",
+        "description": "忍辱士 \n双相I型/低能量/欣赏躯体/魔魔魔魔魔/\n有什么想问的就在⬇️\nhttps://t.co/rL1u13JJo2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ryuusuke65073",
+                "end": 60,
+                "expanded_url": "https://ngl.link/ryuusuke65073",
+                "start": 37,
+                "url": "https://t.co/rL1u13JJo2"
+              }
+            ]
+          }
+        },
+        "id": "1919465517829783552",
+        "name": "Акадо.",
+        "pinned_tweet_id": "2064926614115504357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060502549808173057/nEyRiD3E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 69,
+          "like_count": 2028,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 501
+        },
+        "username": "Nonentity_xxx17",
+        "verified": false
+      }
+    ]
+  }
+}

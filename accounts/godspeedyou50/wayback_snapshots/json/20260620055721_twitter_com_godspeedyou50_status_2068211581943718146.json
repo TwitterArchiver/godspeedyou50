@@ -1,0 +1,329 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068033268184948736",
+        "3_2068033268000415744"
+      ],
+      "media_source_tweet_id": [
+        "2068033270886158660",
+        "2068033270886158660"
+      ]
+    },
+    "author_id": "1518404201168007168",
+    "conversation_id": "2068211581943718146",
+    "created_at": "2026-06-20T05:57:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T06:57:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068211581943718146"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2029908828125548546",
+          "start": 3,
+          "username": "bui_tu46916"
+        },
+        {
+          "end": 28,
+          "id": "1754774517594181632",
+          "start": 17,
+          "username": "ValenceLab"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ruVNuEaTgU",
+          "end": 79,
+          "expanded_url": "https://x.com/bui_tu46916/status/2068033270886158660/photo/1",
+          "media_key": "3_2068033268184948736",
+          "start": 56,
+          "url": "https://t.co/ruVNuEaTgU"
+        },
+        {
+          "display_url": "pic.x.com/ruVNuEaTgU",
+          "end": 79,
+          "expanded_url": "https://x.com/bui_tu46916/status/2068033270886158660/photo/1",
+          "media_key": "3_2068033268000415744",
+          "start": 56,
+          "url": "https://t.co/ruVNuEaTgU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068211581943718146",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068033270886158660",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bui_tu46916: @ValenceLab 瓦楞斯新品棉花糖体验报告，美食评价9.0分，震撼美味 https://t.co/ruVNuEaTgU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1448,
+        "media_key": "3_2068033268184948736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLMhTO3aoAANiaH.jpg",
+        "width": 1086
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2068033268000415744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLMhTOLa4AA2cIY.jpg",
+        "width": 714
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068033268184948736",
+            "3_2068033268000415744"
+          ],
+          "media_source_tweet_id": [
+            "2068033270886158660",
+            "2068033270886158660"
+          ]
+        },
+        "author_id": "1518404201168007168",
+        "conversation_id": "2068211581943718146",
+        "created_at": "2026-06-20T05:57:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T06:57:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068211581943718146"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2029908828125548546",
+              "start": 3,
+              "username": "bui_tu46916"
+            },
+            {
+              "end": 28,
+              "id": "1754774517594181632",
+              "start": 17,
+              "username": "ValenceLab"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ruVNuEaTgU",
+              "end": 79,
+              "expanded_url": "https://x.com/bui_tu46916/status/2068033270886158660/photo/1",
+              "media_key": "3_2068033268184948736",
+              "start": 56,
+              "url": "https://t.co/ruVNuEaTgU"
+            },
+            {
+              "display_url": "pic.x.com/ruVNuEaTgU",
+              "end": 79,
+              "expanded_url": "https://x.com/bui_tu46916/status/2068033270886158660/photo/1",
+              "media_key": "3_2068033268000415744",
+              "start": 56,
+              "url": "https://t.co/ruVNuEaTgU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068211581943718146",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068033270886158660",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bui_tu46916: @ValenceLab 瓦楞斯新品棉花糖体验报告，美食评价9.0分，震撼美味 https://t.co/ruVNuEaTgU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068033268184948736",
+            "3_2068033268000415744"
+          ]
+        },
+        "author_id": "2029908828125548546",
+        "conversation_id": "2068033270886158660",
+        "created_at": "2026-06-19T18:08:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T19:08:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068033270886158660"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1754774517594181632",
+              "start": 0,
+              "username": "ValenceLab"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ruVNuEaTgU",
+              "end": 62,
+              "expanded_url": "https://x.com/bui_tu46916/status/2068033270886158660/photo/1",
+              "media_key": "3_2068033268184948736",
+              "start": 39,
+              "url": "https://t.co/ruVNuEaTgU"
+            },
+            {
+              "display_url": "pic.x.com/ruVNuEaTgU",
+              "end": 62,
+              "expanded_url": "https://x.com/bui_tu46916/status/2068033270886158660/photo/1",
+              "media_key": "3_2068033268000415744",
+              "start": 39,
+              "url": "https://t.co/ruVNuEaTgU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068033270886158660",
+        "in_reply_to_user_id": "1754774517594181632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 264,
+          "like_count": 7,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "@ValenceLab 瓦楞斯新品棉花糖体验报告，美食评价9.0分，震撼美味 https://t.co/ruVNuEaTgU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2048720319872192919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1376,
+          "following_count": 358,
+          "like_count": 1182,
+          "listed_count": 1,
+          "media_count": 195,
+          "tweet_count": 2759
+        },
+        "url": "",
+        "username": "godspeedyou50",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-06T13:16:07.000Z",
+        "description": "欢迎您的到访｜可能od｜有时产出视频｜看情况回fo",
+        "id": "2029908828125548546",
+        "location": "普瑞巴林行动小组",
+        "name": "EXPcat",
+        "pinned_tweet_id": "2047942018316517861",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040793488061861888/h0unB2hS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 291,
+          "following_count": 246,
+          "like_count": 264,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 747
+        },
+        "url": "",
+        "username": "bui_tu46916",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-06T07:50:34.000Z",
+        "description": "我只是一只野生瓦楞斯∥在深山模仿古猿的神秘露营爱好者⛺∥神厨小瓦楞斯∥频道链接↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/ValenceRC_cp",
+                "end": 23,
+                "expanded_url": "https://t.me/ValenceRC_cp",
+                "start": 0,
+                "url": "https://t.co/3X53fRNTwL"
+              }
+            ]
+          }
+        },
+        "id": "1754774517594181632",
+        "location": "本栖湖",
+        "name": "𝗩𝗮𝗹𝗲𝗻𝗰𝗲🆁🅲 瓦楞斯",
+        "pinned_tweet_id": "2054393417166434678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033925913575100419/x5z1bNHB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 638,
+          "following_count": 202,
+          "like_count": 405,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 387
+        },
+        "url": "https://t.co/3X53fRNTwL",
+        "username": "ValenceLab",
+        "verified": false
+      }
+    ]
+  }
+}

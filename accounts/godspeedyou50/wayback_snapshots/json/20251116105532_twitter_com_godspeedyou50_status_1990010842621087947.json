@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "1989674407443505165",
+    "created_at": "2025-11-16T10:55:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-16T11:55:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990010842621087947"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1892114014563598339",
+          "start": 0,
+          "username": "3He2_Ka1R0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990010842621087947",
+    "in_reply_to_user_id": "1892114014563598339",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989674407443505165",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@3He2_Ka1R0 磕啥了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "1989674407443505165",
+        "created_at": "2025-11-16T10:55:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T11:55:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990010842621087947"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1892114014563598339",
+              "start": 0,
+              "username": "3He2_Ka1R0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990010842621087947",
+        "in_reply_to_user_id": "1892114014563598339",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989674407443505165",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3He2_Ka1R0 磕啥了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892114014563598339",
+        "conversation_id": "1989674407443505165",
+        "created_at": "2025-11-15T12:38:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T13:38:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989674407443505165"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1989674407443505165",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 181,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我是谁？我是谁？我是谁？我是谁？我是谁？我是谁？我是谁？我是谁？我是谁？我是谁？我是谁？我是谁？我是谁？我是谁？我是谁？我是谁？我是谁？我是谁？我是谁？我是谁？我是谁？我是谁？我是谁？我是谁？我是谁？我是谁？我是谁？我是谁？我是谁？我是谁？我是谁？我是谁？我是谁？我是谁？我是谁？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "路人。and这段日子我愿意聊天，欢迎找我解惑，定期批量回fo或者私我",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1983757018830663844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984905090818523136/vVZ-D8dQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 555,
+          "following_count": 284,
+          "like_count": 195,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 776
+        },
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-19T07:28:41.000Z",
+        "description": "‣  你有尝试变得真实吗?叫我 𝗞𝗮𝗶𝗿𝗼 就好ɪɴᴛᴘ⁃ᴍ𝔱𝖝⁃ᴏᴠᴇʀᴅᴏsᴇ﹠ᴅʀᴜɢ⁃Ⓐ☜",
+        "id": "1892114014563598339",
+        "name": "xX梅妻鹤子Xx",
+        "pinned_tweet_id": "1962443374633644505",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984261889027895296/4bprvd8Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 238,
+          "following_count": 397,
+          "like_count": 61108,
+          "listed_count": 1,
+          "media_count": 137,
+          "tweet_count": 2420
+        },
+        "username": "3He2_Ka1R0",
+        "verified": false
+      }
+    ]
+  }
+}

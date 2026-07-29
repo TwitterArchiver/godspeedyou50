@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2034599711085310021",
+    "created_at": "2026-03-30T18:11:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T19:11:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038680455617400965"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1493978217962741761",
+          "start": 0,
+          "username": "taozitao2002"
+        },
+        {
+          "end": 30,
+          "id": "1916958202903547904",
+          "start": 14,
+          "username": "JennCorbet15217"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038680455617400965",
+    "in_reply_to_user_id": "1493978217962741761",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038680276079874402",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@taozitao2002 @JennCorbet15217 直接安排"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2034599711085310021",
+        "created_at": "2026-03-30T18:11:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T19:11:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038680455617400965"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1493978217962741761",
+              "start": 0,
+              "username": "taozitao2002"
+            },
+            {
+              "end": 30,
+              "id": "1916958202903547904",
+              "start": 14,
+              "username": "JennCorbet15217"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038680455617400965",
+        "in_reply_to_user_id": "1493978217962741761",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038680276079874402",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@taozitao2002 @JennCorbet15217 直接安排"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493978217962741761",
+        "conversation_id": "2034599711085310021",
+        "created_at": "2026-03-30T18:10:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T19:10:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038680276079874402"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1916958202903547904",
+              "start": 0,
+              "username": "JennCorbet15217"
+            },
+            {
+              "end": 31,
+              "id": "1518404201168007168",
+              "start": 17,
+              "username": "godspeedyou50"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038680276079874402",
+        "in_reply_to_user_id": "1916958202903547904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034734432545128874",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JennCorbet15217 @godspeedyou50 我的 牛逼不牛逼 问他"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。/双相I型/欢迎提问",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jahseh79919",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jahseh79919",
+                "start": 0,
+                "url": "https://t.co/xaz6T7v19q"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2029134307244294287",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 993,
+          "following_count": 196,
+          "like_count": 833,
+          "listed_count": 0,
+          "media_count": 123,
+          "tweet_count": 2029
+        },
+        "url": "https://t.co/xaz6T7v19q",
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2022-02-16T15:59:15.000Z",
+        "description": "大号被举封 不要🚪！没有🚪！在别问了",
+        "id": "1493978217962741761",
+        "location": "大连",
+        "name": "桃子🍑",
+        "pinned_tweet_id": "1634767512046018560",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1631677868970508289/6Ic4AJdv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 845,
+          "following_count": 396,
+          "like_count": 87,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 89
+        },
+        "username": "taozitao2002",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-28T20:50:35.000Z",
+        "description": "生活对我太狠了",
+        "id": "1916958202903547904",
+        "name": "我向天发誓我这辈子只想赚钞票",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026059508938854400/LGBtY-br_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 17,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 53
+        },
+        "username": "JennCorbet15217",
+        "verified": false
+      }
+    ]
+  }
+}

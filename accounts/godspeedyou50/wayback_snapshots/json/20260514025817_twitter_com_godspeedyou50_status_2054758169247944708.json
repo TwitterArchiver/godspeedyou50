@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2054758169247944708",
+    "created_at": "2026-05-14T02:58:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T03:58:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054758169247944708"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/oodoudouoodu/s…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/oodoudouoodu/status/2054742108008030631",
+          "start": 15,
+          "url": "https://t.co/1lyODiPw5Z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054758169247944708",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054742108008030631",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这种把自身抽离在外的逼最臭了 https://t.co/1lyODiPw5Z"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2054758169247944708",
+        "created_at": "2026-05-14T02:58:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T03:58:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054758169247944708"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/oodoudouoodu/s…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/oodoudouoodu/status/2054742108008030631",
+              "start": 15,
+              "url": "https://t.co/1lyODiPw5Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054758169247944708",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054742108008030631",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这种把自身抽离在外的逼最臭了 https://t.co/1lyODiPw5Z"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1796770446907748352",
+        "conversation_id": "2054742108008030631",
+        "created_at": "2026-05-14T01:54:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T02:54:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054742108008030631"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054742108008030631",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 111,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "中推圈支撑起一堆现实小透明的网红梦。一个两个想当网红想疯了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。/欢迎提问/@OvooLOO3o/@salmon__sukiii",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 17,
+                "username": "OvooLOO3o"
+              },
+              {
+                "end": 43,
+                "start": 28,
+                "username": "salmon__sukiii"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jahseh79919",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jahseh79919",
+                "start": 0,
+                "url": "https://t.co/xaz6T7v19q"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2048720319872192919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1228,
+          "following_count": 267,
+          "like_count": 1032,
+          "listed_count": 0,
+          "media_count": 162,
+          "tweet_count": 2396
+        },
+        "url": "https://t.co/xaz6T7v19q",
+        "username": "godspeedyou50",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-01T05:07:21.000Z",
+        "description": "我是那种坐在沙发上 眼泪哗哗流 但是不出声的那种 就是很唯美的 童话类型//@5xettu\n只接受短发t私信 私信带照片谢谢",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 38,
+                "username": "5xettu"
+              }
+            ]
+          }
+        },
+        "id": "1796770446907748352",
+        "name": "香奈儿",
+        "pinned_tweet_id": "2053466961468944686",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054112694354235392/VlUhXUUp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 951,
+          "following_count": 72,
+          "like_count": 5421,
+          "listed_count": 0,
+          "media_count": 155,
+          "tweet_count": 1603
+        },
+        "username": "oodoudouoodu",
+        "verified": false
+      }
+    ]
+  }
+}

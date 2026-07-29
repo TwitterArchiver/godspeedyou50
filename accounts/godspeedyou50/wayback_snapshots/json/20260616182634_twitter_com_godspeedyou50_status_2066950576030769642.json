@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2066781396593672549",
+    "created_at": "2026-06-16T18:26:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T19:26:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066950576030769642"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1494421003174244354",
+          "start": 0,
+          "username": "KitaX06"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066950576030769642",
+    "in_reply_to_user_id": "1494421003174244354",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066781396593672549",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KitaX06 许愿一个kita类型的美女爱上我"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2066781357628653568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK6uscnbAAACUJQ.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2066781396593672549",
+        "created_at": "2026-06-16T18:26:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T19:26:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066950576030769642"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1494421003174244354",
+              "start": 0,
+              "username": "KitaX06"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066950576030769642",
+        "in_reply_to_user_id": "1494421003174244354",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066781396593672549",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KitaX06 许愿一个kita类型的美女爱上我"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066781357628653568"
+          ]
+        },
+        "author_id": "1494421003174244354",
+        "conversation_id": "2066781396593672549",
+        "created_at": "2026-06-16T07:14:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T08:14:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066781396593672549"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uCMSA6OHlO",
+              "end": 46,
+              "expanded_url": "https://x.com/KitaX06/status/2066781396593672549/photo/1",
+              "media_key": "3_2066781357628653568",
+              "start": 23,
+              "url": "https://t.co/uCMSA6OHlO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066781396593672549",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 128,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "别问我为什么这么瘦了 五天吃三顿 换你你也瘦 https://t.co/uCMSA6OHlO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2048720319872192919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1360,
+          "following_count": 354,
+          "like_count": 1153,
+          "listed_count": 1,
+          "media_count": 189,
+          "tweet_count": 2666
+        },
+        "username": "godspeedyou50",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-17T21:18:37.000Z",
+        "description": "Kita_什麼是遠方",
+        "id": "1494421003174244354",
+        "location": "Sydney, New South Wales",
+        "name": "ジュリエット",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967302188914688001/DCXC_FAI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1497,
+          "following_count": 128,
+          "like_count": 5924,
+          "listed_count": 6,
+          "media_count": 51,
+          "tweet_count": 373
+        },
+        "username": "KitaX06",
+        "verified": false
+      }
+    ]
+  }
+}

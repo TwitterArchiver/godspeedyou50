@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "1987945068683293108",
+    "created_at": "2025-11-10T18:06:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-10T19:06:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987945068683293108"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1830934925769613334",
+          "start": 3,
+          "username": "Oksana666156854"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987945068683293108",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987891813345333361",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Oksana666156854: 通知：这是一条1200fo抽奖➕卖东西的推文。\n首先，我抽奖以及出售的东西都是自己做的，保证效果。\n其次，以下图片。P1 P2各自抽奖一人，每人1t，需要点赞➕转发，11月20日开奖。\n然后，p1真的很牛逼我自己研究的求你们尝尝，p2市…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1987891799894233089",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5ZpD0ibkAErjI2.jpg",
+        "width": 966
+      },
+      {
+        "height": 946,
+        "media_key": "3_1987891799944548353",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5ZpD0ubUAErgwp.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "1987945068683293108",
+        "created_at": "2025-11-10T18:06:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T19:06:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987945068683293108"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1830934925769613334",
+              "start": 3,
+              "username": "Oksana666156854"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987945068683293108",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987891813345333361",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Oksana666156854: 通知：这是一条1200fo抽奖➕卖东西的推文。\n首先，我抽奖以及出售的东西都是自己做的，保证效果。\n其次，以下图片。P1 P2各自抽奖一人，每人1t，需要点赞➕转发，11月20日开奖。\n然后，p1真的很牛逼我自己研究的求你们尝尝，p2市…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987891799894233089",
+            "3_1987891799944548353"
+          ]
+        },
+        "author_id": "1830934925769613334",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1987891813345333361",
+        "created_at": "2025-11-10T14:35:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T15:35:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987891813345333361"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/efaZfT0RCP",
+              "end": 167,
+              "expanded_url": "https://x.com/Oksana666156854/status/1987891813345333361/photo/1",
+              "media_key": "3_1987891799894233089",
+              "start": 144,
+              "url": "https://t.co/efaZfT0RCP"
+            },
+            {
+              "display_url": "pic.x.com/efaZfT0RCP",
+              "end": 167,
+              "expanded_url": "https://x.com/Oksana666156854/status/1987891813345333361/photo/1",
+              "media_key": "3_1987891799944548353",
+              "start": 144,
+              "url": "https://t.co/efaZfT0RCP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987891813345333361",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1083,
+          "like_count": 13,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "通知：这是一条1200fo抽奖➕卖东西的推文。\n首先，我抽奖以及出售的东西都是自己做的，保证效果。\n其次，以下图片。P1 P2各自抽奖一人，每人1t，需要点赞➕转发，11月20日开奖。\n然后，p1真的很牛逼我自己研究的求你们尝尝，p2市场有流通但我改版了。\n最后，我出售的物质均未列管。 https://t.co/efaZfT0RCP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "路人。and这段日子我愿意聊天，欢迎找我解惑，定期批量回fo或者私我",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1983757018830663844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984905090818523136/vVZ-D8dQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 479,
+          "following_count": 274,
+          "like_count": 130,
+          "listed_count": 1,
+          "media_count": 68,
+          "tweet_count": 731
+        },
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-03T11:45:04.000Z",
+        "description": "女，长头发性恋，精神分裂确诊，导演系在读，精神🇮🇹意大利人，非典型支黑，什么药都往嘴里塞的非典型毒推，喜欢跟小男娘玩。v有🚪，具体金额在你态度。",
+        "id": "1830934925769613334",
+        "name": "Oksana666",
+        "pinned_tweet_id": "1919767387769077977",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836467833401937920/1OZ_D_Qp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1264,
+          "following_count": 362,
+          "like_count": 613,
+          "listed_count": 5,
+          "media_count": 154,
+          "tweet_count": 491
+        },
+        "username": "Oksana666156854",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2029150157158400054",
+    "created_at": "2026-03-04T11:01:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-04T12:01:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2029150157158400054"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kill_this_hate…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/kill_this_hate/status/2027930860163633378",
+          "start": 9,
+          "url": "https://t.co/CypfoneocK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029150157158400054",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027930860163633378",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "帮助同行人人有责 https://t.co/CypfoneocK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2027930852932608000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCSoXcYaYAA5utk.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2029150157158400054",
+        "created_at": "2026-03-04T11:01:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T12:01:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029150157158400054"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kill_this_hate…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/kill_this_hate/status/2027930860163633378",
+              "start": 9,
+              "url": "https://t.co/CypfoneocK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029150157158400054",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027930860163633378",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "帮助同行人人有责 https://t.co/CypfoneocK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027930852932608000"
+          ]
+        },
+        "author_id": "1750040441880498176",
+        "conversation_id": "2027930860163633378",
+        "created_at": "2026-03-01T02:16:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T03:16:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027930860163633378"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wAiPHkywRo",
+              "end": 23,
+              "expanded_url": "https://x.com/kill_this_hate/status/2027930860163633378/photo/1",
+              "media_key": "3_2027930852932608000",
+              "start": 0,
+              "url": "https://t.co/wAiPHkywRo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027930860163633378",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 476,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/wAiPHkywRo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。/@Jahseh14138/双相I型/欢迎提问",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "Jahseh14138"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jahseh79919",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jahseh79919",
+                "start": 0,
+                "url": "https://t.co/xaz6T7v19q"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2029134307244294287",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 818,
+          "following_count": 164,
+          "like_count": 533,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 1555
+        },
+        "url": "https://t.co/xaz6T7v19q",
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-24T06:19:04.000Z",
+        "description": "请爱我的人后退一步，对，就这样招招手就好。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i46595",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i46595",
+                "start": 0,
+                "url": "https://t.co/cehcglWVw4"
+              }
+            ]
+          }
+        },
+        "id": "1750040441880498176",
+        "location": "@lark2206",
+        "name": "超高校级神算雀",
+        "pinned_tweet_id": "2027930860163633378",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022546607917666307/T2i9VP-J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 631,
+          "following_count": 103,
+          "like_count": 20328,
+          "listed_count": 2,
+          "media_count": 855,
+          "tweet_count": 9082
+        },
+        "url": "https://t.co/cehcglWVw4",
+        "username": "kill_this_hate",
+        "verified": false
+      }
+    ]
+  }
+}

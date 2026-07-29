@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2065496979166396532",
+    "created_at": "2026-06-13T04:02:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T05:02:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065645933816353277"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1229699952588181504",
+          "start": 0,
+          "username": "Alejandro7Dona"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065645933816353277",
+    "in_reply_to_user_id": "1229699952588181504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065644222204747822",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Alejandro7Dona 第五十二签\n签诗卦辞：\n婪婪磨蝎卒难移，画饼充饥岂可期。\n唯有心头无妄想，自然祸散福相随。\n放弃幻想接受斗争吧，凡事宜守不宜攻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2065496979166396532",
+        "created_at": "2026-06-13T04:02:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T05:02:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065645933816353277"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1229699952588181504",
+              "start": 0,
+              "username": "Alejandro7Dona"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065645933816353277",
+        "in_reply_to_user_id": "1229699952588181504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065644222204747822",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Alejandro7Dona 第五十二签\n签诗卦辞：\n婪婪磨蝎卒难移，画饼充饥岂可期。\n唯有心头无妄想，自然祸散福相随。\n放弃幻想接受斗争吧，凡事宜守不宜攻"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1229699952588181504",
+        "conversation_id": "2065496979166396532",
+        "created_at": "2026-06-13T03:55:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T04:55:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065644222204747822"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1518404201168007168",
+              "start": 0,
+              "username": "godspeedyou50"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065644222204747822",
+        "in_reply_to_user_id": "1518404201168007168",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065583146071134644",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@godspeedyou50 留言"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。我在倒腾两颗神秘的糖请小窗",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2064647794707821015",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1361,
+          "following_count": 346,
+          "like_count": 1152,
+          "listed_count": 1,
+          "media_count": 193,
+          "tweet_count": 2675
+        },
+        "username": "godspeedyou50",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-18T09:31:40.000Z",
+        "description": "艾丽鹃德先生 | Don Alejandro。文人。永远是个小孩子，是喜欢写小说的诗人。Furry控，是喜欢小男孩的小男孩。",
+        "id": "1229699952588181504",
+        "location": "石家庄 槐安路",
+        "name": "艾麗鵑德先生",
+        "pinned_tweet_id": "1968788580676825469",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1229700641267703808/PAjs3Jcv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 755,
+          "like_count": 1697,
+          "listed_count": 2,
+          "media_count": 35,
+          "tweet_count": 201
+        },
+        "username": "Alejandro7Dona",
+        "verified": false
+      }
+    ]
+  }
+}

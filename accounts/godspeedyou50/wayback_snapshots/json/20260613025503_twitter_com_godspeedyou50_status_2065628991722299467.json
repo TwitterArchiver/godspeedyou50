@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2065626122805796961",
+    "created_at": "2026-06-13T02:55:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T03:55:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065628991722299467"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1494421003174244354",
+          "start": 0,
+          "username": "KitaX06"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065628991722299467",
+    "in_reply_to_user_id": "1494421003174244354",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065626122805796961",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KitaX06 换个人爱吧"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2065626114647851008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKqUAdJbAAADQL-.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2065626122805796961",
+        "created_at": "2026-06-13T02:55:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T03:55:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065628991722299467"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1494421003174244354",
+              "start": 0,
+              "username": "KitaX06"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065628991722299467",
+        "in_reply_to_user_id": "1494421003174244354",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065626122805796961",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KitaX06 换个人爱吧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065626114647851008"
+          ]
+        },
+        "author_id": "1494421003174244354",
+        "conversation_id": "2065626122805796961",
+        "created_at": "2026-06-13T02:43:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T03:43:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065626122805796961"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Hlez2ialYY",
+              "end": 31,
+              "expanded_url": "https://x.com/KitaX06/status/2065626122805796961/photo/1",
+              "media_key": "3_2065626114647851008",
+              "start": 8,
+              "url": "https://t.co/Hlez2ialYY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065626122805796961",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "爱上你是我的错 https://t.co/Hlez2ialYY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。我在倒腾两颗神秘的糖请小窗",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2064647794707821015",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1361,
+          "following_count": 345,
+          "like_count": 1152,
+          "listed_count": 1,
+          "media_count": 191,
+          "tweet_count": 2670
+        },
+        "username": "godspeedyou50",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-17T21:18:37.000Z",
+        "description": "Kita_什麼是遠方",
+        "id": "1494421003174244354",
+        "location": "Sydney, New South Wales",
+        "name": "ジュリエット",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967302188914688001/DCXC_FAI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1499,
+          "following_count": 124,
+          "like_count": 5815,
+          "listed_count": 6,
+          "media_count": 47,
+          "tweet_count": 357
+        },
+        "username": "KitaX06",
+        "verified": false
+      }
+    ]
+  }
+}

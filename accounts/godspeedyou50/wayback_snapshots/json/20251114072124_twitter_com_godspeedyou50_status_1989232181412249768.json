@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "1989231773486838262",
+    "created_at": "2025-11-14T07:21:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-14T08:21:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989232181412249768"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1662439435726905344",
+          "start": 0,
+          "username": "moya_michaeI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989232181412249768",
+    "in_reply_to_user_id": "1662439435726905344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989231773486838262",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@moya_michaeI 人生自古谁无死？不幸地，药物大师，药物百科wiki主，视觉系，地雷系，长发男娘，药师，药圈英雄，4i皇帝，udg听众 \n沐雨，已经逝世，因此无法继续与您互动，让我们永远缅怀它"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "1989231773486838262",
+        "created_at": "2025-11-14T07:21:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T08:21:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989232181412249768"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1662439435726905344",
+              "start": 0,
+              "username": "moya_michaeI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989232181412249768",
+        "in_reply_to_user_id": "1662439435726905344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989231773486838262",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@moya_michaeI 人生自古谁无死？不幸地，药物大师，药物百科wiki主，视觉系，地雷系，长发男娘，药师，药圈英雄，4i皇帝，udg听众 \n沐雨，已经逝世，因此无法继续与您互动，让我们永远缅怀它"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662439435726905344",
+        "conversation_id": "1989231773486838262",
+        "created_at": "2025-11-14T07:19:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T08:19:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989231773486838262"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bzsgmm111/stat…",
+              "end": 111,
+              "expanded_url": "https://twitter.com/bzsgmm111/status/1989228255623410173",
+              "start": 88,
+              "url": "https://t.co/X5PgJ6FuMo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989231773486838262",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989228255623410173",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "人生自古谁无死？不幸地，药物大师，药物百科wiki主，视觉系，地雷系，长发男娘，药师，药圈英雄，4i皇帝，udg听众 \n沐雨，已经逝世，因此无法继续与您互动，让我们永远缅怀它 https://t.co/X5PgJ6FuMo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "路人。and这段日子我愿意聊天，欢迎找我解惑，定期批量回fo或者私我",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1983757018830663844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984905090818523136/vVZ-D8dQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 489,
+          "following_count": 281,
+          "like_count": 168,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 741
+        },
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-27T12:44:05.000Z",
+        "description": "視線 未來 被 霧霾 覆蓋 空白 意外 負債 後代...",
+        "id": "1662439435726905344",
+        "location": "東京 渋谷区",
+        "name": "Michael-MoyA",
+        "pinned_tweet_id": "1987198004856815949",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983926637260660736/jix4stR1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 465,
+          "following_count": 100,
+          "like_count": 8215,
+          "listed_count": 1,
+          "media_count": 23,
+          "tweet_count": 1170
+        },
+        "username": "moya_michaeI",
+        "verified": false
+      }
+    ]
+  }
+}

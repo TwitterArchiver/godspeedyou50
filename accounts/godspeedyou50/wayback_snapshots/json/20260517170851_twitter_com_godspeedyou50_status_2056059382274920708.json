@@ -1,0 +1,168 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2056049871841546375",
+    "created_at": "2026-05-17T17:08:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T18:08:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056059382274920708"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2056059382274920708",
+    "in_reply_to_user_id": "1518404201168007168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056049871841546375",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "妈呀大姐 我去别的地方拿到了 原来你利润有一倍大多呢 我还没恶心到被人驳了面子还砸人招牌 暗讽一下得了 活该没生意"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2056049871841546375",
+        "created_at": "2026-05-17T17:08:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T18:08:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056059382274920708"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056059382274920708",
+        "in_reply_to_user_id": "1518404201168007168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056049871841546375",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "妈呀大姐 我去别的地方拿到了 原来你利润有一倍大多呢 我还没恶心到被人驳了面子还砸人招牌 暗讽一下得了 活该没生意"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2056049871841546375",
+        "created_at": "2026-05-17T16:31:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T17:31:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056049871841546375"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056049871841546375",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 147,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "老板我是熟人介绍来的 有友情价吗\n没有 别觉得自己很有面子 天皇老子来了都是一个价"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。/欢迎提问/@OvooLOO3o/@salmon__sukiii",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 17,
+                "username": "OvooLOO3o"
+              },
+              {
+                "end": 43,
+                "start": 28,
+                "username": "salmon__sukiii"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jahseh79919",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jahseh79919",
+                "start": 0,
+                "url": "https://t.co/xaz6T7v19q"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2048720319872192919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1252,
+          "following_count": 275,
+          "like_count": 1048,
+          "listed_count": 0,
+          "media_count": 166,
+          "tweet_count": 2419
+        },
+        "url": "https://t.co/xaz6T7v19q",
+        "username": "godspeedyou50",
+        "verified": false
+      }
+    ]
+  }
+}

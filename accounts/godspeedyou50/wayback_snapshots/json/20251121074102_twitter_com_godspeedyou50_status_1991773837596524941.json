@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "1991773837596524941",
+    "created_at": "2025-11-21T07:41:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-21T08:41:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1991773837596524941"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1991773837596524941",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我其实并不具备自愈能力 但我始终守口如瓶\n我很想告诉妈妈 我没办法"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "1991773837596524941",
+        "created_at": "2025-11-21T07:41:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T08:41:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991773837596524941"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1991773837596524941",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我其实并不具备自愈能力 但我始终守口如瓶\n我很想告诉妈妈 我没办法"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "路人。and这段日子我愿意聊天，欢迎找我解惑，定期批量回fo或者私我",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1983757018830663844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990279769297149952/3r34Cj2f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 613,
+          "following_count": 303,
+          "like_count": 251,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 880
+        },
+        "username": "godspeedyou50",
+        "verified": true
+      }
+    ]
+  }
+}

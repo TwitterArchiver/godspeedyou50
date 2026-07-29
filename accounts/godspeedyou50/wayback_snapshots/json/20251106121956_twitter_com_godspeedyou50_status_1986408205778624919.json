@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "1986406924959855019",
+    "created_at": "2025-11-06T12:19:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-06T13:19:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986408205778624919"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1920308340737126400",
+          "start": 0,
+          "username": "fusedjiii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986408205778624919",
+    "in_reply_to_user_id": "1920308340737126400",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986406924959855019",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fusedjiii 绷着呢你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "1986406924959855019",
+        "created_at": "2025-11-06T12:19:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T13:19:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986408205778624919"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1920308340737126400",
+              "start": 0,
+              "username": "fusedjiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986408205778624919",
+        "in_reply_to_user_id": "1920308340737126400",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986406924959855019",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fusedjiii 绷着呢你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920308340737126400",
+        "conversation_id": "1986406924959855019",
+        "created_at": "2025-11-06T12:14:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T13:14:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986406924959855019"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1986406924959855019",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我一刻也没轻松过"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "路人。and这段日子我愿意聊天，欢迎找我解惑，定期批量回fo或者私我",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1983757018830663844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984905090818523136/vVZ-D8dQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 457,
+          "following_count": 270,
+          "like_count": 135,
+          "listed_count": 1,
+          "media_count": 63,
+          "tweet_count": 709
+        },
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-08T02:42:51.000Z",
+        "description": "入门✉️私信，给我小钱钱再说喜欢我好吗好耶",
+        "id": "1920308340737126400",
+        "location": "家",
+        "name": "裴裴小猫好吗",
+        "pinned_tweet_id": "1983241404710322558",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984902758353469440/8z6LfT-V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2220,
+          "following_count": 147,
+          "like_count": 319,
+          "listed_count": 4,
+          "media_count": 76,
+          "tweet_count": 1097
+        },
+        "username": "fusedjiii",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065959785191944192"
+      ]
+    },
+    "author_id": "1518404201168007168",
+    "conversation_id": "2065958822855016861",
+    "created_at": "2026-06-14T00:49:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T01:49:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065959789981749684"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/B2hy2BNzZD",
+          "end": 34,
+          "expanded_url": "https://x.com/godspeedyou50/status/2065959789981749684/photo/1",
+          "media_key": "3_2065959785191944192",
+          "start": 11,
+          "url": "https://t.co/B2hy2BNzZD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065959789981749684",
+    "in_reply_to_user_id": "1518404201168007168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065958822855016861",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "就逗我吧，我哪知道啊 https://t.co/B2hy2BNzZD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2065959785191944192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKvDeoybsAAeq6m.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065959785191944192"
+          ]
+        },
+        "author_id": "1518404201168007168",
+        "conversation_id": "2065958822855016861",
+        "created_at": "2026-06-14T00:49:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T01:49:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065959789981749684"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/B2hy2BNzZD",
+              "end": 34,
+              "expanded_url": "https://x.com/godspeedyou50/status/2065959789981749684/photo/1",
+              "media_key": "3_2065959785191944192",
+              "start": 11,
+              "url": "https://t.co/B2hy2BNzZD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065959789981749684",
+        "in_reply_to_user_id": "1518404201168007168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065958822855016861",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "就逗我吧，我哪知道啊 https://t.co/B2hy2BNzZD"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2065958822855016861",
+        "created_at": "2026-06-14T00:45:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T01:45:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065958822855016861"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/goldenglow764/…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/goldenglow764/status/2065782502141440294",
+              "start": 8,
+              "url": "https://t.co/psOmFXFiDn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065958822855016861",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065782502141440294",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不得不去入职了 https://t.co/psOmFXFiDn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。我在倒腾两颗神秘的糖请小窗",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2064647794707821015",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1363,
+          "following_count": 355,
+          "like_count": 1156,
+          "listed_count": 1,
+          "media_count": 198,
+          "tweet_count": 2690
+        },
+        "username": "godspeedyou50",
+        "verified": false
+      }
+    ]
+  }
+}

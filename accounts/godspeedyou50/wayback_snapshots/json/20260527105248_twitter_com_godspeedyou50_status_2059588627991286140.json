@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059588618893836288",
+        "3_2059588618898030592",
+        "3_2059588618898006016",
+        "3_2059588618898014208"
+      ]
+    },
+    "author_id": "1518404201168007168",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2059588627991286140",
+    "created_at": "2026-05-27T10:52:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T11:52:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059588627991286140"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ddcmBF6VcX",
+          "end": 42,
+          "expanded_url": "https://x.com/godspeedyou50/status/2059588627991286140/photo/1",
+          "media_key": "3_2059588618893836288",
+          "start": 19,
+          "url": "https://t.co/ddcmBF6VcX"
+        },
+        {
+          "display_url": "pic.x.com/ddcmBF6VcX",
+          "end": 42,
+          "expanded_url": "https://x.com/godspeedyou50/status/2059588627991286140/photo/1",
+          "media_key": "3_2059588618898030592",
+          "start": 19,
+          "url": "https://t.co/ddcmBF6VcX"
+        },
+        {
+          "display_url": "pic.x.com/ddcmBF6VcX",
+          "end": 42,
+          "expanded_url": "https://x.com/godspeedyou50/status/2059588627991286140/photo/1",
+          "media_key": "3_2059588618898006016",
+          "start": 19,
+          "url": "https://t.co/ddcmBF6VcX"
+        },
+        {
+          "display_url": "pic.x.com/ddcmBF6VcX",
+          "end": 42,
+          "expanded_url": "https://x.com/godspeedyou50/status/2059588627991286140/photo/1",
+          "media_key": "3_2059588618898014208",
+          "start": 19,
+          "url": "https://t.co/ddcmBF6VcX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059588627991286140",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "人生只不过是一场又一场的幻灭和不甘心 https://t.co/ddcmBF6VcX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2059588618893836288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJUg78yawAA_8R5.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2059588618898030592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJUg78zawAASk4Y.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2059588618898006016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJUg78zaYAAYaCn.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2059588618898014208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJUg78zagAAKZRj.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059588618893836288",
+            "3_2059588618898030592",
+            "3_2059588618898006016",
+            "3_2059588618898014208"
+          ]
+        },
+        "author_id": "1518404201168007168",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2059588627991286140",
+        "created_at": "2026-05-27T10:52:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T11:52:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059588627991286140"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ddcmBF6VcX",
+              "end": 42,
+              "expanded_url": "https://x.com/godspeedyou50/status/2059588627991286140/photo/1",
+              "media_key": "3_2059588618893836288",
+              "start": 19,
+              "url": "https://t.co/ddcmBF6VcX"
+            },
+            {
+              "display_url": "pic.x.com/ddcmBF6VcX",
+              "end": 42,
+              "expanded_url": "https://x.com/godspeedyou50/status/2059588627991286140/photo/1",
+              "media_key": "3_2059588618898030592",
+              "start": 19,
+              "url": "https://t.co/ddcmBF6VcX"
+            },
+            {
+              "display_url": "pic.x.com/ddcmBF6VcX",
+              "end": 42,
+              "expanded_url": "https://x.com/godspeedyou50/status/2059588627991286140/photo/1",
+              "media_key": "3_2059588618898006016",
+              "start": 19,
+              "url": "https://t.co/ddcmBF6VcX"
+            },
+            {
+              "display_url": "pic.x.com/ddcmBF6VcX",
+              "end": 42,
+              "expanded_url": "https://x.com/godspeedyou50/status/2059588627991286140/photo/1",
+              "media_key": "3_2059588618898014208",
+              "start": 19,
+              "url": "https://t.co/ddcmBF6VcX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059588627991286140",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "人生只不过是一场又一场的幻灭和不甘心 https://t.co/ddcmBF6VcX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2048720319872192919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1283,
+          "following_count": 295,
+          "like_count": 1085,
+          "listed_count": 0,
+          "media_count": 163,
+          "tweet_count": 2440
+        },
+        "username": "godspeedyou50",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2030415654114001383",
+    "created_at": "2026-03-08T02:34:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-08T03:34:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030472268279845330"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1849043039496617984",
+          "start": 0,
+          "username": "Rinko_zero8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030472268279845330",
+    "in_reply_to_user_id": "1849043039496617984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030427760288756097",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rinko_zero8964 神特么大日本帝国 就是这傻逼思想害了他"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2030415654114001383",
+        "created_at": "2026-03-08T02:34:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T03:34:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030472268279845330"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1849043039496617984",
+              "start": 0,
+              "username": "Rinko_zero8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030472268279845330",
+        "in_reply_to_user_id": "1849043039496617984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030427760288756097",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rinko_zero8964 神特么大日本帝国 就是这傻逼思想害了他"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "2030415654114001383",
+        "created_at": "2026-03-07T23:37:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T00:37:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030427760288756097"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/rinko_zero8964…",
+              "end": 23,
+              "expanded_url": "https://x.com/rinko_zero8964/status/2030427328816594966",
+              "start": 0,
+              "url": "https://t.co/EYF06Sp4Bm"
+            },
+            {
+              "display_url": "x.com/rinko_zero8964…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/rinko_zero8964/status/2030427328816594966",
+              "start": 24,
+              "url": "https://t.co/6hs49aKbHt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030427760288756097",
+        "in_reply_to_user_id": "1849043039496617984",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030427328816594966",
+            "type": "quoted"
+          },
+          {
+            "id": "2030415654114001383",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/EYF06Sp4Bm https://t.co/6hs49aKbHt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。/@Jahseh14138/双相I型/欢迎提问",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "Jahseh14138"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jahseh79919",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jahseh79919",
+                "start": 0,
+                "url": "https://t.co/xaz6T7v19q"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2029134307244294287",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 855,
+          "following_count": 169,
+          "like_count": 576,
+          "listed_count": 0,
+          "media_count": 92,
+          "tweet_count": 1614
+        },
+        "url": "https://t.co/xaz6T7v19q",
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思う、ゆえに我あり｜ 我是林子｜性别为无、｜寒くなってきたね……もう少しだけ、いい？｜intp-t｜asd/焦虑障碍｜🧬今日也想成为biohacker｜好妈妈们@asabakasaiko @loveforeversfy|bro @BelovedUren8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 81,
+                "username": "asabakasaiko"
+              },
+              {
+                "end": 110,
+                "start": 95,
+                "username": "loveforeversfy"
+              },
+              {
+                "end": 131,
+                "start": 115,
+                "username": "BelovedUren8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wakaba_rinko",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wakaba_rinko",
+                "start": 0,
+                "url": "https://t.co/zWqK1n9RJg"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "Ask me any u want→",
+        "name": "Rinko",
+        "pinned_tweet_id": "2008491763561099436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004661650092359680/DqSlreCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 599,
+          "following_count": 572,
+          "like_count": 16154,
+          "listed_count": 1,
+          "media_count": 159,
+          "tweet_count": 7844
+        },
+        "url": "https://t.co/zWqK1n9RJg",
+        "username": "Rinko_zero8964",
+        "verified": false
+      }
+    ]
+  }
+}

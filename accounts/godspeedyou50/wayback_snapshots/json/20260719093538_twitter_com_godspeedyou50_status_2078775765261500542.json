@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2078775765261500542",
+    "created_at": "2026-07-19T09:35:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T10:35:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078775765261500542"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1384831606276476930",
+          "start": 3,
+          "username": "Xxx_kkkl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078775765261500542",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078775706000224493",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Xxx_kkkl: （限时活动）4ho极限底价叁颗起 算下来比外面一颗还便宜 厂家定制 迷幻爱好者来询价！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2078775765261500542",
+        "created_at": "2026-07-19T09:35:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T10:35:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078775765261500542"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1384831606276476930",
+              "start": 3,
+              "username": "Xxx_kkkl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078775765261500542",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078775706000224493",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Xxx_kkkl: （限时活动）4ho极限底价叁颗起 算下来比外面一颗还便宜 厂家定制 迷幻爱好者来询价！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1384831606276476930",
+        "conversation_id": "2078775706000224493",
+        "created_at": "2026-07-19T09:35:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T10:35:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078775706000224493"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078775706000224493",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "（限时活动）4ho极限底价叁颗起 算下来比外面一颗还便宜 厂家定制 迷幻爱好者来询价！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个违背了大众良知od喝大酒的神棍。\n☯️算命后付不怕跑单｜代请符箓、祈福请私讯\n传统宗教现代哲学文化传播者，又称中式廉价心理医生。\n狐朋@Nonentity_xxx17 狗友@Jinggebiezhuaw",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 69,
+                "username": "Nonentity_xxx17"
+              },
+              {
+                "end": 103,
+                "start": 88,
+                "username": "Jinggebiezhuaw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/buyaogaowosorry",
+                "end": 23,
+                "expanded_url": "https://t.me/buyaogaowosorry",
+                "start": 0,
+                "url": "https://t.co/AdoFGQJT3r"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2069223594711011526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1706,
+          "following_count": 601,
+          "like_count": 1290,
+          "listed_count": 1,
+          "media_count": 210,
+          "tweet_count": 2915
+        },
+        "url": "https://t.co/AdoFGQJT3r",
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2021-04-21T11:29:28.000Z",
+        "description": "叫我法马康，我是随时消融在历史长河的毒瘤，兜售各种非列管合法策划化学物质💊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/buyaogaowosorry",
+                "end": 23,
+                "expanded_url": "http://t.me/buyaogaowosorry",
+                "start": 0,
+                "url": "https://t.co/MFy5tkgAMP"
+              }
+            ]
+          }
+        },
+        "id": "1384831606276476930",
+        "location": "欢迎私信tg指路👉",
+        "name": "Pharmakon（RC）",
+        "pinned_tweet_id": "2070252922009788529",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070251052344221696/I5fhUXg0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 287,
+          "following_count": 140,
+          "like_count": 64,
+          "listed_count": 3,
+          "media_count": 9,
+          "tweet_count": 133
+        },
+        "url": "https://t.co/MFy5tkgAMP",
+        "username": "Xxx_kkkl",
+        "verified": false
+      }
+    ]
+  }
+}

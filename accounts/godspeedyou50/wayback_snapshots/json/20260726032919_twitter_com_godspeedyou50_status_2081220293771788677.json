@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2081220293771788677",
+    "created_at": "2026-07-26T03:29:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T04:29:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081220293771788677"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1928692640356134912",
+          "start": 3,
+          "username": "9way021"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081220293771788677",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081218818853285996",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @9way021: 东亚人特别容易被“恨、海、情、天”这些情感所影响。如果你坦率地说“我爱你”，我觉得你随时都可能离开；如果你说“我恨死你”，说即使变成鬼也要缠着我，我才会相信你的爱有多少是真的。一方水土养一方人，真是没办法，就这么脆弱，爱就必须带点恨，必须带点控制欲。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2081220293771788677",
+        "created_at": "2026-07-26T03:29:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T04:29:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081220293771788677"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1928692640356134912",
+              "start": 3,
+              "username": "9way021"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081220293771788677",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081218818853285996",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @9way021: 东亚人特别容易被“恨、海、情、天”这些情感所影响。如果你坦率地说“我爱你”，我觉得你随时都可能离开；如果你说“我恨死你”，说即使变成鬼也要缠着我，我才会相信你的爱有多少是真的。一方水土养一方人，真是没办法，就这么脆弱，爱就必须带点恨，必须带点控制欲。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1928692640356134912",
+        "conversation_id": "2081218818853285996",
+        "created_at": "2026-07-26T03:23:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T04:23:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081218818853285996"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081218818853285996",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "东亚人特别容易被“恨、海、情、天”这些情感所影响。如果你坦率地说“我爱你”，我觉得你随时都可能离开；如果你说“我恨死你”，说即使变成鬼也要缠着我，我才会相信你的爱有多少是真的。一方水土养一方人，真是没办法，就这么脆弱，爱就必须带点恨，必须带点控制欲。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个违背了大众良知od喝大酒的神棍。\n☯️算命后付不怕跑单｜代请符箓、祈福请私讯\n传统宗教现代哲学文化传播者，又称中式廉价心理医生。\n狐朋@Nonentity_xxx17 狗友@Jinggebiezhuaw",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 69,
+                "username": "Nonentity_xxx17"
+              },
+              {
+                "end": 103,
+                "start": 88,
+                "username": "Jinggebiezhuaw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/buyaogaowosorry",
+                "end": 23,
+                "expanded_url": "https://t.me/buyaogaowosorry",
+                "start": 0,
+                "url": "https://t.co/AdoFGQJT3r"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2069223594711011526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1745,
+          "following_count": 644,
+          "like_count": 1287,
+          "listed_count": 1,
+          "media_count": 214,
+          "tweet_count": 2935
+        },
+        "url": "https://t.co/AdoFGQJT3r",
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-31T05:59:07.000Z",
+        "description": "vv二代TT | 2011 | ISFP | ADHD | 查成分互fo | 上推只为发颠",
+        "id": "1928692640356134912",
+        "location": "🚪52 纯绿不线下",
+        "name": "Dennis Nilsen",
+        "pinned_tweet_id": "2080675085430755824",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076929194685251585/UIXxFdlN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 72,
+          "like_count": 445,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 85
+        },
+        "url": "",
+        "username": "9way021",
+        "verified": false
+      }
+    ]
+  }
+}

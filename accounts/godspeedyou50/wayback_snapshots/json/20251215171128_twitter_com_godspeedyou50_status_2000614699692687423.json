@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2000614687755657216",
+        "3_2000614687797547008"
+      ]
+    },
+    "author_id": "1518404201168007168",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2000614699692687423",
+    "created_at": "2025-12-15T17:11:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-15T18:11:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2000614699692687423"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/8nOzQOBZJV",
+          "end": 92,
+          "expanded_url": "https://x.com/godspeedyou50/status/2000614699692687423/photo/1",
+          "media_key": "3_2000614687755657216",
+          "start": 69,
+          "url": "https://t.co/8nOzQOBZJV"
+        },
+        {
+          "display_url": "pic.x.com/8nOzQOBZJV",
+          "end": 92,
+          "expanded_url": "https://x.com/godspeedyou50/status/2000614699692687423/photo/1",
+          "media_key": "3_2000614687797547008",
+          "start": 69,
+          "url": "https://t.co/8nOzQOBZJV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000614699692687423",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "每天工作12小时之后一勺肌酸一勺蛋白粉带着tfcc的手腕卧推 日子过的简单点 不再聒噪\n迎接躁狂后的平静迎接反复等待的结果落地生根\n发芽 https://t.co/8nOzQOBZJV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1506,
+        "media_key": "3_2000614687755657216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8OcdXQa4AA6vEg.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1132,
+        "media_key": "3_2000614687797547008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8OcdXaaEAAV8sz.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000614687755657216",
+            "3_2000614687797547008"
+          ]
+        },
+        "author_id": "1518404201168007168",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2000614699692687423",
+        "created_at": "2025-12-15T17:11:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T18:11:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000614699692687423"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8nOzQOBZJV",
+              "end": 92,
+              "expanded_url": "https://x.com/godspeedyou50/status/2000614699692687423/photo/1",
+              "media_key": "3_2000614687755657216",
+              "start": 69,
+              "url": "https://t.co/8nOzQOBZJV"
+            },
+            {
+              "display_url": "pic.x.com/8nOzQOBZJV",
+              "end": 92,
+              "expanded_url": "https://x.com/godspeedyou50/status/2000614699692687423/photo/1",
+              "media_key": "3_2000614687797547008",
+              "start": 69,
+              "url": "https://t.co/8nOzQOBZJV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000614699692687423",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "每天工作12小时之后一勺肌酸一勺蛋白粉带着tfcc的手腕卧推 日子过的简单点 不再聒噪\n迎接躁狂后的平静迎接反复等待的结果落地生根\n发芽 https://t.co/8nOzQOBZJV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1999064457344147720",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 662,
+          "following_count": 68,
+          "like_count": 367,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 1051
+        },
+        "username": "godspeedyou50",
+        "verified": false
+      }
+    ]
+  }
+}

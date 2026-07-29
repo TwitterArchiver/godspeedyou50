@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "1983163594067128573",
+    "created_at": "2025-10-29T04:23:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-29T05:23:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983389160640798795"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1814654715369816064",
+          "start": 0,
+          "username": "RosaritaCisner"
+        },
+        {
+          "end": 28,
+          "id": "1911828872334831616",
+          "start": 16,
+          "username": "Edward_8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983389160640798795",
+    "in_reply_to_user_id": "1814654715369816064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983383512649748640",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RosaritaCisner @Edward_8964 名言了 晶哥这么狂？ 你晶哥玩你就是猫玩耗子 三体人干地球啊\n随便买你一份倒查你窝点\n“说 账本藏哪了”\n闲的没事干整整你咋了 又没有专门给你送命或随时跑路的发货员\n太天真了\n——来自Jahseh本人 我至少蹲地上指过板子 我知道天有多高，我现在接到95110的反诈宣传来电我特么都一哆嗦"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1004,
+        "media_key": "3_1983383503703289858",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4ZkyceasAIyND-.jpg",
+        "width": 1239
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "1983163594067128573",
+        "created_at": "2025-10-29T04:23:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T05:23:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983389160640798795"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1814654715369816064",
+              "start": 0,
+              "username": "RosaritaCisner"
+            },
+            {
+              "end": 28,
+              "id": "1911828872334831616",
+              "start": 16,
+              "username": "Edward_8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983389160640798795",
+        "in_reply_to_user_id": "1814654715369816064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983383512649748640",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RosaritaCisner @Edward_8964 名言了 晶哥这么狂？ 你晶哥玩你就是猫玩耗子 三体人干地球啊\n随便买你一份倒查你窝点\n“说 账本藏哪了”\n闲的没事干整整你咋了 又没有专门给你送命或随时跑路的发货员\n太天真了\n——来自Jahseh本人 我至少蹲地上指过板子 我知道天有多高，我现在接到95110的反诈宣传来电我特么都一哆嗦"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983383503703289858"
+          ]
+        },
+        "author_id": "1814654715369816064",
+        "conversation_id": "1983163594067128573",
+        "created_at": "2025-10-29T04:00:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T05:00:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983383512649748640"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1518404201168007168",
+              "start": 0,
+              "username": "godspeedyou50"
+            },
+            {
+              "end": 27,
+              "id": "1911828872334831616",
+              "start": 15,
+              "username": "Edward_8964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WUMgHXmMgr",
+              "end": 51,
+              "expanded_url": "https://x.com/RosaritaCisner/status/1983383512649748640/photo/1",
+              "media_key": "3_1983383503703289858",
+              "start": 28,
+              "url": "https://t.co/WUMgHXmMgr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983383512649748640",
+        "in_reply_to_user_id": "1518404201168007168",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983191051918815441",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@godspeedyou50 @Edward_8964 https://t.co/WUMgHXmMgr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "路人。and这段日子我愿意聊天，欢迎找我解惑，定期批量回fo或者私我",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1982515322788942238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827690417619697665/4z5RgWOE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 389,
+          "following_count": 231,
+          "like_count": 83,
+          "listed_count": 1,
+          "media_count": 45,
+          "tweet_count": 532
+        },
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-20T13:33:15.000Z",
+        "description": "",
+        "id": "1814654715369816064",
+        "name": "Yameii",
+        "pinned_tweet_id": "1975933751889989740",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980607185940840448/vXUeCjyv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 240,
+          "like_count": 1463,
+          "listed_count": 2,
+          "media_count": 33,
+          "tweet_count": 756
+        },
+        "username": "RosaritaCisner",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-14T17:08:26.000Z",
+        "description": "南湖之虎｜第4次转生 生理男｜退役OIer｜OD｜重精神病｜ADHD｜右美沙芬 ｜freeODwiki参与者｜NEwiki维护员｜自由、梦想、进取｜没有任何盈利",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "nonexistent.wiki",
+                "end": 23,
+                "expanded_url": "http://nonexistent.wiki",
+                "start": 0,
+                "url": "https://t.co/l3ALBiDDXN"
+              }
+            ]
+          }
+        },
+        "id": "1911828872334831616",
+        "location": "NE",
+        "name": "💊爱德华",
+        "pinned_tweet_id": "1980565827196973398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968709578079764480/7M5DfbwN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 651,
+          "following_count": 528,
+          "like_count": 4886,
+          "listed_count": 2,
+          "media_count": 188,
+          "tweet_count": 3065
+        },
+        "url": "https://t.co/l3ALBiDDXN",
+        "username": "Edward_8964",
+        "verified": false
+      }
+    ]
+  }
+}

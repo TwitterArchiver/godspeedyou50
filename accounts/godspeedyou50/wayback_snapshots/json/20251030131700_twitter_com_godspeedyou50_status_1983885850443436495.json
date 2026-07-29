@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "1983878779304079481",
+    "created_at": "2025-10-30T13:17:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-30T14:17:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983885850443436495"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1983885850443436495",
+    "in_reply_to_user_id": "1518404201168007168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983878779304079481",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "其实我并不会害怕哈 只是觉得有点无聊 如果他成为你们真正的都市传说 那更无聊 因为这个眼珠子梗才是我真正害怕的 这是去年夏天谁几把研究的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "1983878779304079481",
+        "created_at": "2025-10-30T13:17:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T14:17:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983885850443436495"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1983885850443436495",
+        "in_reply_to_user_id": "1518404201168007168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983878779304079481",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "其实我并不会害怕哈 只是觉得有点无聊 如果他成为你们真正的都市传说 那更无聊 因为这个眼珠子梗才是我真正害怕的 这是去年夏天谁几把研究的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "1983878779304079481",
+        "created_at": "2025-10-30T12:48:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T13:48:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983878779304079481"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/drug_artist1/s…",
+              "end": 86,
+              "expanded_url": "https://twitter.com/drug_artist1/status/1983861675905482798",
+              "start": 63,
+              "url": "https://t.co/5SkTldFhxs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983878779304079481",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 137,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983861675905482798",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我刚想说这句话 就刷到了你们太特么吓人了\n真的 谁提出来的 我害怕岔道 但我后天会喝汤 何时是圣诞节？ 今天明天玩两天梗得了 https://t.co/5SkTldFhxs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "路人。and这段日子我愿意聊天，欢迎找我解惑，定期批量回fo或者私我",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1983757018830663844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827690417619697665/4z5RgWOE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 407,
+          "following_count": 248,
+          "like_count": 99,
+          "listed_count": 1,
+          "media_count": 52,
+          "tweet_count": 591
+        },
+        "username": "godspeedyou50",
+        "verified": true
+      }
+    ]
+  }
+}

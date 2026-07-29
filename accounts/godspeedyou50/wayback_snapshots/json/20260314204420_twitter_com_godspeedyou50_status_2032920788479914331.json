@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2032920780946944001"
+      ]
+    },
+    "author_id": "1518404201168007168",
+    "conversation_id": "2032920788479914331",
+    "created_at": "2026-03-14T20:44:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T21:44:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2032920788479914331"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/shv8dT1ELd",
+          "end": 117,
+          "expanded_url": "https://x.com/godspeedyou50/status/2032920788479914331/photo/1",
+          "media_key": "3_2032920780946944001",
+          "start": 94,
+          "url": "https://t.co/shv8dT1ELd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032920788479914331",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "思考良多，想了想还是假设未来如果我有回忆的话再写进去吧，总之未来八字这套东西总是要淘汰的，除非有革新且现代化的派别，否则以我的认知根本无法修正太多既定但又随机的事实，我开始无法下定论了。\n但总之道教暂时在现代并没有出现宗萨仁波切一样的上师，我也确信要想尽办法的看世界，现在的年代就是认知狭隘的话就只会在信息化的世界里看不到任何有用的信息。\n（单纯算命算到有能耐的人差点翻车）"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "思考良多，想了想还是假设未来如果我有回忆的话再写进去吧，总之未来八字这套东西总是要淘汰的，除非有革新且现代化的派别，否则以我的认知根本无法修正太多既定但又随机的事实，我开始无法下定论了。 https://t.co/shv8dT1ELd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2032920780946944001",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDZirezaMAEjYlU.jpg",
+        "width": 1064
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032920780946944001"
+          ]
+        },
+        "author_id": "1518404201168007168",
+        "conversation_id": "2032920788479914331",
+        "created_at": "2026-03-14T20:44:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T21:44:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032920788479914331"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/shv8dT1ELd",
+              "end": 117,
+              "expanded_url": "https://x.com/godspeedyou50/status/2032920788479914331/photo/1",
+              "media_key": "3_2032920780946944001",
+              "start": 94,
+              "url": "https://t.co/shv8dT1ELd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032920788479914331",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "思考良多，想了想还是假设未来如果我有回忆的话再写进去吧，总之未来八字这套东西总是要淘汰的，除非有革新且现代化的派别，否则以我的认知根本无法修正太多既定但又随机的事实，我开始无法下定论了。\n但总之道教暂时在现代并没有出现宗萨仁波切一样的上师，我也确信要想尽办法的看世界，现在的年代就是认知狭隘的话就只会在信息化的世界里看不到任何有用的信息。\n（单纯算命算到有能耐的人差点翻车）"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "思考良多，想了想还是假设未来如果我有回忆的话再写进去吧，总之未来八字这套东西总是要淘汰的，除非有革新且现代化的派别，否则以我的认知根本无法修正太多既定但又随机的事实，我开始无法下定论了。 https://t.co/shv8dT1ELd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。/@Jahseh14138/双相I型/欢迎提问",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "Jahseh14138"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jahseh79919",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jahseh79919",
+                "start": 0,
+                "url": "https://t.co/xaz6T7v19q"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2029134307244294287",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 890,
+          "following_count": 172,
+          "like_count": 619,
+          "listed_count": 1,
+          "media_count": 100,
+          "tweet_count": 1663
+        },
+        "url": "https://t.co/xaz6T7v19q",
+        "username": "godspeedyou50",
+        "verified": true
+      }
+    ]
+  }
+}

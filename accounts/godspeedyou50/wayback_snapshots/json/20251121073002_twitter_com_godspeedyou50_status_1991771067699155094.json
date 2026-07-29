@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "1991771067699155094",
+    "created_at": "2025-11-21T07:30:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-21T08:30:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1991771067699155094"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/tangyuwenmtf/s…",
+          "end": 50,
+          "expanded_url": "https://twitter.com/tangyuwenmtf/status/1991756978742521924",
+          "start": 27,
+          "url": "https://t.co/mAOKz2mP5K"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991771067699155094",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991756978742521924",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "意淫逼唐敏文 活在梦里挺好的 至少自己能骗自己一辈子 https://t.co/mAOKz2mP5K"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "1991771067699155094",
+        "created_at": "2025-11-21T07:30:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T08:30:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991771067699155094"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tangyuwenmtf/s…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/tangyuwenmtf/status/1991756978742521924",
+              "start": 27,
+              "url": "https://t.co/mAOKz2mP5K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991771067699155094",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991756978742521924",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "意淫逼唐敏文 活在梦里挺好的 至少自己能骗自己一辈子 https://t.co/mAOKz2mP5K"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1973585079852257280",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1364667946291798017",
+              "name": "Study abroad"
+            }
+          }
+        ],
+        "conversation_id": "1991724336982774242",
+        "created_at": "2025-11-21T06:34:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T07:34:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991756978742521924"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1750684739441446912",
+              "start": 0,
+              "username": "wngy189327"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991756978742521924",
+        "in_reply_to_user_id": "1750684739441446912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 123,
+          "like_count": 4,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991724336982774242",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wngy189327 我家有奔驰s450 你有吗\n我家有买菜车e300 你有吗\n我家有200平市中心房 你有吗\n我有国外留学经历 你有吗\n\n能不能比较有含金量的？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "路人。and这段日子我愿意聊天，欢迎找我解惑，定期批量回fo或者私我",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1983757018830663844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990279769297149952/3r34Cj2f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 613,
+          "following_count": 303,
+          "like_count": 251,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 878
+        },
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-02T03:05:40.000Z",
+        "description": "高中休学中 反跨，MTF 对象：@zhishi_cook和@wowo_yz MTF hrt started : 2025.6.30 轻度抑郁 中度焦虑 抽象多边 mtf，1，S",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 16,
+                "username": "zhishi_cook"
+              },
+              {
+                "end": 37,
+                "start": 29,
+                "username": "wowo_yz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "MTF.WIKI",
+                "end": 23,
+                "expanded_url": "http://MTF.WIKI",
+                "start": 0,
+                "url": "https://t.co/vfGe2FxZOb"
+              }
+            ]
+          }
+        },
+        "id": "1973585079852257280",
+        "name": "唐毓文",
+        "pinned_tweet_id": "1975717214742626772",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973594419350872067/7rhyBDCC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1144,
+          "following_count": 96,
+          "like_count": 66,
+          "listed_count": 1,
+          "media_count": 173,
+          "tweet_count": 1516
+        },
+        "url": "https://t.co/vfGe2FxZOb",
+        "username": "TangYuwenMTF",
+        "verified": true
+      }
+    ]
+  }
+}

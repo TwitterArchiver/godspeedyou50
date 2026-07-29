@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2034599711085310021",
+    "created_at": "2026-07-08T14:44:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T15:44:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074867116449350015"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1971306941931753472",
+          "start": 0,
+          "username": "hulixunlei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074867116449350015",
+    "in_reply_to_user_id": "1971306941931753472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074850786589413789",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hulixunlei 证实了 是替来 虽然本质上只是pcp没必要做成雾化剂 不然也能改成游离碱 确实鼻吸就行"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2034599711085310021",
+        "created_at": "2026-07-08T14:44:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T15:44:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074867116449350015"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1971306941931753472",
+              "start": 0,
+              "username": "hulixunlei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074867116449350015",
+        "in_reply_to_user_id": "1971306941931753472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074850786589413789",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hulixunlei 证实了 是替来 虽然本质上只是pcp没必要做成雾化剂 不然也能改成游离碱 确实鼻吸就行"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971306941931753472",
+        "conversation_id": "2034599711085310021",
+        "created_at": "2026-07-08T13:39:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T14:39:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074850786589413789"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1518404201168007168",
+              "start": 0,
+              "username": "godspeedyou50"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074850786589413789",
+        "in_reply_to_user_id": "1518404201168007168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034599711085310021",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@godspeedyou50 pcp主要是晶体鼻吸的，这些高温过电子烟容易坏，极大概率不是pcp类的东西，只是效果相似借用这个名而已，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个违背了大众道德良知od喝大酒的神棍。\n☯️算命后付不怕跑单｜代请符箓、祈福请私讯\n传统宗教现代哲学文化传播者，又称中式廉价心理医生。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/buyaogaowosorry",
+                "end": 23,
+                "expanded_url": "https://t.me/buyaogaowosorry",
+                "start": 0,
+                "url": "https://t.co/AdoFGQJT3r"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2069223594711011526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1625,
+          "following_count": 561,
+          "like_count": 1267,
+          "listed_count": 1,
+          "media_count": 199,
+          "tweet_count": 2841
+        },
+        "url": "https://t.co/AdoFGQJT3r",
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-25T20:13:08.000Z",
+        "description": "",
+        "id": "1971306941931753472",
+        "name": "活力迅雷",
+        "pinned_tweet_id": "2057508198836535733",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971307001989955584/4ImWLrAM_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 231,
+          "like_count": 908,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 63
+        },
+        "url": "",
+        "username": "hulixunlei",
+        "verified": false
+      }
+    ]
+  }
+}

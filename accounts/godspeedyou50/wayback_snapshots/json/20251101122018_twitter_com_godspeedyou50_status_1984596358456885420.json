@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "1984542350442709175",
+    "created_at": "2025-11-01T12:20:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-01T13:20:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984596358456885420"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1544961704898940929",
+          "start": 0,
+          "username": "Baguette__9"
+        },
+        {
+          "end": 22,
+          "id": "1634793712302604289",
+          "start": 13,
+          "username": "10onatic"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984596358456885420",
+    "in_reply_to_user_id": "1544961704898940929",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984567594184294594",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Baguette__9 @10onatic 说啥玩意呢 没细看 你不让人熊了吗 尖叫啥啊 你给他闭了不就完了吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "1984542350442709175",
+        "created_at": "2025-11-01T12:20:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T13:20:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984596358456885420"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1544961704898940929",
+              "start": 0,
+              "username": "Baguette__9"
+            },
+            {
+              "end": 22,
+              "id": "1634793712302604289",
+              "start": 13,
+              "username": "10onatic"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984596358456885420",
+        "in_reply_to_user_id": "1544961704898940929",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984567594184294594",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Baguette__9 @10onatic 说啥玩意呢 没细看 你不让人熊了吗 尖叫啥啊 你给他闭了不就完了吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1544961704898940929",
+        "conversation_id": "1984542350442709175",
+        "created_at": "2025-11-01T10:26:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T11:26:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984567594184294594"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1518404201168007168",
+              "start": 0,
+              "username": "godspeedyou50"
+            },
+            {
+              "end": 24,
+              "id": "1634793712302604289",
+              "start": 15,
+              "username": "10onatic"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984567594184294594",
+        "in_reply_to_user_id": "1518404201168007168",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 54,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984557767034880012",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@godspeedyou50 @10onatic 姐妹我尖叫了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "路人。and这段日子我愿意聊天，欢迎找我解惑，定期批量回fo或者私我",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1983757018830663844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983944337726787584/JcjyTY_u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 427,
+          "following_count": 266,
+          "like_count": 113,
+          "listed_count": 1,
+          "media_count": 53,
+          "tweet_count": 658
+        },
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-07T08:29:17.000Z",
+        "description": "你们这群傻逼死全家。",
+        "id": "1544961704898940929",
+        "name": "米安尿包",
+        "pinned_tweet_id": "1627306772800356354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878789814675521536/m2gOclDh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1934,
+          "following_count": 300,
+          "like_count": 12972,
+          "listed_count": 2,
+          "media_count": 240,
+          "tweet_count": 6120
+        },
+        "username": "Baguette__9",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-12T05:49:44.000Z",
+        "description": "@1oonatism",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 0,
+                "username": "1oonatism"
+              }
+            ]
+          }
+        },
+        "id": "1634793712302604289",
+        "name": "່",
+        "pinned_tweet_id": "1982797113340698724",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964662123575021568/LUa11yGY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9527,
+          "following_count": 90,
+          "like_count": 1197,
+          "listed_count": 13,
+          "media_count": 240,
+          "tweet_count": 865
+        },
+        "username": "10onatic",
+        "verified": false
+      }
+    ]
+  }
+}

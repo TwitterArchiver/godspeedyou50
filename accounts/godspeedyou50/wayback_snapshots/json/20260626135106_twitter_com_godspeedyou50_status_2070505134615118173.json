@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2070327436164608393",
+    "created_at": "2026-06-26T13:51:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T14:51:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070505134615118173"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2004938037751652352",
+          "start": 0,
+          "username": "liming_9999"
+        },
+        {
+          "end": 24,
+          "id": "2659880771",
+          "start": 13,
+          "username": "btcoindown"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070505134615118173",
+    "in_reply_to_user_id": "2004938037751652352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070339321102848336",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liming_9999 @btcoindown 关注一下"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2070327436164608393",
+        "created_at": "2026-06-26T13:51:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T14:51:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070505134615118173"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004938037751652352",
+              "start": 0,
+              "username": "liming_9999"
+            },
+            {
+              "end": 24,
+              "id": "2659880771",
+              "start": 13,
+              "username": "btcoindown"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070505134615118173",
+        "in_reply_to_user_id": "2004938037751652352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070339321102848336",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liming_9999 @btcoindown 关注一下"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004938037751652352",
+        "conversation_id": "2070327436164608393",
+        "created_at": "2026-06-26T02:52:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T03:52:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070339321102848336"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2659880771",
+              "start": 0,
+              "username": "btcoindown"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070339321102848336",
+        "in_reply_to_user_id": "2659880771",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 64,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070327436164608393",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@btcoindown 关注一下！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个违背了大众道德良知的神棍。\n☯️算命后付不怕跑单｜代请符箓、祈福请私讯\n传统宗教现代哲学文化传播者，又称中式廉价心理医生。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/buyaogaowosorry",
+                "end": 23,
+                "expanded_url": "https://t.me/buyaogaowosorry",
+                "start": 0,
+                "url": "https://t.co/AdoFGQJT3r"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2069223594711011526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1422,
+          "following_count": 418,
+          "like_count": 1224,
+          "listed_count": 1,
+          "media_count": 189,
+          "tweet_count": 2764
+        },
+        "url": "https://t.co/AdoFGQJT3r",
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-27T15:31:13.000Z",
+        "description": "2018年币圈老韭菜，2025年3月接触合约，亏掉300万，现在负债240万。每天面对银行贷款和生活压力，焦虑拉满。我决定在X上真实记录生活、交易反思和翻身过程。只分享真实心情与教训，欢迎一起走过这段低谷！",
+        "id": "2004938037751652352",
+        "name": "黎明liming",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005098542323695618/iU6poAl-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 51,
+          "like_count": 16,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 81
+        },
+        "url": "",
+        "username": "liming_9999",
+        "verified": true
+      },
+      {
+        "created_at": "2014-07-01T12:08:38.000Z",
+        "description": "MEME｜钻石手｜空投福利发掘\n叙事捕捉 × 机会挖掘\n#Binance  广场创作者\n#HTXNovaPlus\n@XBITDEX Ambassador 👉 https://t.co/QhYyY85z7i\nWEEX  Ambassador 👉 邀请码：nlza\n商务合作：TG @whynotio",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 36,
+                "start": 28,
+                "tag": "Binance"
+              },
+              {
+                "end": 56,
+                "start": 44,
+                "tag": "HTXNovaPlus"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 65,
+                "start": 57,
+                "username": "XBITDEX"
+              },
+              {
+                "end": 148,
+                "start": 139,
+                "username": "whynotio"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "app.xbit.com/ref=KONGKONG",
+                "end": 102,
+                "expanded_url": "http://app.xbit.com/ref=KONGKONG",
+                "start": 79,
+                "url": "https://t.co/QhYyY85z7i"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/BTCoindown",
+                "end": 23,
+                "expanded_url": "https://t.me/BTCoindown",
+                "start": 0,
+                "url": "https://t.co/Bzzgg95ZSP"
+              }
+            ]
+          }
+        },
+        "id": "2659880771",
+        "location": "撸毛空投信息发布👉",
+        "name": "空空丨上Deepcoin预测世界杯⚽️",
+        "pinned_tweet_id": "2057335194193912163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009255300155756544/NbsyLzIu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23883,
+          "following_count": 13267,
+          "like_count": 154468,
+          "listed_count": 73,
+          "media_count": 2895,
+          "tweet_count": 164344
+        },
+        "url": "https://t.co/Bzzgg95ZSP",
+        "username": "btcoindown",
+        "verified": true
+      }
+    ]
+  }
+}

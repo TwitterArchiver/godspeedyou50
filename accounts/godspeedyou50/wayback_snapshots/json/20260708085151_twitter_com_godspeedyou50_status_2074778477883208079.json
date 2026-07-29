@@ -1,0 +1,109 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2074778477883208079",
+    "created_at": "2026-07-08T08:51:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T09:51:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074778477883208079"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2074778477883208079",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "清空了绝大部分人和我现实生活可能产生的交集以及内网的全部联系方式，和大家说声抱歉，尽管我们可能已经建立了很良善的可贵友谊。\n只是可能在很久以前的某一刻 我以为自己靠福大命大活下来懂得的一点点边缘药理，能在你们脑子短路的时候做到帮助，所有的咨询和求助我无不给到最实用的免费回复，自我安慰就当是积德行善。但回忆过往种种，我看到我们这类人拿着我分享的绝对的安全范围，或是wiki以及ai去进行更深渊的试探。 \n无论是自我进行了成功的急救又或是被朋友保护下来，无非只是拉回一条烂命，心脏没有停跳罢了。\n所谓的科学药理，对我们这群人来说只是看起来更高级的放纵，生命们肉眼可见的逝去无时无刻在发生，我实在懒得聊什么物质代谢半衰期这种屌事了，保持对天道因果的敬畏。这辈子还要在这个烂泥潭里打几次滚，到底哪一年才会彻底把自己玩死。\n学医救不了中国人，抱歉，我一个精神残疾人此刻却越来越觉得我该是健全的那一个，做些真正的事。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "清空了绝大部分人和我现实生活可能产生的交集以及内网的全部联系方式，和大家说声抱歉，尽管我们可能已经建立了很良善的可贵友谊。\n只是可能在很久以前的某一刻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2074778477883208079",
+        "created_at": "2026-07-08T08:51:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T09:51:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074778477883208079"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074778477883208079",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "清空了绝大部分人和我现实生活可能产生的交集以及内网的全部联系方式，和大家说声抱歉，尽管我们可能已经建立了很良善的可贵友谊。\n只是可能在很久以前的某一刻 我以为自己靠福大命大活下来懂得的一点点边缘药理，能在你们脑子短路的时候做到帮助，所有的咨询和求助我无不给到最实用的免费回复，自我安慰就当是积德行善。但回忆过往种种，我看到我们这类人拿着我分享的绝对的安全范围，或是wiki以及ai去进行更深渊的试探。 \n无论是自我进行了成功的急救又或是被朋友保护下来，无非只是拉回一条烂命，心脏没有停跳罢了。\n所谓的科学药理，对我们这群人来说只是看起来更高级的放纵，生命们肉眼可见的逝去无时无刻在发生，我实在懒得聊什么物质代谢半衰期这种屌事了，保持对天道因果的敬畏。这辈子还要在这个烂泥潭里打几次滚，到底哪一年才会彻底把自己玩死。\n学医救不了中国人，抱歉，我一个精神残疾人此刻却越来越觉得我该是健全的那一个，做些真正的事。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "清空了绝大部分人和我现实生活可能产生的交集以及内网的全部联系方式，和大家说声抱歉，尽管我们可能已经建立了很良善的可贵友谊。\n只是可能在很久以前的某一刻"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个违背了大众道德良知od喝大酒的神棍。\n☯️算命后付不怕跑单｜代请符箓、祈福请私讯\n传统宗教现代哲学文化传播者，又称中式廉价心理医生。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/buyaogaowosorry",
+                "end": 23,
+                "expanded_url": "https://t.me/buyaogaowosorry",
+                "start": 0,
+                "url": "https://t.co/AdoFGQJT3r"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2069223594711011526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1623,
+          "following_count": 558,
+          "like_count": 1266,
+          "listed_count": 1,
+          "media_count": 199,
+          "tweet_count": 2840
+        },
+        "url": "https://t.co/AdoFGQJT3r",
+        "username": "godspeedyou50",
+        "verified": true
+      }
+    ]
+  }
+}

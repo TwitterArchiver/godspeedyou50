@@ -1,0 +1,359 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "1992862766957490342",
+    "created_at": "2025-12-03T10:17:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-03T11:17:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996161835079446819"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "622036546",
+          "start": 0,
+          "username": "overdose_six"
+        },
+        {
+          "end": 29,
+          "id": "1849043039496617984",
+          "start": 14,
+          "username": "Rinko_zero8964"
+        },
+        {
+          "end": 43,
+          "id": "1879395690230738944",
+          "start": 30,
+          "username": "Psych_Angel_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996161835079446819",
+    "in_reply_to_user_id": "622036546",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993047703438475776",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@overdose_six @Rinko_zero8964 @Psych_Angel_ 你嘟嘟囔囔的说鸡巴啥呢？你抽过几口大麻\n合不合法的，这东西也不难弄，在这逼次啥呢。想弄到的人很难弄到吗？傻逼未成年"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "1992862766957490342",
+        "created_at": "2025-12-03T10:17:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T11:17:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996161835079446819"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "622036546",
+              "start": 0,
+              "username": "overdose_six"
+            },
+            {
+              "end": 29,
+              "id": "1849043039496617984",
+              "start": 14,
+              "username": "Rinko_zero8964"
+            },
+            {
+              "end": 43,
+              "id": "1879395690230738944",
+              "start": 30,
+              "username": "Psych_Angel_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996161835079446819",
+        "in_reply_to_user_id": "622036546",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993047703438475776",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@overdose_six @Rinko_zero8964 @Psych_Angel_ 你嘟嘟囔囔的说鸡巴啥呢？你抽过几口大麻\n合不合法的，这东西也不难弄，在这逼次啥呢。想弄到的人很难弄到吗？傻逼未成年"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "622036546",
+        "conversation_id": "1992862766957490342",
+        "created_at": "2025-11-24T20:02:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T21:02:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993047703438475776"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1849043039496617984",
+              "start": 0,
+              "username": "Rinko_zero8964"
+            },
+            {
+              "end": 29,
+              "id": "1879395690230738944",
+              "start": 16,
+              "username": "Psych_Angel_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993047703438475776",
+        "in_reply_to_user_id": "1849043039496617984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 49,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993046567797113336",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rinko_zero8964 @Psych_Angel_ 我不是说支不支持的问题 我是在谈现实社会问题 而且我从来也没说过我不支持大麻合法化吧 你能找出来我说过这句话吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1994852955737264187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 682,
+          "following_count": 324,
+          "like_count": 359,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 962
+        },
+        "username": "godspeedyou50",
+        "verified": false
+      },
+      {
+        "created_at": "2012-06-29T16:18:50.000Z",
+        "description": "化学极乐百科:https://t.co/BlAoDIjruc | 药物代购 | 报告投稿 | 里账号:@fuck_8964 | 提问箱:https://t.co/b5c8bbmW1y",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 51,
+                "username": "fuck_8964"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 30,
+                "expanded_url": "http://overdose.day",
+                "start": 7,
+                "url": "https://t.co/BlAoDIjruc"
+              },
+              {
+                "display_url": "ngl.link/oder_six",
+                "end": 91,
+                "expanded_url": "https://ngl.link/oder_six",
+                "start": 68,
+                "url": "https://t.co/b5c8bbmW1y"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 23,
+                "expanded_url": "http://overdose.day",
+                "start": 0,
+                "url": "https://t.co/BlAoDIjruc"
+              }
+            ]
+          }
+        },
+        "id": "622036546",
+        "location": "天国",
+        "name": "椎名#心宿二",
+        "pinned_tweet_id": "1982097076855996754",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994097488597536773/ysdo56TK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2435,
+          "following_count": 75,
+          "like_count": 11132,
+          "listed_count": 9,
+          "media_count": 591,
+          "tweet_count": 3583
+        },
+        "url": "https://t.co/BlAoDIjruc",
+        "username": "overdose_six",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子｜🥺@NashiMoe233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "NashiMoe233"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1967335109767692560",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965923999197921280/V0d6smjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 388,
+          "following_count": 347,
+          "like_count": 5361,
+          "listed_count": 1,
+          "media_count": 92,
+          "tweet_count": 4901
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-15T05:10:34.000Z",
+        "description": "𝓢𝓬𝓲𝓮𝓷𝓽𝓲𝓼𝓽 | 𝓟𝓱𝓲𝓵𝓸𝓼𝓸𝓹𝓱𝓮𝓻 | 𝓛𝓪𝓫 𝓡𝓪𝓽｜💊#Drugtwt｜BD/DPDR｜Soulmate:@BelovedUren8964｜🍧:@Chufeinya 🍜:@sanmiguelnoodle👩:@DXM8964LXM",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 43,
+                "start": 35,
+                "tag": "Drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 77,
+                "start": 61,
+                "username": "BelovedUren8964"
+              },
+              {
+                "end": 90,
+                "start": 80,
+                "username": "Chufeinya"
+              },
+              {
+                "end": 109,
+                "start": 93,
+                "username": "sanmiguelnoodle"
+              },
+              {
+                "end": 122,
+                "start": 111,
+                "username": "DXM8964LXM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cutekitteno3o",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cutekitteno3o",
+                "start": 0,
+                "url": "https://t.co/OpK0ArxHft"
+              }
+            ]
+          }
+        },
+        "id": "1879395690230738944",
+        "location": "Ask me any u want→",
+        "name": "Mercy",
+        "pinned_tweet_id": "1992008070864711981",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984317319691243521/rbczbPan_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 616,
+          "following_count": 681,
+          "like_count": 21696,
+          "listed_count": 1,
+          "media_count": 620,
+          "tweet_count": 9654
+        },
+        "url": "https://t.co/OpK0ArxHft",
+        "username": "Psych_Angel_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "1999385618728751607",
+    "created_at": "2025-12-12T07:49:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-12T08:49:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999386096942391325"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1999386096942391325",
+    "in_reply_to_user_id": "1518404201168007168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999385618728751607",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "说我爹味浓的有很多 那就都互相取关 吵完真锁推了 到底是谁在搞事吗那来围观的自己辨别 我自己的错我认\n早说了背后捅我一刀我早都接受了 爹味浓就浓吧 对你们都挺好的 嗯 随意 本来就不是一个圈子世界的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "1999385618728751607",
+        "created_at": "2025-12-12T07:49:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T08:49:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999386096942391325"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1999386096942391325",
+        "in_reply_to_user_id": "1518404201168007168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999385618728751607",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "说我爹味浓的有很多 那就都互相取关 吵完真锁推了 到底是谁在搞事吗那来围观的自己辨别 我自己的错我认\n早说了背后捅我一刀我早都接受了 爹味浓就浓吧 对你们都挺好的 嗯 随意 本来就不是一个圈子世界的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "1999385618728751607",
+        "created_at": "2025-12-12T07:47:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T08:47:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999385618728751607"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1999385618728751607",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "能看懂的来吃瓜的随意吃\n1.我确实在私下关系好的乱骂人了，但我不针对任何人，从鸡哥骂到沐雨到后面\n明面上我对你们啥样自己知道，我从来都承认啊，那互喷有什么好玩的\n2.我单纯就是删了个好友 全程到底谁在作妖发私群聊天记录引流自己知道 我跳出来也只是骂那个被你利用的路人罢了\n3.吵完退网"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1999064457344147720",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 664,
+          "following_count": 63,
+          "like_count": 363,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 1038
+        },
+        "username": "godspeedyou50",
+        "verified": false
+      }
+    ]
+  }
+}

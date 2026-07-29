@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2058039860066419120",
+    "created_at": "2026-05-23T07:09:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T08:09:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058082920800403807"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2047337566534520832",
+          "start": 0,
+          "username": "Arashi100224"
+        },
+        {
+          "end": 24,
+          "id": "1919465517829783552",
+          "start": 14,
+          "username": "KviSin_17"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058082920800403807",
+    "in_reply_to_user_id": "2047337566534520832",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058039860066419120",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Arashi100224 @KviSin_17"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2058039860066419120",
+        "created_at": "2026-05-23T07:09:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T08:09:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058082920800403807"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2047337566534520832",
+              "start": 0,
+              "username": "Arashi100224"
+            },
+            {
+              "end": 24,
+              "id": "1919465517829783552",
+              "start": 14,
+              "username": "KviSin_17"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058082920800403807",
+        "in_reply_to_user_id": "2047337566534520832",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058039860066419120",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Arashi100224 @KviSin_17"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047337566534520832",
+        "conversation_id": "2058039860066419120",
+        "created_at": "2026-05-23T04:18:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T05:18:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058039860066419120"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058039860066419120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 83,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "餐券逼吸毒逼磕药逼酗酒逼公狗母狗骚逼妓女鸭子来互关"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2048720319872192919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1269,
+          "following_count": 293,
+          "like_count": 1073,
+          "listed_count": 0,
+          "media_count": 163,
+          "tweet_count": 2416
+        },
+        "username": "godspeedyou50",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-23T15:33:07.000Z",
+        "description": "最低🚪88 私信只回zfb口令 前世\n@Arashi_100224/双相1型 asd 焦虑障碍 cptsd/血腥黄色猎奇键政避雷/互fo互转欢迎/LGBTQ友好🏳️‍⚧️友好/真心话碎碎念/电波系女子/讨厌我或者喜欢我就给我打钱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 19,
+                "username": "Arashi_100224"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Arashi0224",
+                "end": 23,
+                "expanded_url": "http://t.me/Arashi0224",
+                "start": 0,
+                "url": "https://t.co/EryQ0cw70X"
+              }
+            ]
+          }
+        },
+        "id": "2047337566534520832",
+        "location": "未來電波基地",
+        "name": "Arashi 5.0",
+        "pinned_tweet_id": "2053844894754721988",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047338672589283329/_heAEKLa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 172,
+          "following_count": 83,
+          "like_count": 50,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 41
+        },
+        "url": "https://t.co/EryQ0cw70X",
+        "username": "Arashi100224",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-05T18:53:44.000Z",
+        "description": "忍辱士\n双相I型/低能量/欣赏躯体\n有什么想问的就在⬇️\nhttps://t.co/rL1u13JJo2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ryuusuke65073",
+                "end": 52,
+                "expanded_url": "https://ngl.link/ryuusuke65073",
+                "start": 29,
+                "url": "https://t.co/rL1u13JJo2"
+              }
+            ]
+          }
+        },
+        "id": "1919465517829783552",
+        "name": "KviSinnnnn",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057145145183883264/W0Y-Ok86_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 22,
+          "like_count": 252,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 130
+        },
+        "username": "KviSin_17",
+        "verified": false
+      }
+    ]
+  }
+}

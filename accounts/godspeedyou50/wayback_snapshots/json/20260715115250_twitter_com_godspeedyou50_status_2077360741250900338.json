@@ -1,0 +1,389 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2077360741250900338",
+    "created_at": "2026-07-15T11:52:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T12:52:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077360741250900338"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1926833599380115456",
+          "start": 3,
+          "username": "Uni1040663Uni"
+        },
+        {
+          "end": 43,
+          "id": "1830934925769613334",
+          "start": 28,
+          "username": "Jinggebiezhuaw"
+        }
+      ],
+      "urls": [
+        {
+          "description": "engineer in sf. nmurthy@shortmail.com",
+          "display_url": "x.com/nsm",
+          "end": 139,
+          "expanded_url": "https://x.com/nsm",
+          "images": [
+            {
+              "height": 200,
+              "url": "https://pbs.twimg.com/news_img/2074173130277306368/llYEDGfX?format=jpg&name=orig",
+              "width": 200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2074173130277306368/llYEDGfX?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 125,
+          "status": 200,
+          "title": "Nikhil Murthy (@nsm) on X",
+          "unwound_url": "https://twitter.com/nsm",
+          "url": "https://t.co/n"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077360741250900338",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077359435081769116",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Uni1040663Uni: 我是Oksana（@Jinggebiezhuaw ），为了躲避追杀创立了第二人格。以后售卖的物质介绍会发在这里，购买和药物咨询可以发这个号私信也可以直接给我大号发私信。我最近开工了，下面两个是最好玩的，欢迎购买 https://t.co/n…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1754,
+        "media_key": "3_2077359428513533952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNRDZNdbkAArW5S.jpg",
+        "width": 1179
+      },
+      {
+        "height": 1878,
+        "media_key": "3_2077359428500914176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNRDZNabAAAMX8w.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2077360741250900338",
+        "created_at": "2026-07-15T11:52:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T12:52:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077360741250900338"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1926833599380115456",
+              "start": 3,
+              "username": "Uni1040663Uni"
+            },
+            {
+              "end": 43,
+              "id": "1830934925769613334",
+              "start": 28,
+              "username": "Jinggebiezhuaw"
+            }
+          ],
+          "urls": [
+            {
+              "description": "engineer in sf. nmurthy@shortmail.com",
+              "display_url": "x.com/nsm",
+              "end": 139,
+              "expanded_url": "https://x.com/nsm",
+              "images": [
+                {
+                  "height": 200,
+                  "url": "https://pbs.twimg.com/news_img/2074173130277306368/llYEDGfX?format=jpg&name=orig",
+                  "width": 200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2074173130277306368/llYEDGfX?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 125,
+              "status": 200,
+              "title": "Nikhil Murthy (@nsm) on X",
+              "unwound_url": "https://twitter.com/nsm",
+              "url": "https://t.co/n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077360741250900338",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077359435081769116",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Uni1040663Uni: 我是Oksana（@Jinggebiezhuaw ），为了躲避追杀创立了第二人格。以后售卖的物质介绍会发在这里，购买和药物咨询可以发这个号私信也可以直接给我大号发私信。我最近开工了，下面两个是最好玩的，欢迎购买 https://t.co/n…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077359428513533952",
+            "3_2077359428500914176"
+          ]
+        },
+        "author_id": "1926833599380115456",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2077359435081769116",
+        "created_at": "2026-07-15T11:47:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T12:47:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077359435081769116"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 24,
+              "id": "1830934925769613334",
+              "start": 9,
+              "username": "Jinggebiezhuaw"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ncgwiB3iOc",
+              "end": 129,
+              "expanded_url": "https://x.com/Uni1040663Uni/status/2077359435081769116/photo/1",
+              "media_key": "3_2077359428513533952",
+              "start": 106,
+              "url": "https://t.co/ncgwiB3iOc"
+            },
+            {
+              "display_url": "pic.x.com/ncgwiB3iOc",
+              "end": 129,
+              "expanded_url": "https://x.com/Uni1040663Uni/status/2077359435081769116/photo/1",
+              "media_key": "3_2077359428500914176",
+              "start": 106,
+              "url": "https://t.co/ncgwiB3iOc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077359435081769116",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我是Oksana（@Jinggebiezhuaw ），为了躲避追杀创立了第二人格。以后售卖的物质介绍会发在这里，购买和药物咨询可以发这个号私信也可以直接给我大号发私信。我最近开工了，下面两个是最好玩的，欢迎购买 https://t.co/ncgwiB3iOc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个违背了大众良知od喝大酒的神棍。\n☯️算命后付不怕跑单｜代请符箓、祈福请私讯\n传统宗教现代哲学文化传播者，又称中式廉价心理医生。\n狐朋@Nonentity_xxx17 狗友@Jinggebiezhuaw",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 69,
+                "username": "Nonentity_xxx17"
+              },
+              {
+                "end": 103,
+                "start": 88,
+                "username": "Jinggebiezhuaw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/buyaogaowosorry",
+                "end": 23,
+                "expanded_url": "https://t.me/buyaogaowosorry",
+                "start": 0,
+                "url": "https://t.co/AdoFGQJT3r"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2069223594711011526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1675,
+          "following_count": 601,
+          "like_count": 1276,
+          "listed_count": 1,
+          "media_count": 208,
+          "tweet_count": 2887
+        },
+        "url": "https://t.co/AdoFGQJT3r",
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-26T02:51:52.000Z",
+        "description": "逃避追杀于是创立第二人格。\n大号：@jinggebiezhuaw",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 17,
+                "username": "jinggebiezhuaw"
+              }
+            ]
+          }
+        },
+        "id": "1926833599380115456",
+        "name": "Oksana的神秘实验室",
+        "pinned_tweet_id": "1975236330604089493",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057888157048406016/ecYmVfoo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 5,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 6
+        },
+        "url": "",
+        "username": "Uni1040663Uni",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-03T11:45:04.000Z",
+        "description": "女，黑长直性恋，精神分裂确诊，导演系在读。非典型化学推，合法不列管策划药售卖/化学物质使用咨询💊。我的名字读作奥克萨娜 不是OK娑娜。\n闺蜜：@godspeedyou50、 @Nonentity_xxx17",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 71,
+                "username": "godspeedyou50"
+              },
+              {
+                "end": 103,
+                "start": 87,
+                "username": "Nonentity_xxx17"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Oksana_132435",
+                "end": 23,
+                "expanded_url": "https://t.me/Oksana_132435",
+                "start": 0,
+                "url": "https://t.co/Mj09WQFbLQ"
+              }
+            ]
+          }
+        },
+        "id": "1830934925769613334",
+        "location": "Tokyo-to, Japan",
+        "name": "Oksana💊",
+        "pinned_tweet_id": "2064158937000358141",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836467833401937920/1OZ_D_Qp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3359,
+          "following_count": 465,
+          "like_count": 1219,
+          "listed_count": 5,
+          "media_count": 195,
+          "tweet_count": 770
+        },
+        "url": "https://t.co/Mj09WQFbLQ",
+        "username": "Jinggebiezhuaw",
+        "verified": false
+      }
+    ]
+  }
+}

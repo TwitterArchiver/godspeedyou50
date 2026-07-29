@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "1996489613263999410",
+    "created_at": "2025-12-04T08:56:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-04T09:56:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996503930751291701"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1516364788611555328",
+          "start": 0,
+          "username": "mode12706"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996503930751291701",
+    "in_reply_to_user_id": "1516364788611555328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996489613263999410",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mode12706 铁t被操吗 我想看"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "1996489613263999410",
+        "created_at": "2025-12-04T08:56:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T09:56:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996503930751291701"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1516364788611555328",
+              "start": 0,
+              "username": "mode12706"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996503930751291701",
+        "in_reply_to_user_id": "1516364788611555328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996489613263999410",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mode12706 铁t被操吗 我想看"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1516364788611555328",
+        "conversation_id": "1996489613263999410",
+        "created_at": "2025-12-04T07:59:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T08:59:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996489613263999410"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "哈基米大王’s Space · 0 listening · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1RDGl…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/spaces/1RDGlAdlRjgJL",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/1996489614555750400/jKdk9Y23?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1996489614555750400/jKdk9Y23?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "Happening now: 哈基米大王’s Space",
+              "unwound_url": "https://twitter.com/i/spaces/1RDGlAdlRjgJL/peek",
+              "url": "https://t.co/qv0SQ790LW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996489613263999410",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/qv0SQ790LW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1994852955737264187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 686,
+          "following_count": 323,
+          "like_count": 359,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 978
+        },
+        "username": "godspeedyou50",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-19T10:35:21.000Z",
+        "description": "不怕记不住，就怕忘不了",
+        "id": "1516364788611555328",
+        "name": "哈基米大王",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994822190483869701/Rk24YHgz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 308,
+          "like_count": 64,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 263
+        },
+        "username": "mode12706",
+        "verified": false
+      }
+    ]
+  }
+}

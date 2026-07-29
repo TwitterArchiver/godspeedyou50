@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2066842730760994968",
+    "created_at": "2026-06-18T04:29:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T05:29:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067464670940987896"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1488754158647738369",
+          "start": 0,
+          "username": "mingquan0326"
+        },
+        {
+          "end": 25,
+          "id": "1978128183875514369",
+          "start": 14,
+          "username": "na_an31255"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067464670940987896",
+    "in_reply_to_user_id": "1488754158647738369",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067464292186673422",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mingquan0326 @na_an31255 爱自己"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2066842730760994968",
+        "created_at": "2026-06-18T04:29:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T05:29:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067464670940987896"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1488754158647738369",
+              "start": 0,
+              "username": "mingquan0326"
+            },
+            {
+              "end": 25,
+              "id": "1978128183875514369",
+              "start": 14,
+              "username": "na_an31255"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067464670940987896",
+        "in_reply_to_user_id": "1488754158647738369",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067464292186673422",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mingquan0326 @na_an31255 爱自己"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1488754158647738369",
+        "conversation_id": "2066842730760994968",
+        "created_at": "2026-06-18T04:27:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T05:27:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067464292186673422"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1978128183875514369",
+              "start": 0,
+              "username": "na_an31255"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067464292186673422",
+        "in_reply_to_user_id": "1978128183875514369",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067458374057529721",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@na_an31255 主人🥺🥺谢谢你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2048720319872192919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1368,
+          "following_count": 356,
+          "like_count": 1171,
+          "listed_count": 1,
+          "media_count": 194,
+          "tweet_count": 2710
+        },
+        "username": "godspeedyou50",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-02T06:00:44.000Z",
+        "description": "琳琳",
+        "id": "1488754158647738369",
+        "location": "🚪52",
+        "name": "无法停止药物滥用",
+        "pinned_tweet_id": "2067464237375533500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066937107885494272/48QMChsF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 148,
+          "like_count": 518,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 325
+        },
+        "username": "mingquan0326",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-14T15:58:15.000Z",
+        "description": "小草&我/精神不稳定性格有缺陷/无知 虚伪 贪婪 嫉妒 束缚 伤害/",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/an%E2%80%86na2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/an%E2%80%86na2",
+                "start": 0,
+                "url": "https://t.co/801rxjZEP7"
+              }
+            ]
+          }
+        },
+        "id": "1978128183875514369",
+        "location": "乌托邦",
+        "name": "电车驶过身体发出告别声",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992294900721946624/YU9ja8dB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 314,
+          "following_count": 173,
+          "like_count": 227,
+          "listed_count": 0,
+          "media_count": 142,
+          "tweet_count": 1077
+        },
+        "url": "https://t.co/801rxjZEP7",
+        "username": "na_an31255",
+        "verified": false
+      }
+    ]
+  }
+}

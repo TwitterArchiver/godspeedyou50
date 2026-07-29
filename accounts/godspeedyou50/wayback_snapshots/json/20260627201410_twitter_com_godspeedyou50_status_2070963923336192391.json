@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2070721973513249031",
+    "created_at": "2026-06-27T20:14:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T21:14:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070963923336192391"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1635406943807479809",
+          "start": 0,
+          "username": "yol03857467"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070963923336192391",
+    "in_reply_to_user_id": "1635406943807479809",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070721973513249031",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yol03857467 大神"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 692,
+        "media_key": "3_2070720535278104576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLytWw5bsAAQUD8.jpg",
+        "width": 952
+      },
+      {
+        "height": 484,
+        "media_key": "3_2070721295927693312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLyuDCibUAAXjqi.jpg",
+        "width": 1082
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2070721973513249031",
+        "created_at": "2026-06-27T20:14:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T21:14:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070963923336192391"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1635406943807479809",
+              "start": 0,
+              "username": "yol03857467"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070963923336192391",
+        "in_reply_to_user_id": "1635406943807479809",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070721973513249031",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yol03857467 大神"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070720535278104576",
+            "3_2070721295927693312"
+          ]
+        },
+        "author_id": "1635406943807479809",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2070721973513249031",
+        "created_at": "2026-06-27T04:12:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T05:12:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070721973513249031"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Contribute to yanprescott/unfollow development by creating an account on GitHub.",
+              "display_url": "github.com/yanprescott/un…",
+              "end": 70,
+              "expanded_url": "https://github.com/yanprescott/unfollow",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/2070721980043755520/50dAklSZ?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2070721980043755520/50dAklSZ?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 47,
+              "status": 200,
+              "title": "GitHub - yanprescott/unfollow",
+              "unwound_url": "https://github.com/yanprescott/unfollow",
+              "url": "https://t.co/5pOWAbNBp7"
+            },
+            {
+              "display_url": "pic.x.com/nRvLArYN4B",
+              "end": 157,
+              "expanded_url": "https://x.com/yol03857467/status/2070721973513249031/photo/1",
+              "media_key": "3_2070720535278104576",
+              "start": 134,
+              "url": "https://t.co/nRvLArYN4B"
+            },
+            {
+              "display_url": "pic.x.com/nRvLArYN4B",
+              "end": 157,
+              "expanded_url": "https://x.com/yol03857467/status/2070721973513249031/photo/1",
+              "media_key": "3_2070721295927693312",
+              "start": 134,
+              "url": "https://t.co/nRvLArYN4B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070721973513249031",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 178,
+                "start": 175,
+                "tag": "互关"
+              },
+              {
+                "end": 184,
+                "start": 179,
+                "tag": "蓝v互关"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "github.com/yanprescott/un…",
+                "end": 70,
+                "expanded_url": "https://github.com/yanprescott/unfollow",
+                "start": 47,
+                "url": "https://t.co/0VXqR4yxkR"
+              }
+            ]
+          },
+          "text": "昨天新增173个粉丝，取关13个\n有的人说是互关 其实背后偷偷取关你 真是可恶\n我写了个脚本 https://t.co/0VXqR4yxkR\n可以一键取关所有没关注你的人，内置了白名单保护\n有需要的可以自取，操作非常简单的，后续我会添加更多粉丝管理功能。\n最后我想说 想获得关注的，请先关注我，或者在评论区留言让更多人看到你，后续我会让脚本自动回关 #互关 #蓝v互关"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 4317,
+          "like_count": 55,
+          "quote_count": 1,
+          "reply_count": 101,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "昨天新增173个粉丝，取关13个\n有的人说是互关 其实背后偷偷取关你 真是可恶\n我写了个脚本 https://t.co/5pOWAbNBp7\n可以一键取关所有没关注你的人，内置了白名单保护\n有需要的可以自取，操作非常简单的，后续我会添加更多粉丝管理功能。\n最后我想说 https://t.co/nRvLArYN4B"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个违背了大众道德良知的神棍。\n☯️算命后付不怕跑单｜代请符箓、祈福请私讯\n传统宗教现代哲学文化传播者，又称中式廉价心理医生。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/buyaogaowosorry",
+                "end": 23,
+                "expanded_url": "https://t.me/buyaogaowosorry",
+                "start": 0,
+                "url": "https://t.co/AdoFGQJT3r"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2069223594711011526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1454,
+          "following_count": 457,
+          "like_count": 1236,
+          "listed_count": 1,
+          "media_count": 191,
+          "tweet_count": 2774
+        },
+        "url": "https://t.co/AdoFGQJT3r",
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2023-03-13T22:26:29.000Z",
+        "description": "",
+        "id": "1635406943807479809",
+        "name": "yol",
+        "pinned_tweet_id": "2070020706193338513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066066458795450368/eTz-zmlF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1075,
+          "following_count": 949,
+          "like_count": 177,
+          "listed_count": 1,
+          "media_count": 119,
+          "tweet_count": 1221
+        },
+        "url": "",
+        "username": "yol03857467",
+        "verified": true
+      }
+    ]
+  }
+}

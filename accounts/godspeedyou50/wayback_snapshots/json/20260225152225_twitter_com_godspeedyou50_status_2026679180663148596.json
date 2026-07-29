@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2026662010734391716",
+    "created_at": "2026-02-25T15:22:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-25T16:22:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026679180663148596"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2009620713460887553",
+          "start": 0,
+          "username": "HujiaoFen_sad"
+        },
+        {
+          "end": 28,
+          "id": "1964331185590718464",
+          "start": 15,
+          "username": "breakcoreWTF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026679180663148596",
+    "in_reply_to_user_id": "2009620713460887553",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026679024542691395",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HujiaoFen_sad @breakcoreWTF 锡纸打火机熏"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2026662010734391716",
+        "created_at": "2026-02-25T15:22:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T16:22:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026679180663148596"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2009620713460887553",
+              "start": 0,
+              "username": "HujiaoFen_sad"
+            },
+            {
+              "end": 28,
+              "id": "1964331185590718464",
+              "start": 15,
+              "username": "breakcoreWTF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026679180663148596",
+        "in_reply_to_user_id": "2009620713460887553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026679024542691395",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HujiaoFen_sad @breakcoreWTF 锡纸打火机熏"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2009620713460887553",
+        "conversation_id": "2026662010734391716",
+        "created_at": "2026-02-25T15:21:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T16:21:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026679024542691395"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1518404201168007168",
+              "start": 0,
+              "username": "godspeedyou50"
+            },
+            {
+              "end": 28,
+              "id": "1964331185590718464",
+              "start": 15,
+              "username": "breakcoreWTF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026679024542691395",
+        "in_reply_to_user_id": "1518404201168007168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026664696879919271",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@godspeedyou50 @breakcoreWTF 烫吸是怎么吸"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。/@Jahseh14138/双相I型/欢迎提问",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "Jahseh14138"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jahseh79919",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jahseh79919",
+                "start": 0,
+                "url": "https://t.co/xaz6T7v19q"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1994852955737264187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 771,
+          "following_count": 134,
+          "like_count": 468,
+          "listed_count": 0,
+          "media_count": 90,
+          "tweet_count": 1413
+        },
+        "url": "https://t.co/xaz6T7v19q",
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-09T13:43:28.000Z",
+        "description": "无聊……我要看到血流成河\n🚪38 重度抑郁/LGBT友好/男の娘/自伤/平常都会回私信，我是个很温良的小男孩呀请来过我门槛谢谢泥૮ o̴̶̷᷄ ·̫ o̴̶̷̥᷅ ა",
+        "id": "2009620713460887553",
+        "location": "广东省",
+        "name": "我为你撑起蓝色雨伞",
+        "pinned_tweet_id": "2021651507595379051",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017126866835169280/V_t4SvIS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 261,
+          "following_count": 217,
+          "like_count": 252,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 355
+        },
+        "username": "HujiaoFen_sad",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "OD丨自伤丨Vocaloid丨音游丨友跨顺女丨少关心我\n不喜欢的直接b 推特是垃圾桶口无遮拦 同类回fo",
+        "id": "1964331185590718464",
+        "location": "🚪50/88 同类熟推免",
+        "name": "箸",
+        "pinned_tweet_id": "2024039744276189189",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019848796881186816/pdjXkx-3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 628,
+          "following_count": 593,
+          "like_count": 9915,
+          "listed_count": 0,
+          "media_count": 164,
+          "tweet_count": 3084
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      }
+    ]
+  }
+}

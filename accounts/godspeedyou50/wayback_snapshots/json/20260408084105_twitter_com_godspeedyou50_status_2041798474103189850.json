@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2041661591850983491",
+    "created_at": "2026-04-08T08:41:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T09:41:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041798474103189850"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2029243756529238018",
+          "start": 0,
+          "username": "Kusutobi_7"
+        },
+        {
+          "end": 25,
+          "id": "1556279645502427136",
+          "start": 12,
+          "username": "tianxiao0502"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041798474103189850",
+    "in_reply_to_user_id": "2029243756529238018",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041791438904500437",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kusutobi_7 @tianxiao0502 吓人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2041661591850983491",
+        "created_at": "2026-04-08T08:41:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T09:41:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041798474103189850"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2029243756529238018",
+              "start": 0,
+              "username": "Kusutobi_7"
+            },
+            {
+              "end": 25,
+              "id": "1556279645502427136",
+              "start": 12,
+              "username": "tianxiao0502"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041798474103189850",
+        "in_reply_to_user_id": "2029243756529238018",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041791438904500437",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kusutobi_7 @tianxiao0502 吓人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029243756529238018",
+        "conversation_id": "2041661591850983491",
+        "created_at": "2026-04-08T08:13:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T09:13:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041791438904500437"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1556279645502427136",
+              "start": 0,
+              "username": "tianxiao0502"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041791438904500437",
+        "in_reply_to_user_id": "1556279645502427136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041781630118031389",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tianxiao0502 对啊 每天一根🥰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。/双相I型/欢迎提问",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jahseh79919",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jahseh79919",
+                "start": 0,
+                "url": "https://t.co/xaz6T7v19q"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2029134307244294287",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1022,
+          "following_count": 213,
+          "like_count": 872,
+          "listed_count": 0,
+          "media_count": 131,
+          "tweet_count": 2122
+        },
+        "url": "https://t.co/xaz6T7v19q",
+        "username": "godspeedyou50",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-04T17:13:25.000Z",
+        "description": "Kusutobi秽土转生个人账号/oder/致幻剂的信徒/留学中/酒精大好き/精神状态可能良好?/可咨询药物或者产品问题/被封四次了详细产品咨询清私信/问题咨询https://t.co/cyNJPUVaY4 /只发发日常或者有关NY化学的内容",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kusutobi",
+                "end": 103,
+                "expanded_url": "https://ngl.link/kusutobi",
+                "start": 80,
+                "url": "https://t.co/cyNJPUVaY4"
+              }
+            ]
+          }
+        },
+        "id": "2029243756529238018",
+        "name": "楠鸢Kusutobi(七代目)",
+        "pinned_tweet_id": "2039568282886255024",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033949396233072641/zRZ6XmJ3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 24,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 22
+        },
+        "username": "Kusutobi_7",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-07T14:02:46.000Z",
+        "description": "PsydrugsWiki编辑│可以叫我天晓│pdw官号@Psydrugswiki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 27,
+                "username": "Psydrugswiki"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "psydrugs.org",
+                "end": 23,
+                "expanded_url": "http://psydrugs.org",
+                "start": 0,
+                "url": "https://t.co/kbttTgmTXj"
+              }
+            ]
+          }
+        },
+        "id": "1556279645502427136",
+        "location": "庄俞南路 1号",
+        "name": "Pr5ga6al1N",
+        "pinned_tweet_id": "2015445624033051032",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041020314524815360/KxdTr0Df_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 280,
+          "following_count": 172,
+          "like_count": 859,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 861
+        },
+        "url": "https://t.co/kbttTgmTXj",
+        "username": "tianxiao0502",
+        "verified": false
+      }
+    ]
+  }
+}

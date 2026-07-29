@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2067123479267475627",
+    "created_at": "2026-06-17T05:53:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T06:53:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067123479267475627"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kitax06/status…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/kitax06/status/2067082459246944417",
+          "start": 14,
+          "url": "https://t.co/xCsIvDMKVI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067123479267475627",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067082459246944417",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "老天爷 你下屌吧 操死我吧 https://t.co/xCsIvDMKVI"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2067123479267475627",
+        "created_at": "2026-06-17T05:53:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T06:53:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067123479267475627"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kitax06/status…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/kitax06/status/2067082459246944417",
+              "start": 14,
+              "url": "https://t.co/xCsIvDMKVI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067123479267475627",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067082459246944417",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "老天爷 你下屌吧 操死我吧 https://t.co/xCsIvDMKVI"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1494421003174244354",
+        "conversation_id": "2067082459246944417",
+        "created_at": "2026-06-17T03:10:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T04:10:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067082459246944417"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067082459246944417",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "老天爷 你他妈饶了我吧求你了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2048720319872192919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1360,
+          "following_count": 354,
+          "like_count": 1153,
+          "listed_count": 1,
+          "media_count": 190,
+          "tweet_count": 2677
+        },
+        "username": "godspeedyou50",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-17T21:18:37.000Z",
+        "description": "Kita_什麼是遠方",
+        "id": "1494421003174244354",
+        "location": "Sydney, New South Wales",
+        "name": "ジュリエット",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967302188914688001/DCXC_FAI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1499,
+          "following_count": 129,
+          "like_count": 5934,
+          "listed_count": 6,
+          "media_count": 52,
+          "tweet_count": 378
+        },
+        "username": "KitaX06",
+        "verified": false
+      }
+    ]
+  }
+}

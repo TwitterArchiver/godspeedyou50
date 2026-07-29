@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2042113707577409571",
+    "created_at": "2026-04-09T06:44:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T07:44:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042131639652974851"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1638959586140098560",
+          "start": 0,
+          "username": "jiuyouforwhite"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042131639652974851",
+    "in_reply_to_user_id": "1638959586140098560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042131567997546956",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiuyouforwhite 垃圾桶委员"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2042113707577409571",
+        "created_at": "2026-04-09T06:44:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T07:44:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042131639652974851"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1638959586140098560",
+              "start": 0,
+              "username": "jiuyouforwhite"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042131639652974851",
+        "in_reply_to_user_id": "1638959586140098560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042131567997546956",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiuyouforwhite 垃圾桶委员"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1638959586140098560",
+        "conversation_id": "2042113707577409571",
+        "created_at": "2026-04-09T06:44:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T07:44:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042131567997546956"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1518404201168007168",
+              "start": 0,
+              "username": "godspeedyou50"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042131567997546956",
+        "in_reply_to_user_id": "1518404201168007168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042131175993741389",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@godspeedyou50 给你改成垃圾桶委员了，你是喜欢这个还是原来的卫生委员"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。/双相I型/欢迎提问",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jahseh79919",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jahseh79919",
+                "start": 0,
+                "url": "https://t.co/xaz6T7v19q"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2029134307244294287",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1029,
+          "following_count": 218,
+          "like_count": 878,
+          "listed_count": 0,
+          "media_count": 130,
+          "tweet_count": 2137
+        },
+        "url": "https://t.co/xaz6T7v19q",
+        "username": "godspeedyou50",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-23T17:43:19.000Z",
+        "description": "反胃or十七/无性别enby/哲思/内心探索/intp/od\n/回fo/免费药理知识帮助\n/Thrillingly pointless",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jiuyouforwhite",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jiuyouforwhite",
+                "start": 0,
+                "url": "https://t.co/70X6nkO8V4"
+              }
+            ]
+          }
+        },
+        "id": "1638959586140098560",
+        "location": "17班の致幻晚自习",
+        "name": "反胃的Sisyphus",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041570538485956609/QSk4pqeb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1069,
+          "following_count": 959,
+          "like_count": 2419,
+          "listed_count": 2,
+          "media_count": 193,
+          "tweet_count": 1387
+        },
+        "url": "https://t.co/70X6nkO8V4",
+        "username": "jiuyouforwhite",
+        "verified": false
+      }
+    ]
+  }
+}

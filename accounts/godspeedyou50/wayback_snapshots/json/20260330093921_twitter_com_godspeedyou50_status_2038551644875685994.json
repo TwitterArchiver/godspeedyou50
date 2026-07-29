@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2038429050751066602",
+    "created_at": "2026-03-30T09:39:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T10:39:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038551644875685994"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1753386090143354880",
+          "start": 0,
+          "username": "HanQWQ457437"
+        },
+        {
+          "end": 30,
+          "id": "1684269091849404416",
+          "start": 14,
+          "username": "hg3551019177402"
+        },
+        {
+          "end": 41,
+          "id": "1228546301572173825",
+          "start": 31,
+          "username": "AAAAAMTxT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038551644875685994",
+    "in_reply_to_user_id": "1753386090143354880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038549269662376304",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HanQWQ457437 @hg3551019177402 @AAAAAMTxT 没 开玩笑的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2038429050751066602",
+        "created_at": "2026-03-30T09:39:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T10:39:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038551644875685994"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1753386090143354880",
+              "start": 0,
+              "username": "HanQWQ457437"
+            },
+            {
+              "end": 30,
+              "id": "1684269091849404416",
+              "start": 14,
+              "username": "hg3551019177402"
+            },
+            {
+              "end": 41,
+              "id": "1228546301572173825",
+              "start": 31,
+              "username": "AAAAAMTxT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038551644875685994",
+        "in_reply_to_user_id": "1753386090143354880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038549269662376304",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HanQWQ457437 @hg3551019177402 @AAAAAMTxT 没 开玩笑的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753386090143354880",
+        "conversation_id": "2038429050751066602",
+        "created_at": "2026-03-30T09:29:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T10:29:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038549269662376304"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1518404201168007168",
+              "start": 0,
+              "username": "godspeedyou50"
+            },
+            {
+              "end": 31,
+              "id": "1684269091849404416",
+              "start": 15,
+              "username": "hg3551019177402"
+            },
+            {
+              "end": 42,
+              "id": "1228546301572173825",
+              "start": 32,
+              "username": "AAAAAMTxT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038549269662376304",
+        "in_reply_to_user_id": "1518404201168007168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038546844318679510",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@godspeedyou50 @hg3551019177402 @AAAAAMTxT 😨😨😨😨😨你发的是你的名字,叫你这个名字太多了，我不知道哪个是你，我有点不放心，所以才踢了😨😨😨😨😨😨😨😨😨😨😨😨😨😨😨😨😨😨😨😨😨😨😨😨我错了😨😨😨😨😨😨"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。/双相I型/欢迎提问",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jahseh79919",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jahseh79919",
+                "start": 0,
+                "url": "https://t.co/xaz6T7v19q"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2029134307244294287",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 991,
+          "following_count": 197,
+          "like_count": 827,
+          "listed_count": 0,
+          "media_count": 123,
+          "tweet_count": 2021
+        },
+        "url": "https://t.co/xaz6T7v19q",
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-02T11:53:25.000Z",
+        "description": "08年2月/大一/欢迎找我聊天，我很需要人类陪我🥺  🚪0.0000016394btc",
+        "id": "1753386090143354880",
+        "location": "City of London, London",
+        "name": "i🇦🇺",
+        "pinned_tweet_id": "2038179851958706498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037621908477460480/AOgGNNyk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 416,
+          "following_count": 1001,
+          "like_count": 1311,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 427
+        },
+        "username": "HanQWQ457437",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-26T18:27:14.000Z",
+        "description": "黑圣徒和白罪女",
+        "id": "1684269091849404416",
+        "name": "12",
+        "pinned_tweet_id": "2038301437076316517",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038134641673244672/iipRtg2d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 430,
+          "following_count": 391,
+          "like_count": 18342,
+          "listed_count": 0,
+          "media_count": 365,
+          "tweet_count": 7250
+        },
+        "username": "hg3551019177402",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-15T05:07:27.000Z",
+        "description": "这里*****，可以叫我星星星星星/坐标厦门/非二元性别生理双性/无性别主义/重度恋痛/嗑药od自残/会互fo一些同属性的宝宝/出厂日期04.7/主坑prsk/+墙内需过🚪59r/过🚪可同城约见面一起玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aaaaamtxt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aaaaamtxt",
+                "start": 0,
+                "url": "https://t.co/WjhB4pS4f2"
+              }
+            ]
+          }
+        },
+        "id": "1228546301572173825",
+        "name": "*****🍥（互联网的堕落天使）",
+        "pinned_tweet_id": "2031380325709103481",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034974104538030089/YeDmGLD6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 619,
+          "following_count": 794,
+          "like_count": 30399,
+          "listed_count": 3,
+          "media_count": 109,
+          "tweet_count": 5955
+        },
+        "url": "https://t.co/WjhB4pS4f2",
+        "username": "AAAAAMTxT",
+        "verified": false
+      }
+    ]
+  }
+}

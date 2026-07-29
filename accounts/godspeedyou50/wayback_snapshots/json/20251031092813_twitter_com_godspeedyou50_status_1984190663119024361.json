@@ -1,0 +1,140 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "1984172757836558430",
+    "created_at": "2025-10-31T09:28:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-31T10:28:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984190663119024361"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1984190663119024361",
+    "in_reply_to_user_id": "1518404201168007168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984172757836558430",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "谢谢你们教我 抱拳了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "1984172757836558430",
+        "created_at": "2025-10-31T09:28:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T10:28:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984190663119024361"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1984190663119024361",
+        "in_reply_to_user_id": "1518404201168007168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984172757836558430",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "谢谢你们教我 抱拳了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "1984172757836558430",
+        "created_at": "2025-10-31T08:17:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T09:17:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984172757836558430"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1984172757836558430",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 91,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "玩归玩闹归闹 你哥骂人你别笑\n求金刚烷胺od教程"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "路人。and这段日子我愿意聊天，欢迎找我解惑，定期批量回fo或者私我",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1983757018830663844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983944337726787584/JcjyTY_u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 417,
+          "following_count": 257,
+          "like_count": 105,
+          "listed_count": 1,
+          "media_count": 54,
+          "tweet_count": 616
+        },
+        "username": "godspeedyou50",
+        "verified": false
+      }
+    ]
+  }
+}

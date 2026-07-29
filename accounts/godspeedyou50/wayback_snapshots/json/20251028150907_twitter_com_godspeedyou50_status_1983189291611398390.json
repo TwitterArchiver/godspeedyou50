@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1983189281826021376"
+      ]
+    },
+    "author_id": "1518404201168007168",
+    "conversation_id": "1983189291611398390",
+    "created_at": "2025-10-28T15:09:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-28T16:09:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1983189291611398390"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/6RcwiAC55d",
+          "end": 50,
+          "expanded_url": "https://x.com/godspeedyou50/status/1983189291611398390/photo/1",
+          "media_key": "3_1983189281826021376",
+          "start": 27,
+          "url": "https://t.co/6RcwiAC55d"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983189291611398390",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "傻逼东西操你妈 你也想当吴相泽？你不不缺钱吗 臭保安 https://t.co/6RcwiAC55d"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1983189281826021376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4W0JPmaIAA5MKG.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983189281826021376"
+          ]
+        },
+        "author_id": "1518404201168007168",
+        "conversation_id": "1983189291611398390",
+        "created_at": "2025-10-28T15:09:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T16:09:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983189291611398390"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6RcwiAC55d",
+              "end": 50,
+              "expanded_url": "https://x.com/godspeedyou50/status/1983189291611398390/photo/1",
+              "media_key": "3_1983189281826021376",
+              "start": 27,
+              "url": "https://t.co/6RcwiAC55d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983189291611398390",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "傻逼东西操你妈 你也想当吴相泽？你不不缺钱吗 臭保安 https://t.co/6RcwiAC55d"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "路人。and这段日子我愿意聊天，欢迎找我解惑，定期批量回fo或者私我",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1982515322788942238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827690417619697665/4z5RgWOE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 375,
+          "following_count": 226,
+          "like_count": 83,
+          "listed_count": 1,
+          "media_count": 46,
+          "tweet_count": 519
+        },
+        "username": "godspeedyou50",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2064181660527063148",
+    "created_at": "2026-06-09T03:26:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T04:26:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064187227815682505"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2037890001485074432",
+          "start": 0,
+          "username": "taffycvc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064187227815682505",
+    "in_reply_to_user_id": "2037890001485074432",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064181660527063148",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@taffycvc 恭喜"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3024,
+        "media_key": "3_2064181639882637314",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKVyQ9UWgAIwsGt.jpg",
+        "width": 4032
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2064181660527063148",
+        "created_at": "2026-06-09T03:26:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T04:26:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064187227815682505"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2037890001485074432",
+              "start": 0,
+              "username": "taffycvc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064187227815682505",
+        "in_reply_to_user_id": "2037890001485074432",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064181660527063148",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@taffycvc 恭喜"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064181639882637314"
+          ]
+        },
+        "author_id": "2037890001485074432",
+        "conversation_id": "2064181660527063148",
+        "created_at": "2026-06-09T03:03:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T04:03:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064181660527063148"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xAHK5nmNCQ",
+              "end": 30,
+              "expanded_url": "https://x.com/taffycvc/status/2064181660527063148/photo/1",
+              "media_key": "3_2064181639882637314",
+              "start": 7,
+              "url": "https://t.co/xAHK5nmNCQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064181660527063148",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "出金了出金了 https://t.co/xAHK5nmNCQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2048720319872192919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1327,
+          "following_count": 308,
+          "like_count": 1133,
+          "listed_count": 1,
+          "media_count": 181,
+          "tweet_count": 2560
+        },
+        "username": "godspeedyou50",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-28T13:50:38.000Z",
+        "description": "想要一辈子活在药效里\ninfp/普瑞巴林重度依赖/小号:@YuYpap🫐🫐🐰",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 28,
+                "username": "YuYpap"
+              }
+            ]
+          }
+        },
+        "id": "2037890001485074432",
+        "location": "普瑞药盒里",
+        "name": "taffy🐰",
+        "pinned_tweet_id": "2058417433262891055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056354779060916225/VSxcOJq7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124,
+          "following_count": 162,
+          "like_count": 7200,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 199
+        },
+        "username": "taffycvc",
+        "verified": false
+      }
+    ]
+  }
+}

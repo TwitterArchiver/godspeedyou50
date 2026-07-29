@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2041541226470703530",
+    "created_at": "2026-04-07T15:38:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T16:38:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041541226470703530"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/0voki33me/stat…",
+          "end": 166,
+          "expanded_url": "https://twitter.com/0voki33me/status/2041540324598886498",
+          "start": 143,
+          "url": "https://t.co/Bfi2JmY8dC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041541226470703530",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041540324598886498",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你这么一说确实真的像扣逼一样，两根手指交替恶心我喉结（g点）。\n这次催吐这事我总结明白了，我就说我这些年都没事怎么突然吐不出，问题就在于没喝水，喝点水就好了，再加上飞得太高棉花嘴很干。\n其实我也是有点丧心病狂了，又开始担心牙齿和口腔会不会烧坏，因为牙床有点烧，挺好ok了家人们健康进食 https://t.co/Bfi2JmY8dC"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2041541226470703530",
+        "created_at": "2026-04-07T15:38:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T16:38:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041541226470703530"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/0voki33me/stat…",
+              "end": 166,
+              "expanded_url": "https://twitter.com/0voki33me/status/2041540324598886498",
+              "start": 143,
+              "url": "https://t.co/Bfi2JmY8dC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041541226470703530",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041540324598886498",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你这么一说确实真的像扣逼一样，两根手指交替恶心我喉结（g点）。\n这次催吐这事我总结明白了，我就说我这些年都没事怎么突然吐不出，问题就在于没喝水，喝点水就好了，再加上飞得太高棉花嘴很干。\n其实我也是有点丧心病狂了，又开始担心牙齿和口腔会不会烧坏，因为牙床有点烧，挺好ok了家人们健康进食 https://t.co/Bfi2JmY8dC"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2041437997607121041",
+        "created_at": "2026-04-07T15:35:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T16:35:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041540324598886498"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1518404201168007168",
+              "start": 0,
+              "username": "godspeedyou50"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041540324598886498",
+        "in_reply_to_user_id": "1518404201168007168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041437997607121041",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@godspeedyou50 我是吐前喝水喝到饱的感觉，跳一跳等几分钟，然后扣嗓子眼手指在里面和扣逼一样就行，扣到第一次干呕就立马插进去再扣，反复这样就能吐出来了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。/双相I型/欢迎提问",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jahseh79919",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jahseh79919",
+                "start": 0,
+                "url": "https://t.co/xaz6T7v19q"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2029134307244294287",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1029,
+          "following_count": 213,
+          "like_count": 870,
+          "listed_count": 0,
+          "media_count": 131,
+          "tweet_count": 2120
+        },
+        "url": "https://t.co/xaz6T7v19q",
+        "username": "godspeedyou50",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "该账号什么都发不为任何言行负责｜只回fo感兴趣的｜提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/0voki33me",
+                "end": 23,
+                "expanded_url": "https://ngl.link/0voki33me",
+                "start": 0,
+                "url": "https://t.co/Dhfap4dheT"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "👽👽",
+        "name": "4w4y",
+        "pinned_tweet_id": "2024513212876767280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025267837263380484/sO1VN491_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 666,
+          "following_count": 1143,
+          "like_count": 6125,
+          "listed_count": 0,
+          "media_count": 278,
+          "tweet_count": 5447
+        },
+        "url": "https://t.co/Dhfap4dheT",
+        "username": "0voki33Me",
+        "verified": false
+      }
+    ]
+  }
+}

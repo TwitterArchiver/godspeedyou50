@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "1991962810566463917",
+    "created_at": "2025-11-22T20:23:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-22T21:23:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992328177625301234"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1746524463875899392",
+          "start": 0,
+          "username": "2226_wiki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992328177625301234",
+    "in_reply_to_user_id": "1746524463875899392",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992324380622483911",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@2226_wiki 不用"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "1991962810566463917",
+        "created_at": "2025-11-22T20:23:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T21:23:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992328177625301234"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1746524463875899392",
+              "start": 0,
+              "username": "2226_wiki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992328177625301234",
+        "in_reply_to_user_id": "1746524463875899392",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992324380622483911",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@2226_wiki 不用"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1746524463875899392",
+        "conversation_id": "1991962810566463917",
+        "created_at": "2025-11-22T20:08:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T21:08:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992324380622483911"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1518404201168007168",
+              "start": 0,
+              "username": "godspeedyou50"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992324380622483911",
+        "in_reply_to_user_id": "1518404201168007168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991962810566463917",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@godspeedyou50 怎么说，我不太懂这些，是看手相什么的吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "路人。and这段日子我愿意聊天，欢迎找我解惑，定期批量回fo或者私我",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1983757018830663844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990279769297149952/3r34Cj2f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 634,
+          "following_count": 312,
+          "like_count": 293,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 924
+        },
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-14T13:27:47.000Z",
+        "description": "可以叫我小酸",
+        "id": "1746524463875899392",
+        "location": "？",
+        "name": "硝酸",
+        "pinned_tweet_id": "1915375799600894363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990680250695720960/2iQkGLBZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 206,
+          "like_count": 8621,
+          "listed_count": 1,
+          "media_count": 14,
+          "tweet_count": 238
+        },
+        "username": "2226_wiki",
+        "verified": false
+      }
+    ]
+  }
+}

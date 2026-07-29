@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1995008656891629568"
+      ]
+    },
+    "author_id": "1518404201168007168",
+    "conversation_id": "1995008669801746606",
+    "created_at": "2025-11-30T05:55:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-30T06:55:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1995008669801746606"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/T0pY4eCAXY",
+          "end": 56,
+          "expanded_url": "https://x.com/godspeedyou50/status/1995008669801746606/photo/1",
+          "media_key": "3_1995008656891629568",
+          "start": 33,
+          "url": "https://t.co/T0pY4eCAXY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995008669801746606",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "生活不过是人类吸入氧气后产生的幻觉，一旦你停止吸氧幻觉就会消失。 https://t.co/T0pY4eCAXY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1995008656891629568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6-xza3a0AAl4W8.jpg",
+        "width": 1458
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995008656891629568"
+          ]
+        },
+        "author_id": "1518404201168007168",
+        "conversation_id": "1995008669801746606",
+        "created_at": "2025-11-30T05:55:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T06:55:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995008669801746606"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/T0pY4eCAXY",
+              "end": 56,
+              "expanded_url": "https://x.com/godspeedyou50/status/1995008669801746606/photo/1",
+              "media_key": "3_1995008656891629568",
+              "start": 33,
+              "url": "https://t.co/T0pY4eCAXY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995008669801746606",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "生活不过是人类吸入氧气后产生的幻觉，一旦你停止吸氧幻觉就会消失。 https://t.co/T0pY4eCAXY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1994852955737264187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994853314551582729/O2UriUrd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 677,
+          "following_count": 322,
+          "like_count": 348,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 950
+        },
+        "username": "godspeedyou50",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2020537025091584480",
+    "created_at": "2026-02-08T16:49:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-08T17:49:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020540580032577786"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1976224313339777024",
+          "start": 0,
+          "username": "WinbornN94577"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020540580032577786",
+    "in_reply_to_user_id": "1976224313339777024",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020540469579563106",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WinbornN94577 是的丙戊酸钠缓释片"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2020537025091584480",
+        "created_at": "2026-02-08T16:49:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T17:49:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020540580032577786"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1976224313339777024",
+              "start": 0,
+              "username": "WinbornN94577"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020540580032577786",
+        "in_reply_to_user_id": "1976224313339777024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020540469579563106",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WinbornN94577 是的丙戊酸钠缓释片"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976224313339777024",
+        "conversation_id": "2020537025091584480",
+        "created_at": "2026-02-08T16:49:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T17:49:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020540469579563106"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1518404201168007168",
+              "start": 0,
+              "username": "godspeedyou50"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020540469579563106",
+        "in_reply_to_user_id": "1518404201168007168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020539946063339968",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@godspeedyou50 普瑞不作用于sigma吧，你丙戎酸钠联用右美的时候有没有晕厥的状态？并且是大量的，我服用的是超过耐药12t的量，联用的那次我大概o完3小时才来效失去意识，我的是缓释片，或者是缓释片才会这样？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。/@Jahseh14138/严重双相I型",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "Jahseh14138"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1994852955737264187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 720,
+          "following_count": 109,
+          "like_count": 411,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 1242
+        },
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-09T09:52:52.000Z",
+        "description": "🚪9999999999999999999999.99",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "Freeod.Wiki",
+                "end": 23,
+                "expanded_url": "http://Freeod.Wiki",
+                "start": 0,
+                "url": "https://t.co/00oa1doxAd"
+              }
+            ]
+          }
+        },
+        "id": "1976224313339777024",
+        "location": "🚪52",
+        "name": "屠荼徒堍兎",
+        "pinned_tweet_id": "2019103377612063033",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019070778399248384/k14HPoiZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 838,
+          "following_count": 92,
+          "like_count": 3169,
+          "listed_count": 2,
+          "media_count": 75,
+          "tweet_count": 1420
+        },
+        "url": "https://t.co/00oa1doxAd",
+        "username": "WinbornN94577",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2064576285599576295",
+    "created_at": "2026-06-10T05:18:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T06:18:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064577946241941789"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2041095876417122305",
+          "start": 0,
+          "username": "Yihuiam"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064577946241941789",
+    "in_reply_to_user_id": "2041095876417122305",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064576285599576295",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yihuiam 买那么多 能吃到死吧 还有麦克林他们家最好是最少最少你得有本学生证保命"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2064576268855803904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKbZLYzaAAAd6cB.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2064576285599576295",
+        "created_at": "2026-06-10T05:18:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T06:18:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064577946241941789"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2041095876417122305",
+              "start": 0,
+              "username": "Yihuiam"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064577946241941789",
+        "in_reply_to_user_id": "2041095876417122305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064576285599576295",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yihuiam 买那么多 能吃到死吧 还有麦克林他们家最好是最少最少你得有本学生证保命"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064576268855803904"
+          ]
+        },
+        "author_id": "2041095876417122305",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2064576285599576295",
+        "created_at": "2026-06-10T05:11:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T06:11:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064576285599576295"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5iQbh94RUn",
+              "end": 166,
+              "expanded_url": "https://x.com/Yihuiam/status/2064576285599576295/photo/1",
+              "media_key": "3_2064576268855803904",
+              "start": 143,
+              "url": "https://t.co/5iQbh94RUn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064576285599576295",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "WIN-1161-3\n常见名称：WIN-1161-3、IC-26、Methiodone\n系统名称：3-（乙基磺酰基）-N,N,1-三甲基-3,3-二苯基丙胺\n精神活性类别：抑制剂化学类别：阿片类\n麦克林化工网5000mg 95%1161 5848r自己买太多了也好贵有没有一起拼单的😭 https://t.co/5iQbh94RUn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2048720319872192919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1337,
+          "following_count": 313,
+          "like_count": 1129,
+          "listed_count": 1,
+          "media_count": 184,
+          "tweet_count": 2592
+        },
+        "username": "godspeedyou50",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-06T10:09:51.000Z",
+        "description": "09/泛性恋//LGBTQ+友好/学习药理中🙂\n喜欢致幻剂///音乐",
+        "id": "2041095876417122305",
+        "name": "一户",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041096137311182848/ZzV_BQ6K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 404,
+          "like_count": 1011,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 88
+        },
+        "username": "Yihuiam",
+        "verified": false
+      }
+    ]
+  }
+}

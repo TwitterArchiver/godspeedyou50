@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2026979989099626685",
+    "created_at": "2026-02-26T11:17:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T12:17:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026979989099626685"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1518404201168007168",
+          "start": 3,
+          "username": "godspeedyou50"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026979989099626685",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979613983616229426",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @godspeedyou50: 既然选择踏入深渊，那么就义无反顾吧，因为总有一天你会变成深渊里的一员或者死去，不然变成社会填充自己边缘的边角料，变成齿轮，所以我庆幸自己什么都还早，我至少玩过真正的东西，我没有说只知道什么玉米片能哦，感康能o，我知道里面的物质，我知道什么是…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2026979989099626685",
+        "created_at": "2026-02-26T11:17:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T12:17:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026979989099626685"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1518404201168007168",
+              "start": 3,
+              "username": "godspeedyou50"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026979989099626685",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979613983616229426",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @godspeedyou50: 既然选择踏入深渊，那么就义无反顾吧，因为总有一天你会变成深渊里的一员或者死去，不然变成社会填充自己边缘的边角料，变成齿轮，所以我庆幸自己什么都还早，我至少玩过真正的东西，我没有说只知道什么玉米片能哦，感康能o，我知道里面的物质，我知道什么是…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "1979610449969623256",
+        "created_at": "2025-10-18T18:22:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T19:22:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979613983616229426"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1979613983616229426",
+        "in_reply_to_user_id": "1518404201168007168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3371,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979612507472879980",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "既然选择踏入深渊，那么就义无反顾吧，因为总有一天你会变成深渊里的一员或者死去，不然变成社会填充自己边缘的边角料，变成齿轮，所以我庆幸自己什么都还早，我至少玩过真正的东西，我没有说只知道什么玉米片能哦，感康能o，我知道里面的物质，我知道什么是暂时逃避生活的，我也知道一切都是暂时的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。/@Jahseh14138/双相I型/欢迎提问",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "Jahseh14138"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jahseh79919",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jahseh79919",
+                "start": 0,
+                "url": "https://t.co/xaz6T7v19q"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1994852955737264187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 777,
+          "following_count": 140,
+          "like_count": 484,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 1429
+        },
+        "url": "https://t.co/xaz6T7v19q",
+        "username": "godspeedyou50",
+        "verified": true
+      }
+    ]
+  }
+}

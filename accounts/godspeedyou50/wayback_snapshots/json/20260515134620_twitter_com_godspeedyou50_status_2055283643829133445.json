@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2055230184035663903",
+    "created_at": "2026-05-15T13:46:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T14:46:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055283643829133445"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1830934925769613334",
+          "start": 0,
+          "username": "Jinggebiezhuaw"
+        },
+        {
+          "end": 24,
+          "id": "1816489710682030080",
+          "start": 16,
+          "username": "keaiiea"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055283643829133445",
+    "in_reply_to_user_id": "1830934925769613334",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055230184035663903",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jinggebiezhuaw @keaiiea ？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2055230184035663903",
+        "created_at": "2026-05-15T13:46:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T14:46:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055283643829133445"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1830934925769613334",
+              "start": 0,
+              "username": "Jinggebiezhuaw"
+            },
+            {
+              "end": 24,
+              "id": "1816489710682030080",
+              "start": 16,
+              "username": "keaiiea"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055283643829133445",
+        "in_reply_to_user_id": "1830934925769613334",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055230184035663903",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jinggebiezhuaw @keaiiea ？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1830934925769613334",
+        "conversation_id": "2055230184035663903",
+        "created_at": "2026-05-15T10:13:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T11:13:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055230184035663903"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1816489710682030080",
+              "start": 2,
+              "username": "keaiiea"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055230184035663903",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 259,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "渣男@keaiiea"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。/欢迎提问/@OvooLOO3o/@salmon__sukiii",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 17,
+                "username": "OvooLOO3o"
+              },
+              {
+                "end": 43,
+                "start": 28,
+                "username": "salmon__sukiii"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jahseh79919",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jahseh79919",
+                "start": 0,
+                "url": "https://t.co/xaz6T7v19q"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2048720319872192919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1228,
+          "following_count": 268,
+          "like_count": 1034,
+          "listed_count": 0,
+          "media_count": 163,
+          "tweet_count": 2399
+        },
+        "url": "https://t.co/xaz6T7v19q",
+        "username": "godspeedyou50",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-03T11:45:04.000Z",
+        "description": "女，长头发性恋，精神分裂确诊，导演系在读，精神意大利人，非典型支黑，非典型化学推，喜欢跟小男娘玩。 我的名字读作奥克萨娜 不是OK娑娜。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Oksana_132435",
+                "end": 23,
+                "expanded_url": "https://t.me/Oksana_132435",
+                "start": 0,
+                "url": "https://t.co/McxnWOqV5m"
+              }
+            ]
+          }
+        },
+        "id": "1830934925769613334",
+        "location": "Tokyo-to, Japan",
+        "name": "Oksana💊",
+        "pinned_tweet_id": "1991449358647325050",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836467833401937920/1OZ_D_Qp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2404,
+          "following_count": 372,
+          "like_count": 819,
+          "listed_count": 5,
+          "media_count": 174,
+          "tweet_count": 568
+        },
+        "url": "https://t.co/McxnWOqV5m",
+        "username": "Jinggebiezhuaw",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-25T15:04:46.000Z",
+        "description": "我是jonas",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/keaiiea2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/keaiiea2",
+                "start": 0,
+                "url": "https://t.co/tkjVWJfXs4"
+              }
+            ]
+          }
+        },
+        "id": "1816489710682030080",
+        "name": "J0N45",
+        "pinned_tweet_id": "1983196415313752421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040970131346718720/QxA0zX1A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1723,
+          "following_count": 442,
+          "like_count": 27025,
+          "listed_count": 3,
+          "media_count": 465,
+          "tweet_count": 2522
+        },
+        "url": "https://t.co/tkjVWJfXs4",
+        "username": "keaiiea",
+        "verified": false
+      }
+    ]
+  }
+}

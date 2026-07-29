@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "1999378504891400336",
+    "created_at": "2025-12-12T07:19:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-12T08:19:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1999378504891400336"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/oksana66615685…",
+          "end": 164,
+          "expanded_url": "https://twitter.com/oksana666156854/status/1999187135472238828",
+          "start": 141,
+          "url": "https://t.co/e3yYyntJZy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999378504891400336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999187135472238828",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我真给你们跪了 我赢了 佛珠着急生气去质问傻逼 又特么让我被挂了 我引导你妈逼了你个傻篮子整件事就是我不喜欢搞策划药的人所以把你删了 聊天记录我晒了单纯说外网联系删好友 你特么气急败坏了开始爆小群聊天记录落井下石又断章取义\n跟你好的时候把你当朋友随便和你聊 你这行为跟小学生没区别 https://t.co/e3yYyntJZy"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "1999378504891400336",
+        "created_at": "2025-12-12T07:19:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T08:19:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999378504891400336"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/oksana66615685…",
+              "end": 164,
+              "expanded_url": "https://twitter.com/oksana666156854/status/1999187135472238828",
+              "start": 141,
+              "url": "https://t.co/e3yYyntJZy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999378504891400336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999187135472238828",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我真给你们跪了 我赢了 佛珠着急生气去质问傻逼 又特么让我被挂了 我引导你妈逼了你个傻篮子整件事就是我不喜欢搞策划药的人所以把你删了 聊天记录我晒了单纯说外网联系删好友 你特么气急败坏了开始爆小群聊天记录落井下石又断章取义\n跟你好的时候把你当朋友随便和你聊 你这行为跟小学生没区别 https://t.co/e3yYyntJZy"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1830934925769613334",
+        "conversation_id": "1999187135472238828",
+        "created_at": "2025-12-11T18:38:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T19:38:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999187135472238828"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jingyin_8964/s…",
+              "end": 176,
+              "expanded_url": "https://twitter.com/jingyin_8964/status/1999144387893133478",
+              "start": 153,
+              "url": "https://t.co/OLFxjfsuiY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999187135472238828",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 948,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999144387893133478",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "啥几把玩意，我刷到过这个都没意识到“oksn”是我自己，还有后面那一堆乱码除了jah其他的我一个都不认识🤣你们这群人搞不搞笑，在这个推特上面我互关确实不少，但99.99%没任何互动。除了Yoselin是我八辈子之前就在线下认识的，也就jah和莉莉和我熟，其他人我连话都没说过怎么就进了你们所谓的od圈了🤣 https://t.co/OLFxjfsuiY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1999064457344147720",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 663,
+          "following_count": 63,
+          "like_count": 363,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 1033
+        },
+        "username": "godspeedyou50",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-03T11:45:04.000Z",
+        "description": "女，长头发性恋，精神分裂确诊，导演系在读，精神意大利人，非典型支黑，非典型化学推，喜欢跟小男娘玩。 我的名字读作奥克萨娜 不是OK娑娜。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Oksana_132435",
+                "end": 23,
+                "expanded_url": "https://t.me/Oksana_132435",
+                "start": 0,
+                "url": "https://t.co/McxnWOqV5m"
+              }
+            ]
+          }
+        },
+        "id": "1830934925769613334",
+        "location": "Tokyo-to, Japan",
+        "name": "Oksana💊",
+        "pinned_tweet_id": "1991449358647325050",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836467833401937920/1OZ_D_Qp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2220,
+          "following_count": 392,
+          "like_count": 707,
+          "listed_count": 4,
+          "media_count": 157,
+          "tweet_count": 513
+        },
+        "url": "https://t.co/McxnWOqV5m",
+        "username": "Oksana666156854",
+        "verified": false
+      }
+    ]
+  }
+}

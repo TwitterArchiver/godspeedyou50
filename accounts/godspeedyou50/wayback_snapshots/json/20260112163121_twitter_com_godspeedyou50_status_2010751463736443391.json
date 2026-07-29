@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2010734199645573595",
+    "created_at": "2026-01-12T16:31:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-12T17:31:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010751463736443391"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1237455423302586368",
+          "start": 0,
+          "username": "666yanye"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010751463736443391",
+    "in_reply_to_user_id": "1237455423302586368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010747217842249792",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@666yanye 估计受刺激了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2010734199645573595",
+        "created_at": "2026-01-12T16:31:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T17:31:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010751463736443391"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1237455423302586368",
+              "start": 0,
+              "username": "666yanye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010751463736443391",
+        "in_reply_to_user_id": "1237455423302586368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010747217842249792",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@666yanye 估计受刺激了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1237455423302586368",
+        "conversation_id": "2010734199645573595",
+        "created_at": "2026-01-12T16:14:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T17:14:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010747217842249792"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1518404201168007168",
+              "start": 0,
+              "username": "godspeedyou50"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010747217842249792",
+        "in_reply_to_user_id": "1518404201168007168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010734199645573595",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@godspeedyou50 卧槽她咋谁都骂 也骂过我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1994852955737264187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 664,
+          "following_count": 78,
+          "like_count": 369,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 1077
+        },
+        "username": "godspeedyou50",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-10T19:09:34.000Z",
+        "description": "言叶 08 坐标江浙沪欢迎来找我玩接线下 88 陪聊咨询 288线下",
+        "id": "1237455423302586368",
+        "name": "言叶的幸福快乐生活",
+        "pinned_tweet_id": "2002560229352091941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000968845943545861/gw_Vd9Zg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 266,
+          "following_count": 45,
+          "like_count": 202,
+          "listed_count": 1,
+          "media_count": 25,
+          "tweet_count": 78
+        },
+        "username": "666yanye",
+        "verified": false
+      }
+    ]
+  }
+}

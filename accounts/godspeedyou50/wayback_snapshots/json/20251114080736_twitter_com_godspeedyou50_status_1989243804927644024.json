@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "1989192942142337203",
+    "created_at": "2025-11-14T08:07:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-14T09:07:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989243804927644024"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1912109703133646848",
+          "start": 0,
+          "username": "jzm1919810"
+        },
+        {
+          "end": 22,
+          "id": "1942770189030023174",
+          "start": 12,
+          "username": "Ariyairis"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989243804927644024",
+    "in_reply_to_user_id": "1912109703133646848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989242804154081316",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jzm1919810 @Ariyairis 苯基吡拉西坦也是短期用药 我不太懂这么专业的 但确实不是长期覆盖的玩意 短期用那还不如加点钱上苯基 有点玄学了 效果太隐蔽了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "1989192942142337203",
+        "created_at": "2025-11-14T08:07:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T09:07:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989243804927644024"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1912109703133646848",
+              "start": 0,
+              "username": "jzm1919810"
+            },
+            {
+              "end": 22,
+              "id": "1942770189030023174",
+              "start": 12,
+              "username": "Ariyairis"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989243804927644024",
+        "in_reply_to_user_id": "1912109703133646848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989242804154081316",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jzm1919810 @Ariyairis 苯基吡拉西坦也是短期用药 我不太懂这么专业的 但确实不是长期覆盖的玩意 短期用那还不如加点钱上苯基 有点玄学了 效果太隐蔽了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912109703133646848",
+        "conversation_id": "1989192942142337203",
+        "created_at": "2025-11-14T08:03:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T09:03:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989242804154081316"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1518404201168007168",
+              "start": 0,
+              "username": "godspeedyou50"
+            },
+            {
+              "end": 25,
+              "id": "1942770189030023174",
+              "start": 15,
+              "username": "Ariyairis"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989242804154081316",
+        "in_reply_to_user_id": "1518404201168007168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989242150094270735",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@godspeedyou50 @Ariyairis 是的，noopept按外网的说法是作为补剂长期使用。但是长期使用会Trkb下调（高度怀疑78DHF也下调），毕竟LTP/LTD要平衡。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "路人。and这段日子我愿意聊天，欢迎找我解惑，定期批量回fo或者私我",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1983757018830663844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984905090818523136/vVZ-D8dQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 489,
+          "following_count": 283,
+          "like_count": 170,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 751
+        },
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-15T11:44:19.000Z",
+        "description": "もしも願いが葉うなら 夜の空へとほうり投げて与えて",
+        "id": "1912109703133646848",
+        "name": "Zemin Jiang",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 66,
+          "like_count": 22,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 202
+        },
+        "username": "jzm1919810",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-09T02:18:21.000Z",
+        "description": "2008.1.22｜水瓶座｜ enfp｜adhd｜焦虑｜抑郁 kiss @blackjack29501i",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 36,
+                "username": "blackjack29501i"
+              }
+            ]
+          }
+        },
+        "id": "1942770189030023174",
+        "name": "Aria_jiang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963392788155777024/8RovmxXg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 143,
+          "like_count": 29,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 196
+        },
+        "username": "Ariyairis",
+        "verified": false
+      }
+    ]
+  }
+}

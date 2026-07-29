@@ -1,0 +1,341 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2066694074778927142",
+    "created_at": "2026-06-17T04:46:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T05:46:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067106619717222890"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1493601466346610712",
+          "start": 0,
+          "username": "basilbakery1127"
+        },
+        {
+          "end": 29,
+          "id": "2043300901050322944",
+          "start": 17,
+          "username": "lindong2200"
+        },
+        {
+          "end": 43,
+          "id": "1567203042872926208",
+          "start": 30,
+          "username": "Akinoyo_desu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067106619717222890",
+    "in_reply_to_user_id": "1493601466346610712",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066860045422481665",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@basilbakery1127 @lindong2200 @Akinoyo_desu"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2066694074778927142",
+        "created_at": "2026-06-17T04:46:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T05:46:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067106619717222890"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1493601466346610712",
+              "start": 0,
+              "username": "basilbakery1127"
+            },
+            {
+              "end": 29,
+              "id": "2043300901050322944",
+              "start": 17,
+              "username": "lindong2200"
+            },
+            {
+              "end": 43,
+              "id": "1567203042872926208",
+              "start": 30,
+              "username": "Akinoyo_desu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067106619717222890",
+        "in_reply_to_user_id": "1493601466346610712",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066860045422481665",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@basilbakery1127 @lindong2200 @Akinoyo_desu"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493601466346610712",
+        "conversation_id": "2066694074778927142",
+        "created_at": "2026-06-16T12:26:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T13:26:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066860045422481665"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2043300901050322944",
+              "start": 0,
+              "username": "lindong2200"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066860045422481665",
+        "in_reply_to_user_id": "2043300901050322944",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 94,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066694074778927142",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lindong2200 喹硫平"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2048720319872192919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1360,
+          "following_count": 354,
+          "like_count": 1152,
+          "listed_count": 1,
+          "media_count": 190,
+          "tweet_count": 2673
+        },
+        "url": "",
+        "username": "godspeedyou50",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-15T15:02:03.000Z",
+        "description": "擁抱重度依賴。 sub/nonbinary｜可以叫我Yui或者小唯",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/basilbakery",
+                "end": 23,
+                "expanded_url": "https://ngl.link/basilbakery",
+                "start": 0,
+                "url": "https://t.co/ogMKAWuoko"
+              }
+            ]
+          }
+        },
+        "id": "1493601466346610712",
+        "name": "Yui✝️",
+        "pinned_tweet_id": "2037647039253909781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045969325572714496/PdaxKe4R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 299,
+          "like_count": 1783,
+          "listed_count": 0,
+          "media_count": 123,
+          "tweet_count": 1437
+        },
+        "url": "https://t.co/ogMKAWuoko",
+        "username": "basilbakery1127",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-12T12:11:32.000Z",
+        "description": "18↑‖infp‖🚪‖互fo慢有上限漏掉可以在置顶帖子留言‖祭奠前世@Xilne_cc‖3.0挂一下防止坠机@lindong30小狗@chuF6yuanmen",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 34,
+                "username": "Xilne_cc"
+              },
+              {
+                "end": 64,
+                "start": 54,
+                "username": "lindong30"
+              },
+              {
+                "end": 79,
+                "start": 66,
+                "username": "chuF6yuanmen"
+              }
+            ]
+          }
+        },
+        "id": "2043300901050322944",
+        "location": "你心里ദ്ദി˶ᵒ ᵕ ˂)✧",
+        "name": "凜冬2.0",
+        "pinned_tweet_id": "2060445796869546070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047823864349294592/4MXgupZK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 212,
+          "following_count": 207,
+          "like_count": 556,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 389
+        },
+        "url": "",
+        "username": "lindong2200",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-06T17:28:25.000Z",
+        "description": "关注@PsydrugsWiki喵\n里帐@Aki_MountainE\n梨❤️@Eternal1uv9/@SummerTWT9\n聖 🍜@shungleemain /\n渡 ⛵️@noth1nghere14/",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "PsydrugsWiki"
+              },
+              {
+                "end": 33,
+                "start": 19,
+                "username": "Aki_MountainE"
+              },
+              {
+                "end": 49,
+                "start": 37,
+                "username": "Eternal1uv9"
+              },
+              {
+                "end": 61,
+                "start": 50,
+                "username": "SummerTWT9"
+              },
+              {
+                "end": 78,
+                "start": 65,
+                "username": "shungleemain"
+              },
+              {
+                "end": 99,
+                "start": 85,
+                "username": "noth1nghere14"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/akinoyo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/akinoyo",
+                "start": 0,
+                "url": "https://t.co/IopkqyzpO2"
+              }
+            ]
+          }
+        },
+        "id": "1567203042872926208",
+        "location": "偉大的天國",
+        "name": "AkiNoYo！",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040976214756843520/I0deaB8C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1054,
+          "following_count": 1043,
+          "like_count": 4957,
+          "listed_count": 1,
+          "media_count": 164,
+          "tweet_count": 1712
+        },
+        "url": "https://t.co/IopkqyzpO2",
+        "username": "Akinoyo_desu",
+        "verified": true
+      }
+    ]
+  }
+}

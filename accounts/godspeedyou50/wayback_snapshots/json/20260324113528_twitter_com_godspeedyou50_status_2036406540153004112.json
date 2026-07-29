@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2036405152543023415",
+    "created_at": "2026-03-24T11:35:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T12:35:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036406540153004112"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1684269091849404416",
+          "start": 0,
+          "username": "hg3551019177402"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036406540153004112",
+    "in_reply_to_user_id": "1684269091849404416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036405853746766245",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hg3551019177402 泡澡和淋浴的区别"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2036405152543023415",
+        "created_at": "2026-03-24T11:35:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T12:35:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036406540153004112"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1684269091849404416",
+              "start": 0,
+              "username": "hg3551019177402"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036406540153004112",
+        "in_reply_to_user_id": "1684269091849404416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036405853746766245",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hg3551019177402 泡澡和淋浴的区别"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684269091849404416",
+        "conversation_id": "2036405152543023415",
+        "created_at": "2026-03-24T11:32:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T12:32:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036405853746766245"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1518404201168007168",
+              "start": 0,
+              "username": "godspeedyou50"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036405853746766245",
+        "in_reply_to_user_id": "1518404201168007168",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036405152543023415",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@godspeedyou50 为何？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。/双相I型/欢迎提问",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jahseh79919",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jahseh79919",
+                "start": 0,
+                "url": "https://t.co/xaz6T7v19q"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2029134307244294287",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 965,
+          "following_count": 187,
+          "like_count": 724,
+          "listed_count": 0,
+          "media_count": 119,
+          "tweet_count": 1911
+        },
+        "url": "https://t.co/xaz6T7v19q",
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-26T18:27:14.000Z",
+        "description": "黑人圣人和罪人女士",
+        "id": "1684269091849404416",
+        "name": "12",
+        "pinned_tweet_id": "2033018269305811292",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034139114317221892/5SZ0qFTD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 345,
+          "following_count": 339,
+          "like_count": 18288,
+          "listed_count": 0,
+          "media_count": 348,
+          "tweet_count": 7009
+        },
+        "username": "hg3551019177402",
+        "verified": false
+      }
+    ]
+  }
+}

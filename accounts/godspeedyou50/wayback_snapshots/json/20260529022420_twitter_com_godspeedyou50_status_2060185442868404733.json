@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2060155595353964961",
+    "created_at": "2026-05-29T02:24:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T03:24:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060185442868404733"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1750040441880498176",
+          "start": 0,
+          "username": "kill_this_hate"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060185442868404733",
+    "in_reply_to_user_id": "1750040441880498176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060185297242161657",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kill_this_hate 我真是十个找我的我能静下心接一个"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2060155595353964961",
+        "created_at": "2026-05-29T02:24:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T03:24:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060185442868404733"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1750040441880498176",
+              "start": 0,
+              "username": "kill_this_hate"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060185442868404733",
+        "in_reply_to_user_id": "1750040441880498176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060185297242161657",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kill_this_hate 我真是十个找我的我能静下心接一个"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1750040441880498176",
+        "conversation_id": "2060155595353964961",
+        "created_at": "2026-05-29T02:23:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T03:23:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060185297242161657"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1518404201168007168",
+              "start": 0,
+              "username": "godspeedyou50"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060185297242161657",
+        "in_reply_to_user_id": "1518404201168007168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060155595353964961",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@godspeedyou50 接,必须接 挣钱吗不寒碜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2048720319872192919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1298,
+          "following_count": 305,
+          "like_count": 1099,
+          "listed_count": 0,
+          "media_count": 165,
+          "tweet_count": 2471
+        },
+        "username": "godspeedyou50",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-24T06:19:04.000Z",
+        "description": "请让我的心慢慢死去",
+        "id": "1750040441880498176",
+        "name": "雀 （接占卜命理",
+        "pinned_tweet_id": "2056543573777232325",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058873451960848384/4vaGtDZG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 695,
+          "following_count": 123,
+          "like_count": 23830,
+          "listed_count": 2,
+          "media_count": 983,
+          "tweet_count": 10316
+        },
+        "username": "kill_this_hate",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2066801142332567608",
+    "created_at": "2026-06-16T15:57:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T16:57:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066913074624491541"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2051195377420992512",
+          "start": 0,
+          "username": "Rain7x6y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066913074624491541",
+    "in_reply_to_user_id": "2051195377420992512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066912248958947404",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rain7x6y 这是替来 看颜色是0.7浓度的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2066801142332567608",
+        "created_at": "2026-06-16T15:57:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T16:57:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066913074624491541"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2051195377420992512",
+              "start": 0,
+              "username": "Rain7x6y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066913074624491541",
+        "in_reply_to_user_id": "2051195377420992512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066912248958947404",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rain7x6y 这是替来 看颜色是0.7浓度的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2051195377420992512",
+        "conversation_id": "2066801142332567608",
+        "created_at": "2026-06-16T15:54:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T16:54:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066912248958947404"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1518404201168007168",
+              "start": 0,
+              "username": "godspeedyou50"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066912248958947404",
+        "in_reply_to_user_id": "1518404201168007168",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066905641210564699",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@godspeedyou50 啥意思"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2048720319872192919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1360,
+          "following_count": 354,
+          "like_count": 1154,
+          "listed_count": 1,
+          "media_count": 189,
+          "tweet_count": 2659
+        },
+        "username": "godspeedyou50",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-04T07:03:35.000Z",
+        "description": "經營了一個女僕cos桌遊店！\n是否有人來？請私信我\n前世@naijin66998\n喜欢的人@lilibr0k3n33 @ovocaize",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 28,
+                "username": "naijin66998"
+              },
+              {
+                "end": 58,
+                "start": 45,
+                "username": "lilibr0k3n33"
+              },
+              {
+                "end": 68,
+                "start": 59,
+                "username": "ovocaize"
+              }
+            ]
+          }
+        },
+        "id": "2051195377420992512",
+        "name": "冬雪Rain2️⃣女仆店七月开",
+        "pinned_tweet_id": "2066445738217988437",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060579127489617920/-COMe4oq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 112,
+          "like_count": 274,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 203
+        },
+        "username": "Rain7x6y",
+        "verified": false
+      }
+    ]
+  }
+}

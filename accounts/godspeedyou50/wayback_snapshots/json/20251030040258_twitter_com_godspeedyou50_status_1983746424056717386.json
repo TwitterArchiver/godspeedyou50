@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "1983693240013615124",
+    "created_at": "2025-10-30T04:02:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-30T05:02:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983746424056717386"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1830934925769613334",
+          "start": 0,
+          "username": "Oksana666156854"
+        },
+        {
+          "end": 27,
+          "id": "1636398372457422848",
+          "start": 17,
+          "username": "291200XII"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983746424056717386",
+    "in_reply_to_user_id": "1830934925769613334",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "别的我不管 他打气确实是对的 这叫玩罐儿 不往回吐就憋死了 如果一直吸你总要呼吸 一呼吸还没吸收完的全跑出去浪费掉了\n一口气打嘴里那个是子弹枪\n行为我不管啊 骂错笑气鬼了 这是真玩过的 如果是一口一口吸肚子里 其实都浪费了 从你鼻孔里跑出去了 只有屏住呼吸在气球里呼吸也就是你说这种才是对的 \n这是街头嗑，因为他那最省钱 穷打法 跟你抽大麻为什么要用慢燃纸一样 香烟纸也能抽 太浪费\n科学原理主要是因为n2o必须混合氧气 比如为什么子弹要加到氧气瓶里有个接触氧气的过程"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983693240013615124",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Oksana666156854 @291200XII 别的我不管 他打气确实是对的 这叫玩罐儿 不往回吐就憋死了 如果一直吸你总要呼吸 一呼吸还没吸收完的全跑出去浪费掉了\n一口气打嘴里那个是子弹枪\n行为我不管啊 骂错笑气鬼了 这是真玩过的 如果是一口一口吸肚子里 其实都浪费了 从你鼻孔里跑出去了 只有屏住呼吸在气球里呼吸也就是你说这种才是对的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "1983693240013615124",
+        "created_at": "2025-10-30T04:02:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T05:02:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983746424056717386"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1830934925769613334",
+              "start": 0,
+              "username": "Oksana666156854"
+            },
+            {
+              "end": 27,
+              "id": "1636398372457422848",
+              "start": 17,
+              "username": "291200XII"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983746424056717386",
+        "in_reply_to_user_id": "1830934925769613334",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "别的我不管 他打气确实是对的 这叫玩罐儿 不往回吐就憋死了 如果一直吸你总要呼吸 一呼吸还没吸收完的全跑出去浪费掉了\n一口气打嘴里那个是子弹枪\n行为我不管啊 骂错笑气鬼了 这是真玩过的 如果是一口一口吸肚子里 其实都浪费了 从你鼻孔里跑出去了 只有屏住呼吸在气球里呼吸也就是你说这种才是对的 \n这是街头嗑，因为他那最省钱 穷打法 跟你抽大麻为什么要用慢燃纸一样 香烟纸也能抽 太浪费\n科学原理主要是因为n2o必须混合氧气 比如为什么子弹要加到氧气瓶里有个接触氧气的过程"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983693240013615124",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Oksana666156854 @291200XII 别的我不管 他打气确实是对的 这叫玩罐儿 不往回吐就憋死了 如果一直吸你总要呼吸 一呼吸还没吸收完的全跑出去浪费掉了\n一口气打嘴里那个是子弹枪\n行为我不管啊 骂错笑气鬼了 这是真玩过的 如果是一口一口吸肚子里 其实都浪费了 从你鼻孔里跑出去了 只有屏住呼吸在气球里呼吸也就是你说这种才是对的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1830934925769613334",
+        "conversation_id": "1983693240013615124",
+        "created_at": "2025-10-30T00:31:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T01:31:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983693240013615124"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 23,
+              "id": "1636398372457422848",
+              "start": 13,
+              "username": "291200XII"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983693240013615124",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 134,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我闺蜜小兔是一个特别好的人@291200XII ！前几天我们在外面打气叫了另一个朋友过来一起玩，结果那个朋友把她对象带过来了，那男的不仅在一堆毒虫面前装逼了错误的打气方式（用嘴巴吸进去再用嘴巴吐回气球里），而且还打了一口就往我身上躺、往我屁股上摸。我闺蜜直接开骂把那个男的骂走了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "路人。and这段日子我愿意聊天，欢迎找我解惑，定期批量回fo或者私我",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1982515322788942238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827690417619697665/4z5RgWOE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 399,
+          "following_count": 236,
+          "like_count": 97,
+          "listed_count": 1,
+          "media_count": 50,
+          "tweet_count": 579
+        },
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-03T11:45:04.000Z",
+        "description": "女，长头发性恋，精神分裂确诊，导演系在读，精神🇮🇹意大利人，非典型支黑，什么药都往嘴里塞的非典型毒推，喜欢跟小男娘玩。v有🚪，具体金额在你态度。",
+        "id": "1830934925769613334",
+        "name": "Oksana666",
+        "pinned_tweet_id": "1919767387769077977",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836467833401937920/1OZ_D_Qp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1067,
+          "following_count": 354,
+          "like_count": 581,
+          "listed_count": 4,
+          "media_count": 144,
+          "tweet_count": 457
+        },
+        "username": "Oksana666156854",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-16T16:05:58.000Z",
+        "description": "李緹你要向前看，別害怕。",
+        "id": "1636398372457422848",
+        "location": "Sapporo-shi Higashi, Hokkaidō",
+        "name": "李缇",
+        "pinned_tweet_id": "1662721982297767939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1702948415695683584/9q4-yXWi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 950,
+          "following_count": 502,
+          "like_count": 9999,
+          "listed_count": 11,
+          "media_count": 67,
+          "tweet_count": 3133
+        },
+        "username": "291200XII",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2064936556784414728",
+    "created_at": "2026-06-11T12:43:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T13:43:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065052300897587691"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "68868234",
+          "start": 0,
+          "username": "Ne1lHeyw00d"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065052300897587691",
+    "in_reply_to_user_id": "68868234",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064953282834137493",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ne1lHeyw00d 你大爷私信"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2064936556784414728",
+        "created_at": "2026-06-11T12:43:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T13:43:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065052300897587691"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "68868234",
+              "start": 0,
+              "username": "Ne1lHeyw00d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065052300897587691",
+        "in_reply_to_user_id": "68868234",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064953282834137493",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ne1lHeyw00d 你大爷私信"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "68868234",
+        "conversation_id": "2064936556784414728",
+        "created_at": "2026-06-11T06:10:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T07:10:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064953282834137493"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1518404201168007168",
+              "start": 0,
+              "username": "godspeedyou50"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064953282834137493",
+        "in_reply_to_user_id": "1518404201168007168",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 70,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064936556784414728",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@godspeedyou50 实名吸毒"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2048720319872192919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1340,
+          "following_count": 322,
+          "like_count": 1133,
+          "listed_count": 1,
+          "media_count": 189,
+          "tweet_count": 2616
+        },
+        "username": "godspeedyou50",
+        "verified": false
+      },
+      {
+        "created_at": "2009-08-26T01:46:00.000Z",
+        "description": "流浪汉族 接受付费咨询 药理学 用药咨询 用药建议 毒理学、药理学、精神疾病学相关研究  前工人吧吧主 结晶化捧杀者 键政荣誉证书获得者 有无犯罪记录 是 目前在海外研究伊博格草对人类大脑清空成瘾性的视线   X @Ne1lHeyw00d",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 107,
+                "username": "Ne1lHeyw00d"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/babycost",
+                "end": 23,
+                "expanded_url": "http://t.me/babycost",
+                "start": 0,
+                "url": "https://t.co/a0nGHzpVaD"
+              }
+            ]
+          }
+        },
+        "id": "68868234",
+        "location": "ip：外国",
+        "name": "babycost（研究伊博格碱版）",
+        "pinned_tweet_id": "2062591615802474584",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052491236242812928/_1yMu2JR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 28,
+          "like_count": 13,
+          "listed_count": 0,
+          "media_count": 165,
+          "tweet_count": 397
+        },
+        "url": "https://t.co/a0nGHzpVaD",
+        "username": "Ne1lHeyw00d",
+        "verified": false
+      }
+    ]
+  }
+}

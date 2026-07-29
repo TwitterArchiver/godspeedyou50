@@ -1,0 +1,353 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077326023721709568"
+      ],
+      "media_source_tweet_id": [
+        "2077326031783117174"
+      ]
+    },
+    "author_id": "1518404201168007168",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      }
+    ],
+    "conversation_id": "2077326371974762615",
+    "created_at": "2026-07-15T09:36:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T10:36:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077326371974762615"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1830934925769613334",
+          "start": 3,
+          "username": "Jinggebiezhuaw"
+        },
+        {
+          "end": 109,
+          "id": "1518404201168007168",
+          "start": 95,
+          "username": "godspeedyou50"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/yz38ak1YK6",
+          "end": 133,
+          "expanded_url": "https://x.com/Jinggebiezhuaw/status/2077326031783117174/photo/1",
+          "media_key": "3_2077326023721709568",
+          "start": 110,
+          "url": "https://t.co/yz38ak1YK6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077326371974762615",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077326031783117174",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Jinggebiezhuaw: 看到这页深有感触，寻思跟他俩讨论点精神哲学六道轮回，结果杰森在边上给我来一句：“你现在吃的大片有可能是你上一世的老公，你的老公变成了化学片子让你爽呢”@godspeedyou50 https://t.co/yz38ak1YK6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2077326023721709568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNQlAy6bcAA1psW.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077326023721709568"
+          ],
+          "media_source_tweet_id": [
+            "2077326031783117174"
+          ]
+        },
+        "author_id": "1518404201168007168",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2077326371974762615",
+        "created_at": "2026-07-15T09:36:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T10:36:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077326371974762615"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1830934925769613334",
+              "start": 3,
+              "username": "Jinggebiezhuaw"
+            },
+            {
+              "end": 109,
+              "id": "1518404201168007168",
+              "start": 95,
+              "username": "godspeedyou50"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yz38ak1YK6",
+              "end": 133,
+              "expanded_url": "https://x.com/Jinggebiezhuaw/status/2077326031783117174/photo/1",
+              "media_key": "3_2077326023721709568",
+              "start": 110,
+              "url": "https://t.co/yz38ak1YK6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077326371974762615",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077326031783117174",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Jinggebiezhuaw: 看到这页深有感触，寻思跟他俩讨论点精神哲学六道轮回，结果杰森在边上给我来一句：“你现在吃的大片有可能是你上一世的老公，你的老公变成了化学片子让你爽呢”@godspeedyou50 https://t.co/yz38ak1YK6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077326023721709568"
+          ]
+        },
+        "author_id": "1830934925769613334",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2077326031783117174",
+        "created_at": "2026-07-15T09:34:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T10:34:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077326031783117174"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 89,
+              "id": "1518404201168007168",
+              "start": 75,
+              "username": "godspeedyou50"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yz38ak1YK6",
+              "end": 113,
+              "expanded_url": "https://x.com/Jinggebiezhuaw/status/2077326031783117174/photo/1",
+              "media_key": "3_2077326023721709568",
+              "start": 90,
+              "url": "https://t.co/yz38ak1YK6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077326031783117174",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "看到这页深有感触，寻思跟他俩讨论点精神哲学六道轮回，结果杰森在边上给我来一句：“你现在吃的大片有可能是你上一世的老公，你的老公变成了化学片子让你爽呢”@godspeedyou50 https://t.co/yz38ak1YK6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个违背了大众良知od喝大酒的神棍。\n☯️算命后付不怕跑单｜代请符箓、祈福请私讯\n传统宗教现代哲学文化传播者，又称中式廉价心理医生。\n狐朋@Nonentity_xxx17 狗友@Jinggebiezhuaw",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 69,
+                "username": "Nonentity_xxx17"
+              },
+              {
+                "end": 103,
+                "start": 88,
+                "username": "Jinggebiezhuaw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/buyaogaowosorry",
+                "end": 23,
+                "expanded_url": "https://t.me/buyaogaowosorry",
+                "start": 0,
+                "url": "https://t.co/AdoFGQJT3r"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2069223594711011526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1674,
+          "following_count": 599,
+          "like_count": 1273,
+          "listed_count": 1,
+          "media_count": 206,
+          "tweet_count": 2883
+        },
+        "url": "https://t.co/AdoFGQJT3r",
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-03T11:45:04.000Z",
+        "description": "女，黑长直性恋，精神分裂确诊，导演系在读。非典型化学推，合法不列管策划药售卖/化学物质使用咨询💊。我的名字读作奥克萨娜 不是OK娑娜。\n闺蜜：@godspeedyou50、 @Nonentity_xxx17",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 71,
+                "username": "godspeedyou50"
+              },
+              {
+                "end": 103,
+                "start": 87,
+                "username": "Nonentity_xxx17"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Oksana_132435",
+                "end": 23,
+                "expanded_url": "https://t.me/Oksana_132435",
+                "start": 0,
+                "url": "https://t.co/Mj09WQFbLQ"
+              }
+            ]
+          }
+        },
+        "id": "1830934925769613334",
+        "location": "Tokyo-to, Japan",
+        "name": "Oksana💊",
+        "pinned_tweet_id": "2064158937000358141",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836467833401937920/1OZ_D_Qp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3357,
+          "following_count": 465,
+          "like_count": 1220,
+          "listed_count": 5,
+          "media_count": 195,
+          "tweet_count": 770
+        },
+        "url": "https://t.co/Mj09WQFbLQ",
+        "username": "Jinggebiezhuaw",
+        "verified": false
+      }
+    ]
+  }
+}

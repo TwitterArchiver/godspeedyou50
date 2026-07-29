@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2028048701940523008"
+      ]
+    },
+    "author_id": "1518404201168007168",
+    "conversation_id": "2028048709561516400",
+    "created_at": "2026-03-01T10:04:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-01T11:04:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2028048709561516400"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/4Icz5mGsWI",
+          "end": 58,
+          "expanded_url": "https://x.com/godspeedyou50/status/2028048709561516400/photo/1",
+          "media_key": "3_2028048701940523008",
+          "start": 35,
+          "url": "https://t.co/4Icz5mGsWI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028048709561516400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "暂时买不起visionpro 那我还买不起你吗 安卓人 启动…….. https://t.co/4Icz5mGsWI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2028048701940523008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCUTjKJbYAAiFhU.jpg",
+        "width": 944
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028048701940523008"
+          ]
+        },
+        "author_id": "1518404201168007168",
+        "conversation_id": "2028048709561516400",
+        "created_at": "2026-03-01T10:04:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T11:04:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028048709561516400"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4Icz5mGsWI",
+              "end": 58,
+              "expanded_url": "https://x.com/godspeedyou50/status/2028048709561516400/photo/1",
+              "media_key": "3_2028048701940523008",
+              "start": 35,
+              "url": "https://t.co/4Icz5mGsWI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028048709561516400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "暂时买不起visionpro 那我还买不起你吗 安卓人 启动…….. https://t.co/4Icz5mGsWI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。/@Jahseh14138/双相I型/欢迎提问",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "Jahseh14138"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jahseh79919",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jahseh79919",
+                "start": 0,
+                "url": "https://t.co/xaz6T7v19q"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1994852955737264187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 792,
+          "following_count": 152,
+          "like_count": 517,
+          "listed_count": 0,
+          "media_count": 98,
+          "tweet_count": 1504
+        },
+        "url": "https://t.co/xaz6T7v19q",
+        "username": "godspeedyou50",
+        "verified": true
+      }
+    ]
+  }
+}

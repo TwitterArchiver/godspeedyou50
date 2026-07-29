@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "1987947868980998355",
+    "created_at": "2025-11-10T18:26:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-10T19:26:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987950061490499944"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1963867793776070656",
+          "start": 0,
+          "username": "drug_artist1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987950061490499944",
+    "in_reply_to_user_id": "1963867793776070656",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 53,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987947868980998355",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@drug_artist1 何意为"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1600,
+        "media_key": "3_1987947866162425856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5acDTqbcAAx1cf.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "1987947868980998355",
+        "created_at": "2025-11-10T18:26:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T19:26:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987950061490499944"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1963867793776070656",
+              "start": 0,
+              "username": "drug_artist1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987950061490499944",
+        "in_reply_to_user_id": "1963867793776070656",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 53,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987947868980998355",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@drug_artist1 何意为"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987947866162425856"
+          ]
+        },
+        "author_id": "1963867793776070656",
+        "conversation_id": "1987947868980998355",
+        "created_at": "2025-11-10T18:18:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T19:18:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987947868980998355"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hvA8IB49qW",
+              "end": 82,
+              "expanded_url": "https://x.com/drug_artist1/status/1987947868980998355/photo/1",
+              "media_key": "3_1987947866162425856",
+              "start": 59,
+              "url": "https://t.co/hvA8IB49qW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987947868980998355",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 244,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "郁期睡了两天，刚清醒过来吃一颗月尘，一切恢复正常状态，说起来我记忆力不好好像是因为小藻喂我的那半瓶美金刚，你妈的小藻 https://t.co/hvA8IB49qW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "路人。and这段日子我愿意聊天，欢迎找我解惑，定期批量回fo或者私我",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1983757018830663844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984905090818523136/vVZ-D8dQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 479,
+          "following_count": 274,
+          "like_count": 130,
+          "listed_count": 1,
+          "media_count": 68,
+          "tweet_count": 731
+        },
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-05T07:32:46.000Z",
+        "description": "药物百科wiki主｜投稿报告请私信我｜长发视觉系4i男娘｜售卖合法物质直接私信我或联系TG: https://t.co/epYRPhCJVD ｜提问箱:https://t.co/ez10SQHDdD｜愿每一位药物滥用者都能脱离深渊｜提供药物/精神病咨询 ｜im crazy!",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/drug_artist",
+                "end": 70,
+                "expanded_url": "http://t.me/drug_artist",
+                "start": 47,
+                "url": "https://t.co/epYRPhCJVD"
+              },
+              {
+                "display_url": "ngl.link/drug_artist",
+                "end": 99,
+                "expanded_url": "https://ngl.link/drug_artist",
+                "start": 76,
+                "url": "https://t.co/ez10SQHDdD"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/N4ZvRTnSIg"
+              }
+            ]
+          }
+        },
+        "id": "1963867793776070656",
+        "location": "Xanax天国12mg自治区",
+        "name": "沐雨",
+        "pinned_tweet_id": "1985641950721294743",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984290837677965312/pwoAuV9f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1866,
+          "following_count": 90,
+          "like_count": 582,
+          "listed_count": 2,
+          "media_count": 79,
+          "tweet_count": 701
+        },
+        "url": "https://t.co/N4ZvRTnSIg",
+        "username": "drug_artist1",
+        "verified": false
+      }
+    ]
+  }
+}

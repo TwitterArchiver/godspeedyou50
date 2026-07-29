@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "1994325134963036363",
+    "created_at": "2025-11-28T09:32:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-28T10:32:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994338643503157610"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1912109703133646848",
+          "start": 0,
+          "username": "jzm1919810"
+        },
+        {
+          "end": 28,
+          "id": "1272405078683430913",
+          "start": 12,
+          "username": "PaitangOfficial"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994338643503157610",
+    "in_reply_to_user_id": "1912109703133646848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994336207774613683",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jzm1919810 @PaitangOfficial 国产zzd能不能行"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "1994325134963036363",
+        "created_at": "2025-11-28T09:32:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T10:32:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994338643503157610"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1912109703133646848",
+              "start": 0,
+              "username": "jzm1919810"
+            },
+            {
+              "end": 28,
+              "id": "1272405078683430913",
+              "start": 12,
+              "username": "PaitangOfficial"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994338643503157610",
+        "in_reply_to_user_id": "1912109703133646848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994336207774613683",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jzm1919810 @PaitangOfficial 国产zzd能不能行"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912109703133646848",
+        "conversation_id": "1994325134963036363",
+        "created_at": "2025-11-28T09:22:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T10:22:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994336207774613683"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1518404201168007168",
+              "start": 0,
+              "username": "godspeedyou50"
+            },
+            {
+              "end": 31,
+              "id": "1272405078683430913",
+              "start": 15,
+              "username": "PaitangOfficial"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994336207774613683",
+        "in_reply_to_user_id": "1518404201168007168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994325134963036363",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@godspeedyou50 @PaitangOfficial 叠AMPAKine吧，TAK-653 1mg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "路人。",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1983757018830663844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990279769297149952/3r34Cj2f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 658,
+          "following_count": 321,
+          "like_count": 342,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 954
+        },
+        "username": "godspeedyou50",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-15T11:44:19.000Z",
+        "description": "もしも願いが葉うなら 夜の空へとほうり投げて与えて\n\n请锁推且fo我的人一定让我回关，好吗？否则我的强迫症会受不了，只好取掉。谢谢。",
+        "id": "1912109703133646848",
+        "name": "Zemin Jiang",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 138,
+          "like_count": 123,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 604
+        },
+        "username": "jzm1919810",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-15T05:46:41.000Z",
+        "description": "Biohacker/认知提升剂 （nootropics）X/ADHD 专注商品/推特第二大促智商 “本研究化合物仅供实验室研究使用，严禁用于人体和动物” \n\n客服 @paipaipaitang ⚠️TG客服已死 不要联系⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 82,
+                "username": "paipaipaitang"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/paitangcuzhi",
+                "end": 23,
+                "expanded_url": "https://t.me/paitangcuzhi",
+                "start": 0,
+                "url": "https://t.co/r6ojtqNEYk"
+              }
+            ]
+          }
+        },
+        "id": "1272405078683430913",
+        "location": "下ネタ〇 |病み垢|不登校|",
+        "name": "☯️🧬無極 利他林和专注达",
+        "pinned_tweet_id": "1903330051837530420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985270408904376320/SHUUETVl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10055,
+          "following_count": 544,
+          "like_count": 8305,
+          "listed_count": 26,
+          "media_count": 1665,
+          "tweet_count": 13960
+        },
+        "url": "https://t.co/r6ojtqNEYk",
+        "username": "PaitangOfficial",
+        "verified": false
+      }
+    ]
+  }
+}

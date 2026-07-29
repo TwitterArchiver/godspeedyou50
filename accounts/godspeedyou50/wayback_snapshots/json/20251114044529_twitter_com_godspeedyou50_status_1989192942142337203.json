@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1989192927030214656",
+        "3_1989192927034441729"
+      ]
+    },
+    "author_id": "1518404201168007168",
+    "conversation_id": "1989192942142337203",
+    "created_at": "2025-11-14T04:45:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-14T05:45:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1989192942142337203"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ImZxV2ksOE",
+          "end": 37,
+          "expanded_url": "https://x.com/godspeedyou50/status/1989192942142337203/photo/1",
+          "media_key": "3_1989192927030214656",
+          "start": 14,
+          "url": "https://t.co/ImZxV2ksOE"
+        },
+        {
+          "display_url": "pic.x.com/ImZxV2ksOE",
+          "end": 37,
+          "expanded_url": "https://x.com/godspeedyou50/status/1989192942142337203/photo/1",
+          "media_key": "3_1989192927034441729",
+          "start": 14,
+          "url": "https://t.co/ImZxV2ksOE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989192942142337203",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "药商很难打过拼多多这个怪物 https://t.co/ImZxV2ksOE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1989192927030214656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5sIbY1bAAAzG9n.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1989192927034441729",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5sIbY2bgAE0aI8.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989192927030214656",
+            "3_1989192927034441729"
+          ]
+        },
+        "author_id": "1518404201168007168",
+        "conversation_id": "1989192942142337203",
+        "created_at": "2025-11-14T04:45:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T05:45:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989192942142337203"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ImZxV2ksOE",
+              "end": 37,
+              "expanded_url": "https://x.com/godspeedyou50/status/1989192942142337203/photo/1",
+              "media_key": "3_1989192927030214656",
+              "start": 14,
+              "url": "https://t.co/ImZxV2ksOE"
+            },
+            {
+              "display_url": "pic.x.com/ImZxV2ksOE",
+              "end": 37,
+              "expanded_url": "https://x.com/godspeedyou50/status/1989192942142337203/photo/1",
+              "media_key": "3_1989192927034441729",
+              "start": 14,
+              "url": "https://t.co/ImZxV2ksOE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989192942142337203",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "药商很难打过拼多多这个怪物 https://t.co/ImZxV2ksOE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "路人。and这段日子我愿意聊天，欢迎找我解惑，定期批量回fo或者私我",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1983757018830663844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984905090818523136/vVZ-D8dQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 486,
+          "following_count": 280,
+          "like_count": 166,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 735
+        },
+        "username": "godspeedyou50",
+        "verified": true
+      }
+    ]
+  }
+}

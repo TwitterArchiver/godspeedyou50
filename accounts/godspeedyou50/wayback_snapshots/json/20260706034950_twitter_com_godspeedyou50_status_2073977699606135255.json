@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2073968897741803542",
+    "created_at": "2026-07-06T03:49:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T04:49:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073977699606135255"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1402759909091971072",
+          "start": 0,
+          "username": "Liu89899552"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073977699606135255",
+    "in_reply_to_user_id": "1402759909091971072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073975743218856318",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Liu89899552 拮抗cb2拯救坠机"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1641,
+        "media_key": "3_2073975714819260416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMg97JqWwAAOSb5.jpg",
+        "width": 959
+      },
+      {
+        "height": 1086,
+        "media_key": "3_2073975714810904576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMg97JoXQAA5PJV.jpg",
+        "width": 1448
+      },
+      {
+        "height": 1122,
+        "media_key": "3_2073975714848583680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMg97JxWMAAEhJZ.jpg",
+        "width": 1402
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2073968897741803542",
+        "created_at": "2026-07-06T03:49:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T04:49:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073977699606135255"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1402759909091971072",
+              "start": 0,
+              "username": "Liu89899552"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073977699606135255",
+        "in_reply_to_user_id": "1402759909091971072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073975743218856318",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Liu89899552 拮抗cb2拯救坠机"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073975714819260416",
+            "3_2073975714810904576",
+            "3_2073975714848583680"
+          ]
+        },
+        "author_id": "1402759909091971072",
+        "conversation_id": "2073968897741803542",
+        "created_at": "2026-07-06T03:42:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T04:42:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073975743218856318"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1518404201168007168",
+              "start": 0,
+              "username": "godspeedyou50"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ponuqkdVXq",
+              "end": 43,
+              "expanded_url": "https://x.com/Liu89899552/status/2073975743218856318/photo/1",
+              "media_key": "3_2073975714819260416",
+              "start": 20,
+              "url": "https://t.co/ponuqkdVXq"
+            },
+            {
+              "display_url": "pic.x.com/ponuqkdVXq",
+              "end": 43,
+              "expanded_url": "https://x.com/Liu89899552/status/2073975743218856318/photo/1",
+              "media_key": "3_2073975714810904576",
+              "start": 20,
+              "url": "https://t.co/ponuqkdVXq"
+            },
+            {
+              "display_url": "pic.x.com/ponuqkdVXq",
+              "end": 43,
+              "expanded_url": "https://x.com/Liu89899552/status/2073975743218856318/photo/1",
+              "media_key": "3_2073975714848583680",
+              "start": 20,
+              "url": "https://t.co/ponuqkdVXq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073975743218856318",
+        "in_reply_to_user_id": "1518404201168007168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073968897741803542",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@godspeedyou50 为什么呢 https://t.co/ponuqkdVXq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个违背了大众道德良知的神棍。\n☯️算命后付不怕跑单｜代请符箓、祈福请私讯\n传统宗教现代哲学文化传播者，又称中式廉价心理医生。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/buyaogaowosorry",
+                "end": 23,
+                "expanded_url": "https://t.me/buyaogaowosorry",
+                "start": 0,
+                "url": "https://t.co/AdoFGQJT3r"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2069223594711011526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1596,
+          "following_count": 565,
+          "like_count": 1263,
+          "listed_count": 1,
+          "media_count": 199,
+          "tweet_count": 2836
+        },
+        "url": "https://t.co/AdoFGQJT3r",
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2021-06-09T22:50:15.000Z",
+        "description": "",
+        "id": "1402759909091971072",
+        "location": "Manhattan, NY",
+        "name": "PeungJeh",
+        "pinned_tweet_id": "1752618126422986898",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024419243303784448/8FeuKx2b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 444,
+          "following_count": 1560,
+          "like_count": 54143,
+          "listed_count": 0,
+          "media_count": 458,
+          "tweet_count": 8320
+        },
+        "url": "",
+        "username": "Liu89899552",
+        "verified": false
+      }
+    ]
+  }
+}

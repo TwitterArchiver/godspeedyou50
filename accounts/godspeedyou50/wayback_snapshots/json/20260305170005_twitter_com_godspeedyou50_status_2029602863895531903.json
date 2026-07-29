@@ -1,0 +1,116 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2029602863895531903",
+    "created_at": "2026-03-05T17:00:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-05T18:00:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2029602863895531903"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2029602863895531903",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "想起我刚疯那一阵，从精神病院恍惚的出来，看见什么都很害怕的惊恐，那个时候妈妈半夜三点都在陪着我玩switch，我们玩双人成行，马里奥，我妈妈当马里奥的帽子。\n我妈妈很笨拙的陪着我，她不会玩游戏，从没玩过，她是劳累了一辈子的妇女。\n但我妈妈陪着我的时候我的心安静了下来，突然想起……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2029602863895531903",
+        "created_at": "2026-03-05T17:00:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T18:00:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029602863895531903"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2029602863895531903",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想起我刚疯那一阵，从精神病院恍惚的出来，看见什么都很害怕的惊恐，那个时候妈妈半夜三点都在陪着我玩switch，我们玩双人成行，马里奥，我妈妈当马里奥的帽子。\n我妈妈很笨拙的陪着我，她不会玩游戏，从没玩过，她是劳累了一辈子的妇女。\n但我妈妈陪着我的时候我的心安静了下来，突然想起……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。/@Jahseh14138/双相I型/欢迎提问",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "Jahseh14138"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jahseh79919",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jahseh79919",
+                "start": 0,
+                "url": "https://t.co/xaz6T7v19q"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2029134307244294287",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 828,
+          "following_count": 166,
+          "like_count": 549,
+          "listed_count": 0,
+          "media_count": 88,
+          "tweet_count": 1577
+        },
+        "url": "https://t.co/xaz6T7v19q",
+        "username": "godspeedyou50",
+        "verified": true
+      }
+    ]
+  }
+}

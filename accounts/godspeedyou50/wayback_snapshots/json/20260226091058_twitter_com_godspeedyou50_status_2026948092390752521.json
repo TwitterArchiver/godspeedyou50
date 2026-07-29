@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2026947355980017885",
+    "created_at": "2026-02-26T09:10:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T10:10:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026948092390752521"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1662293107738640384",
+          "start": 0,
+          "username": "SHUGE0731"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026948092390752521",
+    "in_reply_to_user_id": "1662293107738640384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026947355980017885",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SHUGE0731 这种傻逼 操逼也要管 自己爹妈当初像游戏匹配一样就给她造出来了 现在管别人操逼的事儿了\n我他妈谈恋爱给鸡巴锁上到时间再解锁吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2026947355980017885",
+        "created_at": "2026-02-26T09:10:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T10:10:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026948092390752521"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1662293107738640384",
+              "start": 0,
+              "username": "SHUGE0731"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026948092390752521",
+        "in_reply_to_user_id": "1662293107738640384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026947355980017885",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SHUGE0731 这种傻逼 操逼也要管 自己爹妈当初像游戏匹配一样就给她造出来了 现在管别人操逼的事儿了\n我他妈谈恋爱给鸡巴锁上到时间再解锁吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662293107738640384",
+        "conversation_id": "2026947355980017885",
+        "created_at": "2026-02-26T09:08:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T10:08:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026947355980017885"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kallen0720/sta…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/kallen0720/status/2026738502046507205",
+              "start": 22,
+              "url": "https://t.co/xxhqzZ9iEK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026947355980017885",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026738502046507205",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我特别喜欢转发一些骂我的帖子\n（并非贬义） https://t.co/xxhqzZ9iEK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。/@Jahseh14138/双相I型/欢迎提问",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "Jahseh14138"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jahseh79919",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jahseh79919",
+                "start": 0,
+                "url": "https://t.co/xaz6T7v19q"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1994852955737264187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 774,
+          "following_count": 136,
+          "like_count": 475,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 1411
+        },
+        "url": "https://t.co/xaz6T7v19q",
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | ⚠️负面内容&日常全是废话｜可以叫我洋流&Asuka｜鹦鹉叫uno｜请跟我聊天｜超级社恐但是谢谢你们｜欢迎互fo｜🚪20 ｜ 最最亲爱的恋人&主人 @Dorcus10031",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 81,
+                "username": "Dorcus10031"
+              }
+            ]
+          }
+        },
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 643,
+          "following_count": 1000,
+          "like_count": 22484,
+          "listed_count": 3,
+          "media_count": 578,
+          "tweet_count": 7975
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      }
+    ]
+  }
+}

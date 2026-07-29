@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2023980403103588459",
+    "created_at": "2026-02-18T04:38:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T05:38:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2023980403103588459"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/jahseh14138/st…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/jahseh14138/status/2023960575353516541",
+          "start": 13,
+          "url": "https://t.co/AtpBAVnlpW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023980403103588459",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023960575353516541",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "都给我去抢心流rc大礼包 https://t.co/AtpBAVnlpW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2023960572078010368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBaNarobMAAl8XP.jpg",
+        "width": 959
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2023980403103588459",
+        "created_at": "2026-02-18T04:38:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T05:38:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023980403103588459"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jahseh14138/st…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/jahseh14138/status/2023960575353516541",
+              "start": 13,
+              "url": "https://t.co/AtpBAVnlpW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023980403103588459",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023960575353516541",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "都给我去抢心流rc大礼包 https://t.co/AtpBAVnlpW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023960572078010368"
+          ]
+        },
+        "author_id": "2014703939044958208",
+        "conversation_id": "2023960575353516541",
+        "created_at": "2026-02-18T03:19:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T04:19:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023960575353516541"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mG6XfVRrbt",
+              "end": 34,
+              "expanded_url": "https://x.com/Jahseh14138/status/2023960575353516541/photo/1",
+              "media_key": "3_2023960572078010368",
+              "start": 11,
+              "url": "https://t.co/mG6XfVRrbt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023960575353516541",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的小群有抽奖 谁来 https://t.co/mG6XfVRrbt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。/@Jahseh14138/双相I型",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "Jahseh14138"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1994852955737264187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 745,
+          "following_count": 119,
+          "like_count": 433,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 1315
+        },
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-23T14:18:10.000Z",
+        "description": "我把你们的大哥  @godspeedYou50 夺舍了\n\n现在在你面前的是 实验室小神厨⚛️/露营爱好者⛺/神秘物质制造者👾 瓦楞斯😌  ↓频道↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 9,
+                "username": "godspeedYou50"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/ValenceRC_info…",
+                "end": 23,
+                "expanded_url": "https://t.me/ValenceRC_inform",
+                "start": 0,
+                "url": "https://t.co/VHMOuSBzaN"
+              }
+            ]
+          }
+        },
+        "id": "2014703939044958208",
+        "location": "永雏塔非研究中心",
+        "name": "瓦楞斯（2.0）",
+        "pinned_tweet_id": "2023964902872776931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021883299766185985/re7X9GK8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 64,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 92
+        },
+        "url": "https://t.co/VHMOuSBzaN",
+        "username": "Jahseh14138",
+        "verified": false
+      }
+    ]
+  }
+}

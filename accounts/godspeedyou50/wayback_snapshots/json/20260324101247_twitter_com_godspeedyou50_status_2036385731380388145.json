@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2036385441189089604",
+    "created_at": "2026-03-24T10:12:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T11:12:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036385731380388145"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1776627287934537728",
+          "start": 0,
+          "username": "NaiJin66998"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036385731380388145",
+    "in_reply_to_user_id": "1776627287934537728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036385441189089604",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NaiJin66998 普巴记住 你要闭眼睛 闭眼睛试试呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2036385441189089604",
+        "created_at": "2026-03-24T10:12:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T11:12:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036385731380388145"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1776627287934537728",
+              "start": 0,
+              "username": "NaiJin66998"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036385731380388145",
+        "in_reply_to_user_id": "1776627287934537728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036385441189089604",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NaiJin66998 普巴记住 你要闭眼睛 闭眼睛试试呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776627287934537728",
+        "conversation_id": "2036385441189089604",
+        "created_at": "2026-03-24T10:11:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T11:11:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036385441189089604"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036385441189089604",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "pr1506t2t巴氯芬2t氟西汀抽烟全身麻麻的好舒服"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。/双相I型/欢迎提问",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jahseh79919",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jahseh79919",
+                "start": 0,
+                "url": "https://t.co/xaz6T7v19q"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2029134307244294287",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 963,
+          "following_count": 186,
+          "like_count": 722,
+          "listed_count": 0,
+          "media_count": 117,
+          "tweet_count": 1913
+        },
+        "url": "https://t.co/xaz6T7v19q",
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-06T15:05:36.000Z",
+        "description": "看着你👁️喜欢的人 @ovocaize",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 10,
+                "username": "ovocaize"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rain23266",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rain23266",
+                "start": 0,
+                "url": "https://t.co/TIIJB87HIc"
+              }
+            ]
+          }
+        },
+        "id": "1776627287934537728",
+        "location": "🚪88/188/288/520/1314",
+        "name": "冬雪Rain",
+        "pinned_tweet_id": "2034215927651479956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931283273432657920/4nOsokdq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 844,
+          "following_count": 188,
+          "like_count": 589,
+          "listed_count": 1,
+          "media_count": 14,
+          "tweet_count": 388
+        },
+        "url": "https://t.co/TIIJB87HIc",
+        "username": "NaiJin66998",
+        "verified": false
+      }
+    ]
+  }
+}

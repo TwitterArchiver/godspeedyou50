@@ -1,0 +1,168 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2028529058204831869",
+    "created_at": "2026-03-02T17:53:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T18:53:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2028529058204831869"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "Jahseh’s Space · 0 listening · Where live audio conversations happen",
+          "display_url": "x.com/i/spaces/1vKpP…",
+          "end": 23,
+          "expanded_url": "https://x.com/i/spaces/1vKpPrNZjQMKE",
+          "images": [
+            {
+              "height": 630,
+              "url": "https://pbs.twimg.com/news_img/2028529059672780800/pk321RbK?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2028529059672780800/pk321RbK?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 0,
+          "status": 200,
+          "title": "Happening now: 你们好",
+          "unwound_url": "https://twitter.com/i/spaces/1vKpPrNZjQMKE/peek",
+          "url": "https://t.co/bZe8NaLwm0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028529058204831869",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/bZe8NaLwm0"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2028529058204831869",
+        "created_at": "2026-03-02T17:53:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T18:53:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028529058204831869"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Jahseh’s Space · 0 listening · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1vKpP…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/spaces/1vKpPrNZjQMKE",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2028529059672780800/pk321RbK?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2028529059672780800/pk321RbK?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "Happening now: 你们好",
+              "unwound_url": "https://twitter.com/i/spaces/1vKpPrNZjQMKE/peek",
+              "url": "https://t.co/bZe8NaLwm0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028529058204831869",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/bZe8NaLwm0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。/@Jahseh14138/双相I型/欢迎提问",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "Jahseh14138"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jahseh79919",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jahseh79919",
+                "start": 0,
+                "url": "https://t.co/xaz6T7v19q"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1994852955737264187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 805,
+          "following_count": 155,
+          "like_count": 538,
+          "listed_count": 0,
+          "media_count": 98,
+          "tweet_count": 1540
+        },
+        "url": "https://t.co/xaz6T7v19q",
+        "username": "godspeedyou50",
+        "verified": true
+      }
+    ]
+  }
+}

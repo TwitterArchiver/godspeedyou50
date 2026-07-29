@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2018995551430492438",
+    "created_at": "2026-02-04T10:30:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-04T11:30:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018995551430492438"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1518404201168007168",
+          "start": 3,
+          "username": "godspeedyou50"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018995551430492438",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979986522029117932",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @godspeedyou50: 世界上必须要有人磕感康 要死掉去躺救护车\n必须要有人随便买来苦苦的玉米片随时逃避生活，也要有人有条不紊的和医生周旋骗来右美沙芬，只是为了去掉那份“苦”所以就是这样的 有些人死之前可能还不明白为什么 但有些人死的有价值 \n血清素 多巴胺…..…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2018995551430492438",
+        "created_at": "2026-02-04T10:30:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T11:30:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018995551430492438"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1518404201168007168",
+              "start": 3,
+              "username": "godspeedyou50"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018995551430492438",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979986522029117932",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @godspeedyou50: 世界上必须要有人磕感康 要死掉去躺救护车\n必须要有人随便买来苦苦的玉米片随时逃避生活，也要有人有条不紊的和医生周旋骗来右美沙芬，只是为了去掉那份“苦”所以就是这样的 有些人死之前可能还不明白为什么 但有些人死的有价值 \n血清素 多巴胺…..…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "1979978295744885190",
+        "created_at": "2025-10-19T19:02:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T20:02:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979986522029117932"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1979986522029117932",
+        "in_reply_to_user_id": "1518404201168007168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1084,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979983908231115226",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "世界上必须要有人磕感康 要死掉去躺救护车\n必须要有人随便买来苦苦的玉米片随时逃避生活，也要有人有条不紊的和医生周旋骗来右美沙芬，只是为了去掉那份“苦”所以就是这样的 有些人死之前可能还不明白为什么 但有些人死的有价值 \n血清素 多巴胺…..\n每个人都得解解乏\n只是想要舒服而已"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。/@Jahseh14138/严重双相I型",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "Jahseh14138"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1994852955737264187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 712,
+          "following_count": 97,
+          "like_count": 400,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 1174
+        },
+        "username": "godspeedyou50",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "1983338009354494428",
+    "created_at": "2025-10-29T01:00:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-29T02:00:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1983338009354494428"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/godspeedyou50/…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/godspeedyou50/status/1983149928827527227",
+          "start": 5,
+          "url": "https://t.co/sYV3A8oETL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983338009354494428",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983149928827527227",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我睡眠呢 https://t.co/sYV3A8oETL"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "1983338009354494428",
+        "created_at": "2025-10-29T01:00:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T02:00:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983338009354494428"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/godspeedyou50/…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/godspeedyou50/status/1983149928827527227",
+              "start": 5,
+              "url": "https://t.co/sYV3A8oETL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983338009354494428",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983149928827527227",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我睡眠呢 https://t.co/sYV3A8oETL"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "1983149928827527227",
+        "created_at": "2025-10-28T12:32:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T13:32:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983149928827527227"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1983149928827527227",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 276,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "吃六颗阿普玩玩呢？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "路人。and这段日子我愿意聊天，欢迎找我解惑，定期批量回fo或者私我",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1982515322788942238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827690417619697665/4z5RgWOE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 386,
+          "following_count": 230,
+          "like_count": 83,
+          "listed_count": 1,
+          "media_count": 46,
+          "tweet_count": 530
+        },
+        "username": "godspeedyou50",
+        "verified": true
+      }
+    ]
+  }
+}

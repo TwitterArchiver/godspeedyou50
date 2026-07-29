@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "1983916621920882696",
+    "created_at": "2025-10-30T18:17:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-30T19:17:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983961389225144733"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1662439435726905344",
+          "start": 0,
+          "username": "moya_michaeI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983961389225144733",
+    "in_reply_to_user_id": "1662439435726905344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983917594529628669",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@moya_michaeI 当然可以"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "1983916621920882696",
+        "created_at": "2025-10-30T18:17:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T19:17:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983961389225144733"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1662439435726905344",
+              "start": 0,
+              "username": "moya_michaeI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983961389225144733",
+        "in_reply_to_user_id": "1662439435726905344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983917594529628669",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@moya_michaeI 当然可以"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662439435726905344",
+        "conversation_id": "1983916621920882696",
+        "created_at": "2025-10-30T15:23:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T16:23:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983917594529628669"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1518404201168007168",
+              "start": 0,
+              "username": "godspeedyou50"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983917594529628669",
+        "in_reply_to_user_id": "1518404201168007168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 64,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983916621920882696",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@godspeedyou50 给我搞点"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "路人。and这段日子我愿意聊天，欢迎找我解惑，定期批量回fo或者私我",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1983757018830663844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983944337726787584/JcjyTY_u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 412,
+          "following_count": 254,
+          "like_count": 99,
+          "listed_count": 1,
+          "media_count": 51,
+          "tweet_count": 591
+        },
+        "username": "godspeedyou50",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-27T12:44:05.000Z",
+        "description": "青年收录计划主理 公众号请翻阅往期内容 以后当个人号随便发发",
+        "id": "1662439435726905344",
+        "location": "東京 渋谷区",
+        "name": "Michael-MoyA",
+        "pinned_tweet_id": "1980865192201535626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983926637260660736/jix4stR1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 360,
+          "following_count": 172,
+          "like_count": 7468,
+          "listed_count": 1,
+          "media_count": 46,
+          "tweet_count": 1146
+        },
+        "username": "moya_michaeI",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2028842945630392320"
+      ]
+    },
+    "author_id": "1518404201168007168",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2028842956497801566",
+    "created_at": "2026-03-03T14:40:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T15:40:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2028842956497801566"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/499hhEjecR",
+          "end": 68,
+          "expanded_url": "https://x.com/godspeedyou50/status/2028842956497801566/photo/1",
+          "media_key": "3_2028842945630392320",
+          "start": 45,
+          "url": "https://t.co/499hhEjecR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028842956497801566",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "买这个ar眼镜是我人生做的最对的一个决定，b站放个chill的迷幻视频，普瑞就够我出神了 https://t.co/499hhEjecR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 945,
+        "media_key": "3_2028842945630392320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCfl6OdbUAAMscs.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028842945630392320"
+          ]
+        },
+        "author_id": "1518404201168007168",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2028842956497801566",
+        "created_at": "2026-03-03T14:40:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T15:40:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028842956497801566"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/499hhEjecR",
+              "end": 68,
+              "expanded_url": "https://x.com/godspeedyou50/status/2028842956497801566/photo/1",
+              "media_key": "3_2028842945630392320",
+              "start": 45,
+              "url": "https://t.co/499hhEjecR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028842956497801566",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "买这个ar眼镜是我人生做的最对的一个决定，b站放个chill的迷幻视频，普瑞就够我出神了 https://t.co/499hhEjecR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。/@Jahseh14138/双相I型/欢迎提问",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "Jahseh14138"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jahseh79919",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jahseh79919",
+                "start": 0,
+                "url": "https://t.co/xaz6T7v19q"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1994852955737264187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 812,
+          "following_count": 163,
+          "like_count": 528,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 1541
+        },
+        "url": "https://t.co/xaz6T7v19q",
+        "username": "godspeedyou50",
+        "verified": true
+      }
+    ]
+  }
+}

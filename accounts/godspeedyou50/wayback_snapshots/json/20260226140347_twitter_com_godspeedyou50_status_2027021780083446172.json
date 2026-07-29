@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2026992027821588934",
+    "created_at": "2026-02-26T14:03:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T15:03:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027021780083446172"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1271278454537744384",
+          "start": 0,
+          "username": "Rabbit_Pussy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027021780083446172",
+    "in_reply_to_user_id": "1271278454537744384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027021473140084769",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rabbit_Pussy 那不中 那我没劲哈哈哈哈哈哈，实际上不玩东西我没有力气社交，瓦行啊，三角洲也行啊，红3我教你或者我学学星际争霸玩不玩不要犹豫 哈哈哈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2026992027821588934",
+        "created_at": "2026-02-26T14:03:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T15:03:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027021780083446172"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1271278454537744384",
+              "start": 0,
+              "username": "Rabbit_Pussy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027021780083446172",
+        "in_reply_to_user_id": "1271278454537744384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027021473140084769",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rabbit_Pussy 那不中 那我没劲哈哈哈哈哈哈，实际上不玩东西我没有力气社交，瓦行啊，三角洲也行啊，红3我教你或者我学学星际争霸玩不玩不要犹豫 哈哈哈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1271278454537744384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2026992027821588934",
+        "created_at": "2026-02-26T14:02:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T15:02:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027021473140084769"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1518404201168007168",
+              "start": 0,
+              "username": "godspeedyou50"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027021473140084769",
+        "in_reply_to_user_id": "1518404201168007168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027020149539430773",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@godspeedyou50 不会啊，瓦会，飞驰人生前两天看过了，我不太敢用药最近，做做饭玩游戏看看电影挺好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。/@Jahseh14138/双相I型/欢迎提问",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "Jahseh14138"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jahseh79919",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jahseh79919",
+                "start": 0,
+                "url": "https://t.co/xaz6T7v19q"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1994852955737264187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 781,
+          "following_count": 142,
+          "like_count": 490,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 1444
+        },
+        "url": "https://t.co/xaz6T7v19q",
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2020-06-12T03:09:46.000Z",
+        "description": "一只兔子和一只猫的故事",
+        "id": "1271278454537744384",
+        "location": "Niger",
+        "name": "兔毛Meow",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024655426030358528/ZGS0eBgS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4240,
+          "following_count": 2112,
+          "like_count": 27117,
+          "listed_count": 7,
+          "media_count": 1051,
+          "tweet_count": 7514
+        },
+        "username": "Rabbit_Pussy",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2033882661434036450",
+    "created_at": "2026-03-17T12:39:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-17T13:39:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033885866037547434"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1978128183875514369",
+          "start": 0,
+          "username": "na_an31255"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033885866037547434",
+    "in_reply_to_user_id": "1978128183875514369",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033885357541122404",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@na_an31255 这把生死局 最可怕的是英文社区的概念“The Ambien Walrus”思诺思之狼\n思诺思叠这些傻逼致幻剂就会让你疯狂变态我就怕我跑出大街闹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2033882661434036450",
+        "created_at": "2026-03-17T12:39:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T13:39:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033885866037547434"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1978128183875514369",
+              "start": 0,
+              "username": "na_an31255"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033885866037547434",
+        "in_reply_to_user_id": "1978128183875514369",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033885357541122404",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@na_an31255 这把生死局 最可怕的是英文社区的概念“The Ambien Walrus”思诺思之狼\n思诺思叠这些傻逼致幻剂就会让你疯狂变态我就怕我跑出大街闹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1978128183875514369",
+        "conversation_id": "2033882661434036450",
+        "created_at": "2026-03-17T12:37:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T13:37:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033885357541122404"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1518404201168007168",
+              "start": 0,
+              "username": "godspeedyou50"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033885357541122404",
+        "in_reply_to_user_id": "1518404201168007168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033882661434036450",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@godspeedyou50 第二天睁开眼就算赢了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。/双相I型/欢迎提问",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jahseh79919",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jahseh79919",
+                "start": 0,
+                "url": "https://t.co/xaz6T7v19q"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2029134307244294287",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 903,
+          "following_count": 191,
+          "like_count": 638,
+          "listed_count": 1,
+          "media_count": 105,
+          "tweet_count": 1704
+        },
+        "url": "https://t.co/xaz6T7v19q",
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-14T15:58:15.000Z",
+        "description": "喵/小草&我的秘密空间and日记本/精神不稳定性格有缺陷/无知 虚伪 贪婪 嫉妒 束缚 伤害/",
+        "id": "1978128183875514369",
+        "location": "乌托邦",
+        "name": "电车驶过身体发出告别声",
+        "pinned_tweet_id": "1997278535908729264",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992294900721946624/YU9ja8dB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 172,
+          "following_count": 148,
+          "like_count": 125,
+          "listed_count": 0,
+          "media_count": 92,
+          "tweet_count": 730
+        },
+        "username": "na_an31255",
+        "verified": false
+      }
+    ]
+  }
+}

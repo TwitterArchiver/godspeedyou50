@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "1999847473289007376",
+    "created_at": "2025-12-13T14:22:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-13T15:22:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999847473289007376"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1518404201168007168",
+          "start": 3,
+          "username": "godspeedyou50"
+        },
+        {
+          "end": 32,
+          "id": "1678171777409875968",
+          "start": 19,
+          "username": "420420420CTL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999847473289007376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999847415030153647",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @godspeedyou50: @420420420CTL 尼玛 我不认识这人 又特么造谣 我生气了哈？？？？\n怎么这么贱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "1999847473289007376",
+        "created_at": "2025-12-13T14:22:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T15:22:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999847473289007376"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1518404201168007168",
+              "start": 3,
+              "username": "godspeedyou50"
+            },
+            {
+              "end": 32,
+              "id": "1678171777409875968",
+              "start": 19,
+              "username": "420420420CTL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999847473289007376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999847415030153647",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @godspeedyou50: @420420420CTL 尼玛 我不认识这人 又特么造谣 我生气了哈？？？？\n怎么这么贱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "1999831047375385061",
+        "created_at": "2025-12-13T14:22:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T15:22:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999847415030153647"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1678171777409875968",
+              "start": 0,
+              "username": "420420420CTL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999847415030153647",
+        "in_reply_to_user_id": "1678171777409875968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999831047375385061",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@420420420CTL 尼玛 我不认识这人 又特么造谣 我生气了哈？？？？\n怎么这么贱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1999064457344147720",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 665,
+          "following_count": 66,
+          "like_count": 366,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 1044
+        },
+        "username": "godspeedyou50",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-09T22:38:41.000Z",
+        "description": "支持亞洲大麻合法化，大麻除罪，正視醫療大麻用途，MTF🏳️‍⚧️🏳️‍🌈LGBTQ友好🧑‍🤝‍🧑👭只有x和谷歌電郵聯繫方式，會回私信，",
+        "id": "1678171777409875968",
+        "location": "Los Angeles, CA",
+        "name": "邦尼兔weed_420（大麻/電子煙）",
+        "pinned_tweet_id": "1994233157906788612",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997869953601712128/tL9oqeh2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 604,
+          "following_count": 482,
+          "like_count": 226,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 625
+        },
+        "username": "420420420CTL",
+        "verified": false
+      }
+    ]
+  }
+}

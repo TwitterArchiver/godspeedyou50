@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2036514955663647182",
+    "created_at": "2026-03-24T18:46:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T19:46:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036514955663647182"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1754592422582218752",
+          "start": 3,
+          "username": "xtngs186809"
+        },
+        {
+          "end": 32,
+          "id": "1524182279307751426",
+          "start": 17,
+          "username": "haonan11245241"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036514955663647182",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036457899971735862",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xtngs186809: @haonan11245241 没条件就别玩门了，52还想找个美女永久聊天，陪聊都比这贵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2036514955663647182",
+        "created_at": "2026-03-24T18:46:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T19:46:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036514955663647182"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1754592422582218752",
+              "start": 3,
+              "username": "xtngs186809"
+            },
+            {
+              "end": 32,
+              "id": "1524182279307751426",
+              "start": 17,
+              "username": "haonan11245241"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036514955663647182",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036457899971735862",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xtngs186809: @haonan11245241 没条件就别玩门了，52还想找个美女永久聊天，陪聊都比这贵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1754592422582218752",
+        "conversation_id": "2036348346059858359",
+        "created_at": "2026-03-24T14:59:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T15:59:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036457899971735862"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1524182279307751426",
+              "start": 0,
+              "username": "haonan11245241"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036457899971735862",
+        "in_reply_to_user_id": "1524182279307751426",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 493,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036348346059858359",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@haonan11245241 没条件就别玩门了，52还想找个美女永久聊天，陪聊都比这贵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。/双相I型/欢迎提问",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jahseh79919",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jahseh79919",
+                "start": 0,
+                "url": "https://t.co/xaz6T7v19q"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2029134307244294287",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 971,
+          "following_count": 187,
+          "like_count": 735,
+          "listed_count": 0,
+          "media_count": 119,
+          "tweet_count": 1936
+        },
+        "url": "https://t.co/xaz6T7v19q",
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-05T19:47:12.000Z",
+        "description": "摩羯infj｜165/43kg｜有客妹 墙内不要指认我｜https://t.co/M05YRT0rtj",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/snowremain",
+                "end": 51,
+                "expanded_url": "https://ngl.link/snowremain",
+                "start": 28,
+                "url": "https://t.co/M05YRT0rtj"
+              }
+            ]
+          }
+        },
+        "id": "1754592422582218752",
+        "location": "52/188纯绿 互关可加",
+        "name": "屍體般的妳",
+        "pinned_tweet_id": "1993297869420610007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035729253321560064/OXEV7PwN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 258,
+          "following_count": 52,
+          "like_count": 511,
+          "listed_count": 1,
+          "media_count": 29,
+          "tweet_count": 214
+        },
+        "username": "xtngs186809",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-11T00:19:15.000Z",
+        "description": "王者恋dd",
+        "id": "1524182279307751426",
+        "location": "O",
+        "name": "Ro",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030819762553655296/rlv_GGeZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 18,
+          "like_count": 16,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 33
+        },
+        "username": "haonan11245241",
+        "verified": false
+      }
+    ]
+  }
+}

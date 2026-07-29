@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1999058975199989760",
+        "3_1999058975229456384",
+        "3_1999058975204188160",
+        "3_1999058975220961280"
+      ]
+    },
+    "author_id": "1518404201168007168",
+    "conversation_id": "1999058992669360452",
+    "created_at": "2025-12-11T10:09:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-11T11:09:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1999058992669360452"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/43AD2OroSY",
+          "end": 169,
+          "expanded_url": "https://x.com/godspeedyou50/status/1999058992669360452/photo/1",
+          "media_key": "3_1999058975199989760",
+          "start": 146,
+          "url": "https://t.co/43AD2OroSY"
+        },
+        {
+          "display_url": "pic.x.com/43AD2OroSY",
+          "end": 169,
+          "expanded_url": "https://x.com/godspeedyou50/status/1999058992669360452/photo/1",
+          "media_key": "3_1999058975229456384",
+          "start": 146,
+          "url": "https://t.co/43AD2OroSY"
+        },
+        {
+          "display_url": "pic.x.com/43AD2OroSY",
+          "end": 169,
+          "expanded_url": "https://x.com/godspeedyou50/status/1999058992669360452/photo/1",
+          "media_key": "3_1999058975204188160",
+          "start": 146,
+          "url": "https://t.co/43AD2OroSY"
+        },
+        {
+          "display_url": "pic.x.com/43AD2OroSY",
+          "end": 169,
+          "expanded_url": "https://x.com/godspeedyou50/status/1999058992669360452/photo/1",
+          "media_key": "3_1999058975220961280",
+          "start": 146,
+          "url": "https://t.co/43AD2OroSY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999058992669360452",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "有的时候觉得好笑是这种烂地方就是谁人躲谁有理 我根本不针对点评什么门槛妹群体\n谁都有小讨论组 谁都有看走眼的时候 我是个吸毒逼 我们的群就是不让沾卖策划药的人\n骂你们卖策划药的是我的自由 沐雨吃坏人不发货我从头到位的在喷 如何？\n你真别一个一个扒了 你自己的聊天记录真经得起扒吗怎么就圣洁了 https://t.co/43AD2OroSY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1903,
+        "media_key": "3_1999058975199989760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G74Vi-XaEAA9BC3.jpg",
+        "width": 1279
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1999058975229456384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G74Vi-ebsAAenNd.jpg",
+        "width": 1245
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1999058975204188160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G74Vi-YaIAAnRiF.jpg",
+        "width": 1214
+      },
+      {
+        "height": 1744,
+        "media_key": "3_1999058975220961280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G74Vi-caEAA77xi.jpg",
+        "width": 1279
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999058975199989760",
+            "3_1999058975229456384",
+            "3_1999058975204188160",
+            "3_1999058975220961280"
+          ]
+        },
+        "author_id": "1518404201168007168",
+        "conversation_id": "1999058992669360452",
+        "created_at": "2025-12-11T10:09:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T11:09:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999058992669360452"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/43AD2OroSY",
+              "end": 169,
+              "expanded_url": "https://x.com/godspeedyou50/status/1999058992669360452/photo/1",
+              "media_key": "3_1999058975199989760",
+              "start": 146,
+              "url": "https://t.co/43AD2OroSY"
+            },
+            {
+              "display_url": "pic.x.com/43AD2OroSY",
+              "end": 169,
+              "expanded_url": "https://x.com/godspeedyou50/status/1999058992669360452/photo/1",
+              "media_key": "3_1999058975229456384",
+              "start": 146,
+              "url": "https://t.co/43AD2OroSY"
+            },
+            {
+              "display_url": "pic.x.com/43AD2OroSY",
+              "end": 169,
+              "expanded_url": "https://x.com/godspeedyou50/status/1999058992669360452/photo/1",
+              "media_key": "3_1999058975204188160",
+              "start": 146,
+              "url": "https://t.co/43AD2OroSY"
+            },
+            {
+              "display_url": "pic.x.com/43AD2OroSY",
+              "end": 169,
+              "expanded_url": "https://x.com/godspeedyou50/status/1999058992669360452/photo/1",
+              "media_key": "3_1999058975220961280",
+              "start": 146,
+              "url": "https://t.co/43AD2OroSY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999058992669360452",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有的时候觉得好笑是这种烂地方就是谁人躲谁有理 我根本不针对点评什么门槛妹群体\n谁都有小讨论组 谁都有看走眼的时候 我是个吸毒逼 我们的群就是不让沾卖策划药的人\n骂你们卖策划药的是我的自由 沐雨吃坏人不发货我从头到位的在喷 如何？\n你真别一个一个扒了 你自己的聊天记录真经得起扒吗怎么就圣洁了 https://t.co/43AD2OroSY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1994852955737264187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 670,
+          "following_count": 63,
+          "like_count": 364,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 1006
+        },
+        "username": "godspeedyou50",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2024484985307353089",
+        "3_2024484990474735618",
+        "3_2024484990676062209",
+        "3_2024484985290575872"
+      ]
+    },
+    "author_id": "1518404201168007168",
+    "conversation_id": "2024485018937250181",
+    "created_at": "2026-02-19T14:03:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T15:03:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2024485018937250181"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/OGTqLl0tjQ",
+          "end": 34,
+          "expanded_url": "https://x.com/godspeedyou50/status/2024485018937250181/photo/1",
+          "media_key": "3_2024484985307353089",
+          "start": 11,
+          "url": "https://t.co/OGTqLl0tjQ"
+        },
+        {
+          "display_url": "pic.x.com/OGTqLl0tjQ",
+          "end": 34,
+          "expanded_url": "https://x.com/godspeedyou50/status/2024485018937250181/photo/1",
+          "media_key": "3_2024484990474735618",
+          "start": 11,
+          "url": "https://t.co/OGTqLl0tjQ"
+        },
+        {
+          "display_url": "pic.x.com/OGTqLl0tjQ",
+          "end": 34,
+          "expanded_url": "https://x.com/godspeedyou50/status/2024485018937250181/photo/1",
+          "media_key": "3_2024484990676062209",
+          "start": 11,
+          "url": "https://t.co/OGTqLl0tjQ"
+        },
+        {
+          "display_url": "pic.x.com/OGTqLl0tjQ",
+          "end": 34,
+          "expanded_url": "https://x.com/godspeedyou50/status/2024485018937250181/photo/1",
+          "media_key": "3_2024484985290575872",
+          "start": 11,
+          "url": "https://t.co/OGTqLl0tjQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024485018937250181",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "真理往往在糙话里…. https://t.co/OGTqLl0tjQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2024484985307353089",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBhqXjJbUAExyZm.jpg",
+        "width": 1056
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2024484990474735618",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBhqX2ZbUAISKZ5.jpg",
+        "width": 1048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2024484990676062209",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBhqX3JbUAEOYpJ.jpg",
+        "width": 1046
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2024484985290575872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBhqXjFbUAALo70.jpg",
+        "width": 1058
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024484985307353089",
+            "3_2024484990474735618",
+            "3_2024484990676062209",
+            "3_2024484985290575872"
+          ]
+        },
+        "author_id": "1518404201168007168",
+        "conversation_id": "2024485018937250181",
+        "created_at": "2026-02-19T14:03:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T15:03:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024485018937250181"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OGTqLl0tjQ",
+              "end": 34,
+              "expanded_url": "https://x.com/godspeedyou50/status/2024485018937250181/photo/1",
+              "media_key": "3_2024484985307353089",
+              "start": 11,
+              "url": "https://t.co/OGTqLl0tjQ"
+            },
+            {
+              "display_url": "pic.x.com/OGTqLl0tjQ",
+              "end": 34,
+              "expanded_url": "https://x.com/godspeedyou50/status/2024485018937250181/photo/1",
+              "media_key": "3_2024484990474735618",
+              "start": 11,
+              "url": "https://t.co/OGTqLl0tjQ"
+            },
+            {
+              "display_url": "pic.x.com/OGTqLl0tjQ",
+              "end": 34,
+              "expanded_url": "https://x.com/godspeedyou50/status/2024485018937250181/photo/1",
+              "media_key": "3_2024484990676062209",
+              "start": 11,
+              "url": "https://t.co/OGTqLl0tjQ"
+            },
+            {
+              "display_url": "pic.x.com/OGTqLl0tjQ",
+              "end": 34,
+              "expanded_url": "https://x.com/godspeedyou50/status/2024485018937250181/photo/1",
+              "media_key": "3_2024484985290575872",
+              "start": 11,
+              "url": "https://t.co/OGTqLl0tjQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024485018937250181",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "真理往往在糙话里…. https://t.co/OGTqLl0tjQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。/@Jahseh14138/双相I型/欢迎提问",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "Jahseh14138"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jahseh79919",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jahseh79919",
+                "start": 0,
+                "url": "https://t.co/xaz6T7v19q"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1994852955737264187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 743,
+          "following_count": 123,
+          "like_count": 436,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 1325
+        },
+        "url": "https://t.co/xaz6T7v19q",
+        "username": "godspeedyou50",
+        "verified": true
+      }
+    ]
+  }
+}

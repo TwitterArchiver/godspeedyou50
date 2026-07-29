@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "1991769630860537901",
+    "created_at": "2025-11-21T08:17:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-21T09:17:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991783038456590375"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1298647438849433605",
+          "start": 0,
+          "username": "SakurasawaAkira"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991783038456590375",
+    "in_reply_to_user_id": "1298647438849433605",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991781696614846553",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SakurasawaAkira 那不行 要全职"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "1991769630860537901",
+        "created_at": "2025-11-21T08:17:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T09:17:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991783038456590375"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1298647438849433605",
+              "start": 0,
+              "username": "SakurasawaAkira"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991783038456590375",
+        "in_reply_to_user_id": "1298647438849433605",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991781696614846553",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SakurasawaAkira 那不行 要全职"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1298647438849433605",
+        "conversation_id": "1991769630860537901",
+        "created_at": "2025-11-21T08:12:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T09:12:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991781696614846553"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1518404201168007168",
+              "start": 0,
+              "username": "godspeedyou50"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991781696614846553",
+        "in_reply_to_user_id": "1518404201168007168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991778162645299377",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@godspeedyou50 搞啥游戏的啊 真想干 但是我最近考试没空🥹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "路人。and这段日子我愿意聊天，欢迎找我解惑，定期批量回fo或者私我",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1983757018830663844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990279769297149952/3r34Cj2f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 613,
+          "following_count": 303,
+          "like_count": 254,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 883
+        },
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2020-08-26T15:44:18.000Z",
+        "description": "发疯胡言乱语日记",
+        "id": "1298647438849433605",
+        "location": "精神病院",
+        "name": "桃子罐头",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935261380455579648/4INkAuIx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 339,
+          "like_count": 534,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 457
+        },
+        "username": "SakurasawaAkira",
+        "verified": false
+      }
+    ]
+  }
+}

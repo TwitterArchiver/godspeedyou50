@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1988024357915160580",
+        "3_1988024357919354883"
+      ],
+      "media_source_tweet_id": [
+        "1988024428823970068",
+        "1988024428823970068"
+      ]
+    },
+    "author_id": "1518404201168007168",
+    "conversation_id": "1988085609781710955",
+    "created_at": "2025-11-11T03:25:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-11T04:25:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988085609781710955"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1768977125233901568",
+          "start": 3,
+          "username": "wohennixi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8TFF42ewd9",
+          "end": 82,
+          "expanded_url": "https://x.com/wohennixi/status/1988024428823970068/photo/1",
+          "media_key": "3_1988024357915160580",
+          "start": 59,
+          "url": "https://t.co/8TFF42ewd9"
+        },
+        {
+          "display_url": "pic.x.com/8TFF42ewd9",
+          "end": 82,
+          "expanded_url": "https://x.com/wohennixi/status/1988024428823970068/photo/1",
+          "media_key": "3_1988024357919354883",
+          "start": 59,
+          "url": "https://t.co/8TFF42ewd9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988085609781710955",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988024428823970068",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wohennixi: 抖音朋友圈均为本人  支付宝实名验证 语音验证都是不要钱的  过度怀疑猜测请不要过门😢 https://t.co/8TFF42ewd9"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1988085609781710955].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1988085609781710955",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1988085609781710955"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1988024357915160580",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5bhntpbcAQ2cem.jpg",
+        "width": 944
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1988024357919354883",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5bhntqbcAM1VoQ.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988024357915160580",
+            "3_1988024357919354883"
+          ]
+        },
+        "author_id": "1768977125233901568",
+        "conversation_id": "1988024428823970068",
+        "created_at": "2025-11-10T23:22:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T00:22:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988024428823970068"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8TFF42ewd9",
+              "end": 67,
+              "expanded_url": "https://x.com/wohennixi/status/1988024428823970068/photo/1",
+              "media_key": "3_1988024357915160580",
+              "start": 44,
+              "url": "https://t.co/8TFF42ewd9"
+            },
+            {
+              "display_url": "pic.x.com/8TFF42ewd9",
+              "end": 67,
+              "expanded_url": "https://x.com/wohennixi/status/1988024428823970068/photo/1",
+              "media_key": "3_1988024357919354883",
+              "start": 44,
+              "url": "https://t.co/8TFF42ewd9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988024428823970068",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 105,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "抖音朋友圈均为本人  支付宝实名验证 语音验证都是不要钱的  过度怀疑猜测请不要过门😢 https://t.co/8TFF42ewd9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "路人。and这段日子我愿意聊天，欢迎找我解惑，定期批量回fo或者私我",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1983757018830663844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984905090818523136/vVZ-D8dQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 480,
+          "following_count": 274,
+          "like_count": 131,
+          "listed_count": 1,
+          "media_count": 68,
+          "tweet_count": 732
+        },
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-16T12:26:39.000Z",
+        "description": "161 44kg b 🚪88/188/288/520/1314 私信礼貌问价 只回复五句之内 不过门勿扰sorry//互转三天下 我需要发日常",
+        "id": "1768977125233901568",
+        "location": "距离你9.6km",
+        "name": "X^^",
+        "pinned_tweet_id": "1987836681689694273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854333186546991104/LXKvnBz9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 673,
+          "following_count": 27,
+          "like_count": 153,
+          "listed_count": 3,
+          "media_count": 61,
+          "tweet_count": 227
+        },
+        "username": "wohennixi",
+        "verified": false
+      }
+    ]
+  }
+}

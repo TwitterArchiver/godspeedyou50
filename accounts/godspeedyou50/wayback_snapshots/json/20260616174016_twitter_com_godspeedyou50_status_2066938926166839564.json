@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2066842730760994968",
+    "created_at": "2026-06-16T17:40:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T18:40:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066938926166839564"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1978128183875514369",
+          "start": 0,
+          "username": "na_an31255"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066938926166839564",
+    "in_reply_to_user_id": "1978128183875514369",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066842730760994968",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@na_an31255 所有人保持内裤干燥"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4945,
+        "height": 1280,
+        "media_key": "13_2066842652222672896",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2066842652222672896/img/_uZ2EBTMCDtFcldi.jpg",
+        "public_metrics": {
+          "view_count": 74
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2066842652222672896/vid/avc1/320x568/Wh0lVAJMrg64sSmJ.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2066842652222672896/vid/avc1/480x852/xxXIrBwVxh8xdaMx.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2066842652222672896/vid/avc1/720x1280/fIKtAMll54jPuEZe.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2066842652222672896/pl/JbYb_8PUbIJVn7UW.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2066842730760994968",
+        "created_at": "2026-06-16T17:40:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T18:40:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066938926166839564"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1978128183875514369",
+              "start": 0,
+              "username": "na_an31255"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066938926166839564",
+        "in_reply_to_user_id": "1978128183875514369",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066842730760994968",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@na_an31255 所有人保持内裤干燥"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2066842652222672896"
+          ]
+        },
+        "author_id": "1978128183875514369",
+        "conversation_id": "2066842730760994968",
+        "created_at": "2026-06-16T11:18:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T12:18:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066842730760994968"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1Ze4xUfrVx",
+              "end": 39,
+              "expanded_url": "https://x.com/na_an31255/status/2066842730760994968/video/1",
+              "media_key": "13_2066842652222672896",
+              "start": 16,
+              "url": "https://t.co/1Ze4xUfrVx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066842730760994968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 277,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我闺蜜一会儿来接我去吃好吃的😋 https://t.co/1Ze4xUfrVx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2048720319872192919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1360,
+          "following_count": 354,
+          "like_count": 1153,
+          "listed_count": 1,
+          "media_count": 189,
+          "tweet_count": 2662
+        },
+        "username": "godspeedyou50",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-14T15:58:15.000Z",
+        "description": "小草&我/精神不稳定性格有缺陷/无知 虚伪 贪婪 嫉妒 束缚 伤害/",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/an%E2%80%86na2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/an%E2%80%86na2",
+                "start": 0,
+                "url": "https://t.co/801rxjZEP7"
+              }
+            ]
+          }
+        },
+        "id": "1978128183875514369",
+        "location": "乌托邦",
+        "name": "电车驶过身体发出告别声",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992294900721946624/YU9ja8dB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 306,
+          "following_count": 173,
+          "like_count": 226,
+          "listed_count": 0,
+          "media_count": 142,
+          "tweet_count": 1072
+        },
+        "url": "https://t.co/801rxjZEP7",
+        "username": "na_an31255",
+        "verified": false
+      }
+    ]
+  }
+}

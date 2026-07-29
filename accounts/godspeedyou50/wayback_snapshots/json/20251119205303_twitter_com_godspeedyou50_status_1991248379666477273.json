@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "1991147075195814248",
+    "created_at": "2025-11-19T20:53:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-19T21:53:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991248379666477273"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1355178308460187653",
+          "start": 0,
+          "username": "CoilofFaraday"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991248379666477273",
+    "in_reply_to_user_id": "1355178308460187653",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991213828517110096",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CoilofFaraday 操完 哈哈哈哈哈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "1991147075195814248",
+        "created_at": "2025-11-19T20:53:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T21:53:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991248379666477273"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1355178308460187653",
+              "start": 0,
+              "username": "CoilofFaraday"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991248379666477273",
+        "in_reply_to_user_id": "1355178308460187653",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991213828517110096",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CoilofFaraday 操完 哈哈哈哈哈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1355178308460187653",
+        "conversation_id": "1991147075195814248",
+        "created_at": "2025-11-19T18:35:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T19:35:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991213828517110096"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1518404201168007168",
+              "start": 0,
+              "username": "godspeedyou50"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991213828517110096",
+        "in_reply_to_user_id": "1518404201168007168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991147075195814248",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@godspeedyou50 怎么操逼听心经啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "路人。and这段日子我愿意聊天，欢迎找我解惑，定期批量回fo或者私我",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1983757018830663844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990279769297149952/3r34Cj2f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 579,
+          "following_count": 293,
+          "like_count": 226,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 812
+        },
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2021-01-29T15:37:49.000Z",
+        "description": "no I don’t have a fucking profile 最爱的小豹@yoselindead🐆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 39,
+                "username": "yoselindead"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/coiloffaraday",
+                "end": 23,
+                "expanded_url": "http://www.github.com/coiloffaraday",
+                "start": 0,
+                "url": "https://t.co/dtOyzU5Rv6"
+              }
+            ]
+          }
+        },
+        "id": "1355178308460187653",
+        "location": "Zhejiang",
+        "name": "Faraday",
+        "pinned_tweet_id": "1966875019822477415",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990828711558676480/3vcV2ndn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 413,
+          "following_count": 511,
+          "like_count": 444,
+          "listed_count": 1,
+          "media_count": 83,
+          "tweet_count": 2457
+        },
+        "url": "https://t.co/dtOyzU5Rv6",
+        "username": "CoilofFaraday",
+        "verified": false
+      }
+    ]
+  }
+}

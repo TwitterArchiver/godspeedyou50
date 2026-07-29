@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065297173030600704"
+      ],
+      "media_source_tweet_id": [
+        "2065297183273013729"
+      ]
+    },
+    "author_id": "1518404201168007168",
+    "conversation_id": "2065298469758333225",
+    "created_at": "2026-06-12T05:01:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T06:01:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065298469758333225"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1682249026442506240",
+          "start": 3,
+          "username": "zhxyn331346"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AbFKriSmFW",
+          "end": 40,
+          "expanded_url": "https://x.com/zhxyn331346/status/2065297183273013729/photo/1",
+          "media_key": "3_2065297173030600704",
+          "start": 17,
+          "url": "https://t.co/AbFKriSmFW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065298469758333225",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065297183273013729",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zhxyn331346: https://t.co/AbFKriSmFW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 783,
+        "media_key": "3_2065297173030600704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKlo1iIbgAAArH6.jpg",
+        "width": 550
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065297173030600704"
+          ],
+          "media_source_tweet_id": [
+            "2065297183273013729"
+          ]
+        },
+        "author_id": "1518404201168007168",
+        "conversation_id": "2065298469758333225",
+        "created_at": "2026-06-12T05:01:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T06:01:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065298469758333225"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1682249026442506240",
+              "start": 3,
+              "username": "zhxyn331346"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AbFKriSmFW",
+              "end": 40,
+              "expanded_url": "https://x.com/zhxyn331346/status/2065297183273013729/photo/1",
+              "media_key": "3_2065297173030600704",
+              "start": 17,
+              "url": "https://t.co/AbFKriSmFW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065298469758333225",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065297183273013729",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zhxyn331346: https://t.co/AbFKriSmFW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065297173030600704"
+          ]
+        },
+        "author_id": "1682249026442506240",
+        "conversation_id": "2065297183273013729",
+        "created_at": "2026-06-12T04:56:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T05:56:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065297183273013729"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AbFKriSmFW",
+              "end": 23,
+              "expanded_url": "https://x.com/zhxyn331346/status/2065297183273013729/photo/1",
+              "media_key": "3_2065297173030600704",
+              "start": 0,
+              "url": "https://t.co/AbFKriSmFW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065297183273013729",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/AbFKriSmFW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2048720319872192919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1348,
+          "following_count": 333,
+          "like_count": 1135,
+          "listed_count": 1,
+          "media_count": 190,
+          "tweet_count": 2635
+        },
+        "username": "godspeedyou50",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-21T04:40:08.000Z",
+        "description": "为了没有眼泪的明天。\n喜欢致幻类物质|欢迎互fo|",
+        "id": "1682249026442506240",
+        "location": "日本",
+        "name": "无翼猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062000864517345280/w30fU9k0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 139,
+          "like_count": 752,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 179
+        },
+        "username": "zhxyn331346",
+        "verified": false
+      }
+    ]
+  }
+}

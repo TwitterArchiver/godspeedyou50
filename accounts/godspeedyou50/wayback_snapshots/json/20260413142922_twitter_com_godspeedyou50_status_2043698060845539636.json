@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2043623941542150265",
+    "created_at": "2026-04-13T14:29:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T15:29:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043698060845539636"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2012626651570401282",
+          "start": 0,
+          "username": "McdonaldMa13322"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043698060845539636",
+    "in_reply_to_user_id": "2012626651570401282",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043695128221807051",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@McdonaldMa13322 推特版微信"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2043623941542150265",
+        "created_at": "2026-04-13T14:29:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T15:29:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043698060845539636"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2012626651570401282",
+              "start": 0,
+              "username": "McdonaldMa13322"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043698060845539636",
+        "in_reply_to_user_id": "2012626651570401282",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043695128221807051",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@McdonaldMa13322 推特版微信"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012626651570401282",
+        "conversation_id": "2043623941542150265",
+        "created_at": "2026-04-13T14:17:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T15:17:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043695128221807051"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1518404201168007168",
+              "start": 0,
+              "username": "godspeedyou50"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043695128221807051",
+        "in_reply_to_user_id": "1518404201168007168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043623941542150265",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@godspeedyou50 诶我蹲蹲。这个软件好玩吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。/双相I型/欢迎提问",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jahseh79919",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jahseh79919",
+                "start": 0,
+                "url": "https://t.co/xaz6T7v19q"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2029134307244294287",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1041,
+          "following_count": 222,
+          "like_count": 927,
+          "listed_count": 0,
+          "media_count": 132,
+          "tweet_count": 2181
+        },
+        "url": "https://t.co/xaz6T7v19q",
+        "username": "godspeedyou50",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-17T20:42:51.000Z",
+        "description": "FtX Bi 4.26 | 🎸 Classic Rock | ✍️ OC Creator|🌐 Language: 🇨🇳/🇬🇧&🇩🇪(learning)| 🧠 Neurodivergent",
+        "id": "2012626651570401282",
+        "name": "May",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033549368356458496/wreJawqD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 48,
+          "like_count": 1083,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 110
+        },
+        "username": "McdonaldMa13322",
+        "verified": false
+      }
+    ]
+  }
+}

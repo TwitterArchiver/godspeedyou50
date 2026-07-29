@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "1992148860190548314",
+    "created_at": "2025-11-24T09:10:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-24T10:10:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992883630146981900"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1708410791744118784",
+          "start": 0,
+          "username": "trump1029597"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992883630146981900",
+    "in_reply_to_user_id": "1708410791744118784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992882200279478519",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@trump1029597 大概三天左右就好转"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "1992148860190548314",
+        "created_at": "2025-11-24T09:10:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T10:10:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992883630146981900"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1708410791744118784",
+              "start": 0,
+              "username": "trump1029597"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992883630146981900",
+        "in_reply_to_user_id": "1708410791744118784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992882200279478519",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@trump1029597 大概三天左右就好转"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1708410791744118784",
+        "conversation_id": "1992148860190548314",
+        "created_at": "2025-11-24T09:05:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T10:05:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992882200279478519"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1518404201168007168",
+              "start": 0,
+              "username": "godspeedyou50"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992882200279478519",
+        "in_reply_to_user_id": "1518404201168007168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992148860190548314",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@godspeedyou50 我戒pr晚上睡觉的时候，总是一直做噩梦，而且还会一直出汗，唉，我这是已经用的很慢的渐减法来戒了，但是做梦的问题依旧很严重"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "路人。",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1983757018830663844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990279769297149952/3r34Cj2f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 641,
+          "following_count": 313,
+          "like_count": 319,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 929
+        },
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2023-10-01T09:17:38.000Z",
+        "description": "随便玩玩",
+        "id": "1708410791744118784",
+        "name": "晚晚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966436944273084416/jmwFI7ml_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 14,
+          "like_count": 5318,
+          "listed_count": 1,
+          "media_count": 10,
+          "tweet_count": 304
+        },
+        "username": "trump1029597",
+        "verified": false
+      }
+    ]
+  }
+}

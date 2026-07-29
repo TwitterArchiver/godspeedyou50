@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2028048709561516400",
+    "created_at": "2026-03-01T15:45:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-01T16:45:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028134553848836259"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1811690667720212480",
+          "start": 0,
+          "username": "y0zarashi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028134553848836259",
+    "in_reply_to_user_id": "1811690667720212480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028053409119846515",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@y0zarashi 你牛逼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2028048709561516400",
+        "created_at": "2026-03-01T15:45:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T16:45:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028134553848836259"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1811690667720212480",
+              "start": 0,
+              "username": "y0zarashi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028134553848836259",
+        "in_reply_to_user_id": "1811690667720212480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028053409119846515",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@y0zarashi 你牛逼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811690667720212480",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to apparel and accessories ",
+              "id": "1557697378571808768",
+              "name": "Textile, Apparel & Luxury Good Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543390668673024",
+              "name": "Fashion"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1256236649253449729",
+              "name": "Fashion & beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1493703898552365057",
+              "name": "Fashion items"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1579640714912141312",
+              "name": "Eyewear fashion"
+            }
+          }
+        ],
+        "conversation_id": "2028048709561516400",
+        "created_at": "2026-03-01T10:23:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T11:23:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028053409119846515"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1518404201168007168",
+              "start": 0,
+              "username": "godspeedyou50"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028053409119846515",
+        "in_reply_to_user_id": "1518404201168007168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028048709561516400",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@godspeedyou50 我是带Rayban meta gen2智能眼镜\n2025新款，黑色镜框，墨绿镜片，3K高清视频，光学防抖。\n你这个是什么国产的垃圾啊？啥也不是，啥也没有充电，甚至都不是无线充电😅😅😅"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。/@Jahseh14138/双相I型/欢迎提问",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "Jahseh14138"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jahseh79919",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jahseh79919",
+                "start": 0,
+                "url": "https://t.co/xaz6T7v19q"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1994852955737264187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 795,
+          "following_count": 153,
+          "like_count": 519,
+          "listed_count": 0,
+          "media_count": 98,
+          "tweet_count": 1510
+        },
+        "url": "https://t.co/xaz6T7v19q",
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-12T09:15:04.000Z",
+        "description": "文学会改变人的心性，轻易的影响一个人使他走火入魔做不了凡人，读完一定程度的世界文学，十几年就过去了，而这条路才刚开始，而且读书之后大部分会忘却需要重新复读，留下来的比例如同鲁迅说的“炼炭”，精神会被前人之精神改造，如果你有诗歌或宗教的天赋，会更加偏离常人，你的友人家人同辈都会跟你谈不到一块，也很难有女人适合你。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/y0zarashi",
+                "end": 23,
+                "expanded_url": "https://ngl.link/y0zarashi",
+                "start": 0,
+                "url": "https://t.co/YWqrMoB9vO"
+              }
+            ]
+          }
+        },
+        "id": "1811690667720212480",
+        "location": "olivia rodrigo",
+        "name": "CallumL1（老婆孩子我的命）",
+        "pinned_tweet_id": "2026884100011995161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026825430725177344/_x7vFJo7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 945,
+          "following_count": 190,
+          "like_count": 75,
+          "listed_count": 5,
+          "media_count": 424,
+          "tweet_count": 1361
+        },
+        "url": "https://t.co/YWqrMoB9vO",
+        "username": "y0zarashi",
+        "verified": true
+      }
+    ]
+  }
+}

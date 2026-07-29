@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2026304498721865911",
+    "created_at": "2026-02-24T15:28:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T16:28:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026318268089372761"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2007465888438706176",
+          "start": 0,
+          "username": "Kakuko42"
+        },
+        {
+          "end": 20,
+          "id": "1452123941686976519",
+          "start": 10,
+          "username": "C21Koy_7c"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026318268089372761",
+    "in_reply_to_user_id": "2007465888438706176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026304498721865911",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kakuko42 @C21Koy_7c 为了庆祝你回来 搞点什么东西给我发回来"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3024,
+        "media_key": "3_2026304492275179520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB7hMyzXIAAwsPF.jpg",
+        "width": 4032
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2026304498721865911",
+        "created_at": "2026-02-24T15:28:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T16:28:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026318268089372761"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2007465888438706176",
+              "start": 0,
+              "username": "Kakuko42"
+            },
+            {
+              "end": 20,
+              "id": "1452123941686976519",
+              "start": 10,
+              "username": "C21Koy_7c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026318268089372761",
+        "in_reply_to_user_id": "2007465888438706176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026304498721865911",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kakuko42 @C21Koy_7c 为了庆祝你回来 搞点什么东西给我发回来"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026304492275179520"
+          ]
+        },
+        "author_id": "2007465888438706176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2026304498721865911",
+        "created_at": "2026-02-24T14:33:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T15:33:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026304498721865911"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5apY0RBgNF",
+              "end": 171,
+              "expanded_url": "https://x.com/Kakuko42/status/2026304498721865911/photo/1",
+              "media_key": "3_2026304492275179520",
+              "start": 148,
+              "url": "https://t.co/5apY0RBgNF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026304498721865911",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 54,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "大家好，我是核子，我转生了\n\n之前发的图被国内抖音营销号盗去，和别人的东西缝合在一起骗流量，搞得我被害妄想发作。虽然我在海外，晶哥应该找不到我，但还是觉得上个号不干净了，就注销换了个号(＞_＜)\n\n消失的这段时间我去搞了点物理防伪，弄了几个实体发光牌子当水印\n\n互关们，我回来了o(｀ω´ )o https://t.co/5apY0RBgNF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。/@Jahseh14138/双相I型/欢迎提问",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "Jahseh14138"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jahseh79919",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jahseh79919",
+                "start": 0,
+                "url": "https://t.co/xaz6T7v19q"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1994852955737264187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 773,
+          "following_count": 135,
+          "like_count": 458,
+          "listed_count": 0,
+          "media_count": 88,
+          "tweet_count": 1396
+        },
+        "url": "https://t.co/xaz6T7v19q",
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-03T14:55:51.000Z",
+        "description": "=核子/Kakuko｜20⬆️｜enby｜飛び込んでみたいと 思う｜不在国内不卖药｜Lay Back and Dive.",
+        "id": "2007465888438706176",
+        "location": "眠れない 午前二時",
+        "name": "核子融合炉 #室宿一",
+        "pinned_tweet_id": "2026304498721865911",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017663558406873088/puT6sL5a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 39,
+          "like_count": 43,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 4
+        },
+        "username": "Kakuko42",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW 有SH｜pills💊 ｜20+警告⚠️ ｜they｜不善表达 我想复健产粮…懒惰的同人爱好者 是成年账户 全是翻译器 是精神病 温和 随时锁推 业余的 很笨 有不对的请不要说我 对异形勃起 欢迎讨论 不会讨厌谁 叫我什么都可以 不会外语 一切用翻译器翻的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nay2841",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nay2841",
+                "start": 0,
+                "url": "https://t.co/p7oRHhHxDn"
+              }
+            ]
+          }
+        },
+        "id": "1452123941686976519",
+        "name": "盐制肉鸦",
+        "pinned_tweet_id": "1971924675585568891",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987482127756410880/kunx4knz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1027,
+          "following_count": 3275,
+          "like_count": 28447,
+          "listed_count": 5,
+          "media_count": 1962,
+          "tweet_count": 26806
+        },
+        "url": "https://t.co/p7oRHhHxDn",
+        "username": "C21Koy_7c",
+        "verified": false
+      }
+    ]
+  }
+}

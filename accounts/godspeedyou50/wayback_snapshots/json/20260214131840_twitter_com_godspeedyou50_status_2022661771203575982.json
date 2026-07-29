@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2019411524968911108",
+    "created_at": "2026-02-14T13:18:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-14T14:18:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022661771203575982"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1967832635201478656",
+          "start": 0,
+          "username": "geng_ju55326"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022661771203575982",
+    "in_reply_to_user_id": "1967832635201478656",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019411524968911108",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@geng_ju55326 不玩给我"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2019411510586667012",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAZkEc_acAQn_Fh.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2019411510611832832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAZkEdFacAAqh46.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2019411524968911108",
+        "created_at": "2026-02-14T13:18:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T14:18:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022661771203575982"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1967832635201478656",
+              "start": 0,
+              "username": "geng_ju55326"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022661771203575982",
+        "in_reply_to_user_id": "1967832635201478656",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019411524968911108",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@geng_ju55326 不玩给我"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019411510586667012",
+            "3_2019411510611832832"
+          ]
+        },
+        "author_id": "1967832635201478656",
+        "conversation_id": "2019411524968911108",
+        "created_at": "2026-02-05T14:03:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T15:03:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019411524968911108"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zpJY4X8EcL",
+              "end": 35,
+              "expanded_url": "https://x.com/geng_ju55326/status/2019411524968911108/photo/1",
+              "media_key": "3_2019411510586667012",
+              "start": 12,
+              "url": "https://t.co/zpJY4X8EcL"
+            },
+            {
+              "display_url": "pic.x.com/zpJY4X8EcL",
+              "end": 35,
+              "expanded_url": "https://x.com/geng_ju55326/status/2019411524968911108/photo/1",
+              "media_key": "3_2019411510611832832",
+              "start": 12,
+              "url": "https://t.co/zpJY4X8EcL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019411524968911108",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 80,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "观战不需要这么好的设备 https://t.co/zpJY4X8EcL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。/@Jahseh14138/双相I型",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "Jahseh14138"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1994852955737264187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 733,
+          "following_count": 118,
+          "like_count": 431,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 1302
+        },
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-16T06:07:24.000Z",
+        "description": "@yukobaobao2 @yizizi35 @august100707",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 0,
+                "username": "yukobaobao2"
+              },
+              {
+                "end": 22,
+                "start": 13,
+                "username": "yizizi35"
+              },
+              {
+                "end": 36,
+                "start": 23,
+                "username": "august100707"
+              }
+            ]
+          }
+        },
+        "id": "1967832635201478656",
+        "name": "荔枝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016848152184442884/CT2mrl5d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 21,
+          "like_count": 22,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 109
+        },
+        "username": "geng_ju55326",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1990680339120074756",
+        "3_1990680339094847489",
+        "3_1990680339115880451"
+      ]
+    },
+    "author_id": "1518404201168007168",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1990680351535255872",
+    "created_at": "2025-11-18T07:15:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-18T08:15:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1990680351535255872"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Y8olzVHPWE",
+          "end": 42,
+          "expanded_url": "https://x.com/godspeedyou50/status/1990680351535255872/photo/1",
+          "media_key": "3_1990680339120074756",
+          "start": 19,
+          "url": "https://t.co/Y8olzVHPWE"
+        },
+        {
+          "display_url": "pic.x.com/Y8olzVHPWE",
+          "end": 42,
+          "expanded_url": "https://x.com/godspeedyou50/status/1990680351535255872/photo/1",
+          "media_key": "3_1990680339094847489",
+          "start": 19,
+          "url": "https://t.co/Y8olzVHPWE"
+        },
+        {
+          "display_url": "pic.x.com/Y8olzVHPWE",
+          "end": 42,
+          "expanded_url": "https://x.com/godspeedyou50/status/1990680351535255872/photo/1",
+          "media_key": "3_1990680339115880451",
+          "start": 19,
+          "url": "https://t.co/Y8olzVHPWE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990680351535255872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "体验一下清朝上海底层老百姓的日常美食 https://t.co/Y8olzVHPWE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1990680339120074756",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6BROKqbMAQBKXa.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1990680339094847489",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6BROKkaQAEmVEb.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1990680339115880451",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6BROKpbMAMRx-v.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990680339120074756",
+            "3_1990680339094847489",
+            "3_1990680339115880451"
+          ]
+        },
+        "author_id": "1518404201168007168",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1990680351535255872",
+        "created_at": "2025-11-18T07:15:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T08:15:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990680351535255872"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Y8olzVHPWE",
+              "end": 42,
+              "expanded_url": "https://x.com/godspeedyou50/status/1990680351535255872/photo/1",
+              "media_key": "3_1990680339120074756",
+              "start": 19,
+              "url": "https://t.co/Y8olzVHPWE"
+            },
+            {
+              "display_url": "pic.x.com/Y8olzVHPWE",
+              "end": 42,
+              "expanded_url": "https://x.com/godspeedyou50/status/1990680351535255872/photo/1",
+              "media_key": "3_1990680339094847489",
+              "start": 19,
+              "url": "https://t.co/Y8olzVHPWE"
+            },
+            {
+              "display_url": "pic.x.com/Y8olzVHPWE",
+              "end": 42,
+              "expanded_url": "https://x.com/godspeedyou50/status/1990680351535255872/photo/1",
+              "media_key": "3_1990680339115880451",
+              "start": 19,
+              "url": "https://t.co/Y8olzVHPWE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990680351535255872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "体验一下清朝上海底层老百姓的日常美食 https://t.co/Y8olzVHPWE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "路人。and这段日子我愿意聊天，欢迎找我解惑，定期批量回fo或者私我",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1983757018830663844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990279769297149952/3r34Cj2f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 574,
+          "following_count": 293,
+          "like_count": 226,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 804
+        },
+        "username": "godspeedyou50",
+        "verified": true
+      }
+    ]
+  }
+}

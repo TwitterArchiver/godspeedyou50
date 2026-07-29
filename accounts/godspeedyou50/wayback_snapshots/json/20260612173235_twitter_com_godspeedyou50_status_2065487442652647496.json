@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2065048007934902496",
+    "created_at": "2026-06-12T17:32:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T18:32:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065487442652647496"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1625848011221008392",
+          "start": 0,
+          "username": "keaixianggugu"
+        },
+        {
+          "end": 25,
+          "id": "1584905109888180225",
+          "start": 15,
+          "username": "hi_amhigh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065487442652647496",
+    "in_reply_to_user_id": "1625848011221008392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065332936803852457",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@keaixianggugu @hi_amhigh 贵在便宜 能上劲就行抽吧"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2065332848270462976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKmJSGwbUAAocO7.jpg",
+        "width": 959
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2065048007934902496",
+        "created_at": "2026-06-12T17:32:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T18:32:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065487442652647496"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1625848011221008392",
+              "start": 0,
+              "username": "keaixianggugu"
+            },
+            {
+              "end": 25,
+              "id": "1584905109888180225",
+              "start": 15,
+              "username": "hi_amhigh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065487442652647496",
+        "in_reply_to_user_id": "1625848011221008392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065332936803852457",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@keaixianggugu @hi_amhigh 贵在便宜 能上劲就行抽吧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065332848270462976"
+          ]
+        },
+        "author_id": "1625848011221008392",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2065048007934902496",
+        "created_at": "2026-06-12T07:18:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T08:18:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065332936803852457"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1584905109888180225",
+              "start": 0,
+              "username": "hi_amhigh"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yYcR344FbC",
+              "end": 54,
+              "expanded_url": "https://x.com/keaixianggugu/status/2065332936803852457/photo/1",
+              "media_key": "3_2065332848270462976",
+              "start": 31,
+              "url": "https://t.co/yYcR344FbC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065332936803852457",
+        "in_reply_to_user_id": "1584905109888180225",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 109,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065048007934902496",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hi_amhigh 中国本地产的品质很差，250u/20g https://t.co/yYcR344FbC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。我在倒腾两颗神秘的糖请小窗",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2064647794707821015",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1352,
+          "following_count": 338,
+          "like_count": 1141,
+          "listed_count": 1,
+          "media_count": 190,
+          "tweet_count": 2646
+        },
+        "username": "godspeedyou50",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-15T13:22:42.000Z",
+        "description": "OD对我来说只是拿来解闷和助兴，不提供购药渠道。  上海地区需要帮助的挂壁同好请私聊我，欢迎互关，我人很和善欢迎闲聊~",
+        "id": "1625848011221008392",
+        "location": "上海",
+        "name": "一只鸽子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1816713088034570242/x9lDEI6Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124,
+          "following_count": 345,
+          "like_count": 122,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 722
+        },
+        "username": "keaixianggugu",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-25T13:50:14.000Z",
+        "description": "I'M THE BRAND (life is for living) FREE THE WEED",
+        "id": "1584905109888180225",
+        "location": "Where the money at ",
+        "name": "HIAMHIGH",
+        "pinned_tweet_id": "2044671461881770063",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007554197265215488/VbKJa_2p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14125,
+          "following_count": 2079,
+          "like_count": 37109,
+          "listed_count": 8,
+          "media_count": 5733,
+          "tweet_count": 44004
+        },
+        "username": "hi_amhigh",
+        "verified": true
+      }
+    ]
+  }
+}

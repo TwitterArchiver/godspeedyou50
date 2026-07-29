@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2081019703297024092",
+    "created_at": "2026-07-25T14:12:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T15:12:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081019703297024092"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/c2f4f4f/status…",
+          "end": 56,
+          "expanded_url": "https://twitter.com/c2f4f4f/status/2080891706413666484",
+          "start": 33,
+          "url": "https://t.co/hMTXliQ0dt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081019703297024092",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080891706413666484",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "早说了处女别写黄色小说 穷人别写霸道总裁小说 城里人别写末世爽文 https://t.co/hMTXliQ0dt"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2081019703297024092",
+        "created_at": "2026-07-25T14:12:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T15:12:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081019703297024092"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/c2f4f4f/status…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/c2f4f4f/status/2080891706413666484",
+              "start": 33,
+              "url": "https://t.co/hMTXliQ0dt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081019703297024092",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080891706413666484",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "早说了处女别写黄色小说 穷人别写霸道总裁小说 城里人别写末世爽文 https://t.co/hMTXliQ0dt"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1612280433064185859",
+        "conversation_id": "2080891706413666484",
+        "created_at": "2026-07-25T05:43:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T06:43:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080891706413666484"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080891706413666484",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 437,
+          "like_count": 28,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "想象一下我是你的药代老公，给你寄了五百盒普瑞巴林两千盒愈美片"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个违背了大众良知od喝大酒的神棍。\n☯️算命后付不怕跑单｜代请符箓、祈福请私讯\n传统宗教现代哲学文化传播者，又称中式廉价心理医生。\n狐朋@Nonentity_xxx17 狗友@Jinggebiezhuaw",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 69,
+                "username": "Nonentity_xxx17"
+              },
+              {
+                "end": 103,
+                "start": 88,
+                "username": "Jinggebiezhuaw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/buyaogaowosorry",
+                "end": 23,
+                "expanded_url": "https://t.me/buyaogaowosorry",
+                "start": 0,
+                "url": "https://t.co/AdoFGQJT3r"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2069223594711011526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1742,
+          "following_count": 644,
+          "like_count": 1291,
+          "listed_count": 1,
+          "media_count": 214,
+          "tweet_count": 2934
+        },
+        "url": "https://t.co/AdoFGQJT3r",
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-09T02:49:54.000Z",
+        "description": "OD | 是个傻卵二次元 | 画师 | 自残 | 同好互fo | 二游只玩舟 | 精神状态不稳定 | 感官失调中 | 女 | 重抑中焦吃药中 |",
+        "id": "1612280433064185859",
+        "location": "Kanagawa-ken, Japan",
+        "name": "孙笑川",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080135043838816256/H8Ebl5jE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124,
+          "following_count": 409,
+          "like_count": 9781,
+          "listed_count": 0,
+          "media_count": 89,
+          "tweet_count": 759
+        },
+        "url": "",
+        "username": "c2F4F4F",
+        "verified": false
+      }
+    ]
+  }
+}

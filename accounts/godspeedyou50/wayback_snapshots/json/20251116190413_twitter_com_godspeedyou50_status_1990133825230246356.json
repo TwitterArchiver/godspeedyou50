@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Food",
+          "id": "825047692124442624",
+          "name": "Food"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Egg",
+          "id": "842476826526019586",
+          "name": "Egg recipes"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Egg",
+          "id": "842476826526019586",
+          "name": "Egg recipes"
+        }
+      }
+    ],
+    "conversation_id": "1989961878144258229",
+    "created_at": "2025-11-16T19:04:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-16T20:04:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990133825230246356"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1852065031007199232",
+          "start": 0,
+          "username": "fei49553"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990133825230246356",
+    "in_reply_to_user_id": "1852065031007199232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990132472240107956",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fei49553 贱狗是不是在这期待更刺激的呢 你爹在这和你这种滚刀肉调情呢在这 傻逼 骂你爹妈死了是因为你爹妈真的死了 没时间和你消遣了 吃我流量被围观嘲笑吧 傻卵…..🤭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Egg",
+              "id": "842476826526019586",
+              "name": "Egg recipes"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Egg",
+              "id": "842476826526019586",
+              "name": "Egg recipes"
+            }
+          }
+        ],
+        "conversation_id": "1989961878144258229",
+        "created_at": "2025-11-16T19:04:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T20:04:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990133825230246356"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1852065031007199232",
+              "start": 0,
+              "username": "fei49553"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990133825230246356",
+        "in_reply_to_user_id": "1852065031007199232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990132472240107956",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fei49553 贱狗是不是在这期待更刺激的呢 你爹在这和你这种滚刀肉调情呢在这 傻逼 骂你爹妈死了是因为你爹妈真的死了 没时间和你消遣了 吃我流量被围观嘲笑吧 傻卵…..🤭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852065031007199232",
+        "conversation_id": "1989961878144258229",
+        "created_at": "2025-11-16T18:58:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T19:58:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990132472240107956"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1518404201168007168",
+              "start": 0,
+              "username": "godspeedyou50"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990132472240107956",
+        "in_reply_to_user_id": "1518404201168007168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990132153502577129",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@godspeedyou50 哈哈哈果然连骂人都不会，真低等"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "路人。and这段日子我愿意聊天，欢迎找我解惑，定期批量回fo或者私我",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1983757018830663844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984905090818523136/vVZ-D8dQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 555,
+          "following_count": 286,
+          "like_count": 200,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 789
+        },
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-31T19:08:21.000Z",
+        "description": "",
+        "id": "1852065031007199232",
+        "name": "Feet N Socks 👣🧦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852869646976012288/t4nz0Mfv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 164,
+          "like_count": 30,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 523
+        },
+        "username": "fei49553",
+        "verified": false
+      }
+    ]
+  }
+}

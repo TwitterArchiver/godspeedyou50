@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2018606515180232833",
+    "created_at": "2026-02-03T08:44:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-03T09:44:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2018606515180232833"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/edward_8964/st…",
+          "end": 136,
+          "expanded_url": "https://twitter.com/edward_8964/status/2017298478792380698",
+          "start": 113,
+          "url": "https://t.co/sTiK9PVNDG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018606515180232833",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "尼玛注销小号这么久一上来翻了翻发现说的是我，知道我锁推了是吧？\n首先我没有辱骂多个门槛妹，我只是单纯的骂这个婊子而已，再其次我跟这婊子一次私聊都没有我没有恋猪癖好我压根没正眼看过何来骚扰？我骚扰你妈逼了说一句假话我原地暴毙。 \n再然后我当时就已经开盒了所有人，我一丁点信息都没有散播过，否则我早你妈逼把镜音爹妈店铺和家庭住址发出来了，这叫我特么仁义不和你们计较，我威胁你爹个篮子了？\n还想我怎么的，这次我真气到了"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017298478792380698",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "尼玛注销小号这么久一上来翻了翻发现说的是我，知道我锁推了是吧？\n首先我没有辱骂多个门槛妹，我只是单纯的骂这个婊子而已，再其次我跟这婊子一次私聊都没有我没有恋猪癖好我压根没正眼看过何来骚扰？我骚扰你妈逼了说一句假话我原地暴毙。 https://t.co/sTiK9PVNDG"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2018606515180232833",
+        "created_at": "2026-02-03T08:44:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T09:44:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018606515180232833"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/edward_8964/st…",
+              "end": 136,
+              "expanded_url": "https://twitter.com/edward_8964/status/2017298478792380698",
+              "start": 113,
+              "url": "https://t.co/sTiK9PVNDG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018606515180232833",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "尼玛注销小号这么久一上来翻了翻发现说的是我，知道我锁推了是吧？\n首先我没有辱骂多个门槛妹，我只是单纯的骂这个婊子而已，再其次我跟这婊子一次私聊都没有我没有恋猪癖好我压根没正眼看过何来骚扰？我骚扰你妈逼了说一句假话我原地暴毙。 \n再然后我当时就已经开盒了所有人，我一丁点信息都没有散播过，否则我早你妈逼把镜音爹妈店铺和家庭住址发出来了，这叫我特么仁义不和你们计较，我威胁你爹个篮子了？\n还想我怎么的，这次我真气到了"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017298478792380698",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "尼玛注销小号这么久一上来翻了翻发现说的是我，知道我锁推了是吧？\n首先我没有辱骂多个门槛妹，我只是单纯的骂这个婊子而已，再其次我跟这婊子一次私聊都没有我没有恋猪癖好我压根没正眼看过何来骚扰？我骚扰你妈逼了说一句假话我原地暴毙。 https://t.co/sTiK9PVNDG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "2017298476636499968"
+          ]
+        },
+        "author_id": "1911828872334831616",
+        "conversation_id": "2017298478792380698",
+        "created_at": "2026-01-30T18:06:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T19:06:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017298478792380698"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2017298478792380698",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1500,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "各位推油，我来问个问题\n我们先设定人物A，B，C\nA为某小团体内人物。B，C为情侣关系。A在某小团体内辱骂多个门槛妹以及B，并对C进行骚扰。该消息因为小群体爆炸传开。B从一些手段获取到了A的皮下大头（30+油腻中年男性）后发布以回击。A开盒B并作出威胁。\n实际姓名不公布，问问推油对这件事怎么看？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1994852955737264187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 696,
+          "following_count": 94,
+          "like_count": 399,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 1155
+        },
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-14T17:08:26.000Z",
+        "description": "南湖之虎/FOW参与者/FOW网页端维护者/退役OIer转ODer/ADHD/MTX/生存、梦想、进取/不盈利不卖药/互fo🉑",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeod.wiki",
+                "end": 23,
+                "expanded_url": "http://freeod.wiki",
+                "start": 0,
+                "url": "https://t.co/2k0YxzO4Vn"
+              }
+            ]
+          }
+        },
+        "id": "1911828872334831616",
+        "location": "红船上的炸弹旁",
+        "name": "💊Edward……",
+        "pinned_tweet_id": "2016376846921908492",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008623613470273536/BFTxYY73_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1192,
+          "following_count": 829,
+          "like_count": 9953,
+          "listed_count": 3,
+          "media_count": 420,
+          "tweet_count": 5849
+        },
+        "url": "https://t.co/2k0YxzO4Vn",
+        "username": "Edward_8964",
+        "verified": true
+      }
+    ]
+  }
+}

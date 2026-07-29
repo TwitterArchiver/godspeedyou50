@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "1984624694453293103",
+    "created_at": "2025-11-01T14:48:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-01T15:48:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984633611963023594"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1016552943774920704",
+          "start": 0,
+          "username": "Akinoyo_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984633611963023594",
+    "in_reply_to_user_id": "1016552943774920704",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984632492406825062",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Akinoyo_ 我是英雄"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "1984624694453293103",
+        "created_at": "2025-11-01T14:48:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T15:48:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984633611963023594"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1016552943774920704",
+              "start": 0,
+              "username": "Akinoyo_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984633611963023594",
+        "in_reply_to_user_id": "1016552943774920704",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984632492406825062",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Akinoyo_ 我是英雄"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1016552943774920704",
+        "conversation_id": "1984624694453293103",
+        "created_at": "2025-11-01T14:43:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T15:43:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984632492406825062"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1518404201168007168",
+              "start": 0,
+              "username": "godspeedyou50"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984632492406825062",
+        "in_reply_to_user_id": "1518404201168007168",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984624694453293103",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@godspeedyou50 笑懵了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "路人。and这段日子我愿意聊天，欢迎找我解惑，定期批量回fo或者私我",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1983757018830663844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983944337726787584/JcjyTY_u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 428,
+          "following_count": 266,
+          "like_count": 114,
+          "listed_count": 1,
+          "media_count": 57,
+          "tweet_count": 665
+        },
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2018-07-10T05:21:23.000Z",
+        "description": "死亡才是歸處/MTF/INFP/Overdose/剩下不知道寫什麼就這樣吧",
+        "id": "1016552943774920704",
+        "location": "天國",
+        "name": "仿生喹硫平",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984529805489127424/idtbDWzh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 493,
+          "following_count": 969,
+          "like_count": 2133,
+          "listed_count": 3,
+          "media_count": 96,
+          "tweet_count": 1408
+        },
+        "username": "Akinoyo_",
+        "verified": false
+      }
+    ]
+  }
+}

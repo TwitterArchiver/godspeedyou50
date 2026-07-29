@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2065396573807530209",
+    "created_at": "2026-06-12T11:31:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T12:31:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065396573807530209"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2051195377420992512",
+          "start": 3,
+          "username": "Rain7x6y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065396573807530209",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065373605366731249",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Rain7x6y: 紫色的海星在飞"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2065396573807530209",
+        "created_at": "2026-06-12T11:31:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T12:31:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065396573807530209"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2051195377420992512",
+              "start": 3,
+              "username": "Rain7x6y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065396573807530209",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065373605366731249",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Rain7x6y: 紫色的海星在飞"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2051195377420992512",
+        "conversation_id": "2065373605366731249",
+        "created_at": "2026-06-12T10:00:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T11:00:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065373605366731249"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065373605366731249",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "紫色的海星在飞"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。我在倒腾两颗神秘的糖请小窗",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2064647794707821015",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1350,
+          "following_count": 337,
+          "like_count": 1137,
+          "listed_count": 1,
+          "media_count": 190,
+          "tweet_count": 2646
+        },
+        "username": "godspeedyou50",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-04T07:03:35.000Z",
+        "description": "我玉玉了\n前世@naijin66998\n喜欢的人@lilibr0k3n33 @ovocaize",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 7,
+                "username": "naijin66998"
+              },
+              {
+                "end": 37,
+                "start": 24,
+                "username": "lilibr0k3n33"
+              },
+              {
+                "end": 47,
+                "start": 38,
+                "username": "ovocaize"
+              }
+            ]
+          }
+        },
+        "id": "2051195377420992512",
+        "name": "冬雪Rain👁️二世",
+        "pinned_tweet_id": "2051340519104762248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060579127489617920/-COMe4oq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 103,
+          "like_count": 215,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 151
+        },
+        "username": "Rain7x6y",
+        "verified": false
+      }
+    ]
+  }
+}

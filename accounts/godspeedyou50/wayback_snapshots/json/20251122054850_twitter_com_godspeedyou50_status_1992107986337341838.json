@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "1992107986337341838",
+    "created_at": "2025-11-22T05:48:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-22T06:48:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1992107986337341838"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xaiforever11/s…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/xaiforever11/status/1992090799052583096",
+          "start": 8,
+          "url": "https://t.co/UFnFAENHRI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992107986337341838",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992090799052583096",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "respect https://t.co/UFnFAENHRI"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "1992107986337341838",
+        "created_at": "2025-11-22T05:48:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T06:48:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992107986337341838"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xaiforever11/s…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/xaiforever11/status/1992090799052583096",
+              "start": 8,
+              "url": "https://t.co/UFnFAENHRI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992107986337341838",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992090799052583096",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "respect https://t.co/UFnFAENHRI"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1268491001951219712",
+        "conversation_id": "1991962810566463917",
+        "created_at": "2025-11-22T04:40:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T05:40:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992090799052583096"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1518404201168007168",
+              "start": 0,
+              "username": "godspeedyou50"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992090799052583096",
+        "in_reply_to_user_id": "1518404201168007168",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991962810566463917",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@godspeedyou50 准的批爆"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "路人。and这段日子我愿意聊天，欢迎找我解惑，定期批量回fo或者私我",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1983757018830663844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990279769297149952/3r34Cj2f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 631,
+          "following_count": 309,
+          "like_count": 274,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 918
+        },
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2020-06-04T10:33:24.000Z",
+        "description": "我乃宇宙超级无敌霹雳邪魅嗜血温柔体贴沉鱼落雁统治地球潮流橘猫之王",
+        "id": "1268491001951219712",
+        "location": "亮晶晶布丁城堡",
+        "name": "愛",
+        "pinned_tweet_id": "1990016516042207331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971169064056913921/AOwEnHeR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5230,
+          "following_count": 399,
+          "like_count": 50418,
+          "listed_count": 7,
+          "media_count": 1054,
+          "tweet_count": 13039
+        },
+        "username": "Xaiforever11",
+        "verified": false
+      }
+    ]
+  }
+}

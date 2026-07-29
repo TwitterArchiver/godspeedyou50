@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "1994388785271091545",
+    "created_at": "2025-11-28T12:51:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-28T13:51:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1994388785271091545"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/godspeedyou50/…",
+          "end": 62,
+          "expanded_url": "https://twitter.com/godspeedyou50/status/1994060334567489818",
+          "start": 39,
+          "url": "https://t.co/AxZYLVk9Kk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994388785271091545",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994060334567489818",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我这帖子怎么了这是…..\n我给大家打个标记 以后发情了去评论区寻找目标就好了 https://t.co/AxZYLVk9Kk"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "1994388785271091545",
+        "created_at": "2025-11-28T12:51:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T13:51:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994388785271091545"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/godspeedyou50/…",
+              "end": 62,
+              "expanded_url": "https://twitter.com/godspeedyou50/status/1994060334567489818",
+              "start": 39,
+              "url": "https://t.co/AxZYLVk9Kk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994388785271091545",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994060334567489818",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我这帖子怎么了这是…..\n我给大家打个标记 以后发情了去评论区寻找目标就好了 https://t.co/AxZYLVk9Kk"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "1994060334567489818",
+        "created_at": "2025-11-27T15:06:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T16:06:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994060334567489818"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yanyelove/stat…",
+              "end": 168,
+              "expanded_url": "https://twitter.com/yanyelove/status/1993868929304023312",
+              "start": 145,
+              "url": "https://t.co/ekPhBn2DDO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994060334567489818",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 32283,
+          "like_count": 108,
+          "quote_count": 0,
+          "reply_count": 45,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993868929304023312",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "支持门槛妹圈钱但不支持门槛妹骗钱\n过门槛的说白了就是想要情绪价值，对一个人展现出来的社交媒体风格所吸引，想了解到一个人，想看脸看奶子操逼，过程中不明码标价但这就是门哥该干的事，你能圈到是你的本事。\n就这种傻逼硬骗低智商群体的 你赶紧死去z自杀 割喉 逼里塞炸药把自己崩死 赶紧死 真恶心人 https://t.co/ekPhBn2DDO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "路人。",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1983757018830663844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990279769297149952/3r34Cj2f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 661,
+          "following_count": 321,
+          "like_count": 344,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 959
+        },
+        "username": "godspeedyou50",
+        "verified": false
+      }
+    ]
+  }
+}

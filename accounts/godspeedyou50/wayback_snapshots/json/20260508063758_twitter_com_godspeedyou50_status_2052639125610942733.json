@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2052639125610942733",
+    "created_at": "2026-05-08T06:37:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T07:37:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052639125610942733"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1505596113813876736",
+          "start": 3,
+          "username": "chrorine_17"
+        },
+        {
+          "end": 31,
+          "id": "1518404201168007168",
+          "start": 17,
+          "username": "godspeedyou50"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052639125610942733",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052595241623138710",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chrorine_17: @godspeedyou50 cyp3a4抑制带来的dxm原药AUC延长会提供血清素能过激的奇幻体验，不过不是谁都能承受的来。考虑到娱乐用药者追求的是解离感，实际利用强抑制剂干预酶作用相当不稳定，需要准备迎接可能的bad trip。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2052639125610942733",
+        "created_at": "2026-05-08T06:37:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T07:37:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052639125610942733"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1505596113813876736",
+              "start": 3,
+              "username": "chrorine_17"
+            },
+            {
+              "end": 31,
+              "id": "1518404201168007168",
+              "start": 17,
+              "username": "godspeedyou50"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052639125610942733",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052595241623138710",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @chrorine_17: @godspeedyou50 cyp3a4抑制带来的dxm原药AUC延长会提供血清素能过激的奇幻体验，不过不是谁都能承受的来。考虑到娱乐用药者追求的是解离感，实际利用强抑制剂干预酶作用相当不稳定，需要准备迎接可能的bad trip。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1505596113813876736",
+        "conversation_id": "2051996040711258195",
+        "created_at": "2026-05-08T03:43:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T04:43:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052595241623138710"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1518404201168007168",
+              "start": 0,
+              "username": "godspeedyou50"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052595241623138710",
+        "in_reply_to_user_id": "1518404201168007168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051996040711258195",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@godspeedyou50 cyp3a4抑制带来的dxm原药AUC延长会提供血清素能过激的奇幻体验，不过不是谁都能承受的来。考虑到娱乐用药者追求的是解离感，实际利用强抑制剂干预酶作用相当不稳定，需要准备迎接可能的bad trip。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。/欢迎提问/@OvooLOO3o/@salmon__sukiii",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 17,
+                "username": "OvooLOO3o"
+              },
+              {
+                "end": 43,
+                "start": 28,
+                "username": "salmon__sukiii"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jahseh79919",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jahseh79919",
+                "start": 0,
+                "url": "https://t.co/xaz6T7v19q"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2029134307244294287",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1224,
+          "following_count": 265,
+          "like_count": 1024,
+          "listed_count": 0,
+          "media_count": 162,
+          "tweet_count": 2356
+        },
+        "url": "https://t.co/xaz6T7v19q",
+        "username": "godspeedyou50",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-20T17:24:36.000Z",
+        "description": "朝霞與晚霞都消失不見",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+FUsQ5cO10AA2Y…",
+                "end": 23,
+                "expanded_url": "https://t.me/+FUsQ5cO10AA2YTQ9",
+                "start": 0,
+                "url": "https://t.co/ilHsoNt8HW"
+              }
+            ]
+          }
+        },
+        "id": "1505596113813876736",
+        "location": "昨天",
+        "name": "chrorinEVE",
+        "pinned_tweet_id": "2031610320180097292",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049446852660207616/rvN3UueH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 536,
+          "following_count": 243,
+          "like_count": 17931,
+          "listed_count": 7,
+          "media_count": 250,
+          "tweet_count": 6377
+        },
+        "url": "https://t.co/ilHsoNt8HW",
+        "username": "chrorine_17",
+        "verified": false
+      }
+    ]
+  }
+}

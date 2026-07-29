@@ -1,0 +1,326 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2037373558071201989",
+    "created_at": "2026-03-27T03:38:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T04:38:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037373558071201989"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1452123941686976519",
+          "start": 3,
+          "username": "C21Koy_7c"
+        },
+        {
+          "end": 26,
+          "id": "1754774517594181632",
+          "start": 15,
+          "username": "ValenceLab"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037373558071201989",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037370257149723134",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @C21Koy_7c: @ValenceLab  瓦楞斯超好捏 以下是体验结论 \n\n8:26 450mg pr+10mg巴氯芬\n11:53 10mg thc巧克力\n16:36 10mg noopept\n20:39 8mg昂丹司琼\n第一次使用这个类型 有点激动呢 会好好引导…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2556,
+        "media_key": "3_2037370243778330624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEYxcThbwAAag0Q.jpg",
+        "width": 1179
+      },
+      {
+        "height": 2556,
+        "media_key": "3_2037370243908358145",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEYxcUAb0AE6sIY.jpg",
+        "width": 1179
+      },
+      {
+        "height": 2556,
+        "media_key": "3_2037370243719598080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEYxcTTbkAA2D-w.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2037373558071201989",
+        "created_at": "2026-03-27T03:38:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T04:38:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037373558071201989"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1452123941686976519",
+              "start": 3,
+              "username": "C21Koy_7c"
+            },
+            {
+              "end": 26,
+              "id": "1754774517594181632",
+              "start": 15,
+              "username": "ValenceLab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037373558071201989",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037370257149723134",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @C21Koy_7c: @ValenceLab  瓦楞斯超好捏 以下是体验结论 \n\n8:26 450mg pr+10mg巴氯芬\n11:53 10mg thc巧克力\n16:36 10mg noopept\n20:39 8mg昂丹司琼\n第一次使用这个类型 有点激动呢 会好好引导…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037370243778330624",
+            "3_2037370243908358145",
+            "3_2037370243719598080"
+          ]
+        },
+        "author_id": "1452123941686976519",
+        "conversation_id": "2037370257149723134",
+        "created_at": "2026-03-27T03:24:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T04:24:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037370257149723134"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1754774517594181632",
+              "start": 0,
+              "username": "ValenceLab"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0ZtQWZNYO5",
+              "end": 213,
+              "expanded_url": "https://x.com/C21Koy_7c/status/2037370257149723134/photo/1",
+              "media_key": "3_2037370243778330624",
+              "start": 190,
+              "url": "https://t.co/0ZtQWZNYO5"
+            },
+            {
+              "display_url": "pic.x.com/0ZtQWZNYO5",
+              "end": 213,
+              "expanded_url": "https://x.com/C21Koy_7c/status/2037370257149723134/photo/1",
+              "media_key": "3_2037370243908358145",
+              "start": 190,
+              "url": "https://t.co/0ZtQWZNYO5"
+            },
+            {
+              "display_url": "pic.x.com/0ZtQWZNYO5",
+              "end": 213,
+              "expanded_url": "https://x.com/C21Koy_7c/status/2037370257149723134/photo/1",
+              "media_key": "3_2037370243719598080",
+              "start": 190,
+              "url": "https://t.co/0ZtQWZNYO5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037370257149723134",
+        "in_reply_to_user_id": "1754774517594181632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 11,
+                "id": "1754774517594181632",
+                "start": 0,
+                "username": "ValenceLab"
+              }
+            ]
+          },
+          "text": "@ValenceLab  瓦楞斯超好捏 以下是体验结论 \n\n8:26 450mg pr+10mg巴氯芬\n11:53 10mg thc巧克力\n16:36 10mg noopept\n20:39 8mg昂丹司琼\n第一次使用这个类型 有点激动呢 会好好引导自己的\n21:28 服用1t飘飘糖！我去胶囊好精致哦 \n（补充我已经五天没吃dxm，和很久没吃抗抑郁的）\n21:57 我有点晕乎乎 不过看这个似乎起效慢\n22:08 我想在起效前 含唇烟 zyn的12mg\n\n22:25有点恶心 昂丹司琼是对的 和朋友打电话\n\n22:52 确实不舒服 但是比甘草片好多了 脑袋开始有点…奇怪？不算解离能正常说话 也没有氯胺酮dxm思维压缩感 舌头发麻\n\n23:03 我的视线开始流动 如同流沙\n\n23:12 我脸麻了 喝了热汤\n\n23:30 莫名兴奋 脑袋很奇怪 视角放映机 笑点变低 光线感觉忽明忽暗 有东西在浮动？ 我在听一些宇宙感的歌 就像外星人\n\n23:54幻觉在关灯后更强烈 我有时候能看到我家猫对我吐舌头 我有点分不清了 但是我好开心我咋一直在笑 才过了这么久吗？时间流逝感 我看到小彩点\n\n23:59 我感觉我的伤口在盯着我 淤青和割伤在凝视我\n\n12:04 我听力差了一些 我的发丝被我看成一丝丝彩色斑点 还是好恶心 嗓子不舒服 \n\n12:30 我的伤口成为一个门在欢迎我进去 我告诉我恋人我吃了迷幻剂 我听觉一会好一会坏 我手机上的血痂 我分不清真的有还是假的 是真的 \n\n12:32 我恋人一直给我打电话 结果他并没有指责我又滥用药物 手机上的水渍我是看成血\n\n12:47 我最近没吃抗抑郁药的缘故 我早上和傻逼前任吵架 他一直刺激我 我想到这个了…心情不好\n\n12:49 我吵架了和恋人 因为我当时和我妈妈也发生了一些争执 后面我恋人以为我是意识模糊不清 导致哭泣的时候视觉 变得扭曲我一直在马桶上下不来我和我朋友爱人拉了个电话 说了以前想轻生 视觉扭动扭动扭动 做事扭扭捏捏\n\n2:32我思考了一生 我正是因为那么聪明 父母一开始很爱我 我能明白很多东西导致我无法以完全的错与对去评判理解 我只是缺乏真正有人会在物理上陪我 小猫在我的世界好可爱啊 我从马桶上下来接纳幻觉了\n\n2:56 我朋友挂了电话 我的人生我说了很多人品尝饮料的时候用的那根吸管都是顺的所以他们回忆的时候也不会痛苦 只是我用的是皱巴巴的吸管 所以才会这样\n\n3:59 一切都正常了 我思维没什么太大毛病 我一直会看到漂浮字体 我还是终于明白啥叫白菜对我笑了 我看我晚上的炸鸡就是那种感觉 我什么都在飘 我的胃有轻度胃溃疡 和 一些慢性胃病 肠子没有任何疾病 排尿和上厕所我觉得没什么困难 胃其实做好功课还是不错的\n\n4:21 我可能现在想好好说一下 时间流逝感 和你周围的因素很大 但是也可能会初次尝试会害怕 虽然胃还是不舒服但是我习惯了 只是我分辨不太清太低频的说话声 我一直在听Spotify 音乐好舒服啊 \n\n4:27 我开始感叹一开始我竟然一直哭哭着跟朋友和恋人说了那么多 我疼痛感太低了腿酸了也没发现 我个子比较小 我是要坐马桶垫个小凳子 所以好久才从马桶上逃离下来 不过对于我来说 开始的恐惧后我就开始玩了因为平常也接触过很多掉san 恐怖的 而且这个让我今天看到一些恶意的评论心态也没那么惊恐害怕了 我只是觉得他们只是人生网络一个渣宰\n\n4:47 我还是不想下机触觉和听觉好好玩 我感觉我的腿粘合在一起了 我想去打打游戏 ow之类\n\n4:58 头脑袋热热的 和朋友聊好多没打游戏 竟然在吃饭？\n\n6:31 眼压有点高 眼睛疼疼 不过好玩啊 流动的 抖动抖动 我都不想戴眼镜了\n\n6:38 吃了賽庚啶2t 打算一会吃一下苯二氮卓辅助睡觉 睡不着就算了  对声音和画面认知有偏差  听声辨位极差\n\n8:34 幻觉还有 好好玩啊 我竟然一次能把人生思考那么多那么多\n\n11:06 大概起效了 幻觉没了 吃吃阿普收拾一会休息了 脑袋有点疼疼的 但是发泄的很舒服 总之还行 只是妈妈和我吵架一开始影响了我的体验 然后就和恋人有些小误会 后面也和好了 我没想到我能思考每个人的角度和我能把小时候到现在想一遍呢！作为初次迷幻体验还是不错的 画画会让我纬度思考更多画的时候会感觉不像清醒时候僵硬"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "@ValenceLab  瓦楞斯超好捏 以下是体验结论 \n\n8:26 450mg pr+10mg巴氯芬\n11:53 10mg thc巧克力\n16:36 10mg noopept\n20:39 8mg昂丹司琼\n第一次使用这个类型 有点激动呢 会好好引导自己的\n21:28 服用1t飘飘糖！我去胶囊好精致哦 \n（补充我已经五天没吃dxm，和很久没吃抗抑郁的）\n21:57 我有点晕乎乎 https://t.co/0ZtQWZNYO5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。/双相I型/欢迎提问",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jahseh79919",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jahseh79919",
+                "start": 0,
+                "url": "https://t.co/xaz6T7v19q"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2029134307244294287",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 983,
+          "following_count": 191,
+          "like_count": 766,
+          "listed_count": 1,
+          "media_count": 118,
+          "tweet_count": 1965
+        },
+        "url": "https://t.co/xaz6T7v19q",
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW 有SH｜pills💊 ｜20+警告⚠️ ｜they｜不善表达 我想复健产粮…懒惰的同人爱好者 是成年账户 全是翻译器 是精神病 温和 随时锁推 业余的 很笨 有不对的请不要说我 对异形勃起 欢迎讨论 不会讨厌谁 叫我什么都可以 不会外语 一切用翻译器翻的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nay2841",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nay2841",
+                "start": 0,
+                "url": "https://t.co/p7oRHhHxDn"
+              }
+            ]
+          }
+        },
+        "id": "1452123941686976519",
+        "name": "盐制肉鸦",
+        "pinned_tweet_id": "1971924675585568891",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987482127756410880/kunx4knz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1119,
+          "following_count": 3360,
+          "like_count": 29341,
+          "listed_count": 5,
+          "media_count": 2075,
+          "tweet_count": 27687
+        },
+        "url": "https://t.co/p7oRHhHxDn",
+        "username": "C21Koy_7c",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-06T07:50:34.000Z",
+        "description": "我只是一只野生瓦楞斯∥在深山模仿古猿的神秘露营爱好者⛺∥神厨小瓦楞斯∥频道链接↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/ValenceRC_cp",
+                "end": 23,
+                "expanded_url": "https://t.me/ValenceRC_cp",
+                "start": 0,
+                "url": "https://t.co/3X53fRNTwL"
+              }
+            ]
+          }
+        },
+        "id": "1754774517594181632",
+        "location": "本栖湖",
+        "name": "𝗩𝗮𝗹𝗲𝗻𝗰𝗲🆁🅲 瓦楞斯",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033925913575100419/x5z1bNHB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 158,
+          "following_count": 133,
+          "like_count": 81,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 112
+        },
+        "url": "https://t.co/3X53fRNTwL",
+        "username": "ValenceLab",
+        "verified": false
+      }
+    ]
+  }
+}

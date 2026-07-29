@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "1983523751259181466",
+    "created_at": "2025-10-29T14:38:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-29T15:38:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983543910430589164"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1911828872334831616",
+          "start": 0,
+          "username": "Edward_8964"
+        },
+        {
+          "end": 26,
+          "id": "1700948552078467072",
+          "start": 13,
+          "username": "Overdose_DBD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983543910430589164",
+    "in_reply_to_user_id": "1911828872334831616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "如果认真回答你的话 反解离如果说是不成熟的话 \n那我只能说如果按照香猪发现苏糖的时间是今年上半年的话，那后藤玩苏糖比猪猪早了大半年的时间点差不多 因为我们除了我和一小部分人，在那之前我们从来不用看ovdosewiki，而且本来就连着呢，具体人物不能说。\n只能说一直咱都不需要用那个来当参考资料因为我们也不咋研究药理 知道啥能玩知道啥危险\n就是有一次我无意间转载了里面的一个自杀报告还是看哪个好玩来着，他说这个网站真好用，茶氨酸研究一下确实牛逼啊，还有苏糖。然后今年下半年就变成博士了。\n不评价 都原话 这我们有专门的史官手机记录几年都不删\n不严谨的说\n反解离也许是od药理学上的不成熟，那香猪的知识量相当于会查维基百科以及熟练掌握精确ai资料找到论文原文的oder\noder这一点至今存疑 因为他太有毅力了 戒普瑞这方面都是一样的\n香猪懂药 但不懂药理 这你从我说话风格能感受出来 也就是实操满分笔试不及格"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983539515760480324",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Edward_8964 @Overdose_DBD 如果认真回答你的话 反解离如果说是不成熟的话 \n那我只能说如果按照香猪发现苏糖的时间是今年上半年的话，那后藤玩苏糖比猪猪早了大半年的时间点差不多 因为我们除了我和一小部分人，在那之前我们从来不用看ovdosewiki，而且本来就连着呢，具体人物不能说。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "1983523751259181466",
+        "created_at": "2025-10-29T14:38:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T15:38:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983543910430589164"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1911828872334831616",
+              "start": 0,
+              "username": "Edward_8964"
+            },
+            {
+              "end": 26,
+              "id": "1700948552078467072",
+              "start": 13,
+              "username": "Overdose_DBD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983543910430589164",
+        "in_reply_to_user_id": "1911828872334831616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "如果认真回答你的话 反解离如果说是不成熟的话 \n那我只能说如果按照香猪发现苏糖的时间是今年上半年的话，那后藤玩苏糖比猪猪早了大半年的时间点差不多 因为我们除了我和一小部分人，在那之前我们从来不用看ovdosewiki，而且本来就连着呢，具体人物不能说。\n只能说一直咱都不需要用那个来当参考资料因为我们也不咋研究药理 知道啥能玩知道啥危险\n就是有一次我无意间转载了里面的一个自杀报告还是看哪个好玩来着，他说这个网站真好用，茶氨酸研究一下确实牛逼啊，还有苏糖。然后今年下半年就变成博士了。\n不评价 都原话 这我们有专门的史官手机记录几年都不删\n不严谨的说\n反解离也许是od药理学上的不成熟，那香猪的知识量相当于会查维基百科以及熟练掌握精确ai资料找到论文原文的oder\noder这一点至今存疑 因为他太有毅力了 戒普瑞这方面都是一样的\n香猪懂药 但不懂药理 这你从我说话风格能感受出来 也就是实操满分笔试不及格"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983539515760480324",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Edward_8964 @Overdose_DBD 如果认真回答你的话 反解离如果说是不成熟的话 \n那我只能说如果按照香猪发现苏糖的时间是今年上半年的话，那后藤玩苏糖比猪猪早了大半年的时间点差不多 因为我们除了我和一小部分人，在那之前我们从来不用看ovdosewiki，而且本来就连着呢，具体人物不能说。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1911828872334831616",
+        "conversation_id": "1983523751259181466",
+        "created_at": "2025-10-29T14:20:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T15:20:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983539515760480324"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1518404201168007168",
+              "start": 0,
+              "username": "godspeedyou50"
+            },
+            {
+              "end": 28,
+              "id": "1700948552078467072",
+              "start": 15,
+              "username": "Overdose_DBD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983539515760480324",
+        "in_reply_to_user_id": "1518404201168007168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983537496463118417",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@godspeedyou50 @Overdose_DBD 我这种无名之辈都有这么多浏览（\n但是你猜猜我是图里哪位"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "路人。and这段日子我愿意聊天，欢迎找我解惑，定期批量回fo或者私我",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1982515322788942238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827690417619697665/4z5RgWOE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 391,
+          "following_count": 233,
+          "like_count": 84,
+          "listed_count": 1,
+          "media_count": 48,
+          "tweet_count": 554
+        },
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-14T17:08:26.000Z",
+        "description": "南湖之虎｜第4次转生 生理男｜退役OIer｜OD｜重精神病｜ADHD｜右美沙芬 ｜freeODwiki参与者｜NEwiki维护员｜自由、梦想、进取｜没有任何盈利",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "nonexistent.wiki",
+                "end": 23,
+                "expanded_url": "http://nonexistent.wiki",
+                "start": 0,
+                "url": "https://t.co/l3ALBiDDXN"
+              }
+            ]
+          }
+        },
+        "id": "1911828872334831616",
+        "location": "NE",
+        "name": "💊爱德华",
+        "pinned_tweet_id": "1980565827196973398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968709578079764480/7M5DfbwN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 652,
+          "following_count": 528,
+          "like_count": 4899,
+          "listed_count": 2,
+          "media_count": 190,
+          "tweet_count": 3077
+        },
+        "url": "https://t.co/l3ALBiDDXN",
+        "username": "Edward_8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-10T19:05:21.000Z",
+        "description": "谁的附庸？\n高原整活观景台 https://t.co/WnyZ64KQD6",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/HWA_FK1",
+                "end": 37,
+                "expanded_url": "https://t.me/HWA_FK1",
+                "start": 14,
+                "url": "https://t.co/WnyZ64KQD6"
+              }
+            ]
+          }
+        },
+        "id": "1700948552078467072",
+        "name": "超级后后后藤",
+        "pinned_tweet_id": "1777999878117097536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969951860279975936/NhjtbqPh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3951,
+          "following_count": 58,
+          "like_count": 23,
+          "listed_count": 10,
+          "media_count": 477,
+          "tweet_count": 5992
+        },
+        "username": "Overdose_DBD",
+        "verified": false
+      }
+    ]
+  }
+}

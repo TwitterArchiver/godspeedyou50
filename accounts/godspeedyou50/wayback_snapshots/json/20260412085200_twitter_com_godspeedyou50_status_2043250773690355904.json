@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2043250770364235776"
+      ]
+    },
+    "author_id": "1518404201168007168",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "2043250773690355904",
+    "created_at": "2026-04-12T08:52:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T09:52:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043250773690355904"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+          "display_url": "infinitetweet.me/interaction-ci…",
+          "end": 40,
+          "expanded_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+          "images": [
+            {
+              "height": 1884,
+              "url": "https://pbs.twimg.com/news_img/2040863149130452992/bvkh82yM?format=jpg&name=orig",
+              "width": 3600
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2040863149130452992/bvkh82yM?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 17,
+          "status": 200,
+          "title": "Interaction Circle • Infinitweet",
+          "unwound_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+          "url": "https://t.co/KB1vkFBvei"
+        },
+        {
+          "display_url": "pic.x.com/XiPFWe0wQU",
+          "end": 64,
+          "expanded_url": "https://x.com/godspeedyou50/status/2043250773690355904/photo/1",
+          "media_key": "3_2043250770364235776",
+          "start": 41,
+          "url": "https://t.co/XiPFWe0wQU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043250773690355904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我的Twitter互动圈\n\n➡️ https://t.co/KB1vkFBvei https://t.co/XiPFWe0wQU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_2043250770364235776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFsVwAKagAABNXY.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043250770364235776"
+          ]
+        },
+        "author_id": "1518404201168007168",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2043250773690355904",
+        "created_at": "2026-04-12T08:52:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T09:52:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043250773690355904"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infinitetweet.me/interaction-ci…",
+              "end": 40,
+              "expanded_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/2040863149130452992/bvkh82yM?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2040863149130452992/bvkh82yM?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 17,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "url": "https://t.co/KB1vkFBvei"
+            },
+            {
+              "display_url": "pic.x.com/XiPFWe0wQU",
+              "end": 64,
+              "expanded_url": "https://x.com/godspeedyou50/status/2043250773690355904/photo/1",
+              "media_key": "3_2043250770364235776",
+              "start": 41,
+              "url": "https://t.co/XiPFWe0wQU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043250773690355904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的Twitter互动圈\n\n➡️ https://t.co/KB1vkFBvei https://t.co/XiPFWe0wQU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。/双相I型/欢迎提问",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jahseh79919",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jahseh79919",
+                "start": 0,
+                "url": "https://t.co/xaz6T7v19q"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2029134307244294287",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1030,
+          "following_count": 223,
+          "like_count": 897,
+          "listed_count": 0,
+          "media_count": 132,
+          "tweet_count": 2155
+        },
+        "url": "https://t.co/xaz6T7v19q",
+        "username": "godspeedyou50",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "1987180704795603084",
+    "created_at": "2025-11-09T09:42:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-09T10:42:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987455834025328728"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1920308340737126400",
+          "start": 0,
+          "username": "fusedjiii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987455834025328728",
+    "in_reply_to_user_id": "1920308340737126400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987395741531447562",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fusedjiii 远离 都魔鬼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "1987180704795603084",
+        "created_at": "2025-11-09T09:42:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T10:42:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987455834025328728"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1920308340737126400",
+              "start": 0,
+              "username": "fusedjiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987455834025328728",
+        "in_reply_to_user_id": "1920308340737126400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987395741531447562",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fusedjiii 远离 都魔鬼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920308340737126400",
+        "conversation_id": "1987180704795603084",
+        "created_at": "2025-11-09T05:44:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T06:44:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987395741531447562"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1518404201168007168",
+              "start": 0,
+              "username": "godspeedyou50"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987395741531447562",
+        "in_reply_to_user_id": "1518404201168007168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 94,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987180704795603084",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@godspeedyou50 不客气"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "路人。and这段日子我愿意聊天，欢迎找我解惑，定期批量回fo或者私我",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1983757018830663844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984905090818523136/vVZ-D8dQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 464,
+          "following_count": 272,
+          "like_count": 130,
+          "listed_count": 1,
+          "media_count": 65,
+          "tweet_count": 725
+        },
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-08T02:42:51.000Z",
+        "description": "入门✉️私信，给我小钱钱再说喜欢我好吗好耶",
+        "id": "1920308340737126400",
+        "location": "家",
+        "name": "裴裴小猫好吗",
+        "pinned_tweet_id": "1987378562132009287",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984902758353469440/8z6LfT-V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2343,
+          "following_count": 153,
+          "like_count": 334,
+          "listed_count": 4,
+          "media_count": 83,
+          "tweet_count": 1203
+        },
+        "username": "fusedjiii",
+        "verified": false
+      }
+    ]
+  }
+}

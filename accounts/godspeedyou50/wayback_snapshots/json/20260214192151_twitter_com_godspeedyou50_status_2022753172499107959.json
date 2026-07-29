@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "1954276812735041777",
+    "created_at": "2026-02-14T19:21:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-14T20:21:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022753172499107959"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1598359354260045826",
+          "start": 0,
+          "username": "WILLIAM01983084"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022753172499107959",
+    "in_reply_to_user_id": "1598359354260045826",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022751735635230923",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WILLIAM01983084 我也不知道这词算怎么来的 因为我是成年人不需要家长 而吸毒只是社会认同的家庭范围化 我不需要代开药"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "1954276812735041777",
+        "created_at": "2026-02-14T19:21:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T20:21:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022753172499107959"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1598359354260045826",
+              "start": 0,
+              "username": "WILLIAM01983084"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022753172499107959",
+        "in_reply_to_user_id": "1598359354260045826",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022751735635230923",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WILLIAM01983084 我也不知道这词算怎么来的 因为我是成年人不需要家长 而吸毒只是社会认同的家庭范围化 我不需要代开药"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598359354260045826",
+        "conversation_id": "1954276812735041777",
+        "created_at": "2026-02-14T19:16:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T20:16:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022751735635230923"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1518404201168007168",
+              "start": 0,
+              "username": "godspeedyou50"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022751735635230923",
+        "in_reply_to_user_id": "1518404201168007168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954276812735041777",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@godspeedyou50 我的睡觉的药都是让家长戴开，虽然我也欧，那我这算什么党，也算家长了吗？普瑞就说糖尿病，神经痛之前用过好用"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。/@Jahseh14138/双相I型",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "Jahseh14138"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1994852955737264187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 736,
+          "following_count": 118,
+          "like_count": 431,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 1305
+        },
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-01T16:53:03.000Z",
+        "description": "呜呜呜",
+        "id": "1598359354260045826",
+        "name": "WILLIAM",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1619691688787841025/6boeT2z9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 4270,
+          "like_count": 1415,
+          "listed_count": 2,
+          "media_count": 1,
+          "tweet_count": 37
+        },
+        "username": "WILLIAM01983084",
+        "verified": false
+      }
+    ]
+  }
+}

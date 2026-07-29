@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2055640030304166213",
+    "created_at": "2026-05-16T16:04:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T17:04:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055680860289184122"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1995876966948601856",
+          "start": 0,
+          "username": "yuanye622848"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055680860289184122",
+    "in_reply_to_user_id": "1995876966948601856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055675459946606623",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuanye622848 这里是西格玛高原吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2055640030304166213",
+        "created_at": "2026-05-16T16:04:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T17:04:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055680860289184122"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1995876966948601856",
+              "start": 0,
+              "username": "yuanye622848"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055680860289184122",
+        "in_reply_to_user_id": "1995876966948601856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055675459946606623",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuanye622848 这里是西格玛高原吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1995876966948601856",
+        "conversation_id": "2055640030304166213",
+        "created_at": "2026-05-16T15:43:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T16:43:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055675459946606623"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1518404201168007168",
+              "start": 0,
+              "username": "godspeedyou50"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055675459946606623",
+        "in_reply_to_user_id": "1518404201168007168",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055640030304166213",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@godspeedyou50 起猛了，一上推就看到了半衰期2年的主包(꒪ȏ꒪;)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。/欢迎提问/@OvooLOO3o/@salmon__sukiii",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 17,
+                "username": "OvooLOO3o"
+              },
+              {
+                "end": 43,
+                "start": 28,
+                "username": "salmon__sukiii"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jahseh79919",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jahseh79919",
+                "start": 0,
+                "url": "https://t.co/xaz6T7v19q"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2048720319872192919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1237,
+          "following_count": 269,
+          "like_count": 1048,
+          "listed_count": 0,
+          "media_count": 167,
+          "tweet_count": 2419
+        },
+        "url": "https://t.co/xaz6T7v19q",
+        "username": "godspeedyou50",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-02T15:25:38.000Z",
+        "description": "DXM  解离小鬼",
+        "id": "1995876966948601856",
+        "location": "床",
+        "name": "緣曄",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028209205736570881/bNNWGAre_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 11,
+          "like_count": 103,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 109
+        },
+        "username": "yuanye622848",
+        "verified": false
+      }
+    ]
+  }
+}

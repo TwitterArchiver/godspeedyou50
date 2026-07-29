@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1994042422897332229"
+      ]
+    },
+    "author_id": "1518404201168007168",
+    "conversation_id": "1994042433731219692",
+    "created_at": "2025-11-27T13:55:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T14:55:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1994042433731219692"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/3ZwFDvQ2xp",
+          "end": 37,
+          "expanded_url": "https://x.com/godspeedyou50/status/1994042433731219692/photo/1",
+          "media_key": "3_1994042422897332229",
+          "start": 14,
+          "url": "https://t.co/3ZwFDvQ2xp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994042433731219692",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "崔姐依旧持续诈骗发力….. https://t.co/3ZwFDvQ2xp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1994042422897332229",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6xDBMva0AU1QXY.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994042422897332229"
+          ]
+        },
+        "author_id": "1518404201168007168",
+        "conversation_id": "1994042433731219692",
+        "created_at": "2025-11-27T13:55:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T14:55:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994042433731219692"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3ZwFDvQ2xp",
+              "end": 37,
+              "expanded_url": "https://x.com/godspeedyou50/status/1994042433731219692/photo/1",
+              "media_key": "3_1994042422897332229",
+              "start": 14,
+              "url": "https://t.co/3ZwFDvQ2xp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994042433731219692",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "崔姐依旧持续诈骗发力….. https://t.co/3ZwFDvQ2xp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "路人。",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1983757018830663844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990279769297149952/3r34Cj2f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 644,
+          "following_count": 311,
+          "like_count": 327,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 957
+        },
+        "username": "godspeedyou50",
+        "verified": false
+      }
+    ]
+  }
+}

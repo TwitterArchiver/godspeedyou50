@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2055329378939343267",
+    "created_at": "2026-05-15T17:31:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T18:31:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055340292031852712"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1639996371879985157",
+          "start": 0,
+          "username": "SupernovaLLan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055340292031852712",
+    "in_reply_to_user_id": "1639996371879985157",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055338851980431554",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SupernovaLLan 用啥药 还挺clean的吧最近 玩的最脏的是小狗麻醉剂 哈哈哈 行 明儿看书"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2055329378939343267",
+        "created_at": "2026-05-15T17:31:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T18:31:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055340292031852712"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1639996371879985157",
+              "start": 0,
+              "username": "SupernovaLLan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055340292031852712",
+        "in_reply_to_user_id": "1639996371879985157",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055338851980431554",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SupernovaLLan 用啥药 还挺clean的吧最近 玩的最脏的是小狗麻醉剂 哈哈哈 行 明儿看书"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "2055329378939343267",
+        "created_at": "2026-05-15T17:25:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T18:25:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055338851980431554"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1518404201168007168",
+              "start": 0,
+              "username": "godspeedyou50"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055338851980431554",
+        "in_reply_to_user_id": "1518404201168007168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055336276153504107",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@godspeedyou50 用药要轻点呀也都要注意养护、几把药下去给人调成啥了都😾除开灵性也给理智留点余量吧😿"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。/欢迎提问/@OvooLOO3o/@salmon__sukiii",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 17,
+                "username": "OvooLOO3o"
+              },
+              {
+                "end": 43,
+                "start": 28,
+                "username": "salmon__sukiii"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jahseh79919",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jahseh79919",
+                "start": 0,
+                "url": "https://t.co/xaz6T7v19q"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2048720319872192919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1229,
+          "following_count": 268,
+          "like_count": 1035,
+          "listed_count": 0,
+          "media_count": 164,
+          "tweet_count": 2402
+        },
+        "url": "https://t.co/xaz6T7v19q",
+        "username": "godspeedyou50",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "Per Aspera Ad Astra",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/supernovallan",
+                "end": 23,
+                "expanded_url": "https://ngl.link/supernovallan",
+                "start": 0,
+                "url": "https://t.co/AQ0w28OZYQ"
+              }
+            ]
+          }
+        },
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053522922648776704/qB9xPTfk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 363,
+          "following_count": 566,
+          "like_count": 25442,
+          "listed_count": 2,
+          "media_count": 1143,
+          "tweet_count": 10614
+        },
+        "url": "https://t.co/AQ0w28OZYQ",
+        "username": "SupernovaLLan",
+        "verified": false
+      }
+    ]
+  }
+}

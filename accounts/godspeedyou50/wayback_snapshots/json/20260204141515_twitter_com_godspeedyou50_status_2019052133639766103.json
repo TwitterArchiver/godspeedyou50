@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2019052133639766103",
+    "created_at": "2026-02-04T14:15:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-04T15:15:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2019052133639766103"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/valence_rc/sta…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/valence_rc/status/2019049303835283512",
+          "start": 14,
+          "url": "https://t.co/UsgBiopJdO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019052133639766103",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019049303835283512",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你那逼玩意有瘾 我要戒！！ https://t.co/UsgBiopJdO"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2019052133639766103",
+        "created_at": "2026-02-04T14:15:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T15:15:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019052133639766103"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/valence_rc/sta…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/valence_rc/status/2019049303835283512",
+              "start": 14,
+              "url": "https://t.co/UsgBiopJdO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019052133639766103",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019049303835283512",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你那逼玩意有瘾 我要戒！！ https://t.co/UsgBiopJdO"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1369689842565738501",
+        "conversation_id": "2019049303835283512",
+        "created_at": "2026-02-04T14:04:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T15:04:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019049303835283512"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Kagamine_8964/…",
+              "end": 57,
+              "expanded_url": "https://twitter.com/Kagamine_8964/status/2014324166389027287",
+              "start": 34,
+              "url": "https://t.co/S0wEeXXN83"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019049303835283512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014324166389027287",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "唉，其实是这样的，爱德华没吃我的策划所以没了，镜音吃了所以活下来了 https://t.co/S0wEeXXN83"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。/@Jahseh14138/严重双相I型",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "Jahseh14138"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1994852955737264187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 713,
+          "following_count": 101,
+          "like_count": 403,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 1180
+        },
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2021-03-10T16:41:37.000Z",
+        "description": "秽土转生中//👾神秘人物/⛺露营爱好者//⚛️实验室小神厨//⚠︎二战发动者",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/ValenceRC_info…",
+                "end": 23,
+                "expanded_url": "https://t.me/ValenceRC_inform",
+                "start": 0,
+                "url": "https://t.co/7RvWzcRiQH"
+              }
+            ]
+          }
+        },
+        "id": "1369689842565738501",
+        "location": "距離 0.8Km",
+        "name": "化合价RC",
+        "pinned_tweet_id": "2013166489394635232",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009844543269810177/GCuoiBkI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 260,
+          "following_count": 74,
+          "like_count": 61,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 169
+        },
+        "url": "https://t.co/7RvWzcRiQH",
+        "username": "Valence_RC",
+        "verified": false
+      }
+    ]
+  }
+}

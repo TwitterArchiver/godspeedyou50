@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2028886497781530880",
+    "created_at": "2026-03-03T17:34:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T18:34:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028886639737770483"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1993150970705199108",
+          "start": 0,
+          "username": "Nana_naiiiiiii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028886639737770483",
+    "in_reply_to_user_id": "1993150970705199108",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028886497781530880",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nana_naiiiiiii 我操你妈"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1585,
+        "media_key": "3_2028886487895625728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCgNguCb0AAATYa.jpg",
+        "width": 882
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2028886497781530880",
+        "created_at": "2026-03-03T17:34:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T18:34:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028886639737770483"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1993150970705199108",
+              "start": 0,
+              "username": "Nana_naiiiiiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028886639737770483",
+        "in_reply_to_user_id": "1993150970705199108",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028886497781530880",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nana_naiiiiiii 我操你妈"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028886487895625728"
+          ]
+        },
+        "author_id": "1993150970705199108",
+        "conversation_id": "2028886497781530880",
+        "created_at": "2026-03-03T17:33:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T18:33:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028886497781530880"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QeaSCEVbve",
+              "end": 29,
+              "expanded_url": "https://x.com/Nana_naiiiiiii/status/2028886497781530880/photo/1",
+              "media_key": "3_2028886487895625728",
+              "start": 6,
+              "url": "https://t.co/QeaSCEVbve"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028886497781530880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁想操一下 https://t.co/QeaSCEVbve"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。/@Jahseh14138/双相I型/欢迎提问",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "Jahseh14138"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jahseh79919",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jahseh79919",
+                "start": 0,
+                "url": "https://t.co/xaz6T7v19q"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1994852955737264187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 815,
+          "following_count": 163,
+          "like_count": 531,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 1546
+        },
+        "url": "https://t.co/xaz6T7v19q",
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-25T02:55:07.000Z",
+        "description": "我只想疯狂自残嗑药吸毒做爱",
+        "id": "1993150970705199108",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "naiiiiiiiiiiiiiii",
+        "pinned_tweet_id": "1996945640593789149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151610718240768/zNZFleGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 189,
+          "following_count": 78,
+          "like_count": 9961,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 390
+        },
+        "username": "Nana_naiiiiiii",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2027768290056257925",
+    "created_at": "2026-02-28T16:42:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T17:42:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027786415581667524"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "69280655",
+          "start": 0,
+          "username": "paipaipaitang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027786415581667524",
+    "in_reply_to_user_id": "69280655",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027777573883891918",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@paipaipaitang 刷我屏"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2027768290056257925",
+        "created_at": "2026-02-28T16:42:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T17:42:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027786415581667524"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "69280655",
+              "start": 0,
+              "username": "paipaipaitang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027786415581667524",
+        "in_reply_to_user_id": "69280655",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027777573883891918",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@paipaipaitang 刷我屏"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "69280655",
+        "conversation_id": "2027768290056257925",
+        "created_at": "2026-02-28T16:07:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T17:07:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027777573883891918"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1518404201168007168",
+              "start": 0,
+              "username": "godspeedyou50"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027777573883891918",
+        "in_reply_to_user_id": "1518404201168007168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027768290056257925",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@godspeedyou50 我们都不敢回答"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。/@Jahseh14138/双相I型/欢迎提问",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "Jahseh14138"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jahseh79919",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jahseh79919",
+                "start": 0,
+                "url": "https://t.co/xaz6T7v19q"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1994852955737264187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 791,
+          "following_count": 152,
+          "like_count": 516,
+          "listed_count": 0,
+          "media_count": 96,
+          "tweet_count": 1490
+        },
+        "url": "https://t.co/xaz6T7v19q",
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2009-08-27T12:47:46.000Z",
+        "description": "三年超长寿命促智店｜税全票齐正规合法产品｜有合法便宜的利他林 专注达平替｜城招ISRIB供应商｜🌵🍄🪾抗抑郁产品供应中｜超一线促智物质研究中…｜tg：paitangcuzhi3｜本店遵守中华人民共和国法律",
+        "id": "69280655",
+        "location": "49addict@proton.me",
+        "name": "☯️🧬ATLAS 無極",
+        "pinned_tweet_id": "2024527872715813152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016934483623395328/-DAVEPMX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 937,
+          "following_count": 102,
+          "like_count": 431,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 452
+        },
+        "username": "paipaipaitang",
+        "verified": true
+      }
+    ]
+  }
+}

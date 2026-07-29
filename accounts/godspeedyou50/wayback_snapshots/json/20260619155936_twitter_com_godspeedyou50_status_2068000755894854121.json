@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2068000755894854121",
+    "created_at": "2026-06-19T15:59:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T16:59:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068000755894854121"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nana_naiiiiiii…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/nana_naiiiiiii/status/2067988912161825221",
+          "start": 6,
+          "url": "https://t.co/2smu41mvR2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068000755894854121",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067988912161825221",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "在家撸管呢 https://t.co/2smu41mvR2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2067988897465028608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLL48hDa0AAjzzT.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2068000755894854121",
+        "created_at": "2026-06-19T15:59:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T16:59:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068000755894854121"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nana_naiiiiiii…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/nana_naiiiiiii/status/2067988912161825221",
+              "start": 6,
+              "url": "https://t.co/2smu41mvR2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068000755894854121",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067988912161825221",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "在家撸管呢 https://t.co/2smu41mvR2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067988897465028608"
+          ]
+        },
+        "author_id": "1993150970705199108",
+        "conversation_id": "2067988912161825221",
+        "created_at": "2026-06-19T15:12:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T16:12:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067988912161825221"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/c0D1fcrXRD",
+              "end": 52,
+              "expanded_url": "https://x.com/Nana_naiiiiiii/status/2067988912161825221/photo/1",
+              "media_key": "3_2067988897465028608",
+              "start": 29,
+              "url": "https://t.co/c0D1fcrXRD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067988912161825221",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 103,
+          "like_count": 10,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "中国人是不需要蛋白质的 吃山东王哥庄刚出炉的大馒头就行了 https://t.co/c0D1fcrXRD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2048720319872192919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1376,
+          "following_count": 359,
+          "like_count": 1180,
+          "listed_count": 1,
+          "media_count": 195,
+          "tweet_count": 2752
+        },
+        "url": "",
+        "username": "godspeedyou50",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-25T02:55:07.000Z",
+        "description": "奈奈\n戒割戒pr 愿早日过上健全b生活\n查成分回fo 小号@naiiiiiii_77",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 29,
+                "username": "naiiiiiii_77"
+              }
+            ]
+          }
+        },
+        "id": "1993150970705199108",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "naiiiiiiiiiiiiiii",
+        "pinned_tweet_id": "1996945640593789149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151610718240768/zNZFleGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1060,
+          "following_count": 290,
+          "like_count": 19053,
+          "listed_count": 1,
+          "media_count": 127,
+          "tweet_count": 1457
+        },
+        "url": "",
+        "username": "Nana_naiiiiiii",
+        "verified": false
+      }
+    ]
+  }
+}

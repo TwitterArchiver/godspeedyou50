@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2046526108867432475",
+    "created_at": "2026-04-21T12:25:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T13:25:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046565896282681855"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1637086425429725184",
+          "start": 0,
+          "username": "Ayebxyuqnaju"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046565896282681855",
+    "in_reply_to_user_id": "1637086425429725184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046526108867432475",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ayebxyuqnaju 妈"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2046526079763103744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGa4oGfaQAAzR1f.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2046526079775748097",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGa4oGibMAEnwkX.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2046526108867432475",
+        "created_at": "2026-04-21T12:25:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T13:25:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046565896282681855"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1637086425429725184",
+              "start": 0,
+              "username": "Ayebxyuqnaju"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046565896282681855",
+        "in_reply_to_user_id": "1637086425429725184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046526108867432475",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ayebxyuqnaju 妈"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046526079763103744",
+            "3_2046526079775748097"
+          ]
+        },
+        "author_id": "1637086425429725184",
+        "conversation_id": "2046526108867432475",
+        "created_at": "2026-04-21T09:47:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T10:47:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046526108867432475"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EUpSSbpCAY",
+              "end": 53,
+              "expanded_url": "https://x.com/Ayebxyuqnaju/status/2046526108867432475/photo/1",
+              "media_key": "3_2046526079763103744",
+              "start": 30,
+              "url": "https://t.co/EUpSSbpCAY"
+            },
+            {
+              "display_url": "pic.x.com/EUpSSbpCAY",
+              "end": 53,
+              "expanded_url": "https://x.com/Ayebxyuqnaju/status/2046526108867432475/photo/1",
+              "media_key": "3_2046526079775748097",
+              "start": 30,
+              "url": "https://t.co/EUpSSbpCAY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046526108867432475",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 6893,
+          "like_count": 145,
+          "quote_count": 0,
+          "reply_count": 34,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "云南简直是极繁主义天堂\n穿搭完全融入本地的女子ꕤᴗ ᴗ)♡ https://t.co/EUpSSbpCAY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。/双相I型/欢迎提问",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jahseh79919",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jahseh79919",
+                "start": 0,
+                "url": "https://t.co/xaz6T7v19q"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2029134307244294287",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1080,
+          "following_count": 230,
+          "like_count": 952,
+          "listed_count": 0,
+          "media_count": 137,
+          "tweet_count": 2235
+        },
+        "url": "https://t.co/xaz6T7v19q",
+        "username": "godspeedyou50",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-18T13:40:01.000Z",
+        "description": "˚.꧞ 𝐋𝐢𝐟𝐞𝐥𝐨𝐧𝐠 𝐫𝐚𝐢𝐧𝐲 𝐬𝐞𝐚𝐬𝐨𝐧 ·𓏴 ⁺ Other:@yun1927218",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 37,
+                "username": "yun1927218"
+              }
+            ]
+          }
+        },
+        "id": "1637086425429725184",
+        "name": "DVD",
+        "pinned_tweet_id": "1844326104355701055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893325398034829312/Wm5im8mu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52164,
+          "following_count": 78,
+          "like_count": 1115,
+          "listed_count": 147,
+          "media_count": 51,
+          "tweet_count": 539
+        },
+        "username": "Ayebxyuqnaju",
+        "verified": false
+      }
+    ]
+  }
+}

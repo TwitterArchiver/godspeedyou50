@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1984624059506966530",
+        "3_1984623702496198656",
+        "3_1984623702508781578"
+      ]
+    },
+    "author_id": "1518404201168007168",
+    "conversation_id": "1984624072156999966",
+    "created_at": "2025-11-01T14:10:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-01T15:09:00.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1984623713527218269",
+      "1984624072156999966"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Qo7D02rvBv",
+          "end": 171,
+          "expanded_url": "https://x.com/godspeedyou50/status/1984624072156999966/photo/1",
+          "media_key": "3_1984624059506966530",
+          "start": 148,
+          "url": "https://t.co/Qo7D02rvBv"
+        },
+        {
+          "display_url": "pic.x.com/Qo7D02rvBv",
+          "end": 171,
+          "expanded_url": "https://x.com/godspeedyou50/status/1984624072156999966/photo/1",
+          "media_key": "3_1984623702496198656",
+          "start": 148,
+          "url": "https://t.co/Qo7D02rvBv"
+        },
+        {
+          "display_url": "pic.x.com/Qo7D02rvBv",
+          "end": 171,
+          "expanded_url": "https://x.com/godspeedyou50/status/1984624072156999966/photo/1",
+          "media_key": "3_1984623702508781578",
+          "start": 148,
+          "url": "https://t.co/Qo7D02rvBv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984624072156999966",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "终于……我特么成功打开国门了\n我要让所有在中国的老外普瑞成瘾 狗逼我让你们研究这玩意让我这么难受\n我魔魔你们吧 啥叫老铁 啥叫老铁\n别管哈 谁让这片地界暂时没管 国外又怕得要死 我兄弟神经痛那咋了\n互相出招吧 我们给你们整点解离剂 你给你来点美国正宗辉瑞公司的著名仿制药产品\n变态喜思平 龙塞特 睿鹤 闲立康"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "终于……我特么成功打开国门了\n我要让所有在中国的老外普瑞成瘾 狗逼我让你们研究这玩意让我这么难受\n我魔魔你们吧 啥叫老铁 啥叫老铁\n别管哈 谁让这片地界暂时没管 国外又怕得要死 我兄弟神经痛那咋了\n互相出招吧 我们给你们整点解离剂 你给你来点美国正宗辉瑞公司的著名仿制药产品\n变态喜思平 龙塞特 https://t.co/Qo7D02rvBv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1984624059506966530",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4rNES-bQAIA2iN.jpg",
+        "width": 1104
+      },
+      {
+        "height": 1024,
+        "media_key": "3_1984623702496198656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4rMvhAbQAAloXu.jpg",
+        "width": 730
+      },
+      {
+        "height": 1023,
+        "media_key": "3_1984623702508781578",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4rMvhDbQAoeqrL.jpg",
+        "width": 763
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984623702496198656",
+            "3_1984623702508781578"
+          ]
+        },
+        "author_id": "1518404201168007168",
+        "conversation_id": "1984623713527218269",
+        "created_at": "2025-11-01T14:09:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T15:09:00.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984623713527218269",
+          "1984624072156999966"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VBfJXCX8SV",
+              "end": 171,
+              "expanded_url": "https://x.com/godspeedyou50/status/1984623713527218269/photo/1",
+              "media_key": "3_1984623702496198656",
+              "start": 148,
+              "url": "https://t.co/VBfJXCX8SV"
+            },
+            {
+              "display_url": "pic.x.com/VBfJXCX8SV",
+              "end": 171,
+              "expanded_url": "https://x.com/godspeedyou50/status/1984623713527218269/photo/1",
+              "media_key": "3_1984623702508781578",
+              "start": 148,
+              "url": "https://t.co/VBfJXCX8SV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984623713527218269",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "终于……我特么成功打开国门了\n我要让所有在中国的老外普瑞成瘾 狗逼我让你们研究这玩意让我这么难受\n我魔魔你们吧 啥叫老铁 啥叫老铁\n别管哈 谁让这片地界暂时没管 国外又怕得要死 我兄弟神经痛那咋了\n互相出招吧 我们给你们整点解离剂 你给你来点美国正宗辉瑞公司的著名仿制药产品\n变态喜思平 龙塞特 睿鹤 闲立康"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "终于……我特么成功打开国门了\n我要让所有在中国的老外普瑞成瘾 狗逼我让你们研究这玩意让我这么难受\n我魔魔你们吧 啥叫老铁 啥叫老铁\n别管哈 谁让这片地界暂时没管 国外又怕得要死 我兄弟神经痛那咋了\n互相出招吧 我们给你们整点解离剂 你给你来点美国正宗辉瑞公司的著名仿制药产品\n变态喜思平 龙塞特 https://t.co/VBfJXCX8SV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984624059506966530",
+            "3_1984623702496198656",
+            "3_1984623702508781578"
+          ]
+        },
+        "author_id": "1518404201168007168",
+        "conversation_id": "1984624072156999966",
+        "created_at": "2025-11-01T14:10:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T15:09:00.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984623713527218269",
+          "1984624072156999966"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Qo7D02rvBv",
+              "end": 171,
+              "expanded_url": "https://x.com/godspeedyou50/status/1984624072156999966/photo/1",
+              "media_key": "3_1984624059506966530",
+              "start": 148,
+              "url": "https://t.co/Qo7D02rvBv"
+            },
+            {
+              "display_url": "pic.x.com/Qo7D02rvBv",
+              "end": 171,
+              "expanded_url": "https://x.com/godspeedyou50/status/1984624072156999966/photo/1",
+              "media_key": "3_1984623702496198656",
+              "start": 148,
+              "url": "https://t.co/Qo7D02rvBv"
+            },
+            {
+              "display_url": "pic.x.com/Qo7D02rvBv",
+              "end": 171,
+              "expanded_url": "https://x.com/godspeedyou50/status/1984624072156999966/photo/1",
+              "media_key": "3_1984623702508781578",
+              "start": 148,
+              "url": "https://t.co/Qo7D02rvBv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984624072156999966",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "终于……我特么成功打开国门了\n我要让所有在中国的老外普瑞成瘾 狗逼我让你们研究这玩意让我这么难受\n我魔魔你们吧 啥叫老铁 啥叫老铁\n别管哈 谁让这片地界暂时没管 国外又怕得要死 我兄弟神经痛那咋了\n互相出招吧 我们给你们整点解离剂 你给你来点美国正宗辉瑞公司的著名仿制药产品\n变态喜思平 龙塞特 睿鹤 闲立康"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "终于……我特么成功打开国门了\n我要让所有在中国的老外普瑞成瘾 狗逼我让你们研究这玩意让我这么难受\n我魔魔你们吧 啥叫老铁 啥叫老铁\n别管哈 谁让这片地界暂时没管 国外又怕得要死 我兄弟神经痛那咋了\n互相出招吧 我们给你们整点解离剂 你给你来点美国正宗辉瑞公司的著名仿制药产品\n变态喜思平 龙塞特 https://t.co/Qo7D02rvBv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "路人。and这段日子我愿意聊天，欢迎找我解惑，定期批量回fo或者私我",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1983757018830663844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983944337726787584/JcjyTY_u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 427,
+          "following_count": 266,
+          "like_count": 113,
+          "listed_count": 1,
+          "media_count": 55,
+          "tweet_count": 660
+        },
+        "username": "godspeedyou50",
+        "verified": true
+      }
+    ]
+  }
+}

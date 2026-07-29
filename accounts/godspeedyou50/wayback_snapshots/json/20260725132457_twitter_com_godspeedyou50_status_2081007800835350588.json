@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2081007800835350588",
+    "created_at": "2026-07-25T13:24:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T14:24:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081007800835350588"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2016546965497212928",
+          "start": 3,
+          "username": "chen914103"
+        },
+        {
+          "end": 28,
+          "id": "2048745058804105216",
+          "start": 16,
+          "username": "TaoistYouth"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081007800835350588",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080883932023992528",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chen914103: @TaoistYouth 我草拟麻痹，看完之后警察上门来找我了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2081007800835350588",
+        "created_at": "2026-07-25T13:24:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T14:24:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081007800835350588"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2016546965497212928",
+              "start": 3,
+              "username": "chen914103"
+            },
+            {
+              "end": 28,
+              "id": "2048745058804105216",
+              "start": 16,
+              "username": "TaoistYouth"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081007800835350588",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080883932023992528",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @chen914103: @TaoistYouth 我草拟麻痹，看完之后警察上门来找我了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2016546965497212928",
+        "conversation_id": "2080852092571595158",
+        "created_at": "2026-07-25T05:12:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T06:12:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080883932023992528"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2048745058804105216",
+              "start": 0,
+              "username": "TaoistYouth"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080883932023992528",
+        "in_reply_to_user_id": "2048745058804105216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 991,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080852092571595158",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TaoistYouth 我草拟麻痹，看完之后警察上门来找我了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个违背了大众良知od喝大酒的神棍。\n☯️算命后付不怕跑单｜代请符箓、祈福请私讯\n传统宗教现代哲学文化传播者，又称中式廉价心理医生。\n狐朋@Nonentity_xxx17 狗友@Jinggebiezhuaw",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 69,
+                "username": "Nonentity_xxx17"
+              },
+              {
+                "end": 103,
+                "start": 88,
+                "username": "Jinggebiezhuaw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/buyaogaowosorry",
+                "end": 23,
+                "expanded_url": "https://t.me/buyaogaowosorry",
+                "start": 0,
+                "url": "https://t.co/AdoFGQJT3r"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2069223594711011526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1741,
+          "following_count": 641,
+          "like_count": 1289,
+          "listed_count": 1,
+          "media_count": 214,
+          "tweet_count": 2932
+        },
+        "url": "https://t.co/AdoFGQJT3r",
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-28T16:20:50.000Z",
+        "description": "我永远都是中国人\n爱见政的小朋友们你们好啊",
+        "id": "2016546965497212928",
+        "name": "少伦少圆脸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080687475320905728/SVVb2N5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 299,
+          "like_count": 7828,
+          "listed_count": 0,
+          "media_count": 191,
+          "tweet_count": 1191
+        },
+        "url": "",
+        "username": "chen914103",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-27T12:44:34.000Z",
+        "description": "自由，博爱，平等！一个右翼自由派，理想主义者，道教善信，目前在日本生活。致力于反抗中共，反抗独裁暴政！追求人格独立，个人自由｜六四精神永存，自由民主不死。愿我们期冀的民主之花，在不远后的将来，开遍华夏的每一个角落🕯️｜ 每日更新高质量政治梗图\n小号防失联@TaoistYouth3",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 140,
+                "start": 127,
+                "username": "TaoistYouth3"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/i/status/20801…",
+                "end": 23,
+                "expanded_url": "https://x.com/i/status/2080188015364702638",
+                "start": 0,
+                "url": "https://t.co/bZf5Ab90Ak"
+              }
+            ]
+          }
+        },
+        "id": "2048745058804105216",
+        "location": "日本东京",
+        "name": "☯︎Taoist_Youth🇨🇳🇯🇵",
+        "pinned_tweet_id": "2079051343751455126",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048750584791171072/wJ8bgXnt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1917,
+          "following_count": 759,
+          "like_count": 13819,
+          "listed_count": 11,
+          "media_count": 632,
+          "tweet_count": 5162
+        },
+        "url": "https://t.co/bZf5Ab90Ak",
+        "username": "TaoistYouth",
+        "verified": false
+      }
+    ]
+  }
+}

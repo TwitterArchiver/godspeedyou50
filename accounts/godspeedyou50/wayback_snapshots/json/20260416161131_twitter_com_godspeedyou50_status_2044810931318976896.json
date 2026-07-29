@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2044777491819376899",
+    "created_at": "2026-04-16T16:11:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T17:11:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044810931318976896"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1414269095416012806",
+          "start": 0,
+          "username": "Coconut_QuQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044810931318976896",
+    "in_reply_to_user_id": "1414269095416012806",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044777491819376899",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Coconut_QuQ 慢燃纸卷的啥 如果香精太多的话 不搭配"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1600,
+        "media_key": "3_2044777477013377024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGCCSBoaEAAWrpy.jpg",
+        "width": 1200
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2044777477005090816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGCCSBmboAAOxtg.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2044777491819376899",
+        "created_at": "2026-04-16T16:11:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T17:11:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044810931318976896"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1414269095416012806",
+              "start": 0,
+              "username": "Coconut_QuQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044810931318976896",
+        "in_reply_to_user_id": "1414269095416012806",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044777491819376899",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Coconut_QuQ 慢燃纸卷的啥 如果香精太多的话 不搭配"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044777477013377024",
+            "3_2044777477005090816"
+          ]
+        },
+        "author_id": "1414269095416012806",
+        "conversation_id": "2044777491819376899",
+        "created_at": "2026-04-16T13:58:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T14:58:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044777491819376899"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZqyCIeUBL2",
+              "end": 63,
+              "expanded_url": "https://x.com/Coconut_QuQ/status/2044777491819376899/photo/1",
+              "media_key": "3_2044777477013377024",
+              "start": 40,
+              "url": "https://t.co/ZqyCIeUBL2"
+            },
+            {
+              "display_url": "pic.x.com/ZqyCIeUBL2",
+              "end": 63,
+              "expanded_url": "https://x.com/Coconut_QuQ/status/2044777491819376899/photo/1",
+              "media_key": "3_2044777477005090816",
+              "start": 40,
+              "url": "https://t.co/ZqyCIeUBL2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044777491819376899",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1227,
+          "like_count": 11,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我跟中东人学卷烟然后发现人家抽的是大麻 卧槽我真的不行了换个壳子更难抽了这个烟 https://t.co/ZqyCIeUBL2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。/双相I型/欢迎提问",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jahseh79919",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jahseh79919",
+                "start": 0,
+                "url": "https://t.co/xaz6T7v19q"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2029134307244294287",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1056,
+          "following_count": 222,
+          "like_count": 939,
+          "listed_count": 0,
+          "media_count": 131,
+          "tweet_count": 2198
+        },
+        "url": "https://t.co/xaz6T7v19q",
+        "username": "godspeedyou50",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-11T17:03:35.000Z",
+        "description": "一切问题过门回复 私信只回口令红包➕姓",
+        "id": "1414269095416012806",
+        "location": "坐标广深港🚪288/520线下/1314",
+        "name": "椰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023339779241492480/7hwhcqfJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5435,
+          "following_count": 22,
+          "like_count": 95,
+          "listed_count": 10,
+          "media_count": 39,
+          "tweet_count": 138
+        },
+        "username": "Coconut_QuQ",
+        "verified": false
+      }
+    ]
+  }
+}

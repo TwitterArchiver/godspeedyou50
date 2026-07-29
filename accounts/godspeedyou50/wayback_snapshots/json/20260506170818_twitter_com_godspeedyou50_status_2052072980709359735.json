@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2052072980709359735",
+    "created_at": "2026-05-06T17:08:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T18:08:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052072980709359735"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nezumi_sama_/s…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/nezumi_sama_/status/2051286402327888317",
+          "start": 7,
+          "url": "https://t.co/U2sQ2pfXnS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052072980709359735",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051286402327888317",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我快要咳死了 https://t.co/U2sQ2pfXnS"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2052072980709359735",
+        "created_at": "2026-05-06T17:08:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T18:08:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052072980709359735"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nezumi_sama_/s…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/nezumi_sama_/status/2051286402327888317",
+              "start": 7,
+              "url": "https://t.co/U2sQ2pfXnS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052072980709359735",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051286402327888317",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我快要咳死了 https://t.co/U2sQ2pfXnS"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758522497291497472",
+        "conversation_id": "2051241746210939027",
+        "created_at": "2026-05-04T13:02:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T14:02:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051286402327888317"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2050073911635894272",
+              "start": 0,
+              "username": "Lomyral114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051286402327888317",
+        "in_reply_to_user_id": "2050073911635894272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 615,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051241746210939027",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lomyral114514 终于找到平替了。。换季总是气管炎"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。/欢迎提问/@OvooLOO3o",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 17,
+                "username": "OvooLOO3o"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jahseh79919",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jahseh79919",
+                "start": 0,
+                "url": "https://t.co/xaz6T7v19q"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2029134307244294287",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1217,
+          "following_count": 255,
+          "like_count": 1006,
+          "listed_count": 0,
+          "media_count": 161,
+          "tweet_count": 2344
+        },
+        "url": "https://t.co/xaz6T7v19q",
+        "username": "godspeedyou50",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-16T16:03:48.000Z",
+        "description": "｜清水推｜泛性恋｜世界和平｜ 我会关注我觉得有意思的人 记录心情和相机拍到的东西 这是我的日记本",
+        "id": "1758522497291497472",
+        "location": "森林里",
+        "name": "nezumi",
+        "pinned_tweet_id": "1963253985793458684",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044856453094363136/UH-u9X4f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 70,
+          "like_count": 3024,
+          "listed_count": 1,
+          "media_count": 186,
+          "tweet_count": 4287
+        },
+        "username": "NEZUMI_sama_",
+        "verified": false
+      }
+    ]
+  }
+}

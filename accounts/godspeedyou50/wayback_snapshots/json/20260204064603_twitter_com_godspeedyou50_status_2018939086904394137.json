@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2018939086904394137",
+    "created_at": "2026-02-04T06:46:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-04T07:46:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2018939086904394137"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/raindurhinns/s…",
+          "end": 150,
+          "expanded_url": "https://twitter.com/raindurhinns/status/2018718251950153949",
+          "start": 127,
+          "url": "https://t.co/uH7FWq6s2O"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018939086904394137",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "额 刚睡醒所以正经分析你这条 我和你无冤无仇你也不用说我蹭热度 我没必要蹭他们 所以我不会和你互喷说脏话\n所以首先第一点如果你说当时是心肺衰竭但还在濒死的状态，那么死者生活在一线城市那么急救中心哪怕是救护车团队绝对会储备我综上所述的纳洛酮以及阿托品泻药 那么为什么不是首选利用纳洛酮等一切手段先逆转呼吸系统先通气恢复血氧压力，我也不会谈复杂性的是否出现脑水肿问题因为跟这不搭边。\n再换一句假设来说如果ok不谈当时是否定义为脑死亡那么按照你的说法如果你确认死者当时已经被认为基本没救了不行了，从道德层面上进行心肺复苏合法合理合规我也认同，确实你要说实在没招了扎肾上腺素我赞同，死马当活马医的道理。\n那么我只想说如果说有一线生机的情况下 不还是就是要用纳洛酮吗？所以我就说看护人就是存在瞒报 否则死因是阿片中毒又不是普瑞导致的镇静剂过量为什么跳过这个步骤直接用肾上腺素？那岂不是连气都没法喘加速心率和耗氧量加速死亡吗？"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018718251950153949",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "额 刚睡醒所以正经分析你这条 我和你无冤无仇你也不用说我蹭热度 我没必要蹭他们 所以我不会和你互喷说脏话\n所以首先第一点如果你说当时是心肺衰竭但还在濒死的状态，那么死者生活在一线城市那么急救中心哪怕是救护车团队绝对会储备我综上所述的纳洛酮以及阿托品泻药 https://t.co/uH7FWq6s2O"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2018939086904394137",
+        "created_at": "2026-02-04T06:46:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T07:46:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018939086904394137"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/raindurhinns/s…",
+              "end": 150,
+              "expanded_url": "https://twitter.com/raindurhinns/status/2018718251950153949",
+              "start": 127,
+              "url": "https://t.co/uH7FWq6s2O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018939086904394137",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "额 刚睡醒所以正经分析你这条 我和你无冤无仇你也不用说我蹭热度 我没必要蹭他们 所以我不会和你互喷说脏话\n所以首先第一点如果你说当时是心肺衰竭但还在濒死的状态，那么死者生活在一线城市那么急救中心哪怕是救护车团队绝对会储备我综上所述的纳洛酮以及阿托品泻药 那么为什么不是首选利用纳洛酮等一切手段先逆转呼吸系统先通气恢复血氧压力，我也不会谈复杂性的是否出现脑水肿问题因为跟这不搭边。\n再换一句假设来说如果ok不谈当时是否定义为脑死亡那么按照你的说法如果你确认死者当时已经被认为基本没救了不行了，从道德层面上进行心肺复苏合法合理合规我也认同，确实你要说实在没招了扎肾上腺素我赞同，死马当活马医的道理。\n那么我只想说如果说有一线生机的情况下 不还是就是要用纳洛酮吗？所以我就说看护人就是存在瞒报 否则死因是阿片中毒又不是普瑞导致的镇静剂过量为什么跳过这个步骤直接用肾上腺素？那岂不是连气都没法喘加速心率和耗氧量加速死亡吗？"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018718251950153949",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "额 刚睡醒所以正经分析你这条 我和你无冤无仇你也不用说我蹭热度 我没必要蹭他们 所以我不会和你互喷说脏话\n所以首先第一点如果你说当时是心肺衰竭但还在濒死的状态，那么死者生活在一线城市那么急救中心哪怕是救护车团队绝对会储备我综上所述的纳洛酮以及阿托品泻药 https://t.co/uH7FWq6s2O"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "conversation_id": "2018718251950153949",
+        "created_at": "2026-02-03T16:08:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T17:08:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018718251950153949"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/godspeedyou50/…",
+              "end": 165,
+              "expanded_url": "https://twitter.com/godspeedyou50/status/2018639306303434762",
+              "start": 142,
+              "url": "https://t.co/V0llas30eQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018718251950153949",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1568,
+          "like_count": 23,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018639306303434762",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "1 退一万步中枢心肺衰竭濒死状态上肾上腺素都是最必要最通用的行为，这是在尝试先把命抢回来，不可能存在什么肾上腺素不对症导致害死人的说法，纳洛酮靶向抑制阿片也得是你还在生理运转呼吸抑制啊人都死了还能不对哪个症？你说照护不当错过黄金抢救时间或许有责任，说什么肾上腺素害死人纯属奇异搞笑了 https://t.co/V0llas30eQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1994852955737264187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 708,
+          "following_count": 94,
+          "like_count": 399,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 1165
+        },
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨Gay top 今天届到正太了吗bot 炫压抑国男PhD 促智药爱好者 业余的药物使用/神经科学/医学人类学/神经药理学/法医学内容博客 psychedelics lover 致幻剂使用和研究爱好者 #Drugtwt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 115,
+                "start": 107,
+                "tag": "Drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "popibox.top/p/h4s7lhlr",
+                "end": 23,
+                "expanded_url": "http://popibox.top/p/h4s7lhlr",
+                "start": 0,
+                "url": "https://t.co/bbS8wDOc10"
+              }
+            ]
+          }
+        },
+        "id": "1811843582229381123",
+        "name": "Rhinnschneevall",
+        "pinned_tweet_id": "2009678167712358901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 618,
+          "following_count": 884,
+          "like_count": 3742,
+          "listed_count": 1,
+          "media_count": 124,
+          "tweet_count": 2006
+        },
+        "url": "https://t.co/bbS8wDOc10",
+        "username": "RainduRhinns",
+        "verified": false
+      }
+    ]
+  }
+}

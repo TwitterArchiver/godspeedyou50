@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "1991888238555148755",
+    "created_at": "2025-11-21T15:15:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-21T16:15:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1991888238555148755"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/moya_michaei/s…",
+          "end": 49,
+          "expanded_url": "https://twitter.com/moya_michaei/status/1991887741890724296",
+          "start": 26,
+          "url": "https://t.co/CBT6ghqzaz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991888238555148755",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991887741890724296",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "哇 大家快来捡免费的月尘promax了哈 快来抢啦 https://t.co/CBT6ghqzaz"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "1991888238555148755",
+        "created_at": "2025-11-21T15:15:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T16:15:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991888238555148755"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/moya_michaei/s…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/moya_michaei/status/1991887741890724296",
+              "start": 26,
+              "url": "https://t.co/CBT6ghqzaz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991888238555148755",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991887741890724296",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哇 大家快来捡免费的月尘promax了哈 快来抢啦 https://t.co/CBT6ghqzaz"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662439435726905344",
+        "conversation_id": "1991887741890724296",
+        "created_at": "2025-11-21T15:13:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T16:12:06.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991887349886890266",
+          "1991887741890724296"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/drug_artist2/s…",
+              "end": 163,
+              "expanded_url": "https://twitter.com/drug_artist2/status/1991885851446722901",
+              "start": 140,
+              "url": "https://t.co/LgiTOOra2e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991887741890724296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991885851446722901",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "马鹏宇你还是太给脸不要脸了，来今天我让你们看看南岛第一Dealer的真正实力吧\n\n七天内在沐雨这条推文底下评论转发\n“操你妈傻逼马鹏宇”截图私信给我\n即可获得200元（人民币哦）购买十颗药圈英雄同款3-meo-pce的资格\n我就准备1g出来玩玩，卖完就跑路家人们，快点来参与吧😋 https://t.co/LgiTOOra2e"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "路人。and这段日子我愿意聊天，欢迎找我解惑，定期批量回fo或者私我",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1983757018830663844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990279769297149952/3r34Cj2f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 620,
+          "following_count": 308,
+          "like_count": 263,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 901
+        },
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-27T12:44:05.000Z",
+        "description": "您好 我叫何本櫻 來自美國華盛頓特區 曾就讀於普林斯頓大學专攻医学 現居日本東京 從事十五年医药相關工作 現在是南島第一Dealer有什麼需要的可以聯繫我 感謝您的關注",
+        "id": "1662439435726905344",
+        "location": "東京 渋谷区",
+        "name": "南島魔女S4kura-Dealer2539號",
+        "pinned_tweet_id": "1991779808209170546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983926637260660736/jix4stR1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 735,
+          "following_count": 100,
+          "like_count": 9005,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 1326
+        },
+        "username": "moya_michaeI",
+        "verified": true
+      }
+    ]
+  }
+}

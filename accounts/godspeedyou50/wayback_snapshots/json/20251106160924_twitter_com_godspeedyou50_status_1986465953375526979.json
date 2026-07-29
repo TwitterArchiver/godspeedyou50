@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "1986465953375526979",
+    "created_at": "2025-11-06T16:09:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-06T17:09:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1986465953375526979"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1986465953375526979",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "何必思考世界的本质\n世界是世界 你是你\n如果在这世界上如果非要讨论有没有你\n这在我这是伪命题\n有无相生 在这个有型的世界上本来就存在无形的自我\n学会成为那个真正的观察者 观察你自己 你在哪 你在干什么 不需要干涉 你只需要看着自己在做些什么事\n不在时下这大多数是蠢事的时候 自己为何不是精彩的 又为何着相\n你不在你的身体里 你只负责远远的看着 和神明一样 所以你做到的都是神迹就好了\n我们是没有身份的 如果有 就视为无形无相的观察者 否则就是躯壳 只和死有对比\n那么有和无两个东西都相生了 为何你和死亡不能 死又怎么了 活不也是痛？\n这个世界的本质只有你自己 剩下的是你看到的那些"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "何必思考世界的本质\n世界是世界 你是你\n如果在这世界上如果非要讨论有没有你\n这在我这是伪命题\n有无相生 在这个有型的世界上本来就存在无形的自我\n学会成为那个真正的观察者 观察你自己 你在哪 你在干什么 不需要干涉 你只需要看着自己在做些什么事\n不在时下这大多数是蠢事的时候 自己为何不是精彩的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "1986465953375526979",
+        "created_at": "2025-11-06T16:09:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T17:09:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986465953375526979"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1986465953375526979",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "何必思考世界的本质\n世界是世界 你是你\n如果在这世界上如果非要讨论有没有你\n这在我这是伪命题\n有无相生 在这个有型的世界上本来就存在无形的自我\n学会成为那个真正的观察者 观察你自己 你在哪 你在干什么 不需要干涉 你只需要看着自己在做些什么事\n不在时下这大多数是蠢事的时候 自己为何不是精彩的 又为何着相\n你不在你的身体里 你只负责远远的看着 和神明一样 所以你做到的都是神迹就好了\n我们是没有身份的 如果有 就视为无形无相的观察者 否则就是躯壳 只和死有对比\n那么有和无两个东西都相生了 为何你和死亡不能 死又怎么了 活不也是痛？\n这个世界的本质只有你自己 剩下的是你看到的那些"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "何必思考世界的本质\n世界是世界 你是你\n如果在这世界上如果非要讨论有没有你\n这在我这是伪命题\n有无相生 在这个有型的世界上本来就存在无形的自我\n学会成为那个真正的观察者 观察你自己 你在哪 你在干什么 不需要干涉 你只需要看着自己在做些什么事\n不在时下这大多数是蠢事的时候 自己为何不是精彩的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "路人。and这段日子我愿意聊天，欢迎找我解惑，定期批量回fo或者私我",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1983757018830663844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984905090818523136/vVZ-D8dQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 457,
+          "following_count": 269,
+          "like_count": 135,
+          "listed_count": 1,
+          "media_count": 63,
+          "tweet_count": 711
+        },
+        "username": "godspeedyou50",
+        "verified": true
+      }
+    ]
+  }
+}

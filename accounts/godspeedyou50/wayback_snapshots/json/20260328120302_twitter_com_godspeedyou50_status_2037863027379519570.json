@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2037863010753228800",
+        "3_2037863010740649984",
+        "3_2037863010728038401"
+      ]
+    },
+    "author_id": "1518404201168007168",
+    "conversation_id": "2037863027379519570",
+    "created_at": "2026-03-28T12:03:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T13:03:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2037863027379519570"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/S93vDClVY7",
+          "end": 56,
+          "expanded_url": "https://x.com/godspeedyou50/status/2037863027379519570/photo/1",
+          "media_key": "3_2037863010753228800",
+          "start": 33,
+          "url": "https://t.co/S93vDClVY7"
+        },
+        {
+          "display_url": "pic.x.com/S93vDClVY7",
+          "end": 56,
+          "expanded_url": "https://x.com/godspeedyou50/status/2037863027379519570/photo/1",
+          "media_key": "3_2037863010740649984",
+          "start": 33,
+          "url": "https://t.co/S93vDClVY7"
+        },
+        {
+          "display_url": "pic.x.com/S93vDClVY7",
+          "end": 56,
+          "expanded_url": "https://x.com/godspeedyou50/status/2037863027379519570/photo/1",
+          "media_key": "3_2037863010728038401",
+          "start": 33,
+          "url": "https://t.co/S93vDClVY7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037863027379519570",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我的人生信条原来本质上是成为甘草片狂操进口逼吗\n算了 干我逼吧， https://t.co/S93vDClVY7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2037863010753228800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEfxnHjasAAQ9sj.jpg",
+        "width": 1206
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2037863010740649984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEfxnHgawAAVewM.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2037863010728038401",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEfxnHdaUAEGpCB.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037863010753228800",
+            "3_2037863010740649984",
+            "3_2037863010728038401"
+          ]
+        },
+        "author_id": "1518404201168007168",
+        "conversation_id": "2037863027379519570",
+        "created_at": "2026-03-28T12:03:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T13:03:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037863027379519570"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/S93vDClVY7",
+              "end": 56,
+              "expanded_url": "https://x.com/godspeedyou50/status/2037863027379519570/photo/1",
+              "media_key": "3_2037863010753228800",
+              "start": 33,
+              "url": "https://t.co/S93vDClVY7"
+            },
+            {
+              "display_url": "pic.x.com/S93vDClVY7",
+              "end": 56,
+              "expanded_url": "https://x.com/godspeedyou50/status/2037863027379519570/photo/1",
+              "media_key": "3_2037863010740649984",
+              "start": 33,
+              "url": "https://t.co/S93vDClVY7"
+            },
+            {
+              "display_url": "pic.x.com/S93vDClVY7",
+              "end": 56,
+              "expanded_url": "https://x.com/godspeedyou50/status/2037863027379519570/photo/1",
+              "media_key": "3_2037863010728038401",
+              "start": 33,
+              "url": "https://t.co/S93vDClVY7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037863027379519570",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的人生信条原来本质上是成为甘草片狂操进口逼吗\n算了 干我逼吧， https://t.co/S93vDClVY7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。/双相I型/欢迎提问",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jahseh79919",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jahseh79919",
+                "start": 0,
+                "url": "https://t.co/xaz6T7v19q"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2029134307244294287",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 990,
+          "following_count": 194,
+          "like_count": 796,
+          "listed_count": 0,
+          "media_count": 119,
+          "tweet_count": 1983
+        },
+        "url": "https://t.co/xaz6T7v19q",
+        "username": "godspeedyou50",
+        "verified": true
+      }
+    ]
+  }
+}

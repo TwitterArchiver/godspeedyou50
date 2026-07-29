@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2056777954676629508",
+    "created_at": "2026-05-19T16:44:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T17:44:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056777954676629508"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1919465517829783552",
+          "start": 3,
+          "username": "KviSin_17"
+        }
+      ],
+      "urls": [
+        {
+          "description": "KviSinnnnn’s Space · 0 listening · Where live audio conversations happen",
+          "display_url": "x.com/i/spaces/1Dxle…",
+          "end": 38,
+          "expanded_url": "https://x.com/i/spaces/1DxleEyabYMKL",
+          "start": 15,
+          "status": 200,
+          "title": "Happening now: KviSinnnnn’s Space",
+          "unwound_url": "https://twitter.com/i/spaces/1DxleEyabYMKL/peek",
+          "url": "https://t.co/3C9FFeYWPS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056777954676629508",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056776353962451137",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KviSin_17: https://t.co/3C9FFeYWPS"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2056777954676629508",
+        "created_at": "2026-05-19T16:44:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T17:44:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056777954676629508"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1919465517829783552",
+              "start": 3,
+              "username": "KviSin_17"
+            }
+          ],
+          "urls": [
+            {
+              "description": "KviSinnnnn’s Space · 0 listening · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1Dxle…",
+              "end": 38,
+              "expanded_url": "https://x.com/i/spaces/1DxleEyabYMKL",
+              "start": 15,
+              "status": 200,
+              "title": "Happening now: KviSinnnnn’s Space",
+              "unwound_url": "https://twitter.com/i/spaces/1DxleEyabYMKL/peek",
+              "url": "https://t.co/3C9FFeYWPS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056777954676629508",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056776353962451137",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @KviSin_17: https://t.co/3C9FFeYWPS"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1919465517829783552",
+        "conversation_id": "2056776353962451137",
+        "created_at": "2026-05-19T16:37:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T17:37:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056776353962451137"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "KviSinnnnn’s Space · 0 listening · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1Dxle…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/spaces/1DxleEyabYMKL",
+              "start": 0,
+              "status": 200,
+              "title": "Happening now: KviSinnnnn’s Space",
+              "unwound_url": "https://twitter.com/i/spaces/1DxleEyabYMKL/peek",
+              "url": "https://t.co/3C9FFeYWPS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056776353962451137",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/3C9FFeYWPS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2048720319872192919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1257,
+          "following_count": 281,
+          "like_count": 1069,
+          "listed_count": 0,
+          "media_count": 167,
+          "tweet_count": 2430
+        },
+        "username": "godspeedyou50",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-05T18:53:44.000Z",
+        "description": "谢谢\n有什么想问的就在➡️ https://t.co/rL1u13JJo2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ryuusuke65073",
+                "end": 37,
+                "expanded_url": "https://ngl.link/ryuusuke65073",
+                "start": 14,
+                "url": "https://t.co/rL1u13JJo2"
+              }
+            ]
+          }
+        },
+        "id": "1919465517829783552",
+        "name": "KviSinnnnn",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056103823811473408/3qiQpjz2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 18,
+          "like_count": 49,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 41
+        },
+        "username": "KviSin_17",
+        "verified": false
+      }
+    ]
+  }
+}

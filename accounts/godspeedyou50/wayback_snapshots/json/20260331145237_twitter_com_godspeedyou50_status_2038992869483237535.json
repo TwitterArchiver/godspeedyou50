@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2038992860603969536"
+      ]
+    },
+    "author_id": "1518404201168007168",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      }
+    ],
+    "conversation_id": "2038992869483237535",
+    "created_at": "2026-03-31T14:52:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T15:52:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038992869483237535"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/l0GeKhuw6s",
+          "end": 133,
+          "expanded_url": "https://x.com/godspeedyou50/status/2038992869483237535/photo/1",
+          "media_key": "3_2038992860603969536",
+          "start": 110,
+          "url": "https://t.co/l0GeKhuw6s"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038992869483237535",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "这个其实很简单，化学合成的dmt衍生物其实也蛮多的，比较常见的是用512电烙铁吸入式的dmt烟油。\n在od圈的话，dmt相当于象征着一个危险时代的开始，大家认为是传奇药师的spring春风不就是死于含有dmt到死藤水吗\n熬汤就行了，但别去拼多多买，南方路边的也有很多撒了超标农药的相思树也不行，我身边这几个玩相思汤的好朋友一般会找一个专门种植相思树做家具的大哥买树皮。\n这玩意熬起来挺讲究手法的，广为流传的教程来程序也不太对，我不建议，且dmt门槛有点太高，死倒不会，岔道倒是挺可怕的。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这个其实很简单，化学合成的dmt衍生物其实也蛮多的，比较常见的是用512电烙铁吸入式的dmt烟油。\n在od圈的话，dmt相当于象征着一个危险时代的开始，大家认为是传奇药师的spring春风不就是死于含有dmt到死藤水吗 https://t.co/l0GeKhuw6s"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 674,
+        "media_key": "3_2038992860603969536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEv1NCPbcAAxOl-.jpg",
+        "width": 1086
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038992860603969536"
+          ]
+        },
+        "author_id": "1518404201168007168",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2038992869483237535",
+        "created_at": "2026-03-31T14:52:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T15:52:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038992869483237535"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/l0GeKhuw6s",
+              "end": 133,
+              "expanded_url": "https://x.com/godspeedyou50/status/2038992869483237535/photo/1",
+              "media_key": "3_2038992860603969536",
+              "start": 110,
+              "url": "https://t.co/l0GeKhuw6s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038992869483237535",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "这个其实很简单，化学合成的dmt衍生物其实也蛮多的，比较常见的是用512电烙铁吸入式的dmt烟油。\n在od圈的话，dmt相当于象征着一个危险时代的开始，大家认为是传奇药师的spring春风不就是死于含有dmt到死藤水吗\n熬汤就行了，但别去拼多多买，南方路边的也有很多撒了超标农药的相思树也不行，我身边这几个玩相思汤的好朋友一般会找一个专门种植相思树做家具的大哥买树皮。\n这玩意熬起来挺讲究手法的，广为流传的教程来程序也不太对，我不建议，且dmt门槛有点太高，死倒不会，岔道倒是挺可怕的。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个其实很简单，化学合成的dmt衍生物其实也蛮多的，比较常见的是用512电烙铁吸入式的dmt烟油。\n在od圈的话，dmt相当于象征着一个危险时代的开始，大家认为是传奇药师的spring春风不就是死于含有dmt到死藤水吗 https://t.co/l0GeKhuw6s"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。/双相I型/欢迎提问",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jahseh79919",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jahseh79919",
+                "start": 0,
+                "url": "https://t.co/xaz6T7v19q"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2029134307244294287",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 991,
+          "following_count": 198,
+          "like_count": 841,
+          "listed_count": 0,
+          "media_count": 124,
+          "tweet_count": 2057
+        },
+        "url": "https://t.co/xaz6T7v19q",
+        "username": "godspeedyou50",
+        "verified": true
+      }
+    ]
+  }
+}

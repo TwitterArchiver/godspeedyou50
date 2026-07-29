@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "1999046086347112765",
+    "created_at": "2025-12-11T09:55:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-11T10:55:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999055466564055551"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1812582185293234176",
+          "start": 0,
+          "username": "xingyi1234567"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999055466564055551",
+    "in_reply_to_user_id": "1812582185293234176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999050550734942429",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xingyi1234567 就你这种脑残就是被风一吹就会被控制的那一类的 我什么时候怕过 我早说了骂你们用隐藏吗 我骂谁我藏着掖着过"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "1999046086347112765",
+        "created_at": "2025-12-11T09:55:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T10:55:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999055466564055551"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1812582185293234176",
+              "start": 0,
+              "username": "xingyi1234567"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999055466564055551",
+        "in_reply_to_user_id": "1812582185293234176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999050550734942429",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xingyi1234567 就你这种脑残就是被风一吹就会被控制的那一类的 我什么时候怕过 我早说了骂你们用隐藏吗 我骂谁我藏着掖着过"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1812582185293234176",
+        "conversation_id": "1999046086347112765",
+        "created_at": "2025-12-11T09:36:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T10:36:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999050550734942429"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1518404201168007168",
+              "start": 0,
+              "username": "godspeedyou50"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999050550734942429",
+        "in_reply_to_user_id": "1518404201168007168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999046086347112765",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@godspeedyou50 好自我的一个人 入毒门这话说的好像带着别人做啥大事了一样 感觉疯狂在意又想营造豁达 说了做了的事还怕别人说吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1994852955737264187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 670,
+          "following_count": 63,
+          "like_count": 364,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 1005
+        },
+        "username": "godspeedyou50",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-14T20:17:32.000Z",
+        "description": "废人日记",
+        "id": "1812582185293234176",
+        "name": "^_^",
+        "pinned_tweet_id": "1988979830260658279",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1812669906808168450/WFOUJ4st_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 80,
+          "like_count": 920,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 373
+        },
+        "username": "xingyi1234567",
+        "verified": false
+      }
+    ]
+  }
+}

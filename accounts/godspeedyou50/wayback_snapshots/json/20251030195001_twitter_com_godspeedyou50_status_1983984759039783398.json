@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "1983577112322961823",
+    "created_at": "2025-10-30T19:50:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-30T20:50:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983984759039783398"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1924482734396997632",
+          "start": 0,
+          "username": "Christina357853"
+        },
+        {
+          "end": 29,
+          "id": "1916128320103890944",
+          "start": 17,
+          "username": "Angeldust_g"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983984759039783398",
+    "in_reply_to_user_id": "1924482734396997632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983982508028129727",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Christina357853 @Angeldust_g 大部分都是 有些地区上头教的不到位\n大部分甚至会给你免费安排心理咨询\n警察也是人 分爹味浓不浓"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "1983577112322961823",
+        "created_at": "2025-10-30T19:50:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T20:50:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983984759039783398"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1924482734396997632",
+              "start": 0,
+              "username": "Christina357853"
+            },
+            {
+              "end": 29,
+              "id": "1916128320103890944",
+              "start": 17,
+              "username": "Angeldust_g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983984759039783398",
+        "in_reply_to_user_id": "1924482734396997632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983982508028129727",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Christina357853 @Angeldust_g 大部分都是 有些地区上头教的不到位\n大部分甚至会给你免费安排心理咨询\n警察也是人 分爹味浓不浓"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1924482734396997632",
+        "conversation_id": "1983577112322961823",
+        "created_at": "2025-10-30T19:41:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T20:41:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983982508028129727"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1518404201168007168",
+              "start": 0,
+              "username": "godspeedyou50"
+            },
+            {
+              "end": 27,
+              "id": "1916128320103890944",
+              "start": 15,
+              "username": "Angeldust_g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983982508028129727",
+        "in_reply_to_user_id": "1518404201168007168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983981052390686771",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@godspeedyou50 @Angeldust_g 如果自杀干预为什么还会这么应激（？）不应该态度很温和么，我自杀被晶捉回去过我感觉还好他们态度挺好的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "路人。and这段日子我愿意聊天，欢迎找我解惑，定期批量回fo或者私我",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1983757018830663844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983944337726787584/JcjyTY_u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 413,
+          "following_count": 255,
+          "like_count": 105,
+          "listed_count": 1,
+          "media_count": 53,
+          "tweet_count": 600
+        },
+        "username": "godspeedyou50",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-19T15:11:13.000Z",
+        "description": "一般路过",
+        "id": "1924482734396997632",
+        "location": "被窝",
+        "name": "Vvni",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941981282226855936/9T4K3Wht_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 240,
+          "like_count": 13429,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 396
+        },
+        "username": "Christina357853",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-26T13:52:53.000Z",
+        "description": "存在于世界夹缝之中的幽灵｜#odtwt｜#shtwt 丨提问箱https://t.co/0uipWc5v1I",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 19,
+                "start": 13,
+                "tag": "odtwt"
+              },
+              {
+                "end": 26,
+                "start": 20,
+                "tag": "shtwt"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/angeldust_g",
+                "end": 54,
+                "expanded_url": "https://ngl.link/angeldust_g",
+                "start": 31,
+                "url": "https://t.co/0uipWc5v1I"
+              }
+            ]
+          }
+        },
+        "id": "1916128320103890944",
+        "name": "天使尘",
+        "pinned_tweet_id": "1980996131749572618",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983849707823915008/JIlVed4o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 341,
+          "like_count": 2186,
+          "listed_count": 2,
+          "media_count": 39,
+          "tweet_count": 1500
+        },
+        "username": "Angeldust_g",
+        "verified": false
+      }
+    ]
+  }
+}

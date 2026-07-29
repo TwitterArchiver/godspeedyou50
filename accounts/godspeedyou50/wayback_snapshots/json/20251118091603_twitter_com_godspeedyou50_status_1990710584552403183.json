@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1990710574653845504",
+        "3_1990710574670622724",
+        "3_1990710574653845509"
+      ]
+    },
+    "author_id": "1518404201168007168",
+    "conversation_id": "1990710584552403183",
+    "created_at": "2025-11-18T09:16:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-18T10:16:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1990710584552403183"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/5x3ZVhm7nq",
+          "end": 92,
+          "expanded_url": "https://x.com/godspeedyou50/status/1990710584552403183/photo/1",
+          "media_key": "3_1990710574653845504",
+          "start": 69,
+          "url": "https://t.co/5x3ZVhm7nq"
+        },
+        {
+          "display_url": "pic.x.com/5x3ZVhm7nq",
+          "end": 92,
+          "expanded_url": "https://x.com/godspeedyou50/status/1990710584552403183/photo/1",
+          "media_key": "3_1990710574670622724",
+          "start": 69,
+          "url": "https://t.co/5x3ZVhm7nq"
+        },
+        {
+          "display_url": "pic.x.com/5x3ZVhm7nq",
+          "end": 92,
+          "expanded_url": "https://x.com/godspeedyou50/status/1990710584552403183/photo/1",
+          "media_key": "3_1990710574653845509",
+          "start": 69,
+          "url": "https://t.co/5x3ZVhm7nq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990710584552403183",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "崔照然你麻痹手速真特么快….\n我还那么友好的和你互动 明明不在乎这些 怎么说你骗钱就立马切割我 你大爷的 当你条生路\n下次直接发大头照😅 https://t.co/5x3ZVhm7nq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 698,
+        "media_key": "3_1990710574653845504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6BsuGzbMAAMNSX.jpg",
+        "width": 615
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1990710574670622724",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6BsuG3bMAQHuX4.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1990710574653845509",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6BsuGzbMAUyDlz.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990710574653845504",
+            "3_1990710574670622724",
+            "3_1990710574653845509"
+          ]
+        },
+        "author_id": "1518404201168007168",
+        "conversation_id": "1990710584552403183",
+        "created_at": "2025-11-18T09:16:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T10:16:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990710584552403183"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5x3ZVhm7nq",
+              "end": 92,
+              "expanded_url": "https://x.com/godspeedyou50/status/1990710584552403183/photo/1",
+              "media_key": "3_1990710574653845504",
+              "start": 69,
+              "url": "https://t.co/5x3ZVhm7nq"
+            },
+            {
+              "display_url": "pic.x.com/5x3ZVhm7nq",
+              "end": 92,
+              "expanded_url": "https://x.com/godspeedyou50/status/1990710584552403183/photo/1",
+              "media_key": "3_1990710574670622724",
+              "start": 69,
+              "url": "https://t.co/5x3ZVhm7nq"
+            },
+            {
+              "display_url": "pic.x.com/5x3ZVhm7nq",
+              "end": 92,
+              "expanded_url": "https://x.com/godspeedyou50/status/1990710584552403183/photo/1",
+              "media_key": "3_1990710574653845509",
+              "start": 69,
+              "url": "https://t.co/5x3ZVhm7nq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990710584552403183",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "崔照然你麻痹手速真特么快….\n我还那么友好的和你互动 明明不在乎这些 怎么说你骗钱就立马切割我 你大爷的 当你条生路\n下次直接发大头照😅 https://t.co/5x3ZVhm7nq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "路人。and这段日子我愿意聊天，欢迎找我解惑，定期批量回fo或者私我",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1983757018830663844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990279769297149952/3r34Cj2f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 573,
+          "following_count": 292,
+          "like_count": 227,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 808
+        },
+        "username": "godspeedyou50",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065685392955944960",
+        "3_2065685392943464448",
+        "3_2065685392955961344"
+      ]
+    },
+    "author_id": "1518404201168007168",
+    "conversation_id": "2065685402619629862",
+    "created_at": "2026-06-13T06:39:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T07:39:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065685402619629862"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/9kQHNzoprz",
+          "end": 68,
+          "expanded_url": "https://x.com/godspeedyou50/status/2065685402619629862/photo/1",
+          "media_key": "3_2065685392955944960",
+          "start": 45,
+          "url": "https://t.co/9kQHNzoprz"
+        },
+        {
+          "display_url": "pic.x.com/9kQHNzoprz",
+          "end": 68,
+          "expanded_url": "https://x.com/godspeedyou50/status/2065685402619629862/photo/1",
+          "media_key": "3_2065685392943464448",
+          "start": 45,
+          "url": "https://t.co/9kQHNzoprz"
+        },
+        {
+          "display_url": "pic.x.com/9kQHNzoprz",
+          "end": 68,
+          "expanded_url": "https://x.com/godspeedyou50/status/2065685402619629862/photo/1",
+          "media_key": "3_2065685392955961344",
+          "start": 45,
+          "url": "https://t.co/9kQHNzoprz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065685402619629862",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "诚信和效率是根本\n（但是我了一个棉花糖 好舒服….）\n哈哈哈 舒服就够了祝所有人玩的开心 https://t.co/9kQHNzoprz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2065685392955944960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKrJ66DaMAA_uNO.jpg",
+        "width": 1062
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2065685392943464448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKrJ66AbwAAM-Dc.jpg",
+        "width": 1078
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2065685392955961344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKrJ66DacAAXXrO.jpg",
+        "width": 1062
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065685392955944960",
+            "3_2065685392943464448",
+            "3_2065685392955961344"
+          ]
+        },
+        "author_id": "1518404201168007168",
+        "conversation_id": "2065685402619629862",
+        "created_at": "2026-06-13T06:39:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T07:39:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065685402619629862"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9kQHNzoprz",
+              "end": 68,
+              "expanded_url": "https://x.com/godspeedyou50/status/2065685402619629862/photo/1",
+              "media_key": "3_2065685392955944960",
+              "start": 45,
+              "url": "https://t.co/9kQHNzoprz"
+            },
+            {
+              "display_url": "pic.x.com/9kQHNzoprz",
+              "end": 68,
+              "expanded_url": "https://x.com/godspeedyou50/status/2065685402619629862/photo/1",
+              "media_key": "3_2065685392943464448",
+              "start": 45,
+              "url": "https://t.co/9kQHNzoprz"
+            },
+            {
+              "display_url": "pic.x.com/9kQHNzoprz",
+              "end": 68,
+              "expanded_url": "https://x.com/godspeedyou50/status/2065685402619629862/photo/1",
+              "media_key": "3_2065685392955961344",
+              "start": 45,
+              "url": "https://t.co/9kQHNzoprz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065685402619629862",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "诚信和效率是根本\n（但是我了一个棉花糖 好舒服….）\n哈哈哈 舒服就够了祝所有人玩的开心 https://t.co/9kQHNzoprz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。我在倒腾两颗神秘的糖请小窗",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2064647794707821015",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1362,
+          "following_count": 355,
+          "like_count": 1154,
+          "listed_count": 1,
+          "media_count": 194,
+          "tweet_count": 2678
+        },
+        "username": "godspeedyou50",
+        "verified": false
+      }
+    ]
+  }
+}

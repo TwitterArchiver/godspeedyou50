@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "1991885851446722901",
+    "created_at": "2025-11-21T15:26:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-21T16:26:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991890916026786248"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1989627406391635968",
+          "start": 0,
+          "username": "drug_artist2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991890916026786248",
+    "in_reply_to_user_id": "1989627406391635968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991885851446722901",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@drug_artist2 我和你和好可以吗 我错了呢 送我两颗 一颗不够吃 🤤🤭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1991885846988083200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6SZn9baUAAl1yZ.jpg",
+        "width": 719
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1991885848191901697",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6SZoB6bIAE9Yl1.jpg",
+        "width": 663
+      },
+      {
+        "height": 2149,
+        "media_key": "3_1991885848552583170",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6SZoDQasAImaBs.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "1991885851446722901",
+        "created_at": "2025-11-21T15:26:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T16:26:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991890916026786248"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1989627406391635968",
+              "start": 0,
+              "username": "drug_artist2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991890916026786248",
+        "in_reply_to_user_id": "1989627406391635968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991885851446722901",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@drug_artist2 我和你和好可以吗 我错了呢 送我两颗 一颗不够吃 🤤🤭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1991885846988083200",
+            "3_1991885848191901697",
+            "3_1991885848552583170"
+          ]
+        },
+        "author_id": "1989627406391635968",
+        "conversation_id": "1991885851446722901",
+        "created_at": "2025-11-21T15:06:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T16:06:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991885851446722901"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mQBrB3fzUS",
+              "end": 172,
+              "expanded_url": "https://x.com/drug_artist2/status/1991885851446722901/photo/1",
+              "media_key": "3_1991885846988083200",
+              "start": 149,
+              "url": "https://t.co/mQBrB3fzUS"
+            },
+            {
+              "display_url": "pic.x.com/mQBrB3fzUS",
+              "end": 172,
+              "expanded_url": "https://x.com/drug_artist2/status/1991885851446722901/photo/1",
+              "media_key": "3_1991885848191901697",
+              "start": 149,
+              "url": "https://t.co/mQBrB3fzUS"
+            },
+            {
+              "display_url": "pic.x.com/mQBrB3fzUS",
+              "end": 172,
+              "expanded_url": "https://x.com/drug_artist2/status/1991885851446722901/photo/1",
+              "media_key": "3_1991885848552583170",
+              "start": 149,
+              "url": "https://t.co/mQBrB3fzUS"
+            },
+            {
+              "display_url": "x.com/godspeedyou50/…",
+              "end": 196,
+              "expanded_url": "https://twitter.com/godspeedyou50/status/1991855164886745282",
+              "start": 173,
+              "url": "https://t.co/Lvbhsd7GdS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991885851446722901",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 476,
+          "like_count": 5,
+          "quote_count": 3,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991855164886745282",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🌧️沐雨RC🌧️\n再次如闪电般归来，月尘重新发售，转发评论点赞关注这条推，抽五位幸运观众各1t月尘（包邮）\n口碑全推最差 没有之一\n暴雷（空胶囊或碎胶囊）承诺翻倍补发（需要一镜到底开箱视频）\n策划药属于特殊商品 没有质量或少发漏发问题概不退换\n包装也更新了 新增塑料离心管精致包装！\n\nby.沐雨 https://t.co/mQBrB3fzUS https://t.co/Lvbhsd7GdS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "路人。and这段日子我愿意聊天，欢迎找我解惑，定期批量回fo或者私我",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1983757018830663844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990279769297149952/3r34Cj2f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 621,
+          "following_count": 308,
+          "like_count": 263,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 903
+        },
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-15T09:32:30.000Z",
+        "description": "药物百科wiki主|投稿报告请私信我|长发视觉系4i男娘|售卖合法物质直接私信我或联系TG:https://t.co/FmpWHRKM7z｜提问箱:https://t.co/zPtZpIiuYS |愿每一位药物滥用者都能脱离深渊|提供药物/精神病咨询|im crazy!",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/drug_artist",
+                "end": 69,
+                "expanded_url": "http://t.me/drug_artist",
+                "start": 46,
+                "url": "https://t.co/FmpWHRKM7z"
+              },
+              {
+                "display_url": "ngl.link/drug_artist",
+                "end": 97,
+                "expanded_url": "http://ngl.link/drug_artist",
+                "start": 74,
+                "url": "https://t.co/zPtZpIiuYS"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/CuWdphsu7d"
+              }
+            ]
+          }
+        },
+        "id": "1989627406391635968",
+        "location": "Xanax天国2mg自治区",
+        "name": "沐雨",
+        "pinned_tweet_id": "1991885851446722901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989627623304302594/iRhfipvR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 544,
+          "following_count": 13,
+          "like_count": 18,
+          "listed_count": 1,
+          "media_count": 3,
+          "tweet_count": 43
+        },
+        "url": "https://t.co/CuWdphsu7d",
+        "username": "drug_artist2",
+        "verified": false
+      }
+    ]
+  }
+}

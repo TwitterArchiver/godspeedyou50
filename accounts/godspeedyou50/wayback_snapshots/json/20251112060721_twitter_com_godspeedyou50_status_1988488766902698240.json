@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1988488698112225280"
+      ]
+    },
+    "author_id": "1518404201168007168",
+    "conversation_id": "1988345290118832391",
+    "created_at": "2025-11-12T06:07:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T07:07:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988488766902698240"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1525566804533256192",
+          "start": 0,
+          "username": "leon_leslie8"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/yCBNKDz4xU",
+          "end": 47,
+          "expanded_url": "https://x.com/godspeedyou50/status/1988488766902698240/video/1",
+          "media_key": "13_1988488698112225280",
+          "start": 24,
+          "url": "https://t.co/yCBNKDz4xU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988488766902698240",
+    "in_reply_to_user_id": "1525566804533256192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988345290118832391",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@leon_leslie8 我类个豆 受宠若惊 https://t.co/yCBNKDz4xU"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 17200,
+        "height": 1280,
+        "media_key": "13_1988488698112225280",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1988488698112225280/img/sbp2o8iWJlvy1yz_.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1988488698112225280/vid/avc1/320x568/zet873i1E1OQAON1.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1988488698112225280/vid/avc1/480x852/Y8uPGSx59ABlYCBl.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1988488698112225280/vid/avc1/720x1280/zDOqbvwXFX4h0P2l.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1988488698112225280/pl/Bxi0sdjZwGns7dqx.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 861,
+        "media_key": "3_1988345281776414723",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5gFf8MbcAMe571.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1988488698112225280"
+          ]
+        },
+        "author_id": "1518404201168007168",
+        "conversation_id": "1988345290118832391",
+        "created_at": "2025-11-12T06:07:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T07:07:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988488766902698240"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1525566804533256192",
+              "start": 0,
+              "username": "leon_leslie8"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yCBNKDz4xU",
+              "end": 47,
+              "expanded_url": "https://x.com/godspeedyou50/status/1988488766902698240/video/1",
+              "media_key": "13_1988488698112225280",
+              "start": 24,
+              "url": "https://t.co/yCBNKDz4xU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988488766902698240",
+        "in_reply_to_user_id": "1525566804533256192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988345290118832391",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@leon_leslie8 我类个豆 受宠若惊 https://t.co/yCBNKDz4xU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988345281776414723"
+          ]
+        },
+        "author_id": "1525566804533256192",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "1988345290118832391",
+        "created_at": "2025-11-11T20:37:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T21:37:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988345290118832391"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 30,
+              "id": "1518404201168007168",
+              "start": 16,
+              "username": "godspeedyou50"
+            }
+          ],
+          "urls": [
+            {
+              "description": "We don't disclose this feature's algorithm. We can only hope that, whether in a good or bad way, your Secret Crush will impress you.",
+              "display_url": "infintytweet.me/secret-crush?l…",
+              "end": 58,
+              "expanded_url": "https://infintytweet.me/secret-crush?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/1986338606492127232/zDtYaFzV?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1986338606492127232/zDtYaFzV?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 35,
+              "status": 200,
+              "title": "Secret Crush • Infinitweet",
+              "unwound_url": "https://infintytweet.me/secret-crush?lang=zh",
+              "url": "https://t.co/RXVfGyxzSO"
+            },
+            {
+              "display_url": "pic.x.com/ACod1ar6X0",
+              "end": 82,
+              "expanded_url": "https://x.com/leon_leslie8/status/1988345290118832391/photo/1",
+              "media_key": "3_1988345281776414723",
+              "start": 59,
+              "url": "https://t.co/ACod1ar6X0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988345290118832391",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 68,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我在Twitter上的暗恋是  @godspeedyou50\n\n➡️ https://t.co/RXVfGyxzSO https://t.co/ACod1ar6X0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "路人。and这段日子我愿意聊天，欢迎找我解惑，定期批量回fo或者私我",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1983757018830663844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984905090818523136/vVZ-D8dQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 482,
+          "following_count": 277,
+          "like_count": 131,
+          "listed_count": 1,
+          "media_count": 69,
+          "tweet_count": 734
+        },
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2022-05-14T20:01:00.000Z",
+        "description": "薬物過剰 /v系宅 /电波系♡diru♡Deshabillz ♡梟♡ 🚪300",
+        "id": "1525566804533256192",
+        "name": "京",
+        "pinned_tweet_id": "1811388503139434497",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970487078795517954/TN1Cars3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1471,
+          "following_count": 953,
+          "like_count": 4873,
+          "listed_count": 3,
+          "media_count": 422,
+          "tweet_count": 3517
+        },
+        "username": "leon_leslie8",
+        "verified": false
+      }
+    ]
+  }
+}

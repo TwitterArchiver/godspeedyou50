@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "1999070129842487429",
+    "created_at": "2025-12-11T11:12:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-11T12:12:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999074887055577384"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1866458229527764992",
+          "start": 0,
+          "username": "Citrus_amara"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999074887055577384",
+    "in_reply_to_user_id": "1866458229527764992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999073910726541433",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Citrus_amara 我可没搞小团体 我乱骂也没炒作😂 又扣高帽 我小团体唯一一个在药圈的这不抹黑我呢吗 所以赶紧离你们远点吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "1999070129842487429",
+        "created_at": "2025-12-11T11:12:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T12:12:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999074887055577384"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1866458229527764992",
+              "start": 0,
+              "username": "Citrus_amara"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999074887055577384",
+        "in_reply_to_user_id": "1866458229527764992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999073910726541433",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Citrus_amara 我可没搞小团体 我乱骂也没炒作😂 又扣高帽 我小团体唯一一个在药圈的这不抹黑我呢吗 所以赶紧离你们远点吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1999070129842487429",
+        "created_at": "2025-12-11T11:08:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T12:08:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999073910726541433"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1518404201168007168",
+              "start": 0,
+              "username": "godspeedyou50"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999073910726541433",
+        "in_reply_to_user_id": "1518404201168007168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999072283680510066",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@godspeedyou50 🧐我没躲，只是在观察药圈里形形色色的人。我之前炒作过，但是不太喜欢那种感觉，就安安静静的磕药了。可能和你的区别是我不会搞小团体然后乱骂吧。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1999064457344147720",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 669,
+          "following_count": 64,
+          "like_count": 364,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 1018
+        },
+        "username": "godspeedyou50",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。enby🏳️‍⚧️，HRT：2025.8.28。\n#odtwt  #drugtwt 中文/Eng。\n跨性别/od 妹妹@shsh548866 主人@nktblovekris99",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 36,
+                "start": 30,
+                "tag": "odtwt"
+              },
+              {
+                "end": 46,
+                "start": 38,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 75,
+                "start": 64,
+                "username": "shsh548866"
+              },
+              {
+                "end": 93,
+                "start": 78,
+                "username": "nktblovekris99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwB5Rn"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "name": "🍊苦橙🍊8️⃣9️⃣6️⃣4️⃣",
+        "pinned_tweet_id": "1998716565470998697",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999057878196322305/spCDL_E1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1174,
+          "following_count": 918,
+          "like_count": 14004,
+          "listed_count": 4,
+          "media_count": 247,
+          "tweet_count": 6500
+        },
+        "url": "https://t.co/V6d8rwB5Rn",
+        "username": "Citrus_amara",
+        "verified": false
+      }
+    ]
+  }
+}

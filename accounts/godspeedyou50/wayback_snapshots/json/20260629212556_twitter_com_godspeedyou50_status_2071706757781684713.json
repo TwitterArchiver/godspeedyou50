@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2071706757781684713",
+    "created_at": "2026-06-29T21:25:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T22:25:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071706757781684713"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1792161919429996544",
+          "start": 3,
+          "username": "suki_kawaii_no"
+        },
+        {
+          "end": 31,
+          "id": "1942368986051796992",
+          "start": 20,
+          "username": "CunZai1069"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071706757781684713",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071557935122288903",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @suki_kawaii_no: @CunZai1069 我爸也喜欢对我说教，但是他也很努力很辛苦的把我养大了。这样就够了(Ｔ▽Ｔ)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2071706757781684713",
+        "created_at": "2026-06-29T21:25:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T22:25:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071706757781684713"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1792161919429996544",
+              "start": 3,
+              "username": "suki_kawaii_no"
+            },
+            {
+              "end": 31,
+              "id": "1942368986051796992",
+              "start": 20,
+              "username": "CunZai1069"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071706757781684713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071557935122288903",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @suki_kawaii_no: @CunZai1069 我爸也喜欢对我说教，但是他也很努力很辛苦的把我养大了。这样就够了(Ｔ▽Ｔ)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792161919429996544",
+        "conversation_id": "2071440933883924558",
+        "created_at": "2026-06-29T11:34:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T12:34:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071557935122288903"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1942368986051796992",
+              "start": 0,
+              "username": "CunZai1069"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071557935122288903",
+        "in_reply_to_user_id": "1942368986051796992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 234,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071440933883924558",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CunZai1069 我爸也喜欢对我说教，但是他也很努力很辛苦的把我养大了。这样就够了(Ｔ▽Ｔ)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个违背了大众道德良知的神棍。\n☯️算命后付不怕跑单｜代请符箓、祈福请私讯\n传统宗教现代哲学文化传播者，又称中式廉价心理医生。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/buyaogaowosorry",
+                "end": 23,
+                "expanded_url": "https://t.me/buyaogaowosorry",
+                "start": 0,
+                "url": "https://t.co/AdoFGQJT3r"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2069223594711011526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1572,
+          "following_count": 546,
+          "like_count": 1263,
+          "listed_count": 1,
+          "media_count": 199,
+          "tweet_count": 2812
+        },
+        "url": "https://t.co/AdoFGQJT3r",
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-19T11:56:45.000Z",
+        "description": "你好！陌生人祝你天天开心^_^",
+        "id": "1792161919429996544",
+        "name": "纳纳芙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071072393679011840/GIZTHZlZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 44,
+          "like_count": 928,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 312
+        },
+        "url": "",
+        "username": "suki_kawaii_no",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-07T23:44:03.000Z",
+        "description": "CS专业 | INTP | 重抑重焦 | 一切艺术 | 艰苦求生中…… | 私信看到就会回复的！个人网站https://t.co/jvcfxxDPos但是目前还在搭建中……@Guanyiwlz7是给",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 86,
+                "username": "Guanyiwlz7"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "cun-zai.com",
+                "end": 75,
+                "expanded_url": "https://www.cun-zai.com",
+                "start": 52,
+                "url": "https://t.co/jvcfxxDPos"
+              }
+            ]
+          }
+        },
+        "id": "1942368986051796992",
+        "name": "存存之王",
+        "pinned_tweet_id": "2065313131057098790",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065415683622760449/W9azSrax_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1047,
+          "following_count": 1294,
+          "like_count": 4413,
+          "listed_count": 3,
+          "media_count": 96,
+          "tweet_count": 1271
+        },
+        "url": "",
+        "username": "CunZai1069",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,452 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+          "id": "1557696505548394496",
+          "name": "Beauty, Cosmetic & Personal Care Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Beauty",
+          "id": "850395585941086209",
+          "name": "Beauty"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Body Art",
+          "id": "854712713510965248",
+          "name": "Body art"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Tattoo",
+          "id": "854694311216136192",
+          "name": "Tattoos"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Tattoo",
+          "id": "854694311216136192",
+          "name": "Tattoos"
+        }
+      }
+    ],
+    "conversation_id": "2080587588789018839",
+    "created_at": "2026-07-24T09:35:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T10:35:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080587588789018839"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1571598918739267592",
+          "start": 3,
+          "username": "lordelovivas"
+        },
+        {
+          "end": 31,
+          "id": "753424463560052736",
+          "start": 18,
+          "username": "AcervoCharts"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080587588789018839",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080453818278355089",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lordelovivas: @AcervoCharts pra mim um dos motivos de fazer tatuagem é de algum dia virar um velho tatuado"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Body Art",
+              "id": "854712713510965248",
+              "name": "Body art"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Tattoo",
+              "id": "854694311216136192",
+              "name": "Tattoos"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Tattoo",
+              "id": "854694311216136192",
+              "name": "Tattoos"
+            }
+          }
+        ],
+        "conversation_id": "2080587588789018839",
+        "created_at": "2026-07-24T09:35:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T10:35:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080587588789018839"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1571598918739267592",
+              "start": 3,
+              "username": "lordelovivas"
+            },
+            {
+              "end": 31,
+              "id": "753424463560052736",
+              "start": 18,
+              "username": "AcervoCharts"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080587588789018839",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080453818278355089",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lordelovivas: @AcervoCharts pra mim um dos motivos de fazer tatuagem é de algum dia virar um velho tatuado"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1571598918739267592",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Body Art",
+              "id": "854712713510965248",
+              "name": "Body art"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Tattoo",
+              "id": "854694311216136192",
+              "name": "Tattoos"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Tattoo",
+              "id": "854694311216136192",
+              "name": "Tattoos"
+            }
+          }
+        ],
+        "conversation_id": "2080286810979070061",
+        "created_at": "2026-07-24T00:43:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T01:43:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080453818278355089"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "753424463560052736",
+              "start": 0,
+              "username": "AcervoCharts"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080453818278355089",
+        "in_reply_to_user_id": "753424463560052736",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21094,
+          "like_count": 157,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080286810979070061",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AcervoCharts pra mim um dos motivos de fazer tatuagem é de algum dia virar um velho tatuado"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个违背了大众良知od喝大酒的神棍。\n☯️算命后付不怕跑单｜代请符箓、祈福请私讯\n传统宗教现代哲学文化传播者，又称中式廉价心理医生。\n狐朋@Nonentity_xxx17 狗友@Jinggebiezhuaw",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 69,
+                "username": "Nonentity_xxx17"
+              },
+              {
+                "end": 103,
+                "start": 88,
+                "username": "Jinggebiezhuaw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/buyaogaowosorry",
+                "end": 23,
+                "expanded_url": "https://t.me/buyaogaowosorry",
+                "start": 0,
+                "url": "https://t.co/AdoFGQJT3r"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2069223594711011526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1738,
+          "following_count": 634,
+          "like_count": 1291,
+          "listed_count": 1,
+          "media_count": 212,
+          "tweet_count": 2922
+        },
+        "url": "https://t.co/AdoFGQJT3r",
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2022-09-18T20:36:13.000Z",
+        "description": "",
+        "id": "1571598918739267592",
+        "name": "lucas",
+        "pinned_tweet_id": "2016951525352911070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073906465446748160/UHHm-Xfj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 119,
+          "like_count": 2243,
+          "listed_count": 0,
+          "media_count": 233,
+          "tweet_count": 2267
+        },
+        "url": "",
+        "username": "lordelovivas",
+        "verified": false
+      },
+      {
+        "created_at": "2016-07-14T03:02:45.000Z",
+        "description": "Curiosidades, entretenimento e cultura pop.\n✉️ publi@portalacervo.com.br",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "portalacervo.com.br",
+                "end": 23,
+                "expanded_url": "http://portalacervo.com.br",
+                "start": 0,
+                "url": "https://t.co/BICfVvadSo"
+              }
+            ]
+          }
+        },
+        "id": "753424463560052736",
+        "location": "Brasil",
+        "name": "ACERVO",
+        "pinned_tweet_id": "2080301910264041607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897105347287908352/g-209otg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 227011,
+          "following_count": 7553,
+          "like_count": 26705,
+          "listed_count": 338,
+          "media_count": 14199,
+          "tweet_count": 15143
+        },
+        "url": "https://t.co/BICfVvadSo",
+        "username": "AcervoCharts",
+        "verified": true
+      }
+    ]
+  }
+}

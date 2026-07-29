@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2021605931206004736"
+      ]
+    },
+    "author_id": "1518404201168007168",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2021605941037121812",
+    "created_at": "2026-02-11T15:23:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-11T16:23:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2021605941037121812"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/N7uMNOHd5r",
+          "end": 49,
+          "expanded_url": "https://x.com/godspeedyou50/status/2021605941037121812/photo/1",
+          "media_key": "3_2021605931206004736",
+          "start": 26,
+          "url": "https://t.co/N7uMNOHd5r"
+        },
+        {
+          "display_url": "x.com/c4lluml1/statu…",
+          "end": 73,
+          "expanded_url": "https://twitter.com/c4lluml1/status/2021604556447064079",
+          "start": 50,
+          "url": "https://t.co/KLW63uI8uW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021605941037121812",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021604556447064079",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不为此发言负责 单纯好笑\n（门188纯绿赠送原味） https://t.co/N7uMNOHd5r https://t.co/KLW63uI8uW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1856,
+        "media_key": "3_2021605931206004736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA4v4i1bUAAOyGm.jpg",
+        "width": 1158
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021605931206004736"
+          ]
+        },
+        "author_id": "1518404201168007168",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2021605941037121812",
+        "created_at": "2026-02-11T15:23:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T16:23:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021605941037121812"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/N7uMNOHd5r",
+              "end": 49,
+              "expanded_url": "https://x.com/godspeedyou50/status/2021605941037121812/photo/1",
+              "media_key": "3_2021605931206004736",
+              "start": 26,
+              "url": "https://t.co/N7uMNOHd5r"
+            },
+            {
+              "display_url": "x.com/c4lluml1/statu…",
+              "end": 73,
+              "expanded_url": "https://twitter.com/c4lluml1/status/2021604556447064079",
+              "start": 50,
+              "url": "https://t.co/KLW63uI8uW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021605941037121812",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021604556447064079",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不为此发言负责 单纯好笑\n（门188纯绿赠送原味） https://t.co/N7uMNOHd5r https://t.co/KLW63uI8uW"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020519480972238848",
+        "conversation_id": "2021582581213589508",
+        "created_at": "2026-02-11T15:17:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T16:17:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021604556447064079"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1518404201168007168",
+              "start": 0,
+              "username": "godspeedyou50"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021604556447064079",
+        "in_reply_to_user_id": "1518404201168007168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021582581213589508",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@godspeedyou50 冷知识：镜音是和爱德华谈好价格，才决定先垫1300多来浙江去找他的。原本她的计划根本不是去浙江"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。/@Jahseh14138/双相I型",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "Jahseh14138"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1994852955737264187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 720,
+          "following_count": 114,
+          "like_count": 421,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 1259
+        },
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-08T15:26:38.000Z",
+        "description": "不可能在电视里摆上一个像Archie Bunker（美国70年代开播的电视剧《All in the Family》中的一个固执的对西班牙人、共产主义者、嬉皮士、同性恋、犹太人、女性解放运动者和波兰裔美国人抱有偏见的胖子）一样的角色。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/getoutforchina",
+                "end": 23,
+                "expanded_url": "https://t.me/getoutforchina",
+                "start": 0,
+                "url": "https://t.co/VRKfGLxQVz"
+              }
+            ]
+          }
+        },
+        "id": "2020519480972238848",
+        "location": "（富途牛牛受害者）",
+        "name": "富途牛牛.埃里克·希欧多尔·卡特曼",
+        "pinned_tweet_id": "2020934483088936966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020915044498931716/YGKMNu_t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 33,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 61
+        },
+        "url": "https://t.co/VRKfGLxQVz",
+        "username": "c4lluml1",
+        "verified": false
+      }
+    ]
+  }
+}

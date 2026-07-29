@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2077372885568745981",
+    "created_at": "2026-07-15T15:36:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T16:36:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077416975215771875"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2057743680061255680",
+          "start": 0,
+          "username": "Koroshiiiiiii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077416975215771875",
+    "in_reply_to_user_id": "2057743680061255680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077413553569718274",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Koroshiiiiiii 你别走了 用完帮忙扔一下谢谢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2077372885568745981",
+        "created_at": "2026-07-15T15:36:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T16:36:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077416975215771875"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2057743680061255680",
+              "start": 0,
+              "username": "Koroshiiiiiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077416975215771875",
+        "in_reply_to_user_id": "2057743680061255680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077413553569718274",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Koroshiiiiiii 你别走了 用完帮忙扔一下谢谢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057743680061255680",
+        "conversation_id": "2077372885568745981",
+        "created_at": "2026-07-15T15:22:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T16:22:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077413553569718274"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1518404201168007168",
+              "start": 0,
+              "username": "godspeedyou50"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077413553569718274",
+        "in_reply_to_user_id": "1518404201168007168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077372885568745981",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@godspeedyou50 我是物业，来送套了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个违背了大众良知od喝大酒的神棍。\n☯️算命后付不怕跑单｜代请符箓、祈福请私讯\n传统宗教现代哲学文化传播者，又称中式廉价心理医生。\n狐朋@Nonentity_xxx17 狗友@Jinggebiezhuaw",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 69,
+                "username": "Nonentity_xxx17"
+              },
+              {
+                "end": 103,
+                "start": 88,
+                "username": "Jinggebiezhuaw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/buyaogaowosorry",
+                "end": 23,
+                "expanded_url": "https://t.me/buyaogaowosorry",
+                "start": 0,
+                "url": "https://t.co/AdoFGQJT3r"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2069223594711011526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1677,
+          "following_count": 602,
+          "like_count": 1279,
+          "listed_count": 1,
+          "media_count": 209,
+          "tweet_count": 2893
+        },
+        "url": "https://t.co/AdoFGQJT3r",
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-22T08:44:46.000Z",
+        "description": "可以叫小杀🦋同名\n退役Oder/不🔪🩸/致幻/日本語🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/药理学习中/随缘互fo/不出售任何物质，私信匿名提问🉑\n关于个人trip报告👇🏻\nhttps://t.co/9aTLaOashy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "kdocs.cn/l/cfQa1JFxmwQz…",
+                "end": 112,
+                "expanded_url": "https://www.kdocs.cn/l/cfQa1JFxmwQz?f=301",
+                "start": 89,
+                "url": "https://t.co/9aTLaOashy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/Q7AWi1TcyC"
+              }
+            ]
+          }
+        },
+        "id": "2057743680061255680",
+        "location": "✟升天✟",
+        "name": "山本殺し✰",
+        "pinned_tweet_id": "2075645184621330511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057744621166628864/0Fz6K0Ld_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 484,
+          "following_count": 395,
+          "like_count": 2744,
+          "listed_count": 0,
+          "media_count": 156,
+          "tweet_count": 971
+        },
+        "url": "https://t.co/Q7AWi1TcyC",
+        "username": "Koroshiiiiiii",
+        "verified": false
+      }
+    ]
+  }
+}

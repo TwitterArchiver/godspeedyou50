@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "1990871468406681905",
+    "created_at": "2025-11-18T19:55:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-18T20:55:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1990871468406681905"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/moya_michaei/s…",
+          "end": 58,
+          "expanded_url": "https://twitter.com/moya_michaei/status/1990857601547227566",
+          "start": 35,
+          "url": "https://t.co/ZPU40kk6DG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990871468406681905",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990857601547227566",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "视频号最近点赞我也听说了 笑尿…..\n但实际上小骚猫都是有九条命的呢 https://t.co/ZPU40kk6DG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1086,
+        "media_key": "3_1990856988440600576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6Dx4gqbIAAJN4x.jpg",
+        "width": 998
+      },
+      {
+        "height": 1810,
+        "media_key": "3_1990856988440604674",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6Dx4gqbMAISwik.jpg",
+        "width": 1010
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "1990871468406681905",
+        "created_at": "2025-11-18T19:55:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T20:55:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990871468406681905"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/moya_michaei/s…",
+              "end": 58,
+              "expanded_url": "https://twitter.com/moya_michaei/status/1990857601547227566",
+              "start": 35,
+              "url": "https://t.co/ZPU40kk6DG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990871468406681905",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990857601547227566",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "视频号最近点赞我也听说了 笑尿…..\n但实际上小骚猫都是有九条命的呢 https://t.co/ZPU40kk6DG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990856988440600576",
+            "3_1990856988440604674"
+          ]
+        },
+        "author_id": "1662439435726905344",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1990857601547227566",
+        "created_at": "2025-11-18T19:00:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T19:58:00.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990857037996228694",
+          "1990857601547227566"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9eZxd6SqaZ",
+              "end": 134,
+              "expanded_url": "https://x.com/moya_michaeI/status/1990857601547227566/photo/1",
+              "media_key": "3_1990856988440600576",
+              "start": 111,
+              "url": "https://t.co/9eZxd6SqaZ"
+            },
+            {
+              "display_url": "pic.x.com/9eZxd6SqaZ",
+              "end": 134,
+              "expanded_url": "https://x.com/moya_michaeI/status/1990857601547227566/photo/1",
+              "media_key": "3_1990856988440604674",
+              "start": 111,
+              "url": "https://t.co/9eZxd6SqaZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990857601547227566",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "以防你们忘了我给你们提一嘴吧\n假死这一招在今年的9月份沐雨就已经用过一遍了，当时在所谓的Wiki大战里面沐雨把555害惨了之后宣布退圈再也不发推然后找了一群人陪他唱双簧美美复活，回来是为了干什么呢？当然是继续卖他的策划药\n\n从我最近的推文你们应该可以看出来，我对这人敌意挺大的，我来说说为什么吧，免得有人以为我是无厘头攻击。\n首先你沐雨卖25U（多少钱我忘了其实，没仔细看）的策划药最开始不愿意公布其物质，并且口口声声说没有副作用，请问你自己信吗？\n\n再后来当overdosewiki把该物质爆出来之后，大家开始讨论该物质的副作用的时候，你沐雨复活了为了卖你的策划药，你改口了，大言不惭的说出了\n“不长期滥用没有什么副作用”\n“你都吸毒了还在乎这点毒性”\n\n而3-meo-pce在Psywiki上被描述成具有高度成瘾性，有诱发精神病的风险，而且对泌尿系统也有影响（这只是已经发现的问题，该物质缺乏研究，理应在服用时采取保守的使用方法）\n\n就这样的物质你沐雨当初为了自己卖药销量好一点被你描述成了没有副作用，近乎完美的东西，你不愿意告诉这些人他们吃的到底是什么你沐雨是有何居心你难道不清楚？\n\n我不是说3-meo-pce不好，或者说卖策划药就该死，你们爱玩什么都是自己的自由觉得舒服好玩你们请便就好了，但是知道药物的副作用按理来说应该是每个ODER得权利吧？你听到一个药吃多了会让你的膀胱萎缩走路漏尿你还会不假思索的购买他沐雨的产品吗？\n\n我在药圈心服口服地策划药商只有无极一个人，他敢把自己卖的东西一五一十的标出来物质，至少服用者知道自己在吃什么，而你沐雨为了卖货赚钱隐瞒副作用不公布物质难道不是该死吗？\n\n你沐雨自诩为“药圈英雄”但你干的勾当真的见的得人吗？所谓的“药圈英雄”干的就是把pce这种垃圾丢给ODER们告诉他们这是你发现的神秘小众物质，然后卖几百块一粒的价格，再告诉他们没有副作用的勾当对吧\n\n我说你他妈不配！\n懂了吗？\n\n如果有必要的话我可以扒扒你的老底告诉大家这玩意儿的成本到底是多少。但是这个圈子还需要平衡，我也不会这么干，断人财路如杀人父母\n\n但是难道真你们以为沐雨把你们当家人了？或者是以为原料在化工网6000元/g买过来的？多的我也不想说了，自己悟去吧\n\n希望你沐雨早点复活把欠着的月尘还给人家，别让人再来找我问了谢谢"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 197,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "以防你们忘了我给你们提一嘴吧\n假死这一招在今年的9月份沐雨就已经用过一遍了，当时在所谓的Wiki大战里面沐雨把555害惨了之后宣布退圈再也不发推然后找了一群人陪他唱双簧美美复活，回来是为了干什么呢？当然是继续卖他的策划药 https://t.co/9eZxd6SqaZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "路人。and这段日子我愿意聊天，欢迎找我解惑，定期批量回fo或者私我",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1983757018830663844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990279769297149952/3r34Cj2f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 577,
+          "following_count": 292,
+          "like_count": 227,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 812
+        },
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-27T12:44:05.000Z",
+        "description": "您好 我叫何本櫻 來自美國華盛頓特區 曾就讀於普林斯頓大學专攻医学 現居日本東京 從事十五年医药相關工作 現在是南島第一Dealer有什麼需要的可以聯繫我 感謝您的關注",
+        "id": "1662439435726905344",
+        "location": "東京 渋谷区",
+        "name": "南島魔女S4kura-Dealer2539號",
+        "pinned_tweet_id": "1990857601547227566",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983926637260660736/jix4stR1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 579,
+          "following_count": 96,
+          "like_count": 8596,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 1248
+        },
+        "username": "moya_michaeI",
+        "verified": false
+      }
+    ]
+  }
+}

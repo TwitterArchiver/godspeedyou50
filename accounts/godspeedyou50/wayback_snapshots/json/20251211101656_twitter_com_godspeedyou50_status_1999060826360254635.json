@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "1999060826360254635",
+    "created_at": "2025-12-11T10:16:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-11T11:16:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1999060826360254635"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1999060826360254635",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "点名道姓互喷来吧 删你好友因为我不沾药商身份隔离就开始病娇附身 开始疯狂找我的黑历史诱导人喷我\n赶紧快进到盒时代谁也别活 我看谁要脸 都扒出来就完事了互相开盒 你长得好看呢 甩我猪头脸就完事了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "1999060826360254635",
+        "created_at": "2025-12-11T10:16:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T11:16:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999060826360254635"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1999060826360254635",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "点名道姓互喷来吧 删你好友因为我不沾药商身份隔离就开始病娇附身 开始疯狂找我的黑历史诱导人喷我\n赶紧快进到盒时代谁也别活 我看谁要脸 都扒出来就完事了互相开盒 你长得好看呢 甩我猪头脸就完事了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1994852955737264187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 670,
+          "following_count": 63,
+          "like_count": 364,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 1010
+        },
+        "username": "godspeedyou50",
+        "verified": false
+      }
+    ]
+  }
+}

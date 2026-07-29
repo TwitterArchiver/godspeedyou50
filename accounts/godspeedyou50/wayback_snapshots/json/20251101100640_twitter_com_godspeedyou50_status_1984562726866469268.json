@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "1984562726866469268",
+    "created_at": "2025-11-01T10:06:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-01T11:06:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1984562726866469268"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/furinadf/statu…",
+          "end": 62,
+          "expanded_url": "https://twitter.com/furinadf/status/1984296256672514348",
+          "start": 39,
+          "url": "https://t.co/6zyVrRTUrU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984562726866469268",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984296256672514348",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我最特么喜欢看脸 逼别漏奶子别漏都行 我最烦的是男主角的大黑腚视角 无人在意 https://t.co/6zyVrRTUrU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 525,
+        "media_key": "3_1984296241703030784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4mi6yfaEAAIcAJ.jpg",
+        "width": 902
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "1984562726866469268",
+        "created_at": "2025-11-01T10:06:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T11:06:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984562726866469268"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/furinadf/statu…",
+              "end": 62,
+              "expanded_url": "https://twitter.com/furinadf/status/1984296256672514348",
+              "start": 39,
+              "url": "https://t.co/6zyVrRTUrU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984562726866469268",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984296256672514348",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我最特么喜欢看脸 逼别漏奶子别漏都行 我最烦的是男主角的大黑腚视角 无人在意 https://t.co/6zyVrRTUrU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984296241703030784"
+          ]
+        },
+        "author_id": "1790370144755351552",
+        "conversation_id": "1984296256672514348",
+        "created_at": "2025-10-31T16:27:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T17:27:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984296256672514348"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NxmQM5byXy",
+              "end": 23,
+              "expanded_url": "https://x.com/FurinaDF/status/1984296256672514348/photo/1",
+              "media_key": "3_1984296241703030784",
+              "start": 0,
+              "url": "https://t.co/NxmQM5byXy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984296256672514348",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 240,
+          "impression_count": 280001,
+          "like_count": 2219,
+          "quote_count": 9,
+          "reply_count": 75,
+          "retweet_count": 98
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/NxmQM5byXy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "路人。and这段日子我愿意聊天，欢迎找我解惑，定期批量回fo或者私我",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1983757018830663844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983944337726787584/JcjyTY_u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 425,
+          "following_count": 266,
+          "like_count": 113,
+          "listed_count": 1,
+          "media_count": 53,
+          "tweet_count": 658
+        },
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-14T13:15:08.000Z",
+        "description": "我们在一个虚拟的宇宙里@yongchuTaffyOwO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 11,
+                "username": "yongchuTaffyOwO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/langrenxinwenc…",
+                "end": 23,
+                "expanded_url": "http://t.me/langrenxinwenchonglangtv",
+                "start": 0,
+                "url": "https://t.co/69nE3RLjhg"
+              }
+            ]
+          }
+        },
+        "id": "1790370144755351552",
+        "location": "Oregon",
+        "name": "芙宁娜娜💙𝐅𝐮𝐫𝐢𝐧𝐚𝐧𝐚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909485043128434688/z-ZbsFFG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59329,
+          "following_count": 2369,
+          "like_count": 29658,
+          "listed_count": 167,
+          "media_count": 7471,
+          "tweet_count": 12033
+        },
+        "url": "https://t.co/69nE3RLjhg",
+        "username": "FurinaDF",
+        "verified": false
+      }
+    ]
+  }
+}

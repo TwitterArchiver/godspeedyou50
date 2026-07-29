@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2081372881234354488",
+    "created_at": "2026-07-26T15:16:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T16:16:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081398359466848533"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1993150970705199108",
+          "start": 0,
+          "username": "Nana_naiiiiiii"
+        },
+        {
+          "end": 31,
+          "id": "2080966704356802560",
+          "start": 16,
+          "username": "Pharmakon14138"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081398359466848533",
+    "in_reply_to_user_id": "1993150970705199108",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081398172002423294",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nana_naiiiiiii @Pharmakon14138 cnm"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2081372881234354488",
+        "created_at": "2026-07-26T15:16:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T16:16:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081398359466848533"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1993150970705199108",
+              "start": 0,
+              "username": "Nana_naiiiiiii"
+            },
+            {
+              "end": 31,
+              "id": "2080966704356802560",
+              "start": 16,
+              "username": "Pharmakon14138"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081398359466848533",
+        "in_reply_to_user_id": "1993150970705199108",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081398172002423294",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nana_naiiiiiii @Pharmakon14138 cnm"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1993150970705199108",
+        "conversation_id": "2081372881234354488",
+        "created_at": "2026-07-26T15:16:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T16:16:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081398172002423294"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2080966704356802560",
+              "start": 0,
+              "username": "Pharmakon14138"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081398172002423294",
+        "in_reply_to_user_id": "2080966704356802560",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081393321411535112",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Pharmakon14138 非公狗婉拒了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个违背了大众良知od喝大酒的神棍。\n☯️算命后付不怕跑单｜代请符箓、祈福请私讯\n传统宗教现代哲学文化传播者，又称中式廉价心理医生。\n魔界频道入口法马康@Pharmakon14138\n狐朋@Nonentity_xxx17 狗友@Jinggebiezhuaw",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 76,
+                "username": "Pharmakon14138"
+              },
+              {
+                "end": 110,
+                "start": 94,
+                "username": "Nonentity_xxx17"
+              },
+              {
+                "end": 128,
+                "start": 113,
+                "username": "Jinggebiezhuaw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/buyaogaowosorry",
+                "end": 23,
+                "expanded_url": "https://t.me/buyaogaowosorry",
+                "start": 0,
+                "url": "https://t.co/AdoFGQJT3r"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2069223594711011526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1752,
+          "following_count": 651,
+          "like_count": 1293,
+          "listed_count": 1,
+          "media_count": 215,
+          "tweet_count": 2956
+        },
+        "url": "https://t.co/AdoFGQJT3r",
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-25T02:55:07.000Z",
+        "description": "对不起\n我爱你",
+        "id": "1993150970705199108",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "naiiiiiiiiiiiiiii",
+        "pinned_tweet_id": "1996945640593789149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151610718240768/zNZFleGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1659,
+          "following_count": 325,
+          "like_count": 23825,
+          "listed_count": 2,
+          "media_count": 161,
+          "tweet_count": 1815
+        },
+        "url": "",
+        "username": "Nana_naiiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-25T10:43:18.000Z",
+        "description": "法马康二世在此，我是随时消融在历史长河的毒瘤，兜售各种非列管合法策划化学物质💊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/buyaogaowosorry",
+                "end": 23,
+                "expanded_url": "http://t.me/buyaogaowosorry",
+                "start": 0,
+                "url": "https://t.co/iOCGBYGysd"
+              }
+            ]
+          }
+        },
+        "id": "2080966704356802560",
+        "location": "欢迎私信tg指路 ",
+        "name": "Pharmakon",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080967441732227072/c7BH4AoQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 17,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 9
+        },
+        "url": "https://t.co/iOCGBYGysd",
+        "username": "Pharmakon14138",
+        "verified": false
+      }
+    ]
+  }
+}

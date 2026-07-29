@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2044710431399555569",
+    "created_at": "2026-04-16T09:32:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T10:32:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044710431399555569"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xiaoen040924/s…",
+          "end": 75,
+          "expanded_url": "https://twitter.com/xiaoen040924/status/2044709667885257033",
+          "start": 52,
+          "url": "https://t.co/mUgfjBDjYq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044710431399555569",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044709667885257033",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "傻逼二五仔你们拿人头钱又要伪装成惨圈妹宣传惨圈臭味文化是不是也是一种危害社会呢？\n什么时候互关的 取了 https://t.co/mUgfjBDjYq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2044710431399555569",
+        "created_at": "2026-04-16T09:32:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T10:32:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044710431399555569"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xiaoen040924/s…",
+              "end": 75,
+              "expanded_url": "https://twitter.com/xiaoen040924/status/2044709667885257033",
+              "start": 52,
+              "url": "https://t.co/mUgfjBDjYq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044710431399555569",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044709667885257033",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "傻逼二五仔你们拿人头钱又要伪装成惨圈妹宣传惨圈臭味文化是不是也是一种危害社会呢？\n什么时候互关的 取了 https://t.co/mUgfjBDjYq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1914692064744497152",
+        "conversation_id": "2044709667885257033",
+        "created_at": "2026-04-16T09:29:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T10:29:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044709667885257033"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044709667885257033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个医生甚至让我用我父母的信息能多开点思诺思哈哈，我想出sns"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。/双相I型/欢迎提问",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jahseh79919",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jahseh79919",
+                "start": 0,
+                "url": "https://t.co/xaz6T7v19q"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2029134307244294287",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1054,
+          "following_count": 222,
+          "like_count": 938,
+          "listed_count": 0,
+          "media_count": 131,
+          "tweet_count": 2197
+        },
+        "url": "https://t.co/xaz6T7v19q",
+        "username": "godspeedyou50",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-22T14:45:50.000Z",
+        "description": "52🚪",
+        "id": "1914692064744497152",
+        "name": "海苔恩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914692223465349121/kOBOwwP0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 46,
+          "like_count": 194,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 192
+        },
+        "username": "xiaoen040924",
+        "verified": false
+      }
+    ]
+  }
+}

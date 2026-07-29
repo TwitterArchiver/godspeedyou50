@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "1991807407169892543",
+    "created_at": "2025-11-21T09:54:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-21T10:54:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1991807407169892543"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1920308340737126400",
+          "start": 0,
+          "username": "fusedjiii"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/qwq_shark/stat…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/qwq_shark/status/1991777466172711295",
+          "start": 17,
+          "url": "https://t.co/pFTCXwRduE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991807407169892543",
+    "in_reply_to_user_id": "1920308340737126400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991777466172711295",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fusedjiii 你的前世吗 https://t.co/pFTCXwRduE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1991777453610852352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6Q3CoobYAA8L-n.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "1991807407169892543",
+        "created_at": "2025-11-21T09:54:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T10:54:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991807407169892543"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1920308340737126400",
+              "start": 0,
+              "username": "fusedjiii"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/qwq_shark/stat…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/qwq_shark/status/1991777466172711295",
+              "start": 17,
+              "url": "https://t.co/pFTCXwRduE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991807407169892543",
+        "in_reply_to_user_id": "1920308340737126400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991777466172711295",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fusedjiii 你的前世吗 https://t.co/pFTCXwRduE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1991777453610852352"
+          ]
+        },
+        "author_id": "1580505223071641600",
+        "conversation_id": "1991777466172711295",
+        "created_at": "2025-11-21T07:55:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T08:55:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991777466172711295"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xGTQTQdihI",
+              "end": 36,
+              "expanded_url": "https://x.com/qwq_shark/status/1991777466172711295/photo/1",
+              "media_key": "3_1991777453610852352",
+              "start": 13,
+              "url": "https://t.co/xGTQTQdihI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991777466172711295",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 728,
+          "like_count": 44,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "꒰｡ › ·̮ ‹ ｡꒱ https://t.co/xGTQTQdihI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "路人。and这段日子我愿意聊天，欢迎找我解惑，定期批量回fo或者私我",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1983757018830663844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990279769297149952/3r34Cj2f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 617,
+          "following_count": 306,
+          "like_count": 256,
+          "listed_count": 1,
+          "media_count": 71,
+          "tweet_count": 892
+        },
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-08T02:42:51.000Z",
+        "description": "一般路过门槛妹，私信只想回口令。互联网是我的墓地🪦，别对我的坟墓占有欲太强",
+        "id": "1920308340737126400",
+        "location": "家",
+        "name": "裴裴小猫好吗",
+        "pinned_tweet_id": "1990055488101515559",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990008336121839616/ZIOsGLv5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3483,
+          "following_count": 152,
+          "like_count": 530,
+          "listed_count": 8,
+          "media_count": 97,
+          "tweet_count": 1503
+        },
+        "username": "fusedjiii",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-13T10:28:18.000Z",
+        "description": "我是小惨｜好朋友@Miekoudesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "Miekoudesu"
+              }
+            ]
+          }
+        },
+        "id": "1580505223071641600",
+        "name": "悲惨世界与内心独白",
+        "pinned_tweet_id": "1863064821769568264",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988807839356514304/Uo4aIQRH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5642,
+          "following_count": 346,
+          "like_count": 3676,
+          "listed_count": 7,
+          "media_count": 552,
+          "tweet_count": 11896
+        },
+        "username": "qwq_shark",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2070911983155822851",
+    "created_at": "2026-06-27T16:47:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T17:47:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070911983155822851"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yaowubaike/sta…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/yaowubaike/status/2070773344522346758",
+          "start": 9,
+          "url": "https://t.co/lOZtcMBgCH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070911983155822851",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070773344522346758",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "谁说没有完美犯罪 https://t.co/lOZtcMBgCH"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2070911983155822851",
+        "created_at": "2026-06-27T16:47:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T17:47:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070911983155822851"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yaowubaike/sta…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/yaowubaike/status/2070773344522346758",
+              "start": 9,
+              "url": "https://t.co/lOZtcMBgCH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070911983155822851",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070773344522346758",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "谁说没有完美犯罪 https://t.co/lOZtcMBgCH"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962425480612851712",
+        "conversation_id": "2070773344522346758",
+        "created_at": "2026-06-27T07:36:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T08:36:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070773344522346758"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070773344522346758",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 9364,
+          "like_count": 124,
+          "quote_count": 13,
+          "reply_count": 31,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "药圈是传奇的聚集地\n后藤 春风 鸡哥 沐雨 爱德华 凌驾 叶老板 公子 420 玄鸮 凌雪 药实 鼠尾草 梨子 小猫 55555 三琦 meng 喹硫平 Krvy 彻子 弦月 莉莉 德克萨斯 苦橙 等等…\n不管活着的上天堂的还是卖药的做wiki的\n你们都是传奇 是构建药圈的重要人物 \n希望大家Peace and love\n共同构建一个更好的药圈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个违背了大众道德良知的神棍。\n☯️算命后付不怕跑单｜代请符箓、祈福请私讯\n传统宗教现代哲学文化传播者，又称中式廉价心理医生。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/buyaogaowosorry",
+                "end": 23,
+                "expanded_url": "https://t.me/buyaogaowosorry",
+                "start": 0,
+                "url": "https://t.co/AdoFGQJT3r"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2069223594711011526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1455,
+          "following_count": 456,
+          "like_count": 1236,
+          "listed_count": 1,
+          "media_count": 190,
+          "tweet_count": 2770
+        },
+        "url": "https://t.co/AdoFGQJT3r",
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-01T08:02:36.000Z",
+        "description": "药物百科官方账号 有报告欢迎私信投稿 | 原wiki主沐雨（已去世）@drug_artist2 | 原wiki主:凌雪（已去世）@yng014522566684|wiki主玄鸮:@Manglesuki｜提供免费药物咨询｜提问箱：https://t.co/INTOuR03h5 |",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 34,
+                "username": "drug_artist2"
+              },
+              {
+                "end": 80,
+                "start": 64,
+                "username": "yng014522566684"
+              },
+              {
+                "end": 100,
+                "start": 89,
+                "username": "Manglesuki"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/drug_artist2",
+                "end": 137,
+                "expanded_url": "https://ngl.link/drug_artist2",
+                "start": 114,
+                "url": "https://t.co/INTOuR03h5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/05EG4Mk4hl"
+              }
+            ]
+          }
+        },
+        "id": "1962425480612851712",
+        "location": "Xanax天国2mg市",
+        "name": "药物百科Mediwiki",
+        "pinned_tweet_id": "2060450500500435039",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962426785532170240/hz3rO6fL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5021,
+          "following_count": 57,
+          "like_count": 692,
+          "listed_count": 6,
+          "media_count": 84,
+          "tweet_count": 526
+        },
+        "url": "https://t.co/05EG4Mk4hl",
+        "username": "yaowubaike",
+        "verified": true
+      }
+    ]
+  }
+}

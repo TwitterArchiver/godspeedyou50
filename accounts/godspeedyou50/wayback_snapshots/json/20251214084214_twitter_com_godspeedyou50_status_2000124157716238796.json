@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2000123272701358373",
+    "created_at": "2025-12-14T08:42:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-14T09:42:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000124157716238796"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1778696847563104256",
+          "start": 3,
+          "username": "gold_bihu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000124157716238796",
+    "in_reply_to_user_id": "1518404201168007168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000123272701358373",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "感谢哈@gold_bihu  谢谢你分享的处方\n本意是退网 我也坚持我的本意 这里恢复风平浪静的时刻了 这次是真的最后一条推\n本意也是不会再接受任何形式的私信咨询\n但如果这波大批禁用普瑞 有真心要戒断的朋友 我依然欢迎 我反复对抗普瑞两年半至今\n这次不是刷耐药 我要停掉\n我很少用它上劲 但低剂量也是诅咒"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2000123263801004032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8HdguXakAAirod.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2000123263805227008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8HdguYbAAAaCfm.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2000123272701358373",
+        "created_at": "2025-12-14T08:42:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T09:42:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000124157716238796"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1778696847563104256",
+              "start": 3,
+              "username": "gold_bihu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000124157716238796",
+        "in_reply_to_user_id": "1518404201168007168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000123272701358373",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "感谢哈@gold_bihu  谢谢你分享的处方\n本意是退网 我也坚持我的本意 这里恢复风平浪静的时刻了 这次是真的最后一条推\n本意也是不会再接受任何形式的私信咨询\n但如果这波大批禁用普瑞 有真心要戒断的朋友 我依然欢迎 我反复对抗普瑞两年半至今\n这次不是刷耐药 我要停掉\n我很少用它上劲 但低剂量也是诅咒"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000123263801004032",
+            "3_2000123263805227008"
+          ]
+        },
+        "author_id": "1518404201168007168",
+        "conversation_id": "2000123272701358373",
+        "created_at": "2025-12-14T08:38:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T09:38:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000123272701358373"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dqU4oDkU4A",
+              "end": 174,
+              "expanded_url": "https://x.com/godspeedyou50/status/2000123272701358373/photo/1",
+              "media_key": "3_2000123263801004032",
+              "start": 151,
+              "url": "https://t.co/dqU4oDkU4A"
+            },
+            {
+              "display_url": "pic.x.com/dqU4oDkU4A",
+              "end": 174,
+              "expanded_url": "https://x.com/godspeedyou50/status/2000123272701358373/photo/1",
+              "media_key": "3_2000123263805227008",
+              "start": 151,
+              "url": "https://t.co/dqU4oDkU4A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000123272701358373",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "天想收我 我不服 其实我是目前我认识的范围里陷入普瑞圈套最深的那个了吧…\n我每天睁眼就要30红 否则我的一切生活都要停摆 做不了任何事情\n最近在阶梯戒断 其实我是1颗红叠上去的耐药 都知道 我往年都是三个月戒一次普瑞 相当于每年少活三个月  每一次都是1t加上去\n该停了 继续阶梯 最后的七盒救我狗命 https://t.co/dqU4oDkU4A"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1999064457344147720",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 663,
+          "following_count": 68,
+          "like_count": 368,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 1046
+        },
+        "username": "godspeedyou50",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-12T08:09:17.000Z",
+        "description": "性别是🦖 ｜od区?｜同类互fo｜喜欢一切有意思的东西｜处方放在https://t.co/MS7VCxzFgu",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/dddlg28",
+                "end": 55,
+                "expanded_url": "https://t.me/dddlg28",
+                "start": 32,
+                "url": "https://t.co/MS7VCxzFgu"
+              }
+            ]
+          }
+        },
+        "id": "1778696847563104256",
+        "name": "多拉贡",
+        "pinned_tweet_id": "1999827971180490853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996121294568558592/oUNZCOVI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 380,
+          "following_count": 339,
+          "like_count": 8673,
+          "listed_count": 3,
+          "media_count": 126,
+          "tweet_count": 2195
+        },
+        "username": "gold_bihu",
+        "verified": false
+      }
+    ]
+  }
+}

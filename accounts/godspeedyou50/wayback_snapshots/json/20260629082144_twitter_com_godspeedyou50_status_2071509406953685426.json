@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2071119874869678252",
+    "created_at": "2026-06-29T08:21:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T09:21:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071509406953685426"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2004938037751652352",
+          "start": 0,
+          "username": "liming_9999"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071509406953685426",
+    "in_reply_to_user_id": "2004938037751652352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071119874869678252",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@liming_9999 偷偷取关真恶心"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2400,
+        "media_key": "3_2071119867978407936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL4Yi_IbYAAr-Jh.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2071119874869678252",
+        "created_at": "2026-06-29T08:21:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T09:21:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071509406953685426"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004938037751652352",
+              "start": 0,
+              "username": "liming_9999"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071509406953685426",
+        "in_reply_to_user_id": "2004938037751652352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071119874869678252",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@liming_9999 偷偷取关真恶心"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071119867978407936"
+          ]
+        },
+        "author_id": "2004938037751652352",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1486271512655003652",
+              "name": "Web3"
+            }
+          }
+        ],
+        "conversation_id": "2071119874869678252",
+        "created_at": "2026-06-28T06:33:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T07:33:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071119874869678252"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 67,
+              "start": 62,
+              "tag": "蓝V互关"
+            },
+            {
+              "end": 72,
+              "start": 68,
+              "tag": "X蓝V"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JvqKpY3VuW",
+              "end": 96,
+              "expanded_url": "https://x.com/liming_9999/status/2071119874869678252/photo/1",
+              "media_key": "3_2071119867978407936",
+              "start": 73,
+              "url": "https://t.co/JvqKpY3VuW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071119874869678252",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 63,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "💙 蓝V互关，长期在线。\n\n做 Web3｜空投｜价值投资内容，\n评论“互”+关注，我会回关支持。\n\n一起交流，一起成长。🤝\n#蓝V互关 #X蓝V https://t.co/JvqKpY3VuW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个违背了大众道德良知的神棍。\n☯️算命后付不怕跑单｜代请符箓、祈福请私讯\n传统宗教现代哲学文化传播者，又称中式廉价心理医生。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/buyaogaowosorry",
+                "end": 23,
+                "expanded_url": "https://t.me/buyaogaowosorry",
+                "start": 0,
+                "url": "https://t.co/AdoFGQJT3r"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2069223594711011526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1535,
+          "following_count": 506,
+          "like_count": 1263,
+          "listed_count": 1,
+          "media_count": 196,
+          "tweet_count": 2792
+        },
+        "url": "https://t.co/AdoFGQJT3r",
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-27T15:31:13.000Z",
+        "description": "2018年币圈老韭菜，2025年3月接触合约，亏掉300万，现在负债240万。每天面对银行贷款和生活压力，焦虑拉满。我决定在X上真实记录生活、交易反思和翻身过程。只分享真实心情与教训，欢迎一起走过这段低谷！",
+        "id": "2004938037751652352",
+        "name": "黎明liming",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005098542323695618/iU6poAl-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 239,
+          "following_count": 135,
+          "like_count": 16,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 145
+        },
+        "url": "",
+        "username": "liming_9999",
+        "verified": true
+      }
+    ]
+  }
+}

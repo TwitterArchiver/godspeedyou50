@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2032220122870661371",
+    "created_at": "2026-07-27T02:40:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T03:40:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081570480319082934"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1937073350750466048",
+          "start": 0,
+          "username": "karo269640607"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081570480319082934",
+    "in_reply_to_user_id": "1937073350750466048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032220122870661371",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@karo269640607 千禧年就开始右美沙芬了 普瑞在17年左右"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2032220122870661371",
+        "created_at": "2026-07-27T02:40:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T03:40:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081570480319082934"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1937073350750466048",
+              "start": 0,
+              "username": "karo269640607"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081570480319082934",
+        "in_reply_to_user_id": "1937073350750466048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032220122870661371",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@karo269640607 千禧年就开始右美沙芬了 普瑞在17年左右"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1937073350750466048",
+        "conversation_id": "2032220122870661371",
+        "created_at": "2026-03-12T22:20:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T23:20:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032220122870661371"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2032220122870661371",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2306,
+          "like_count": 23,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "1.上古时代（2022以前，不可考，可待因嗑大力？） 2.Spring风时代（2022-2023.1） \n3.结晶化/猫市时代（？）（2023.1-2024.2） \n4.初代ODWiki后藤时代（2024.2-2025.8） \n5.OsWiki/叶经理/二代ODwiki时代（2024.6-2025.1）\n6.新生代Wiki/RC策划药时代（2025.2-现在） \n\n原文案是overspring wiki写的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个违背了大众良知od喝大酒的神棍。\n☯️算命后付不怕跑单｜代请符箓、祈福请私讯\n传统宗教现代哲学文化传播者，又称中式廉价心理医生。\n魔界频道入口法马康@Pharmakon14138\n狐朋@Nonentity_xxx17 狗友@Jinggebiezhuaw",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 76,
+                "username": "Pharmakon14138"
+              },
+              {
+                "end": 110,
+                "start": 94,
+                "username": "Nonentity_xxx17"
+              },
+              {
+                "end": 128,
+                "start": 113,
+                "username": "Jinggebiezhuaw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/buyaogaowosorry",
+                "end": 23,
+                "expanded_url": "https://t.me/buyaogaowosorry",
+                "start": 0,
+                "url": "https://t.co/AdoFGQJT3r"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2069223594711011526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1757,
+          "following_count": 651,
+          "like_count": 1293,
+          "listed_count": 1,
+          "media_count": 215,
+          "tweet_count": 2958
+        },
+        "url": "https://t.co/AdoFGQJT3r",
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-23T09:01:20.000Z",
+        "description": "o割餐券  I  ADHD、重焦中抑 |  虚无主义 | 顺女女同 | 生物化学药理板绘❤️ | 同类互fo | 混邪同人女 |恐游像素RPG爱好者|任何物种或性取向欢迎 | 化学极乐 |  言切 衛拓 黑红 狛日拒拆逆、生化里昂右向全肯定、all昴全肯定；尤昴莱昴奥昴⬆️艾昴蕾昴OK| 骂我的全家替挡灾",
+        "id": "1937073350750466048",
+        "name": "雨鈴",
+        "pinned_tweet_id": "2070341749247996152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028587877639045120/B1wypVK8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 556,
+          "following_count": 766,
+          "like_count": 42020,
+          "listed_count": 0,
+          "media_count": 119,
+          "tweet_count": 8664
+        },
+        "url": "",
+        "username": "karo269640607",
+        "verified": false
+      }
+    ]
+  }
+}

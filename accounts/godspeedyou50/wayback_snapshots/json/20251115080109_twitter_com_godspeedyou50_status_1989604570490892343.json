@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "1989232490201129228",
+    "created_at": "2025-11-15T08:01:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-15T09:01:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989604570490892343"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1900292574486945797",
+          "start": 0,
+          "username": "R0ttenb1oo0v0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989604570490892343",
+    "in_reply_to_user_id": "1900292574486945797",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989604040834256992",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@R0ttenb1oo0v0 …. 底层婊子 所以你永远在底层玩未成年圈子都不入围的傻逼 你连精神病都是你幻想出来的 od了一辈子傻逼药片子终于吃上点策划药然后脑子吃烂了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "1989232490201129228",
+        "created_at": "2025-11-15T08:01:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T09:01:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989604570490892343"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1900292574486945797",
+              "start": 0,
+              "username": "R0ttenb1oo0v0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989604570490892343",
+        "in_reply_to_user_id": "1900292574486945797",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989604040834256992",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@R0ttenb1oo0v0 …. 底层婊子 所以你永远在底层玩未成年圈子都不入围的傻逼 你连精神病都是你幻想出来的 od了一辈子傻逼药片子终于吃上点策划药然后脑子吃烂了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1900292574486945797",
+        "conversation_id": "1989232490201129228",
+        "created_at": "2025-11-15T07:59:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T08:59:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989604040834256992"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1518404201168007168",
+              "start": 0,
+              "username": "godspeedyou50"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989604040834256992",
+        "in_reply_to_user_id": "1518404201168007168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989603312388489468",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@godspeedyou50 叫叫叫叫你麻痹真爆点了你敢来吗🥴除了在这自我意淫你他妈能干点啥了臭傻逼 你就活在自己的世界里吧 你自己看看你说的话有攻击力不"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "路人。and这段日子我愿意聊天，欢迎找我解惑，定期批量回fo或者私我",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1983757018830663844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984905090818523136/vVZ-D8dQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 523,
+          "following_count": 283,
+          "like_count": 175,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 765
+        },
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-13T21:07:23.000Z",
+        "description": "别鸡吧骚扰我你知道的",
+        "id": "1900292574486945797",
+        "name": "YvngBunnyNEverBrokeagain",
+        "pinned_tweet_id": "1927328492049338652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988209399698223104/q3Rij0di_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 70,
+          "like_count": 131,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 243
+        },
+        "username": "R0ttenb1oo0v0",
+        "verified": false
+      }
+    ]
+  }
+}

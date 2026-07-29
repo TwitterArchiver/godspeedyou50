@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "1992109142107132025",
+    "created_at": "2025-11-22T05:53:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-22T06:53:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992109142107132025"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1518404201168007168",
+          "start": 3,
+          "username": "godspeedyou50"
+        },
+        {
+          "end": 32,
+          "id": "1700948552078467072",
+          "start": 19,
+          "username": "Overdose_DBD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992109142107132025",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992108943502709032",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @godspeedyou50: @Overdose_DBD 这是主诉 说100g也没啥事 但肯定是有点罢了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "1992109142107132025",
+        "created_at": "2025-11-22T05:53:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T06:53:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992109142107132025"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1518404201168007168",
+              "start": 3,
+              "username": "godspeedyou50"
+            },
+            {
+              "end": 32,
+              "id": "1700948552078467072",
+              "start": 19,
+              "username": "Overdose_DBD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992109142107132025",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992108943502709032",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @godspeedyou50: @Overdose_DBD 这是主诉 说100g也没啥事 但肯定是有点罢了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "1992107797899854038",
+        "created_at": "2025-11-22T05:52:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T06:52:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992108943502709032"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1700948552078467072",
+              "start": 0,
+              "username": "Overdose_DBD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992108943502709032",
+        "in_reply_to_user_id": "1700948552078467072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992107797899854038",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Overdose_DBD 这是主诉 说100g也没啥事 但肯定是有点罢了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "路人。and这段日子我愿意聊天，欢迎找我解惑，定期批量回fo或者私我",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1983757018830663844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990279769297149952/3r34Cj2f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 631,
+          "following_count": 309,
+          "like_count": 274,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 920
+        },
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2023-09-10T19:05:21.000Z",
+        "description": "谁的附庸？\n高原整活观景台 https://t.co/WnyZ64LosE\n有事请点击https://t.co/UdJgE8LpGT",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/HWA_FK1",
+                "end": 37,
+                "expanded_url": "https://t.me/HWA_FK1",
+                "start": 14,
+                "url": "https://t.co/WnyZ64LosE"
+              },
+              {
+                "display_url": "t.me/SuperGogogotou",
+                "end": 66,
+                "expanded_url": "https://t.me/SuperGogogotou",
+                "start": 43,
+                "url": "https://t.co/UdJgE8LpGT"
+              }
+            ]
+          }
+        },
+        "id": "1700948552078467072",
+        "name": "超级后后后藤",
+        "pinned_tweet_id": "1777999878117097536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984623073275125760/eoadOp59_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4206,
+          "following_count": 56,
+          "like_count": 4,
+          "listed_count": 11,
+          "media_count": 527,
+          "tweet_count": 6252
+        },
+        "username": "Overdose_DBD",
+        "verified": false
+      }
+    ]
+  }
+}

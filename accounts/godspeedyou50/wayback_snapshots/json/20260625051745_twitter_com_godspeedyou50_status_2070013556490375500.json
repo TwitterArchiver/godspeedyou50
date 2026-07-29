@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070013545799208960"
+      ]
+    },
+    "author_id": "1518404201168007168",
+    "conversation_id": "2070013556490375500",
+    "created_at": "2026-06-25T05:17:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T06:17:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070013556490375500"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/w3ZP5SC7Wj",
+          "end": 128,
+          "expanded_url": "https://x.com/godspeedyou50/status/2070013556490375500/photo/1",
+          "media_key": "3_2070013545799208960",
+          "start": 105,
+          "url": "https://t.co/w3ZP5SC7Wj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070013556490375500",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "婊子成群遍地来找我无非就是没工作问何时发财，和底层纠缠问感情走势，hh，有时候费劲祝由治病也懒得管各种烂事儿\n不用怕我跑单，治病好了再给钱，我不主动要，烂命一条直接退钱\n（吃鸡公煲显得荒诞其实是找不到鸡肝了） https://t.co/w3ZP5SC7Wj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2070013545799208960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLoqWj2b0AAdBGS.jpg",
+        "width": 1049
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070013545799208960"
+          ]
+        },
+        "author_id": "1518404201168007168",
+        "conversation_id": "2070013556490375500",
+        "created_at": "2026-06-25T05:17:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T06:17:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070013556490375500"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/w3ZP5SC7Wj",
+              "end": 128,
+              "expanded_url": "https://x.com/godspeedyou50/status/2070013556490375500/photo/1",
+              "media_key": "3_2070013545799208960",
+              "start": 105,
+              "url": "https://t.co/w3ZP5SC7Wj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070013556490375500",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "婊子成群遍地来找我无非就是没工作问何时发财，和底层纠缠问感情走势，hh，有时候费劲祝由治病也懒得管各种烂事儿\n不用怕我跑单，治病好了再给钱，我不主动要，烂命一条直接退钱\n（吃鸡公煲显得荒诞其实是找不到鸡肝了） https://t.co/w3ZP5SC7Wj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/buyaogaowosorry",
+                "end": 23,
+                "expanded_url": "https://t.me/buyaogaowosorry",
+                "start": 0,
+                "url": "https://t.co/AdoFGQJT3r"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2069223594711011526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1382,
+          "following_count": 366,
+          "like_count": 1195,
+          "listed_count": 1,
+          "media_count": 188,
+          "tweet_count": 2757
+        },
+        "url": "https://t.co/AdoFGQJT3r",
+        "username": "godspeedyou50",
+        "verified": true
+      }
+    ]
+  }
+}

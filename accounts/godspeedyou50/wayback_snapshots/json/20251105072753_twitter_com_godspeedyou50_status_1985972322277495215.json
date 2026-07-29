@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1985972307379306497"
+      ]
+    },
+    "author_id": "1518404201168007168",
+    "conversation_id": "1985972322277495215",
+    "created_at": "2025-11-05T07:27:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-05T08:27:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1985972322277495215"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Szq3NMErLd",
+          "end": 33,
+          "expanded_url": "https://x.com/godspeedyou50/status/1985972322277495215/photo/1",
+          "media_key": "3_1985972307379306497",
+          "start": 10,
+          "url": "https://t.co/Szq3NMErLd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985972322277495215",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "有的时候挺想转行的 https://t.co/Szq3NMErLd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1985972307379306497",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4-XSpsbQAEWOqs.jpg",
+        "width": 472
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985972307379306497"
+          ]
+        },
+        "author_id": "1518404201168007168",
+        "conversation_id": "1985972322277495215",
+        "created_at": "2025-11-05T07:27:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T08:27:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985972322277495215"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Szq3NMErLd",
+              "end": 33,
+              "expanded_url": "https://x.com/godspeedyou50/status/1985972322277495215/photo/1",
+              "media_key": "3_1985972307379306497",
+              "start": 10,
+              "url": "https://t.co/Szq3NMErLd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985972322277495215",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有的时候挺想转行的 https://t.co/Szq3NMErLd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "路人。and这段日子我愿意聊天，欢迎找我解惑，定期批量回fo或者私我",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1983757018830663844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984905090818523136/vVZ-D8dQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 456,
+          "following_count": 271,
+          "like_count": 116,
+          "listed_count": 1,
+          "media_count": 62,
+          "tweet_count": 702
+        },
+        "username": "godspeedyou50",
+        "verified": true
+      }
+    ]
+  }
+}

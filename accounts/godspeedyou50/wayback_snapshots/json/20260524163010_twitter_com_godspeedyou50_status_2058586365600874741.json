@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2058575969456410624",
+        "3_2058575969406144512"
+      ],
+      "media_source_tweet_id": [
+        "2058575999907123563",
+        "2058575999907123563"
+      ]
+    },
+    "author_id": "1518404201168007168",
+    "conversation_id": "2058586365600874741",
+    "created_at": "2026-05-24T16:30:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T17:30:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058586365600874741"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2029585628074262528",
+          "start": 3,
+          "username": "Serinda_Aqua"
+        },
+        {
+          "end": 32,
+          "id": "1518404201168007168",
+          "start": 18,
+          "username": "godspeedyou50"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0EDzTSH5Gp",
+          "end": 60,
+          "expanded_url": "https://x.com/Serinda_Aqua/status/2058575999907123563/photo/1",
+          "media_key": "3_2058575969456410624",
+          "start": 37,
+          "url": "https://t.co/0EDzTSH5Gp"
+        },
+        {
+          "display_url": "pic.x.com/0EDzTSH5Gp",
+          "end": 60,
+          "expanded_url": "https://x.com/Serinda_Aqua/status/2058575999907123563/photo/1",
+          "media_key": "3_2058575969406144512",
+          "start": 37,
+          "url": "https://t.co/0EDzTSH5Gp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058586365600874741",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058575999907123563",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Serinda_Aqua: @godspeedyou50 乌鸦嘴 https://t.co/0EDzTSH5Gp"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2058586365600874741].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2058586365600874741",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2058586365600874741"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2058575969456410624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJGH7_qa0AApJto.jpg",
+        "width": 971
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2058575969406144512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJGH7_eb0AA_7OZ.jpg",
+        "width": 473
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058575969456410624",
+            "3_2058575969406144512"
+          ]
+        },
+        "author_id": "2029585628074262528",
+        "conversation_id": "2058575999907123563",
+        "created_at": "2026-05-24T15:48:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T16:48:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058575999907123563"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1518404201168007168",
+              "start": 0,
+              "username": "godspeedyou50"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0EDzTSH5Gp",
+              "end": 42,
+              "expanded_url": "https://x.com/Serinda_Aqua/status/2058575999907123563/photo/1",
+              "media_key": "3_2058575969456410624",
+              "start": 19,
+              "url": "https://t.co/0EDzTSH5Gp"
+            },
+            {
+              "display_url": "pic.x.com/0EDzTSH5Gp",
+              "end": 42,
+              "expanded_url": "https://x.com/Serinda_Aqua/status/2058575999907123563/photo/1",
+              "media_key": "3_2058575969406144512",
+              "start": 19,
+              "url": "https://t.co/0EDzTSH5Gp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058575999907123563",
+        "in_reply_to_user_id": "1518404201168007168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "@godspeedyou50 乌鸦嘴 https://t.co/0EDzTSH5Gp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2048720319872192919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1274,
+          "following_count": 292,
+          "like_count": 1070,
+          "listed_count": 0,
+          "media_count": 163,
+          "tweet_count": 2424
+        },
+        "username": "godspeedyou50",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-05T15:52:08.000Z",
+        "description": "=小水🩵请认真阅读简介和置顶\n这里有📍日常碎碎念/nsfw🔞/负能/转帖\n🚪88➕v好友位🚫不接线下 别问坐标\n非常低精力 精神状态不太好 谨慎关注\n⚠️bpd | ADHD | 双相Ⅱ型 努力治疗中\n欢迎自伤和药物滥用者互fo交友🫶",
+        "id": "2029585628074262528",
+        "location": "私信只回口令红包",
+        "name": "水色歌",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039737520695742464/IIi0fjpM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 834,
+          "following_count": 138,
+          "like_count": 2404,
+          "listed_count": 11,
+          "media_count": 150,
+          "tweet_count": 1048
+        },
+        "username": "Serinda_Aqua",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2064318251505717548",
+    "created_at": "2026-06-09T15:46:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T16:46:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064373556830728358"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1580605606414557184",
+          "start": 0,
+          "username": "snu36055232"
+        },
+        {
+          "end": 28,
+          "id": "1830934925769613334",
+          "start": 13,
+          "username": "Jinggebiezhuaw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064373556830728358",
+    "in_reply_to_user_id": "1580605606414557184",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064370824191070561",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@snu36055232 @Jinggebiezhuaw 才子"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2064318251505717548",
+        "created_at": "2026-06-09T15:46:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T16:46:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064373556830728358"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1580605606414557184",
+              "start": 0,
+              "username": "snu36055232"
+            },
+            {
+              "end": 28,
+              "id": "1830934925769613334",
+              "start": 13,
+              "username": "Jinggebiezhuaw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064373556830728358",
+        "in_reply_to_user_id": "1580605606414557184",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064370824191070561",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@snu36055232 @Jinggebiezhuaw 才子"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1580605606414557184",
+        "conversation_id": "2064318251505717548",
+        "created_at": "2026-06-09T15:35:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T16:35:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064370824191070561"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1518404201168007168",
+              "start": 0,
+              "username": "godspeedyou50"
+            },
+            {
+              "end": 30,
+              "id": "1830934925769613334",
+              "start": 15,
+              "username": "Jinggebiezhuaw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064370824191070561",
+        "in_reply_to_user_id": "1518404201168007168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064348568153170277",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@godspeedyou50 @Jinggebiezhuaw 这是抖音的哪个博主叫啥呀我也想去看"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2048720319872192919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1337,
+          "following_count": 312,
+          "like_count": 1129,
+          "listed_count": 1,
+          "media_count": 183,
+          "tweet_count": 2578
+        },
+        "username": "godspeedyou50",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-13T17:05:47.000Z",
+        "description": "一次性吃 20 根淀粉肠，一份锅包肉，梅菜扣肉，",
+        "id": "1580605606414557184",
+        "location": "戒药💊疾控中心",
+        "name": "曲奇饼干",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041955506776911872/hLg8exlt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 29,
+          "like_count": 308,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 220
+        },
+        "username": "snu36055232",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-03T11:45:04.000Z",
+        "description": "女，长头发性恋，精神分裂确诊，导演系在读。非典型化学推，合法不列管策划药售卖/化学物质使用咨询💊。我的名字读作奥克萨娜 不是OK娑娜。\n闺蜜：@godspeedyou50、 @KviSin_17",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 71,
+                "username": "godspeedyou50"
+              },
+              {
+                "end": 97,
+                "start": 87,
+                "username": "KviSin_17"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Oksana_132435",
+                "end": 23,
+                "expanded_url": "https://t.me/Oksana_132435",
+                "start": 0,
+                "url": "https://t.co/Mj09WQFbLQ"
+              }
+            ]
+          }
+        },
+        "id": "1830934925769613334",
+        "location": "Tokyo-to, Japan",
+        "name": "Oksana💊",
+        "pinned_tweet_id": "1991449358647325050",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836467833401937920/1OZ_D_Qp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2805,
+          "following_count": 433,
+          "like_count": 1069,
+          "listed_count": 4,
+          "media_count": 219,
+          "tweet_count": 767
+        },
+        "url": "https://t.co/Mj09WQFbLQ",
+        "username": "Jinggebiezhuaw",
+        "verified": false
+      }
+    ]
+  }
+}

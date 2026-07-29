@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2037517545998332401",
+    "created_at": "2026-03-27T14:11:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T15:11:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037532983163576760"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1920438493647368192",
+          "start": 0,
+          "username": "fayoubaike003"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037532983163576760",
+    "in_reply_to_user_id": "1920438493647368192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037517545998332401",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fayoubaike003 鸡哥啥意思不通过？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2037517545998332401",
+        "created_at": "2026-03-27T14:11:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T15:11:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037532983163576760"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1920438493647368192",
+              "start": 0,
+              "username": "fayoubaike003"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037532983163576760",
+        "in_reply_to_user_id": "1920438493647368192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037517545998332401",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fayoubaike003 鸡哥啥意思不通过？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920438493647368192",
+        "conversation_id": "2037517545998332401",
+        "created_at": "2026-03-27T13:10:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T14:10:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037517545998332401"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "法友百科’s Space · 0 listening · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1Oxwb…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/spaces/1OxwblWYgobJB",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2037517547311173632/DSDwb_-B?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2037517547311173632/DSDwb_-B?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "Happening now: 法友百科’s Space",
+              "unwound_url": "https://twitter.com/i/spaces/1OxwblWYgobJB/peek",
+              "url": "https://t.co/YRNnmRWarW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037517545998332401",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/YRNnmRWarW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。/双相I型/欢迎提问",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jahseh79919",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jahseh79919",
+                "start": 0,
+                "url": "https://t.co/xaz6T7v19q"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2029134307244294287",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 986,
+          "following_count": 194,
+          "like_count": 784,
+          "listed_count": 0,
+          "media_count": 119,
+          "tweet_count": 1979
+        },
+        "url": "https://t.co/xaz6T7v19q",
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-08T11:20:03.000Z",
+        "description": "+86 137 3719 8964 | cosplayer | ﮩ٨ـﮩﮩ٨ـ♡ﮩﮩ٨ـﮩﮩ٨ـ♡ﮩ٨ـﮩﮩ٨ﮩ෴ﮩ_____ | 地雷系女孩 ‼️⚠️自傷⚠️‼️ ┊︎工口❌‼️备战中考‼️| 注意：本人不卖图包不援交不卖原味也不约 | 下体男滚开",
+        "id": "1920438493647368192",
+        "name": "法友百科",
+        "pinned_tweet_id": "2036728295350587636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036779484662423552/lyLmmGPi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 32
+        },
+        "username": "fayoubaike003",
+        "verified": false
+      }
+    ]
+  }
+}

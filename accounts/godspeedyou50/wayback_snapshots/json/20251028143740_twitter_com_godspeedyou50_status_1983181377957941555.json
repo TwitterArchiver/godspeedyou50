@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "1982453755833659802",
+    "created_at": "2025-10-28T14:37:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-28T15:37:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983181377957941555"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1658664482632253441",
+          "start": 0,
+          "username": "jujube8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983181377957941555",
+    "in_reply_to_user_id": "1658664482632253441",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983180018173067393",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jujube8964 你绝对没玩过dmt 世界上最大劲的东西 和你以往感受的都不一样 不能靠这而论 稍微有点坠都是lsd严重badtrip的感觉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "1982453755833659802",
+        "created_at": "2025-10-28T14:37:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T15:37:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983181377957941555"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1658664482632253441",
+              "start": 0,
+              "username": "jujube8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983181377957941555",
+        "in_reply_to_user_id": "1658664482632253441",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983180018173067393",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jujube8964 你绝对没玩过dmt 世界上最大劲的东西 和你以往感受的都不一样 不能靠这而论 稍微有点坠都是lsd严重badtrip的感觉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1658664482632253441",
+        "conversation_id": "1982453755833659802",
+        "created_at": "2025-10-28T14:32:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T15:32:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983180018173067393"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1518404201168007168",
+              "start": 0,
+              "username": "godspeedyou50"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983180018173067393",
+        "in_reply_to_user_id": "1518404201168007168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982630765214245228",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@godspeedyou50 不听反正总感觉少了点啥，就很无聊地在那里等，反正一定要有点东西，要么是音乐，要么是灯光"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "路人。and这段日子我愿意聊天，欢迎找我解惑，定期批量回fo或者私我",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1982515322788942238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827690417619697665/4z5RgWOE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 373,
+          "following_count": 225,
+          "like_count": 84,
+          "listed_count": 1,
+          "media_count": 45,
+          "tweet_count": 514
+        },
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-17T02:43:36.000Z",
+        "description": "深爱着我的爱人，直到永远             \n                我个人阳痿/风湿/前列腺炎/腰间盘突出        回fo私信立马回喵",
+        "id": "1658664482632253441",
+        "location": "爱人的怀抱",
+        "name": "冬枣",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964614874266521600/6X-PARwk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 399,
+          "following_count": 593,
+          "like_count": 2029,
+          "listed_count": 3,
+          "media_count": 158,
+          "tweet_count": 3520
+        },
+        "username": "jujube8964",
+        "verified": false
+      }
+    ]
+  }
+}

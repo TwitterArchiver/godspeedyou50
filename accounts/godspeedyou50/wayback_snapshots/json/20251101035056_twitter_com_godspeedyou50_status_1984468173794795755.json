@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "1984461879125983715",
+    "created_at": "2025-11-01T03:50:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-01T04:50:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984468173794795755"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1963867793776070656",
+          "start": 0,
+          "username": "drug_artist1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984468173794795755",
+    "in_reply_to_user_id": "1963867793776070656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "嗯 要不然你进精神病院也是吃这玩意 吃点脏药是好事 脏药有劲 就是治疗类的 而不是苯二氮也不是火箭燃料 我解离高原接近崩溃只有奥氮平能救我，和普瑞不冲突，苯二氮从阿普换成奥沙或者地西泮。没有专业知识，只是说你往下落落，到时候你就知道了。最后停了苯二氮停了奥氮平，你脑子也不乱了。至于垫不垫普瑞就看你了 我每天反正离不开了。\n偶尔玩玩阿片 玩玩普 够用就行 你解离抓住的思考瞬间会这灵感都是宇宙里的，不属于你，醒来就会忘，你会越来越想要，离人形态也越来越远。反而你真醒来了那一天你就想明白了"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984466811233190393",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@drug_artist1 嗯 要不然你进精神病院也是吃这玩意 吃点脏药是好事 脏药有劲 就是治疗类的 而不是苯二氮也不是火箭燃料"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "1984461879125983715",
+        "created_at": "2025-11-01T03:50:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T04:50:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984468173794795755"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1963867793776070656",
+              "start": 0,
+              "username": "drug_artist1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984468173794795755",
+        "in_reply_to_user_id": "1963867793776070656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "嗯 要不然你进精神病院也是吃这玩意 吃点脏药是好事 脏药有劲 就是治疗类的 而不是苯二氮也不是火箭燃料 我解离高原接近崩溃只有奥氮平能救我，和普瑞不冲突，苯二氮从阿普换成奥沙或者地西泮。没有专业知识，只是说你往下落落，到时候你就知道了。最后停了苯二氮停了奥氮平，你脑子也不乱了。至于垫不垫普瑞就看你了 我每天反正离不开了。\n偶尔玩玩阿片 玩玩普 够用就行 你解离抓住的思考瞬间会这灵感都是宇宙里的，不属于你，醒来就会忘，你会越来越想要，离人形态也越来越远。反而你真醒来了那一天你就想明白了"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984466811233190393",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@drug_artist1 嗯 要不然你进精神病院也是吃这玩意 吃点脏药是好事 脏药有劲 就是治疗类的 而不是苯二氮也不是火箭燃料"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1963867793776070656",
+        "conversation_id": "1984461879125983715",
+        "created_at": "2025-11-01T03:45:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T04:45:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984466811233190393"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1518404201168007168",
+              "start": 0,
+              "username": "godspeedyou50"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984466811233190393",
+        "in_reply_to_user_id": "1518404201168007168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984466431053087184",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@godspeedyou50 我会听你的 吃一段时间抗精神病药"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "路人。and这段日子我愿意聊天，欢迎找我解惑，定期批量回fo或者私我",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1983757018830663844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983944337726787584/JcjyTY_u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 421,
+          "following_count": 261,
+          "like_count": 111,
+          "listed_count": 1,
+          "media_count": 51,
+          "tweet_count": 632
+        },
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-05T07:32:46.000Z",
+        "description": "药物百科wiki主｜投稿报告请私信我｜长发视觉系4i男娘｜售卖合法物质｜提问箱:https://t.co/ez10SQHDdD｜愿每一位药物滥用者都能脱离深渊｜提供药物咨询 ｜im crazy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/drug_artist",
+                "end": 63,
+                "expanded_url": "https://ngl.link/drug_artist",
+                "start": 40,
+                "url": "https://t.co/ez10SQHDdD"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/N4ZvRTnSIg"
+              }
+            ]
+          }
+        },
+        "id": "1963867793776070656",
+        "location": "Xanax天国12mg自治区",
+        "name": "沐雨",
+        "pinned_tweet_id": "1983475029259239573",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984290837677965312/pwoAuV9f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1356,
+          "following_count": 77,
+          "like_count": 395,
+          "listed_count": 2,
+          "media_count": 40,
+          "tweet_count": 454
+        },
+        "url": "https://t.co/N4ZvRTnSIg",
+        "username": "drug_artist1",
+        "verified": false
+      }
+    ]
+  }
+}

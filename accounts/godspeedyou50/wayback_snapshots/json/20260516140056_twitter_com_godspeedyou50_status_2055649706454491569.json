@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2055640030304166213",
+    "created_at": "2026-05-16T14:00:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T15:00:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055649706454491569"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1499759704850976768",
+          "start": 0,
+          "username": "ZXBDXS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055649706454491569",
+    "in_reply_to_user_id": "1499759704850976768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055645629830050055",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZXBDXS 没问题的 刚睡醒"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2055640030304166213",
+        "created_at": "2026-05-16T14:00:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T15:00:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055649706454491569"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1499759704850976768",
+              "start": 0,
+              "username": "ZXBDXS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055649706454491569",
+        "in_reply_to_user_id": "1499759704850976768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055645629830050055",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZXBDXS 没问题的 刚睡醒"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499759704850976768",
+        "conversation_id": "2055640030304166213",
+        "created_at": "2026-05-16T13:44:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T14:44:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055645629830050055"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1518404201168007168",
+              "start": 0,
+              "username": "godspeedyou50"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055645629830050055",
+        "in_reply_to_user_id": "1518404201168007168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055640030304166213",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@godspeedyou50 还好吗？这么多真的没问题吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。/欢迎提问/@OvooLOO3o/@salmon__sukiii",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 17,
+                "username": "OvooLOO3o"
+              },
+              {
+                "end": 43,
+                "start": 28,
+                "username": "salmon__sukiii"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jahseh79919",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jahseh79919",
+                "start": 0,
+                "url": "https://t.co/xaz6T7v19q"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2048720319872192919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1235,
+          "following_count": 270,
+          "like_count": 1046,
+          "listed_count": 0,
+          "media_count": 167,
+          "tweet_count": 2418
+        },
+        "url": "https://t.co/xaz6T7v19q",
+        "username": "godspeedyou50",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-04T14:52:44.000Z",
+        "description": "从前至今 从今往后",
+        "id": "1499759704850976768",
+        "name": "惊梦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800508340545486848/ZpKGByHL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 3118,
+          "like_count": 10676,
+          "listed_count": 0,
+          "media_count": 112,
+          "tweet_count": 851
+        },
+        "username": "ZXBDXS",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2065485814944202962",
+    "created_at": "2026-06-12T17:55:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T18:55:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065493254620209407"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1619698674917068801",
+          "start": 0,
+          "username": "InfiniteTritium"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065493254620209407",
+    "in_reply_to_user_id": "1619698674917068801",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065485814944202962",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@InfiniteTritium 要区分阿片受体激动和阿片类副作用的划分界限"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2065485814944202962",
+        "created_at": "2026-06-12T17:55:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T18:55:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065493254620209407"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1619698674917068801",
+              "start": 0,
+              "username": "InfiniteTritium"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065493254620209407",
+        "in_reply_to_user_id": "1619698674917068801",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065485814944202962",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@InfiniteTritium 要区分阿片受体激动和阿片类副作用的划分界限"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1619698674917068801",
+        "conversation_id": "2065485814944202962",
+        "created_at": "2026-06-12T17:26:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T18:26:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065485814944202962"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065485814944202962",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哮喘片甘草片这个东西 不清楚是阿片类造成的还是里面某种草药的问题 我们知道阿片类随剂量身上会变痒 白兔的双氢可待因尤为突出 但是似乎单日在大量服用 比如娱乐用量的二倍 当然不管是不是在同一时间服用 全身汗疱疹高发位置多少都会出现手部求其严重 这个情况都有吗🤔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。我在倒腾两颗神秘的糖请小窗",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2064647794707821015",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1352,
+          "following_count": 340,
+          "like_count": 1144,
+          "listed_count": 1,
+          "media_count": 190,
+          "tweet_count": 2651
+        },
+        "username": "godspeedyou50",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-29T14:08:10.000Z",
+        "description": "UnrealEngine地编师（学 接 私）｜艺术｜形而上｜理想国｜棱镜｜身外的世界总是模糊的…\n我想休息一下 在一个只有我的世界里。\n匿↘️）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/infinite%20tri…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/infinite%20tritium",
+                "start": 0,
+                "url": "https://t.co/rFRsz41wvR"
+              }
+            ]
+          }
+        },
+        "id": "1619698674917068801",
+        "location": "NewMap",
+        "name": "mono氚",
+        "pinned_tweet_id": "2049368028752875769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916186524884078594/dGmyKGAr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 224,
+          "like_count": 876,
+          "listed_count": 0,
+          "media_count": 131,
+          "tweet_count": 889
+        },
+        "url": "https://t.co/rFRsz41wvR",
+        "username": "InfiniteTritium",
+        "verified": false
+      }
+    ]
+  }
+}

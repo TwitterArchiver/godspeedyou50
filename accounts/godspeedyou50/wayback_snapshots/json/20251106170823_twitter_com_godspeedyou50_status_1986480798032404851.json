@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "1986480798032404851",
+    "created_at": "2025-11-06T17:08:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-06T18:08:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1986480798032404851"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kenntnis22/sta…",
+          "end": 53,
+          "expanded_url": "https://twitter.com/kenntnis22/status/1986110546966392950",
+          "start": 30,
+          "url": "https://t.co/U6CiBYD55u"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986480798032404851",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986110546966392950",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "问ai到底在认为什么这种事才傻逼\nai哪有什么认为不认为的 https://t.co/U6CiBYD55u"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1187,
+        "media_key": "3_1986110542734360576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5AVBAhXAAAx7eN.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "1986480798032404851",
+        "created_at": "2025-11-06T17:08:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T18:08:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986480798032404851"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kenntnis22/sta…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/kenntnis22/status/1986110546966392950",
+              "start": 30,
+              "url": "https://t.co/U6CiBYD55u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986480798032404851",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986110546966392950",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "问ai到底在认为什么这种事才傻逼\nai哪有什么认为不认为的 https://t.co/U6CiBYD55u"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986110542734360576"
+          ]
+        },
+        "author_id": "1535701819812462600",
+        "conversation_id": "1986110546966392950",
+        "created_at": "2025-11-05T16:37:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T17:37:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986110546966392950"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ixl0aK2puk",
+              "end": 48,
+              "expanded_url": "https://x.com/Kenntnis22/status/1986110546966392950/photo/1",
+              "media_key": "3_1986110542734360576",
+              "start": 25,
+              "url": "https://t.co/Ixl0aK2puk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986110546966392950",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 77,
+          "impression_count": 237398,
+          "like_count": 902,
+          "quote_count": 6,
+          "reply_count": 98,
+          "retweet_count": 45
+        },
+        "reply_settings": "everyone",
+        "text": "DeepSeek这是吃了诚实豆沙包，还是要造反？ https://t.co/Ixl0aK2puk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "路人。and这段日子我愿意聊天，欢迎找我解惑，定期批量回fo或者私我",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1983757018830663844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984905090818523136/vVZ-D8dQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 457,
+          "following_count": 269,
+          "like_count": 135,
+          "listed_count": 1,
+          "media_count": 63,
+          "tweet_count": 713
+        },
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2022-06-11T19:13:51.000Z",
+        "description": "朋友们的小圈子。不严肃、谢谢😑",
+        "id": "1535701819812462600",
+        "location": "London",
+        "name": "Iggie🚁",
+        "pinned_tweet_id": "1986236661341073571",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1675314941966925824/0Sl6rg69_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42157,
+          "following_count": 340,
+          "like_count": 34126,
+          "listed_count": 207,
+          "media_count": 7100,
+          "tweet_count": 11104
+        },
+        "username": "Kenntnis22",
+        "verified": true
+      }
+    ]
+  }
+}

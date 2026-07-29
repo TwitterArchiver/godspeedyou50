@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2023982807261855920",
+    "created_at": "2026-02-18T07:56:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T08:56:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024030230651027789"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1817513346645827584",
+          "start": 0,
+          "username": "linny83215"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024030230651027789",
+    "in_reply_to_user_id": "1817513346645827584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024029498459513002",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@linny83215 原来如此 吓我一雷"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2023982807261855920",
+        "created_at": "2026-02-18T07:56:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T08:56:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024030230651027789"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1817513346645827584",
+              "start": 0,
+              "username": "linny83215"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024030230651027789",
+        "in_reply_to_user_id": "1817513346645827584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024029498459513002",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@linny83215 原来如此 吓我一雷"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817513346645827584",
+        "conversation_id": "2023982807261855920",
+        "created_at": "2026-02-18T07:53:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T08:53:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024029498459513002"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1518404201168007168",
+              "start": 0,
+              "username": "godspeedyou50"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024029498459513002",
+        "in_reply_to_user_id": "1518404201168007168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023997127311962313",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@godspeedyou50 这种估计是ngl team发的消息下面会有提示，可以把它关了，就是软件自动发的消息"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。/@Jahseh14138/双相I型/欢迎提问",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "Jahseh14138"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jahseh79919",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jahseh79919",
+                "start": 0,
+                "url": "https://t.co/xaz6T7v19q"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1994852955737264187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 748,
+          "following_count": 122,
+          "like_count": 433,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 1318
+        },
+        "url": "https://t.co/xaz6T7v19q",
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-28T10:52:20.000Z",
+        "description": "ugw:120lbs",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/miyu77",
+                "end": 23,
+                "expanded_url": "https://ngl.link/miyu77",
+                "start": 0,
+                "url": "https://t.co/7JxVPIXEer"
+              }
+            ]
+          }
+        },
+        "id": "1817513346645827584",
+        "location": "peekaboo",
+        "name": "˚₊‧꒰ა✞uuuUu7✞໒꒱ ‧₊˚",
+        "pinned_tweet_id": "2022526683350471061",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012243032624766976/Ri2TQ8on_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 104,
+          "like_count": 1359,
+          "listed_count": 0,
+          "media_count": 97,
+          "tweet_count": 2107
+        },
+        "url": "https://t.co/7JxVPIXEer",
+        "username": "linny83215",
+        "verified": false
+      }
+    ]
+  }
+}

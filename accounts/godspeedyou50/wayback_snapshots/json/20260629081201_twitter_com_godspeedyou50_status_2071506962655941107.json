@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2071463992514502663",
+    "created_at": "2026-06-29T08:12:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T09:12:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071506962655941107"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1662439435726905344",
+          "start": 0,
+          "username": "ShiroSkura"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071506962655941107",
+    "in_reply_to_user_id": "1662439435726905344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071463992514502663",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ShiroSkura 自我感动的虚伪借口"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 330,
+        "media_key": "3_2071463988899020800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL9RhddXAAAPRca.jpg",
+        "width": 1078
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2071463988722819072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL9RhczWYAArQvW.jpg",
+        "width": 864
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2071463992514502663",
+        "created_at": "2026-06-29T08:12:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T09:12:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071506962655941107"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1662439435726905344",
+              "start": 0,
+              "username": "ShiroSkura"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071506962655941107",
+        "in_reply_to_user_id": "1662439435726905344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071463992514502663",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ShiroSkura 自我感动的虚伪借口"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071463988899020800",
+            "3_2071463988722819072"
+          ]
+        },
+        "author_id": "1662439435726905344",
+        "conversation_id": "2071463992514502663",
+        "created_at": "2026-06-29T05:21:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T06:21:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071463992514502663"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FMuUaTY2Zu",
+              "end": 51,
+              "expanded_url": "https://x.com/ShiroSkura/status/2071463992514502663/photo/1",
+              "media_key": "3_2071463988899020800",
+              "start": 28,
+              "url": "https://t.co/FMuUaTY2Zu"
+            },
+            {
+              "display_url": "pic.x.com/FMuUaTY2Zu",
+              "end": 51,
+              "expanded_url": "https://x.com/ShiroSkura/status/2071463992514502663/photo/1",
+              "media_key": "3_2071463988722819072",
+              "start": 28,
+              "url": "https://t.co/FMuUaTY2Zu"
+            },
+            {
+              "display_url": "x.com/shiroskura/sta…",
+              "end": 75,
+              "expanded_url": "https://twitter.com/shiroskura/status/2071383829282005407",
+              "start": 52,
+              "url": "https://t.co/tZjwqASRyI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071463992514502663",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 624,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071383829282005407",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好言难劝该死的鬼啊橙子神，这些话你留着和警察说去吧🥸💅 https://t.co/FMuUaTY2Zu https://t.co/tZjwqASRyI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个违背了大众道德良知的神棍。\n☯️算命后付不怕跑单｜代请符箓、祈福请私讯\n传统宗教现代哲学文化传播者，又称中式廉价心理医生。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/buyaogaowosorry",
+                "end": 23,
+                "expanded_url": "https://t.me/buyaogaowosorry",
+                "start": 0,
+                "url": "https://t.co/AdoFGQJT3r"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2069223594711011526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1535,
+          "following_count": 513,
+          "like_count": 1263,
+          "listed_count": 1,
+          "media_count": 196,
+          "tweet_count": 2790
+        },
+        "url": "https://t.co/AdoFGQJT3r",
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-27T12:44:05.000Z",
+        "description": "17岁生活在Kennewick的天才美少女\n想知道我是谁？才不告诉你！",
+        "id": "1662439435726905344",
+        "location": "Kennewick, WA",
+        "name": "Morikawa Ayako",
+        "pinned_tweet_id": "2050732326112448575",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067149046553116672/oFw5Xfeu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 908,
+          "following_count": 39,
+          "like_count": 11503,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 28
+        },
+        "url": "",
+        "username": "ShiroSkura",
+        "verified": true
+      }
+    ]
+  }
+}

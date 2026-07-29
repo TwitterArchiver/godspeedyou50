@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "1999046086347112765",
+    "created_at": "2025-12-11T09:18:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-11T10:18:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1999046086347112765"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1999046086347112765",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这辈子干的最蠢的一件事就是带一群傻逼入毒门 老老实实磕烂药是你们唯一的出路\n人类没有完全认知的时候蠢坏和奸计同时存在的状态最难理解 好了 是非功过谁也别评 好朋友们也别帮我说话 知道的自己知道乐呵乐呵当个笑话看就行\n谵妄神经质里飞吧 我就玩玩看看见识一下\n你们就这样吧 也就这样吧 -。-"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "1999046086347112765",
+        "created_at": "2025-12-11T09:18:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T10:18:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999046086347112765"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1999046086347112765",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这辈子干的最蠢的一件事就是带一群傻逼入毒门 老老实实磕烂药是你们唯一的出路\n人类没有完全认知的时候蠢坏和奸计同时存在的状态最难理解 好了 是非功过谁也别评 好朋友们也别帮我说话 知道的自己知道乐呵乐呵当个笑话看就行\n谵妄神经质里飞吧 我就玩玩看看见识一下\n你们就这样吧 也就这样吧 -。-"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1994852955737264187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 670,
+          "following_count": 63,
+          "like_count": 364,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 1009
+        },
+        "username": "godspeedyou50",
+        "verified": false
+      }
+    ]
+  }
+}

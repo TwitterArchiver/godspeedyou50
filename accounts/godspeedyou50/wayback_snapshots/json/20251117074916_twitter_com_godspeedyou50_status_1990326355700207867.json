@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "1989192942142337203",
+    "created_at": "2025-11-17T07:49:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-17T08:49:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990326355700207867"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1555288439842410496",
+          "start": 0,
+          "username": "ZCW65046906"
+        },
+        {
+          "end": 23,
+          "id": "1942770189030023174",
+          "start": 13,
+          "username": "Ariyairis"
+        },
+        {
+          "end": 35,
+          "id": "1912109703133646848",
+          "start": 24,
+          "username": "jzm1919810"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990326355700207867",
+    "in_reply_to_user_id": "1555288439842410496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990325232025182514",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZCW65046906 @Ariyairis @jzm1919810 除了苯基 这个真没啥用 你知道就行 你试试吧 耐药快也是因为苯基是短效的东西 但noop真不行"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "1989192942142337203",
+        "created_at": "2025-11-17T07:49:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T08:49:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990326355700207867"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1555288439842410496",
+              "start": 0,
+              "username": "ZCW65046906"
+            },
+            {
+              "end": 23,
+              "id": "1942770189030023174",
+              "start": 13,
+              "username": "Ariyairis"
+            },
+            {
+              "end": 35,
+              "id": "1912109703133646848",
+              "start": 24,
+              "username": "jzm1919810"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990326355700207867",
+        "in_reply_to_user_id": "1555288439842410496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990325232025182514",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZCW65046906 @Ariyairis @jzm1919810 除了苯基 这个真没啥用 你知道就行 你试试吧 耐药快也是因为苯基是短效的东西 但noop真不行"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1555288439842410496",
+        "conversation_id": "1989192942142337203",
+        "created_at": "2025-11-17T07:44:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T08:44:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990325232025182514"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1942770189030023174",
+              "start": 0,
+              "username": "Ariyairis"
+            },
+            {
+              "end": 22,
+              "id": "1912109703133646848",
+              "start": 11,
+              "username": "jzm1919810"
+            },
+            {
+              "end": 37,
+              "id": "1518404201168007168",
+              "start": 23,
+              "username": "godspeedyou50"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990325232025182514",
+        "in_reply_to_user_id": "1942770189030023174",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990324793137303828",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ariyairis @jzm1919810 @godspeedyou50 苯基吡拉西坦效果好但是耐药比较快"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "路人。and这段日子我愿意聊天，欢迎找我解惑，定期批量回fo或者私我",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1983757018830663844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990279769297149952/3r34Cj2f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 561,
+          "following_count": 287,
+          "like_count": 203,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 799
+        },
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2022-08-04T20:24:04.000Z",
+        "description": "gore enthusiast？？  Cartel enthusiasts   Metal Rock enthusiasts \n Age 16 years old psychonaut",
+        "id": "1555288439842410496",
+        "location": "hell",
+        "name": "Bloody psychonaut",
+        "pinned_tweet_id": "1931390919997276623",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933607043950116864/kQlvYoJX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 183,
+          "like_count": 689,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 1215
+        },
+        "username": "ZCW65046906",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-09T02:18:21.000Z",
+        "description": "2008.1.22｜水瓶座｜ enfp｜adhd｜焦虑｜抑郁 kiss @blackjack29501i",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 36,
+                "username": "blackjack29501i"
+              }
+            ]
+          }
+        },
+        "id": "1942770189030023174",
+        "name": "Ariya_jiang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989998452915281921/J2OUAH1O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 151,
+          "like_count": 32,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 185
+        },
+        "username": "Ariyairis",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-15T11:44:19.000Z",
+        "description": "もしも願いが葉うなら 夜の空へとほうり投げて与えて",
+        "id": "1912109703133646848",
+        "name": "Zemin Jiang",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 68,
+          "like_count": 32,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 253
+        },
+        "username": "jzm1919810",
+        "verified": false
+      }
+    ]
+  }
+}

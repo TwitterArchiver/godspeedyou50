@@ -1,0 +1,454 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075524277257097216"
+      ],
+      "media_source_tweet_id": [
+        "2075524283993084345"
+      ]
+    },
+    "author_id": "1518404201168007168",
+    "conversation_id": "2075524641771421966",
+    "created_at": "2026-07-10T10:16:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T11:16:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075524641771421966"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1830934925769613334",
+          "start": 3,
+          "username": "Jinggebiezhuaw"
+        },
+        {
+          "end": 44,
+          "id": "1518404201168007168",
+          "start": 30,
+          "username": "godspeedyou50"
+        },
+        {
+          "end": 61,
+          "id": "1919465517829783552",
+          "start": 45,
+          "username": "Nonentity_xxx17"
+        },
+        {
+          "end": 76,
+          "id": "2057743680061255680",
+          "start": 62,
+          "username": "Koroshiiiiiii"
+        },
+        {
+          "end": 86,
+          "id": "2056655773502160896",
+          "start": 77,
+          "username": "simaojie"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PVu7ysN9VH",
+          "end": 110,
+          "expanded_url": "https://x.com/Jinggebiezhuaw/status/2075524283993084345/photo/1",
+          "media_key": "3_2075524277257097216",
+          "start": 87,
+          "url": "https://t.co/PVu7ysN9VH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075524641771421966",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075524283993084345",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Jinggebiezhuaw: 恶臭小团体进入魔界\n@godspeedyou50 @Nonentity_xxx17 @Koroshiiiiiii @simaojie https://t.co/PVu7ysN9VH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2075524277257097216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM2-VWSb0AA3PTZ.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075524277257097216"
+          ],
+          "media_source_tweet_id": [
+            "2075524283993084345"
+          ]
+        },
+        "author_id": "1518404201168007168",
+        "conversation_id": "2075524641771421966",
+        "created_at": "2026-07-10T10:16:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T11:16:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075524641771421966"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1830934925769613334",
+              "start": 3,
+              "username": "Jinggebiezhuaw"
+            },
+            {
+              "end": 44,
+              "id": "1518404201168007168",
+              "start": 30,
+              "username": "godspeedyou50"
+            },
+            {
+              "end": 61,
+              "id": "1919465517829783552",
+              "start": 45,
+              "username": "Nonentity_xxx17"
+            },
+            {
+              "end": 76,
+              "id": "2057743680061255680",
+              "start": 62,
+              "username": "Koroshiiiiiii"
+            },
+            {
+              "end": 86,
+              "id": "2056655773502160896",
+              "start": 77,
+              "username": "simaojie"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PVu7ysN9VH",
+              "end": 110,
+              "expanded_url": "https://x.com/Jinggebiezhuaw/status/2075524283993084345/photo/1",
+              "media_key": "3_2075524277257097216",
+              "start": 87,
+              "url": "https://t.co/PVu7ysN9VH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075524641771421966",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075524283993084345",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Jinggebiezhuaw: 恶臭小团体进入魔界\n@godspeedyou50 @Nonentity_xxx17 @Koroshiiiiiii @simaojie https://t.co/PVu7ysN9VH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075524277257097216"
+          ]
+        },
+        "author_id": "1830934925769613334",
+        "conversation_id": "2075524283993084345",
+        "created_at": "2026-07-10T10:15:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T11:15:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075524283993084345"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 24,
+              "id": "1518404201168007168",
+              "start": 10,
+              "username": "godspeedyou50"
+            },
+            {
+              "end": 41,
+              "id": "1919465517829783552",
+              "start": 25,
+              "username": "Nonentity_xxx17"
+            },
+            {
+              "end": 56,
+              "id": "2057743680061255680",
+              "start": 42,
+              "username": "Koroshiiiiiii"
+            },
+            {
+              "end": 66,
+              "id": "2056655773502160896",
+              "start": 57,
+              "username": "simaojie"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PVu7ysN9VH",
+              "end": 90,
+              "expanded_url": "https://x.com/Jinggebiezhuaw/status/2075524283993084345/photo/1",
+              "media_key": "3_2075524277257097216",
+              "start": 67,
+              "url": "https://t.co/PVu7ysN9VH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075524283993084345",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "恶臭小团体进入魔界\n@godspeedyou50 @Nonentity_xxx17 @Koroshiiiiiii @simaojie https://t.co/PVu7ysN9VH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个违背了大众道德良知od喝大酒的神棍。\n☯️算命后付不怕跑单｜代请符箓、祈福请私讯\n传统宗教现代哲学文化传播者，又称中式廉价心理医生。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/buyaogaowosorry",
+                "end": 23,
+                "expanded_url": "https://t.me/buyaogaowosorry",
+                "start": 0,
+                "url": "https://t.co/AdoFGQJT3r"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2069223594711011526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1629,
+          "following_count": 564,
+          "like_count": 1268,
+          "listed_count": 1,
+          "media_count": 200,
+          "tweet_count": 2851
+        },
+        "url": "https://t.co/AdoFGQJT3r",
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-03T11:45:04.000Z",
+        "description": "女，黑长直性恋，精神分裂确诊，导演系在读。非典型化学推，合法不列管策划药售卖/化学物质使用咨询💊。我的名字读作奥克萨娜 不是OK娑娜。\n闺蜜：@godspeedyou50、 @Nonentity_xxx17",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 71,
+                "username": "godspeedyou50"
+              },
+              {
+                "end": 103,
+                "start": 87,
+                "username": "Nonentity_xxx17"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Oksana_132435",
+                "end": 23,
+                "expanded_url": "https://t.me/Oksana_132435",
+                "start": 0,
+                "url": "https://t.co/Mj09WQFbLQ"
+              }
+            ]
+          }
+        },
+        "id": "1830934925769613334",
+        "location": "Tokyo-to, Japan",
+        "name": "Oksana💊",
+        "pinned_tweet_id": "2064158937000358141",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836467833401937920/1OZ_D_Qp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3335,
+          "following_count": 465,
+          "like_count": 1174,
+          "listed_count": 5,
+          "media_count": 191,
+          "tweet_count": 757
+        },
+        "url": "https://t.co/Mj09WQFbLQ",
+        "username": "Jinggebiezhuaw",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-05T18:53:44.000Z",
+        "description": "忍辱士 \n双相I型/低能量/欣赏躯体\n@godspeedyou50 @Jinggebiezhuaw",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 19,
+                "username": "godspeedyou50"
+              },
+              {
+                "end": 49,
+                "start": 34,
+                "username": "Jinggebiezhuaw"
+              }
+            ]
+          }
+        },
+        "id": "1919465517829783552",
+        "location": "來世",
+        "name": "優.",
+        "pinned_tweet_id": "2064926614115504357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072470902613434368/bkDijVP5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 90,
+          "like_count": 3406,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 599
+        },
+        "url": "",
+        "username": "Nonentity_xxx17",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-22T08:44:46.000Z",
+        "description": "可以叫小杀🦋同名\n退役Oder/不🔪🩸/致幻/日本語🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/药理学习中/随缘互fo/不出售任何物质，私信匿名提问🉑\n关于个人trip报告👇🏻\nhttps://t.co/9aTLaOashy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "kdocs.cn/l/cfQa1JFxmwQz…",
+                "end": 112,
+                "expanded_url": "https://www.kdocs.cn/l/cfQa1JFxmwQz?f=301",
+                "start": 89,
+                "url": "https://t.co/9aTLaOashy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/Q7AWi1TcyC"
+              }
+            ]
+          }
+        },
+        "id": "2057743680061255680",
+        "location": "✟升天✟",
+        "name": "山本殺し✰（被ghostban了还没好",
+        "pinned_tweet_id": "2057747022443389150",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057744621166628864/0Fz6K0Ld_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 436,
+          "following_count": 371,
+          "like_count": 2431,
+          "listed_count": 0,
+          "media_count": 139,
+          "tweet_count": 891
+        },
+        "url": "https://t.co/Q7AWi1TcyC",
+        "username": "Koroshiiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-19T08:39:50.000Z",
+        "description": "你们可以叫我kaki/小卉\n会查成分回fo 直fo就是喜欢你🫶",
+        "id": "2056655773502160896",
+        "location": "不收门槛不接线下男的别骚扰别评论别私信",
+        "name": "Kaki",
+        "pinned_tweet_id": "2059672691880431756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056656578166898688/pLNOT_SJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 449,
+          "following_count": 143,
+          "like_count": 676,
+          "listed_count": 1,
+          "media_count": 14,
+          "tweet_count": 306
+        },
+        "url": "",
+        "username": "simaojie",
+        "verified": false
+      }
+    ]
+  }
+}

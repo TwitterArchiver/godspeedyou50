@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2023015773770490042",
+    "created_at": "2026-02-15T12:45:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T13:45:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2023015773770490042"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/y0zarashi/stat…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/y0zarashi/status/2022799587392786751",
+          "start": 5,
+          "url": "https://t.co/PabANTq3Yt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023015773770490042",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022799587392786751",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我笑死了 https://t.co/PabANTq3Yt"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2023015773770490042",
+        "created_at": "2026-02-15T12:45:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T13:45:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023015773770490042"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/y0zarashi/stat…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/y0zarashi/status/2022799587392786751",
+              "start": 5,
+              "url": "https://t.co/PabANTq3Yt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023015773770490042",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022799587392786751",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我笑死了 https://t.co/PabANTq3Yt"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811690667720212480",
+        "conversation_id": "2022794040962617855",
+        "created_at": "2026-02-14T22:26:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T23:26:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022799587392786751"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2022799587392786751",
+        "in_reply_to_user_id": "1811690667720212480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 129,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022797868613132692",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有一个特别幽默的地方，我懒得写。刘宣祯是通过刘华的实名微信和QQ与占佳敏聊骚文爱的，他也曾经说过爱德华这个名字的灵感源于他名字的一个字。也就说刘宣祯冒充亲妈混od圈，这里有个惊人的猜想，难不成刘宣祯他之所以选择od是因为他亲妈o吗？而最后杀害刘小丑的药物确实有一项是他亲妈提供的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。/@Jahseh14138/双相I型",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "Jahseh14138"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1994852955737264187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 737,
+          "following_count": 119,
+          "like_count": 431,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 1305
+        },
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-12T09:15:04.000Z",
+        "description": "文学会改变人的心性，轻易的影响一个人使他走火入魔做不了凡人，读完一定程度的世界文学，十几年就过去了，而这条路才刚开始，而且读书之后大部分会忘却需要重新复读，留下来的比例如同鲁迅说的“炼炭”，精神会被前人之精神改造，如果你有诗歌或宗教的天赋，会更加偏离常人，你的友人家人同辈都会跟你谈不到一块，也很难有女人适合你。",
+        "id": "1811690667720212480",
+        "location": "20260214",
+        "name": "CallumL1（老婆孩子我的命）",
+        "pinned_tweet_id": "2022794040962617855",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006577292462657536/9e_wGI8Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 913,
+          "following_count": 111,
+          "like_count": 39,
+          "listed_count": 5,
+          "media_count": 172,
+          "tweet_count": 618
+        },
+        "username": "y0zarashi",
+        "verified": false
+      }
+    ]
+  }
+}

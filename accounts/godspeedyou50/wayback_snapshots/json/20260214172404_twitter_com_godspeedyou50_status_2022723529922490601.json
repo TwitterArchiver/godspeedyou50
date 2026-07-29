@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2022552137742586224",
+    "created_at": "2026-02-14T17:24:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-14T18:24:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022723529922490601"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1563820304480100352",
+          "start": 0,
+          "username": "nishiki00300"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022723529922490601",
+    "in_reply_to_user_id": "1563820304480100352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022723405473288509",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nishiki00300 你可以创办wiki了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2022552137742586224",
+        "created_at": "2026-02-14T17:24:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T18:24:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022723529922490601"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1563820304480100352",
+              "start": 0,
+              "username": "nishiki00300"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022723529922490601",
+        "in_reply_to_user_id": "1563820304480100352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022723405473288509",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nishiki00300 你可以创办wiki了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563820304480100352",
+        "conversation_id": "2022552137742586224",
+        "created_at": "2026-02-14T17:23:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T18:23:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022723405473288509"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1518404201168007168",
+              "start": 0,
+              "username": "godspeedyou50"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022723405473288509",
+        "in_reply_to_user_id": "1518404201168007168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022552137742586224",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@godspeedyou50 我得了大脑痔疮"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。/@Jahseh14138/双相I型",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "Jahseh14138"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1994852955737264187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 734,
+          "following_count": 118,
+          "like_count": 431,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 1304
+        },
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2022-08-28T09:26:39.000Z",
+        "description": "虹ヶ咲大好き🛜｜コスプレ｜自撮り｜中文/日本語🆗～",
+        "id": "1563820304480100352",
+        "location": "宇宙",
+        "name": "ニシキ",
+        "pinned_tweet_id": "1848040913765015647",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1795724719075008513/qU1-f2TW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171,
+          "following_count": 431,
+          "like_count": 69,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 266
+        },
+        "username": "nishiki00300",
+        "verified": false
+      }
+    ]
+  }
+}

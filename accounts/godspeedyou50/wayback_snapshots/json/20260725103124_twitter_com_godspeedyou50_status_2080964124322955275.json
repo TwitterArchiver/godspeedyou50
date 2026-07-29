@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2080618104925954479",
+    "created_at": "2026-07-25T10:31:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T11:31:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080964124322955275"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1414506986205433860",
+          "start": 0,
+          "username": "XPnftclub"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080964124322955275",
+    "in_reply_to_user_id": "1414506986205433860",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080618104925954479",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XPnftclub 互关"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2080618097346744321",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN_XIs2aEAEee-K.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2080618104925954479",
+        "created_at": "2026-07-25T10:31:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T11:31:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080964124322955275"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1414506986205433860",
+              "start": 0,
+              "username": "XPnftclub"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080964124322955275",
+        "in_reply_to_user_id": "1414506986205433860",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080618104925954479",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XPnftclub 互关"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080618097346744321"
+          ]
+        },
+        "author_id": "1414506986205433860",
+        "conversation_id": "2080618104925954479",
+        "created_at": "2026-07-24T11:36:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T12:36:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080618104925954479"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HXZnmd6HYG",
+              "end": 58,
+              "expanded_url": "https://x.com/XPnftclub/status/2080618104925954479/photo/1",
+              "media_key": "3_2080618097346744321",
+              "start": 35,
+              "url": "https://t.co/HXZnmd6HYG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080618104925954479",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 5347,
+          "like_count": 90,
+          "quote_count": 0,
+          "reply_count": 123,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "说个暴论\n\n你只要拿过一次创作者受益\n不管别人拿再多\n你都不会羡慕了 https://t.co/HXZnmd6HYG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个违背了大众良知od喝大酒的神棍。\n☯️算命后付不怕跑单｜代请符箓、祈福请私讯\n传统宗教现代哲学文化传播者，又称中式廉价心理医生。\n狐朋@Nonentity_xxx17 狗友@Jinggebiezhuaw",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 69,
+                "username": "Nonentity_xxx17"
+              },
+              {
+                "end": 103,
+                "start": 88,
+                "username": "Jinggebiezhuaw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/buyaogaowosorry",
+                "end": 23,
+                "expanded_url": "https://t.me/buyaogaowosorry",
+                "start": 0,
+                "url": "https://t.co/AdoFGQJT3r"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2069223594711011526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1737,
+          "following_count": 635,
+          "like_count": 1289,
+          "listed_count": 1,
+          "media_count": 214,
+          "tweet_count": 2928
+        },
+        "url": "https://t.co/AdoFGQJT3r",
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2021-07-12T08:48:54.000Z",
+        "description": "Java 程序员🧑‍💻\n10年金融科技从业 🏦 \nNFT OG ，白名单交易第一人🤝\n6年币圈经历 ，21年拿到A7结果🪙\n一个月过关X创作者收益💰\n25年晋升超级奶爸👨‍🍼\n商务TG联系：XPnftclub",
+        "id": "1414506986205433860",
+        "location": "Hong Kong",
+        "name": "Punch",
+        "pinned_tweet_id": "2078800218045456646",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1533001990606757888/MufHExsb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9362,
+          "following_count": 3888,
+          "like_count": 3795,
+          "listed_count": 20,
+          "media_count": 680,
+          "tweet_count": 12342
+        },
+        "url": "",
+        "username": "XPnftclub",
+        "verified": true
+      }
+    ]
+  }
+}

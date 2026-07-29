@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "1983560734043935191",
+    "created_at": "2025-10-30T01:25:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-30T02:25:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983706760394522717"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1401351446054858754",
+          "start": 0,
+          "username": "OrgSoda_i33u"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983706760394522717",
+    "in_reply_to_user_id": "1401351446054858754",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983635213390651520",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OrgSoda_i33u 单纯是我卡了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "1983560734043935191",
+        "created_at": "2025-10-30T01:25:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T02:25:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983706760394522717"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1401351446054858754",
+              "start": 0,
+              "username": "OrgSoda_i33u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983706760394522717",
+        "in_reply_to_user_id": "1401351446054858754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983635213390651520",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OrgSoda_i33u 单纯是我卡了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1401351446054858754",
+        "conversation_id": "1983560734043935191",
+        "created_at": "2025-10-29T20:41:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T21:41:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983635213390651520"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1518404201168007168",
+              "start": 0,
+              "username": "godspeedyou50"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983635213390651520",
+        "in_reply_to_user_id": "1518404201168007168",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983588566929436720",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@godspeedyou50 ？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "路人。and这段日子我愿意聊天，欢迎找我解惑，定期批量回fo或者私我",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1982515322788942238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827690417619697665/4z5RgWOE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 397,
+          "following_count": 234,
+          "like_count": 97,
+          "listed_count": 1,
+          "media_count": 50,
+          "tweet_count": 576
+        },
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2021-06-06T01:33:26.000Z",
+        "description": "自用VPN梯子：https://t.co/e8L0h0n4DQ南京//反差Switch//控制欲//在苦命直播ing.//🚪288//线下纯绿5200",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "kugou2.cloud/#/register?cod…",
+                "end": 31,
+                "expanded_url": "https://kugou2.cloud/#/register?code=TeJp46CO//",
+                "start": 8,
+                "url": "https://t.co/e8L0h0n4DQ"
+              }
+            ]
+          }
+        },
+        "id": "1401351446054858754",
+        "location": "老师脸上",
+        "name": "海胆1会不会梦到自己的小狗0",
+        "pinned_tweet_id": "1972458690767946172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950417733973114880/LN7zqxNC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22680,
+          "following_count": 677,
+          "like_count": 4306,
+          "listed_count": 76,
+          "media_count": 360,
+          "tweet_count": 1353
+        },
+        "username": "OrgSoda_i33u",
+        "verified": false
+      }
+    ]
+  }
+}

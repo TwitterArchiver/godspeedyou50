@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "1999448130472009919",
+    "created_at": "2025-12-12T14:02:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-12T15:02:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999480059678327166"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1749232086840647680",
+          "start": 0,
+          "username": "llll926080"
+        },
+        {
+          "end": 22,
+          "id": "1778696847563104256",
+          "start": 12,
+          "username": "gold_bihu"
+        },
+        {
+          "end": 35,
+          "id": "1911828872334831616",
+          "start": 23,
+          "username": "Edward_8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999480059678327166",
+    "in_reply_to_user_id": "1749232086840647680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999479940207800821",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@llll926080 @gold_bihu @Edward_8964 杀杀杀杀杀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "1999448130472009919",
+        "created_at": "2025-12-12T14:02:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T15:02:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999480059678327166"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1749232086840647680",
+              "start": 0,
+              "username": "llll926080"
+            },
+            {
+              "end": 22,
+              "id": "1778696847563104256",
+              "start": 12,
+              "username": "gold_bihu"
+            },
+            {
+              "end": 35,
+              "id": "1911828872334831616",
+              "start": 23,
+              "username": "Edward_8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999480059678327166",
+        "in_reply_to_user_id": "1749232086840647680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999479940207800821",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@llll926080 @gold_bihu @Edward_8964 杀杀杀杀杀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749232086840647680",
+        "conversation_id": "1999448130472009919",
+        "created_at": "2025-12-12T14:02:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T15:02:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999479940207800821"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1778696847563104256",
+              "start": 0,
+              "username": "gold_bihu"
+            },
+            {
+              "end": 23,
+              "id": "1911828872334831616",
+              "start": 11,
+              "username": "Edward_8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999479940207800821",
+        "in_reply_to_user_id": "1778696847563104256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999456867370799432",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gold_bihu @Edward_8964 杀杀杀杀杀 彻底疯狂🍾彻底疯狂🍾彻底疯狂🍾"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1999064457344147720",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 665,
+          "following_count": 64,
+          "like_count": 364,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 1056
+        },
+        "username": "godspeedyou50",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-22T00:46:54.000Z",
+        "description": "pan/brat 可能是男娘（？🇨🇳🇨🇦175cm 53kg 17高二坐牢中… 中文/English welcome dm欢迎大家来找我聊天🥺od/自伤元素注意⚠️好友位🚪50CNY 后背隐藏能源：@fuckmylife8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 114,
+                "start": 99,
+                "username": "fuckmylife8964"
+              }
+            ]
+          }
+        },
+        "id": "1749232086840647680",
+        "location": "上海",
+        "name": "网友泉顺方",
+        "pinned_tweet_id": "1997879696113930667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984325613352538112/-fZhgABW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1060,
+          "following_count": 172,
+          "like_count": 1520,
+          "listed_count": 1,
+          "media_count": 401,
+          "tweet_count": 2053
+        },
+        "username": "llll926080",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-12T08:09:17.000Z",
+        "description": "性别是🦖 ｜od区?｜同类互fo｜有我能帮上忙的请尽管私聊｜喜欢一切有意思的东西",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/dddlg28",
+                "end": 23,
+                "expanded_url": "https://t.me/dddlg28",
+                "start": 0,
+                "url": "https://t.co/MS7VCxz7qW"
+              }
+            ]
+          }
+        },
+        "id": "1778696847563104256",
+        "name": "多拉贡",
+        "pinned_tweet_id": "1988544986514608235",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996121294568558592/oUNZCOVI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 361,
+          "following_count": 329,
+          "like_count": 8439,
+          "listed_count": 3,
+          "media_count": 124,
+          "tweet_count": 2154
+        },
+        "url": "https://t.co/MS7VCxz7qW",
+        "username": "gold_bihu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-14T17:08:26.000Z",
+        "description": "南湖之虎｜第4次转生｜ MTX ｜退役OIer｜OD｜重精神病｜ADHD｜右美沙芬 ｜freeODwiki参与者｜NEwiki维护员｜自由、梦想、进取｜不盈利方针中断",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "nonexistent.wiki",
+                "end": 23,
+                "expanded_url": "http://nonexistent.wiki",
+                "start": 0,
+                "url": "https://t.co/l3ALBiEbNl"
+              }
+            ]
+          }
+        },
+        "id": "1911828872334831616",
+        "location": "NE",
+        "name": "💊爱德华",
+        "pinned_tweet_id": "1994524465359982832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983915986710667264/18Wn7FvD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 752,
+          "following_count": 622,
+          "like_count": 6424,
+          "listed_count": 2,
+          "media_count": 272,
+          "tweet_count": 4206
+        },
+        "url": "https://t.co/l3ALBiEbNl",
+        "username": "Edward_8964",
+        "verified": true
+      }
+    ]
+  }
+}

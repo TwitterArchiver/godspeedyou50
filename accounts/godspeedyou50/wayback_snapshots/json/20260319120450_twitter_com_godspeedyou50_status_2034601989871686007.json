@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2034593550462243305",
+    "created_at": "2026-03-19T12:04:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T13:04:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034601989871686007"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1919090536180600832",
+          "start": 0,
+          "username": "dokigirlluv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034601989871686007",
+    "in_reply_to_user_id": "1919090536180600832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034593550462243305",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dokigirlluv 什么时候绑炸弹自杀袭击吉他张？"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 16716,
+        "height": 720,
+        "media_key": "13_2034593486893441024",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2034593486893441024/img/FUrC8OGctNxDwrQN.jpg",
+        "public_metrics": {
+          "view_count": 46
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2034593486893441024/vid/avc1/320x320/hm3lRexlRqVAsOje.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2034593486893441024/vid/avc1/540x540/suVux1SoQwbnXPd7.mp4"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2034593486893441024/vid/avc1/720x720/BrzkBqurdyRPJEdl.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2034593486893441024/pl/X_e1JOQFXhFQhqcK.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2034593550462243305",
+        "created_at": "2026-03-19T12:04:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T13:04:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034601989871686007"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1919090536180600832",
+              "start": 0,
+              "username": "dokigirlluv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034601989871686007",
+        "in_reply_to_user_id": "1919090536180600832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034593550462243305",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dokigirlluv 什么时候绑炸弹自杀袭击吉他张？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2034593486893441024"
+          ]
+        },
+        "author_id": "1919090536180600832",
+        "conversation_id": "2034593550462243305",
+        "created_at": "2026-03-19T11:31:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T12:31:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034593550462243305"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SjJAF5PANo",
+              "end": 27,
+              "expanded_url": "https://x.com/dokigirlluv/status/2034593550462243305/video/1",
+              "media_key": "13_2034593486893441024",
+              "start": 4,
+              "url": "https://t.co/SjJAF5PANo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034593550462243305",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 154,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "清真🕌 https://t.co/SjJAF5PANo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。/双相I型/欢迎提问",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jahseh79919",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jahseh79919",
+                "start": 0,
+                "url": "https://t.co/xaz6T7v19q"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2029134307244294287",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 921,
+          "following_count": 200,
+          "like_count": 668,
+          "listed_count": 1,
+          "media_count": 112,
+          "tweet_count": 1789
+        },
+        "url": "https://t.co/xaz6T7v19q",
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-04T18:03:42.000Z",
+        "description": "https://t.co/k2PgJQA6kY",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/sophiasssophia1",
+                "end": 23,
+                "expanded_url": "https://t.me/sophiasssophia1",
+                "start": 0,
+                "url": "https://t.co/k2PgJQA6kY"
+              }
+            ]
+          }
+        },
+        "id": "1919090536180600832",
+        "name": "Sophia",
+        "pinned_tweet_id": "2026772813017919851",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031710878304002048/Upi5Vm7k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13376,
+          "following_count": 58,
+          "like_count": 766,
+          "listed_count": 5,
+          "media_count": 148,
+          "tweet_count": 390
+        },
+        "username": "dokigirlluv",
+        "verified": false
+      }
+    ]
+  }
+}

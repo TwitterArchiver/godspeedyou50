@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2037098170698915923",
+    "created_at": "2026-03-26T09:23:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T10:23:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2037098170698915923"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/thedeviloflusg…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/thedeviloflusg/status/1962412165006315642",
+          "start": 9,
+          "url": "https://t.co/NojvO4nSp5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037098170698915923",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962412165006315642",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "哦谢特 大号美女 https://t.co/NojvO4nSp5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1962412150338789376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzvjdBPaoAAydf5.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2037098170698915923",
+        "created_at": "2026-03-26T09:23:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T10:23:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037098170698915923"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/thedeviloflusg…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/thedeviloflusg/status/1962412165006315642",
+              "start": 9,
+              "url": "https://t.co/NojvO4nSp5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037098170698915923",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962412165006315642",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哦谢特 大号美女 https://t.co/NojvO4nSp5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962412150338789376"
+          ]
+        },
+        "author_id": "1411701388086812673",
+        "conversation_id": "1962412165006315642",
+        "created_at": "2025-09-01T07:08:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T08:08:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962412165006315642"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 114,
+              "start": 111,
+              "tag": "武汉"
+            },
+            {
+              "end": 119,
+              "start": 115,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 123,
+              "start": 120,
+              "tag": "男娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DoKnWL0I8n",
+              "end": 147,
+              "expanded_url": "https://x.com/Thedeviloflusg/status/1962412165006315642/photo/1",
+              "media_key": "3_1962412150338789376",
+              "start": 124,
+              "url": "https://t.co/DoKnWL0I8n"
+            },
+            {
+              "display_url": "x.com/Thedeviloflusg…",
+              "end": 171,
+              "expanded_url": "https://twitter.com/Thedeviloflusg/status/1883395239333036042",
+              "start": 148,
+              "url": "https://t.co/QzNyKB72y0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962412165006315642",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 104233,
+          "like_count": 57,
+          "quote_count": 4,
+          "reply_count": 4,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883395239333036042",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我是桔梗 𓊆ྀི❤︎𓊇ྀི     \n接爸爸活妈妈活 𓊆ྀི❤︎𓊇ྀི     \n好友位🚪88 聊天 打游戏 线下 纯绿170半绿270非绿过🚪 入了就是俺爸爸妈妈老公老婆 喜欢我就入好不好呀？ 𓊆ྀི❤︎𓊇ྀི     #武汉 #爸爸活 #男娘 https://t.co/DoKnWL0I8n https://t.co/QzNyKB72y0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。/双相I型/欢迎提问",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jahseh79919",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jahseh79919",
+                "start": 0,
+                "url": "https://t.co/xaz6T7v19q"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2029134307244294287",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 980,
+          "following_count": 191,
+          "like_count": 748,
+          "listed_count": 0,
+          "media_count": 117,
+          "tweet_count": 1945
+        },
+        "url": "https://t.co/xaz6T7v19q",
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2021-07-04T15:00:31.000Z",
+        "description": "switch/非二元性别/🈶️🚪私聊我",
+        "id": "1411701388086812673",
+        "location": "🚪88",
+        "name": "桔梗",
+        "pinned_tweet_id": "1962412165006315642",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937588162618101760/kPYrLIOv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2679,
+          "following_count": 134,
+          "like_count": 12005,
+          "listed_count": 14,
+          "media_count": 317,
+          "tweet_count": 2351
+        },
+        "username": "Thedeviloflusg",
+        "verified": false
+      }
+    ]
+  }
+}

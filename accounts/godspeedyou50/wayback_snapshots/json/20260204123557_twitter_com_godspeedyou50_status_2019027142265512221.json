@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2019027142265512221",
+    "created_at": "2026-02-04T12:35:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-04T13:35:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2019027142265512221"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/d07207333210/s…",
+          "end": 157,
+          "expanded_url": "https://twitter.com/d07207333210/status/2018973673949216944",
+          "start": 134,
+          "url": "https://t.co/2Tx6PEClCV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019027142265512221",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "太扯了，谁管你会不会，人死在你边上管你哪国人？ 呼吸抑制和打鼾的关系你扯你跌个蛋子手册 80%oder毒虫都知道的东西你提个手册出来 且死者早已宣传过相关知识，别硬洗很尴尬知道吗\n查了一下主页连感冒药为什么加咖啡因这种抗组胺防止嗜睡的基础脏药配置都不清楚的人也释怀了\n圈外人每次洗白凶手我都恶心"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018973673949216944",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "太扯了，谁管你会不会，人死在你边上管你哪国人？ 呼吸抑制和打鼾的关系你扯你跌个蛋子手册 80%oder毒虫都知道的东西你提个手册出来 且死者早已宣传过相关知识，别硬洗很尴尬知道吗\n查了一下主页连感冒药为什么加咖啡因这种抗组胺防止嗜睡的基础脏药配置都不清楚的人也释怀了 https://t.co/2Tx6PEClCV"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2019027142265512221",
+        "created_at": "2026-02-04T12:35:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T13:35:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019027142265512221"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/d07207333210/s…",
+              "end": 157,
+              "expanded_url": "https://twitter.com/d07207333210/status/2018973673949216944",
+              "start": 134,
+              "url": "https://t.co/2Tx6PEClCV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019027142265512221",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "太扯了，谁管你会不会，人死在你边上管你哪国人？ 呼吸抑制和打鼾的关系你扯你跌个蛋子手册 80%oder毒虫都知道的东西你提个手册出来 且死者早已宣传过相关知识，别硬洗很尴尬知道吗\n查了一下主页连感冒药为什么加咖啡因这种抗组胺防止嗜睡的基础脏药配置都不清楚的人也释怀了\n圈外人每次洗白凶手我都恶心"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018973673949216944",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "太扯了，谁管你会不会，人死在你边上管你哪国人？ 呼吸抑制和打鼾的关系你扯你跌个蛋子手册 80%oder毒虫都知道的东西你提个手册出来 且死者早已宣传过相关知识，别硬洗很尴尬知道吗\n查了一下主页连感冒药为什么加咖啡因这种抗组胺防止嗜睡的基础脏药配置都不清楚的人也释怀了 https://t.co/2Tx6PEClCV"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1698001955422175232",
+        "conversation_id": "2018973670853722203",
+        "created_at": "2026-02-04T09:03:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T10:03:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018973673949216944"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2018973673949216944",
+        "in_reply_to_user_id": "1698001955422175232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 102,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018973670853722203",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "疯狂宇宙之严管阿片的老中的中专护理专业上一年必须学会呼吸抑制与轻度打鼾的的联系——这个在默沙东手册都没有的偏门知识，毒虫宇宙别太招笑"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。/@Jahseh14138/严重双相I型",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "Jahseh14138"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1994852955737264187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 713,
+          "following_count": 98,
+          "like_count": 401,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 1176
+        },
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2023-09-02T15:56:46.000Z",
+        "description": "非二元/键政/哲学/日常话题",
+        "id": "1698001955422175232",
+        "name": "邓曦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002166994934902785/uqB2YuLd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 832,
+          "following_count": 871,
+          "like_count": 24957,
+          "listed_count": 4,
+          "media_count": 421,
+          "tweet_count": 4758
+        },
+        "username": "d07207333210",
+        "verified": false
+      }
+    ]
+  }
+}

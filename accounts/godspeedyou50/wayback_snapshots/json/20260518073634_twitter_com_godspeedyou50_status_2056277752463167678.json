@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2056271896006820083",
+    "created_at": "2026-05-18T07:36:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T08:36:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056277752463167678"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2012875546343211008",
+          "start": 0,
+          "username": "do_piong"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056277752463167678",
+    "in_reply_to_user_id": "2012875546343211008",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056271896006820083",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@do_piong hi"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2056271896006820083",
+        "created_at": "2026-05-18T07:36:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T08:36:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056277752463167678"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012875546343211008",
+              "start": 0,
+              "username": "do_piong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056277752463167678",
+        "in_reply_to_user_id": "2012875546343211008",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056271896006820083",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@do_piong hi"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012875546343211008",
+        "conversation_id": "2056271896006820083",
+        "created_at": "2026-05-18T07:13:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T08:13:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056271896006820083"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "도피쨘’s Space · 0 listening · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1rxmq…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/spaces/1rxmqoywmmkxy",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2056271897214783488/v9CIkhu3?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2056271897214783488/v9CIkhu3?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "Happening now: 노래방",
+              "unwound_url": "https://twitter.com/i/spaces/1rxmqoywmmkxy/peek",
+              "url": "https://t.co/zw1OGElbk0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056271896006820083",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 49,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/zw1OGElbk0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。/欢迎提问/@OvooLOO3o/@salmon__sukiii",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 17,
+                "username": "OvooLOO3o"
+              },
+              {
+                "end": 43,
+                "start": 28,
+                "username": "salmon__sukiii"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jahseh79919",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jahseh79919",
+                "start": 0,
+                "url": "https://t.co/xaz6T7v19q"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2048720319872192919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1258,
+          "following_count": 278,
+          "like_count": 1059,
+          "listed_count": 0,
+          "media_count": 167,
+          "tweet_count": 2425
+        },
+        "url": "https://t.co/xaz6T7v19q",
+        "username": "godspeedyou50",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-18T13:11:51.000Z",
+        "description": "KR l 17 l 초보 코스어ㅣ함장:@hosijoanac49793\n장르: 효요버스(원붕젠),붕괴3rd,니케,리듬게임,엔드필드,명일방주,림버스",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 20,
+                "username": "hosijoanac49793"
+              }
+            ]
+          }
+        },
+        "id": "2012875546343211008",
+        "location": "Error",
+        "name": "도피쨘",
+        "pinned_tweet_id": "2052226995313164624",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053041060511895552/8U2aqzZ5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 621,
+          "following_count": 610,
+          "like_count": 22982,
+          "listed_count": 9,
+          "media_count": 215,
+          "tweet_count": 2476
+        },
+        "username": "do_piong",
+        "verified": true
+      }
+    ]
+  }
+}

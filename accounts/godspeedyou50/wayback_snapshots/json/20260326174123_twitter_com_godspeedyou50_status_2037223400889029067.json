@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2037221461044187437",
+    "created_at": "2026-03-26T17:41:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T18:41:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037223400889029067"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1977492000493481984",
+          "start": 0,
+          "username": "jcy19950601"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037223400889029067",
+    "in_reply_to_user_id": "1977492000493481984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037221461044187437",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jcy19950601 上课玩手机"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2037221461044187437",
+        "created_at": "2026-03-26T17:41:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T18:41:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037223400889029067"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1977492000493481984",
+              "start": 0,
+              "username": "jcy19950601"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037223400889029067",
+        "in_reply_to_user_id": "1977492000493481984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037221461044187437",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jcy19950601 上课玩手机"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1977492000493481984",
+        "conversation_id": "2037221461044187437",
+        "created_at": "2026-03-26T17:33:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T18:33:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037221461044187437"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037221461044187437",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "到底是谁在关注我啊 我一天天光看数涨了一个提示都没有是啥意思啊？？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。/双相I型/欢迎提问",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jahseh79919",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jahseh79919",
+                "start": 0,
+                "url": "https://t.co/xaz6T7v19q"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2029134307244294287",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 981,
+          "following_count": 189,
+          "like_count": 761,
+          "listed_count": 0,
+          "media_count": 118,
+          "tweet_count": 1961
+        },
+        "url": "https://t.co/xaz6T7v19q",
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-12T21:50:33.000Z",
+        "description": "这条苦海无涯我已双脚踏上｜上网只为了缓解/发泄情绪｜互fo欢迎",
+        "id": "1977492000493481984",
+        "name": "野火",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034439430308507649/KNYACeV3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 57,
+          "like_count": 921,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 398
+        },
+        "username": "jcy19950601",
+        "verified": false
+      }
+    ]
+  }
+}

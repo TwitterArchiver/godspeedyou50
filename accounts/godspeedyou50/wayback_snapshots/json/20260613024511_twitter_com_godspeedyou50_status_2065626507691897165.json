@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065601779505700865"
+      ],
+      "media_source_tweet_id": [
+        "2065601789802725564"
+      ]
+    },
+    "author_id": "1518404201168007168",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2065626507691897165",
+    "created_at": "2026-06-13T02:45:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T03:45:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065626507691897165"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2051195377420992512",
+          "start": 3,
+          "username": "Rain7x6y"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zSrUZ4sSzQ",
+          "end": 50,
+          "expanded_url": "https://x.com/Rain7x6y/status/2065601789802725564/photo/1",
+          "media_key": "3_2065601779505700865",
+          "start": 27,
+          "url": "https://t.co/zSrUZ4sSzQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065626507691897165",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065601789802725564",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Rain7x6y: 好吃。时间再长点就好了喵 https://t.co/zSrUZ4sSzQ"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2065626507691897165].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2065626507691897165",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2065626507691897165"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2065601779505700865",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKp939raIAEXgCm.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065601779505700865"
+          ]
+        },
+        "author_id": "2051195377420992512",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2065601789802725564",
+        "created_at": "2026-06-13T01:06:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T02:06:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065601789802725564"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zSrUZ4sSzQ",
+              "end": 36,
+              "expanded_url": "https://x.com/Rain7x6y/status/2065601789802725564/photo/1",
+              "media_key": "3_2065601779505700865",
+              "start": 13,
+              "url": "https://t.co/zSrUZ4sSzQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065601789802725564",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "好吃。时间再长点就好了喵 https://t.co/zSrUZ4sSzQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。我在倒腾两颗神秘的糖请小窗",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2064647794707821015",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1361,
+          "following_count": 345,
+          "like_count": 1151,
+          "listed_count": 1,
+          "media_count": 191,
+          "tweet_count": 2669
+        },
+        "username": "godspeedyou50",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-04T07:03:35.000Z",
+        "description": "我玉玉了\n前世@naijin66998\n喜欢的人@lilibr0k3n33 @ovocaize",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 7,
+                "username": "naijin66998"
+              },
+              {
+                "end": 37,
+                "start": 24,
+                "username": "lilibr0k3n33"
+              },
+              {
+                "end": 47,
+                "start": 38,
+                "username": "ovocaize"
+              }
+            ]
+          }
+        },
+        "id": "2051195377420992512",
+        "name": "冬雪Rain👁️二世",
+        "pinned_tweet_id": "2051340519104762248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060579127489617920/-COMe4oq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 103,
+          "like_count": 224,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 155
+        },
+        "username": "Rain7x6y",
+        "verified": false
+      }
+    ]
+  }
+}

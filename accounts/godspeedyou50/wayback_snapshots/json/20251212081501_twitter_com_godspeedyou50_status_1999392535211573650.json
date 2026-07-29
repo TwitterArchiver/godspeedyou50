@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "1999392535211573650",
+    "created_at": "2025-12-12T08:15:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-12T09:15:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999392535211573650"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1700948552078467072",
+          "start": 3,
+          "username": "Overdose_DBD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999392535211573650",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999391451726381104",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Overdose_DBD: 活在幻觉与臆想的性压抑小孩"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "1999392535211573650",
+        "created_at": "2025-12-12T08:15:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T09:15:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999392535211573650"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1700948552078467072",
+              "start": 3,
+              "username": "Overdose_DBD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999392535211573650",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999391451726381104",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Overdose_DBD: 活在幻觉与臆想的性压抑小孩"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700948552078467072",
+        "conversation_id": "1999391451726381104",
+        "created_at": "2025-12-12T08:10:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T09:10:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999391451726381104"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Edward_8964/st…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/Edward_8964/status/1999372110440079402",
+              "start": 14,
+              "url": "https://t.co/fvYt5BElDz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999391451726381104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999372110440079402",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "活在幻觉与臆想的性压抑小孩 https://t.co/fvYt5BElDz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1999064457344147720",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 664,
+          "following_count": 63,
+          "like_count": 363,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 1040
+        },
+        "username": "godspeedyou50",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-10T19:05:21.000Z",
+        "description": "谁的附庸？\n高原整活观景台 https://t.co/WnyZ64LosE\n有事请点击https://t.co/UdJgE8LpGT",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/HWA_FK1",
+                "end": 37,
+                "expanded_url": "https://t.me/HWA_FK1",
+                "start": 14,
+                "url": "https://t.co/WnyZ64LosE"
+              },
+              {
+                "display_url": "t.me/SuperGogogotou",
+                "end": 66,
+                "expanded_url": "https://t.me/SuperGogogotou",
+                "start": 43,
+                "url": "https://t.co/UdJgE8LpGT"
+              }
+            ]
+          }
+        },
+        "id": "1700948552078467072",
+        "name": "超级后后后藤",
+        "pinned_tweet_id": "1777999878117097536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984623073275125760/eoadOp59_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4245,
+          "following_count": 57,
+          "like_count": 2,
+          "listed_count": 11,
+          "media_count": 574,
+          "tweet_count": 6346
+        },
+        "username": "Overdose_DBD",
+        "verified": false
+      }
+    ]
+  }
+}

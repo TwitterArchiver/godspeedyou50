@@ -1,0 +1,351 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2073736452744282354",
+    "created_at": "2026-07-07T14:32:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T15:32:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074501941514875361"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1921862257874702337",
+          "start": 0,
+          "username": "Theprophetsfox"
+        },
+        {
+          "end": 29,
+          "id": "1908630026012004353",
+          "start": 16,
+          "username": "Oscxiar_0716"
+        },
+        {
+          "end": 39,
+          "id": "1317689258052710400",
+          "start": 30,
+          "username": "5oke_k29"
+        },
+        {
+          "end": 51,
+          "id": "1754774517594181632",
+          "start": 40,
+          "username": "ValenceLab"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074501941514875361",
+    "in_reply_to_user_id": "1921862257874702337",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074501496943861936",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Theprophetsfox @Oscxiar_0716 @5oke_k29 @ValenceLab 好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2073736452744282354",
+        "created_at": "2026-07-07T14:32:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T15:32:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074501941514875361"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1921862257874702337",
+              "start": 0,
+              "username": "Theprophetsfox"
+            },
+            {
+              "end": 29,
+              "id": "1908630026012004353",
+              "start": 16,
+              "username": "Oscxiar_0716"
+            },
+            {
+              "end": 39,
+              "id": "1317689258052710400",
+              "start": 30,
+              "username": "5oke_k29"
+            },
+            {
+              "end": 51,
+              "id": "1754774517594181632",
+              "start": 40,
+              "username": "ValenceLab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074501941514875361",
+        "in_reply_to_user_id": "1921862257874702337",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074501496943861936",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Theprophetsfox @Oscxiar_0716 @5oke_k29 @ValenceLab 好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1921862257874702337",
+        "conversation_id": "2073736452744282354",
+        "created_at": "2026-07-07T14:31:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T15:31:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074501496943861936"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1908630026012004353",
+              "start": 0,
+              "username": "Oscxiar_0716"
+            },
+            {
+              "end": 23,
+              "id": "1317689258052710400",
+              "start": 14,
+              "username": "5oke_k29"
+            },
+            {
+              "end": 35,
+              "id": "1754774517594181632",
+              "start": 24,
+              "username": "ValenceLab"
+            },
+            {
+              "end": 50,
+              "id": "1518404201168007168",
+              "start": 36,
+              "username": "godspeedyou50"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074501496943861936",
+        "in_reply_to_user_id": "1908630026012004353",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074492399414644816",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Oscxiar_0716 @5oke_k29 @ValenceLab @godspeedyou50 噗ん，我磕新毒老毒为什么不怕上瘾？没钱了就戒了🤓\n只要不是芬太尼，感觉啥都能碰碰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个违背了大众道德良知的神棍。\n☯️算命后付不怕跑单｜代请符箓、祈福请私讯\n传统宗教现代哲学文化传播者，又称中式廉价心理医生。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/buyaogaowosorry",
+                "end": 23,
+                "expanded_url": "https://t.me/buyaogaowosorry",
+                "start": 0,
+                "url": "https://t.co/AdoFGQJT3r"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2069223594711011526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1622,
+          "following_count": 558,
+          "like_count": 1265,
+          "listed_count": 1,
+          "media_count": 200,
+          "tweet_count": 2841
+        },
+        "url": "https://t.co/AdoFGQJT3r",
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-12T09:37:33.000Z",
+        "description": "日本語でのコミュニケーションにAI翻訳を使用していることをお許しください💦\n\n私は華夏地域出身のゲーマーオタクです！（旅行好き、コスプレイヤー、詩人）\n\n私の投稿には、日常会話、AI作品、ゲーム、薬物乱用、ポルノ写真、面白い見聞、再投稿などが含まれる場合があります…\n\nぜひお友達になってください！（◍˃ᵕ˂◍）",
+        "id": "1921862257874702337",
+        "location": "トリニティ総合学園中央図書館",
+        "name": "北落師門",
+        "pinned_tweet_id": "2074321851640381568",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065442815820345344/hWscjKJZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150,
+          "following_count": 172,
+          "like_count": 1634,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 1580
+        },
+        "url": "",
+        "username": "Theprophetsfox",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-05T21:17:39.000Z",
+        "description": "蓝调，衰弱的人生，宽恕人类三秒钟 ✝️「我灵歌唱，赞美救主我神」「若不计较，就一次痛快燃烧」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Oscxiaremax",
+                "end": 23,
+                "expanded_url": "https://t.me/Oscxiaremax",
+                "start": 0,
+                "url": "https://t.co/ArtAUcmE5i"
+              }
+            ]
+          }
+        },
+        "id": "1908630026012004353",
+        "location": "法兰西第五共和国",
+        "name": "玛非斯🦋",
+        "pinned_tweet_id": "1915064949577334911",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908630471770091521/VfJHXLVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 457,
+          "like_count": 2462,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 1431
+        },
+        "url": "https://t.co/ArtAUcmE5i",
+        "username": "Oscxiar_0716",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-18T04:49:45.000Z",
+        "description": "傻逼别他妈烦我 恶心我你全家今晚就死 理解不了就屏蔽我滑走好吗？从始至终我都是瞎发而已..",
+        "id": "1317689258052710400",
+        "name": "穹",
+        "pinned_tweet_id": "1636710279810793472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682049945384407041/a7quSn3G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4289,
+          "following_count": 142,
+          "like_count": 956,
+          "listed_count": 7,
+          "media_count": 298,
+          "tweet_count": 2451
+        },
+        "url": "",
+        "username": "5oke_k29",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-06T07:50:34.000Z",
+        "description": "我只是一只野生瓦楞斯∥在深山模仿古猿的神秘露营爱好者⛺∥神厨小瓦楞斯∥新群组链接↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/ValenceLab_Gro…",
+                "end": 23,
+                "expanded_url": "https://t.me/ValenceLab_Groups",
+                "start": 0,
+                "url": "https://t.co/TG4Kxegueg"
+              }
+            ]
+          }
+        },
+        "id": "1754774517594181632",
+        "location": "本栖湖",
+        "name": "𝗩𝗮𝗹𝗲𝗻𝗰𝗲🆁🅲 瓦楞斯",
+        "pinned_tweet_id": "2054393417166434678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033925913575100419/x5z1bNHB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 934,
+          "following_count": 209,
+          "like_count": 450,
+          "listed_count": 1,
+          "media_count": 45,
+          "tweet_count": 430
+        },
+        "url": "https://t.co/TG4Kxegueg",
+        "username": "ValenceLab",
+        "verified": false
+      }
+    ]
+  }
+}

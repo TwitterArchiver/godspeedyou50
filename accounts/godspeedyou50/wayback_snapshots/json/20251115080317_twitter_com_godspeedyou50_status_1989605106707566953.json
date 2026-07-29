@@ -1,0 +1,168 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1989605095542329344"
+      ]
+    },
+    "author_id": "1518404201168007168",
+    "conversation_id": "1989605106707566953",
+    "created_at": "2025-11-15T08:03:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-15T09:03:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1989605106707566953"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 36,
+          "id": "1900292574486945797",
+          "start": 22,
+          "username": "R0ttenb1oo0v0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/BRfY0Qinoq",
+          "end": 60,
+          "expanded_url": "https://x.com/godspeedyou50/status/1989605106707566953/photo/1",
+          "media_key": "3_1989605095542329344",
+          "start": 37,
+          "url": "https://t.co/BRfY0Qinoq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989605106707566953",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "走进科学第六期之臭果盘子嗑药之后来到外网发颠@R0ttenb1oo0v0 https://t.co/BRfY0Qinoq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1989605095542329344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5x_SwMbkAA9w8s.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989605095542329344"
+          ]
+        },
+        "author_id": "1518404201168007168",
+        "conversation_id": "1989605106707566953",
+        "created_at": "2025-11-15T08:03:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T09:03:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989605106707566953"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 36,
+              "id": "1900292574486945797",
+              "start": 22,
+              "username": "R0ttenb1oo0v0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BRfY0Qinoq",
+              "end": 60,
+              "expanded_url": "https://x.com/godspeedyou50/status/1989605106707566953/photo/1",
+              "media_key": "3_1989605095542329344",
+              "start": 37,
+              "url": "https://t.co/BRfY0Qinoq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989605106707566953",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "走进科学第六期之臭果盘子嗑药之后来到外网发颠@R0ttenb1oo0v0 https://t.co/BRfY0Qinoq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "路人。and这段日子我愿意聊天，欢迎找我解惑，定期批量回fo或者私我",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1983757018830663844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984905090818523136/vVZ-D8dQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 523,
+          "following_count": 283,
+          "like_count": 175,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 767
+        },
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-13T21:07:23.000Z",
+        "description": "别鸡吧骚扰我你知道的",
+        "id": "1900292574486945797",
+        "name": "YvngBunnyNEverBrokeagain",
+        "pinned_tweet_id": "1927328492049338652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988209399698223104/q3Rij0di_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 70,
+          "like_count": 131,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 243
+        },
+        "username": "R0ttenb1oo0v0",
+        "verified": false
+      }
+    ]
+  }
+}

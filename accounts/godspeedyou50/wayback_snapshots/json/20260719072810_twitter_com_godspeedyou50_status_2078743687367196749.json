@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2078731416414933213",
+    "created_at": "2026-07-19T07:28:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T08:28:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078743687367196749"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1244543552652054528",
+          "start": 0,
+          "username": "Greenfish_111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078743687367196749",
+    "in_reply_to_user_id": "1244543552652054528",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078731416414933213",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Greenfish_111 牙根咬碎了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2078731416414933213",
+        "created_at": "2026-07-19T07:28:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T08:28:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078743687367196749"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1244543552652054528",
+              "start": 0,
+              "username": "Greenfish_111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078743687367196749",
+        "in_reply_to_user_id": "1244543552652054528",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078731416414933213",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Greenfish_111 牙根咬碎了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1244543552652054528",
+        "conversation_id": "2078731416414933213",
+        "created_at": "2026-07-19T06:39:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T07:39:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078731416414933213"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/greenfish_111/…",
+              "end": 171,
+              "expanded_url": "https://twitter.com/greenfish_111/status/2078720449710821697",
+              "start": 148,
+              "url": "https://t.co/79F09BfS3m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078731416414933213",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我承认我自己不够有警惕心 \n我这两年 由于一些原因 学校也不去所以现实几乎不社交 我几乎就一直呆在家里，逐渐忘记了很多社会上的知识 \n我以为你是那种跟我一样很孤独的人。你说一起oo 我一开始婉拒了说以后吧。然后你多次邀请我 还偶尔说你手抖 你很孤独。我以为你跟我一样的 我就去了 我从来没恋爱过 我也从来没有过性行为。我没有想到。真的。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 434,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078720449710821697",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我承认我自己不够有警惕心 \n我这两年 由于一些原因 学校也不去所以现实几乎不社交 我几乎就一直呆在家里，逐渐忘记了很多社会上的知识 \n我以为你是那种跟我一样很孤独的人。你说一起oo 我一开始婉拒了说以后吧。然后你多次邀请我 还偶尔说你手抖 你很孤独。我以为你跟我一样的 我就去了 我从来没恋爱过 https://t.co/79F09BfS3m"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个违背了大众良知od喝大酒的神棍。\n☯️算命后付不怕跑单｜代请符箓、祈福请私讯\n传统宗教现代哲学文化传播者，又称中式廉价心理医生。\n狐朋@Nonentity_xxx17 狗友@Jinggebiezhuaw",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 69,
+                "username": "Nonentity_xxx17"
+              },
+              {
+                "end": 103,
+                "start": 88,
+                "username": "Jinggebiezhuaw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/buyaogaowosorry",
+                "end": 23,
+                "expanded_url": "https://t.me/buyaogaowosorry",
+                "start": 0,
+                "url": "https://t.co/AdoFGQJT3r"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2069223594711011526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1707,
+          "following_count": 601,
+          "like_count": 1290,
+          "listed_count": 1,
+          "media_count": 210,
+          "tweet_count": 2913
+        },
+        "url": "https://t.co/AdoFGQJT3r",
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2020-03-30T08:34:48.000Z",
+        "description": "糖在风中干裂\nbpd/日常号@flyfrog_222/我的画@woyaosleep444",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 14,
+                "username": "flyfrog_222"
+              },
+              {
+                "end": 44,
+                "start": 30,
+                "username": "woyaosleep444"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/fiiiish",
+                "end": 23,
+                "expanded_url": "https://ngl.link/fiiiish",
+                "start": 0,
+                "url": "https://t.co/V2GB3spiAO"
+              }
+            ]
+          }
+        },
+        "id": "1244543552652054528",
+        "location": "Silent Hill",
+        "name": "冰冷電子魚",
+        "pinned_tweet_id": "2069292400196125097",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066084271341842432/5hKNs9Kr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5206,
+          "following_count": 568,
+          "like_count": 13580,
+          "listed_count": 8,
+          "media_count": 1097,
+          "tweet_count": 14713
+        },
+        "url": "https://t.co/V2GB3spiAO",
+        "username": "Greenfish_111",
+        "verified": true
+      }
+    ]
+  }
+}

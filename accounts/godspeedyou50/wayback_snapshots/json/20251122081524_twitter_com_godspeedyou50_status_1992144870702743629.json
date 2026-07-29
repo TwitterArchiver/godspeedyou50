@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "1988459043732771233",
+    "created_at": "2025-11-22T08:15:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-22T09:15:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992144870702743629"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1272405078683430913",
+          "start": 0,
+          "username": "PaitangOfficial"
+        },
+        {
+          "end": 27,
+          "id": "1920308340737126400",
+          "start": 17,
+          "username": "fusedjiii"
+        },
+        {
+          "end": 38,
+          "id": "1636798146788335617",
+          "start": 28,
+          "username": "UwUNeko33"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992144870702743629",
+    "in_reply_to_user_id": "1272405078683430913",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992142075215978805",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PaitangOfficial @fusedjiii @UwUNeko33 判官来了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "1988459043732771233",
+        "created_at": "2025-11-22T08:15:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T09:15:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992144870702743629"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1272405078683430913",
+              "start": 0,
+              "username": "PaitangOfficial"
+            },
+            {
+              "end": 27,
+              "id": "1920308340737126400",
+              "start": 17,
+              "username": "fusedjiii"
+            },
+            {
+              "end": 38,
+              "id": "1636798146788335617",
+              "start": 28,
+              "username": "UwUNeko33"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992144870702743629",
+        "in_reply_to_user_id": "1272405078683430913",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992142075215978805",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PaitangOfficial @fusedjiii @UwUNeko33 判官来了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1272405078683430913",
+        "conversation_id": "1988459043732771233",
+        "created_at": "2025-11-22T08:04:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T09:04:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992142075215978805"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1920308340737126400",
+              "start": 0,
+              "username": "fusedjiii"
+            },
+            {
+              "end": 21,
+              "id": "1636798146788335617",
+              "start": 11,
+              "username": "UwUNeko33"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992142075215978805",
+        "in_reply_to_user_id": "1920308340737126400",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988459043732771233",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fusedjiii @UwUNeko33 我宣布你是11月药圈流量王"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "路人。and这段日子我愿意聊天，欢迎找我解惑，定期批量回fo或者私我",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1983757018830663844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990279769297149952/3r34Cj2f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 633,
+          "following_count": 309,
+          "like_count": 279,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 929
+        },
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2020-06-15T05:46:41.000Z",
+        "description": "Biohacker/认知提升剂 （nootropics）X/ADHD 专注商品/推特第二大促智商 “本研究化合物仅供实验室研究使用，严禁用于人体和动物” \n\n客服 @paipaipaitang ⚠️TG客服已死 不要联系⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 82,
+                "username": "paipaipaitang"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/paitangcuzhi",
+                "end": 23,
+                "expanded_url": "https://t.me/paitangcuzhi",
+                "start": 0,
+                "url": "https://t.co/r6ojtqNEYk"
+              }
+            ]
+          }
+        },
+        "id": "1272405078683430913",
+        "location": "下ネタ〇 |病み垢|不登校|",
+        "name": "☯️🧬無極 利他林和专注达",
+        "pinned_tweet_id": "1903330051837530420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985270408904376320/SHUUETVl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10021,
+          "following_count": 542,
+          "like_count": 8189,
+          "listed_count": 27,
+          "media_count": 1656,
+          "tweet_count": 13883
+        },
+        "url": "https://t.co/r6ojtqNEYk",
+        "username": "PaitangOfficial",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-08T02:42:51.000Z",
+        "description": "一般路过门槛妹，私信只想回口令。互联网是我的墓地🪦，别对我的坟墓占有欲太强",
+        "id": "1920308340737126400",
+        "location": "家",
+        "name": "裴裴小猫好吗",
+        "pinned_tweet_id": "1990055488101515559",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990008336121839616/ZIOsGLv5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3493,
+          "following_count": 152,
+          "like_count": 543,
+          "listed_count": 9,
+          "media_count": 98,
+          "tweet_count": 1514
+        },
+        "username": "fusedjiii",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-17T18:34:47.000Z",
+        "description": "一个人也没关系",
+        "id": "1636798146788335617",
+        "name": ":3",
+        "pinned_tweet_id": "1651666944259682304",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878049598369046528/A9HgxUnU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 427,
+          "following_count": 147,
+          "like_count": 3833,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 501
+        },
+        "username": "UwUNeko33",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2034604607499043327",
+    "created_at": "2026-03-19T12:15:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T13:15:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034604607499043327"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1518404201168007168",
+          "start": 3,
+          "username": "godspeedyou50"
+        },
+        {
+          "end": 31,
+          "id": "1919090536180600832",
+          "start": 19,
+          "username": "dokigirlluv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034604607499043327",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034601989871686007",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @godspeedyou50: @dokigirlluv 什么时候绑炸弹自杀袭击吉他张？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2034604607499043327",
+        "created_at": "2026-03-19T12:15:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T13:15:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034604607499043327"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1518404201168007168",
+              "start": 3,
+              "username": "godspeedyou50"
+            },
+            {
+              "end": 31,
+              "id": "1919090536180600832",
+              "start": 19,
+              "username": "dokigirlluv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034604607499043327",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034601989871686007",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @godspeedyou50: @dokigirlluv 什么时候绑炸弹自杀袭击吉他张？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2034593550462243305",
+        "created_at": "2026-03-19T12:04:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T13:04:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034601989871686007"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1919090536180600832",
+              "start": 0,
+              "username": "dokigirlluv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034601989871686007",
+        "in_reply_to_user_id": "1919090536180600832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034593550462243305",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dokigirlluv 什么时候绑炸弹自杀袭击吉他张？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。/双相I型/欢迎提问",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jahseh79919",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jahseh79919",
+                "start": 0,
+                "url": "https://t.co/xaz6T7v19q"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2029134307244294287",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 921,
+          "following_count": 200,
+          "like_count": 668,
+          "listed_count": 1,
+          "media_count": 112,
+          "tweet_count": 1791
+        },
+        "url": "https://t.co/xaz6T7v19q",
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-04T18:03:42.000Z",
+        "description": "https://t.co/k2PgJQA6kY",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/sophiasssophia1",
+                "end": 23,
+                "expanded_url": "https://t.me/sophiasssophia1",
+                "start": 0,
+                "url": "https://t.co/k2PgJQA6kY"
+              }
+            ]
+          }
+        },
+        "id": "1919090536180600832",
+        "name": "Sophia",
+        "pinned_tweet_id": "2026772813017919851",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031710878304002048/Upi5Vm7k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13376,
+          "following_count": 58,
+          "like_count": 766,
+          "listed_count": 5,
+          "media_count": 148,
+          "tweet_count": 390
+        },
+        "username": "dokigirlluv",
+        "verified": false
+      }
+    ]
+  }
+}

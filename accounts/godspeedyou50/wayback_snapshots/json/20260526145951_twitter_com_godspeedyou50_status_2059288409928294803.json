@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2059288409928294803",
+    "created_at": "2026-05-26T14:59:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T15:59:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059288409928294803"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/jiguanglab/sta…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/jiguanglab/status/2059103870027268185",
+          "start": 5,
+          "url": "https://t.co/CkhcskRqnw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059288409928294803",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059103870027268185",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "又欠骂了 https://t.co/CkhcskRqnw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 860,
+        "media_key": "3_2059103867091161089",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJNoDrmaEAE5jgc.jpg",
+        "width": 1160
+      },
+      {
+        "height": 198,
+        "media_key": "3_2059103865317064704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJNoDk_bgAAHcBV.jpg",
+        "width": 190
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2059288409928294803",
+        "created_at": "2026-05-26T14:59:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T15:59:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059288409928294803"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jiguanglab/sta…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/jiguanglab/status/2059103870027268185",
+              "start": 5,
+              "url": "https://t.co/CkhcskRqnw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059288409928294803",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059103870027268185",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "又欠骂了 https://t.co/CkhcskRqnw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059103867091161089",
+            "3_2059103865317064704"
+          ]
+        },
+        "author_id": "1847712034361659392",
+        "conversation_id": "2059103870027268185",
+        "created_at": "2026-05-26T02:46:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T03:46:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059103870027268185"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EWoJGnUMqE",
+              "end": 140,
+              "expanded_url": "https://x.com/JiguangLab/status/2059103870027268185/photo/1",
+              "media_key": "3_2059103867091161089",
+              "start": 117,
+              "url": "https://t.co/EWoJGnUMqE"
+            },
+            {
+              "display_url": "pic.x.com/EWoJGnUMqE",
+              "end": 140,
+              "expanded_url": "https://x.com/JiguangLab/status/2059103870027268185/photo/1",
+              "media_key": "3_2059103865317064704",
+              "start": 117,
+              "url": "https://t.co/EWoJGnUMqE"
+            },
+            {
+              "display_url": "x.com/Lomyral114514/…",
+              "end": 164,
+              "expanded_url": "https://twitter.com/Lomyral114514/status/2058811878361772234",
+              "start": 141,
+              "url": "https://t.co/YuBdLfDRbY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059103870027268185",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 785,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058811878361772234",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "雪尘权不权威我不知道，但绝对跟鸡尘比不了，墙内的晶哥都给鸡尘打广告\n\n要么某些人他妈pcp衍磕多了颅内产生不存在的记忆了，把结晶化当成鸡哥的了，把被晶一事当成恶意摸黑了\n\n新来的别装逼充权威\n不是不给你们机会，但玩权威纯鸡吧臭S Б https://t.co/EWoJGnUMqE https://t.co/YuBdLfDRbY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2048720319872192919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1276,
+          "following_count": 294,
+          "like_count": 1081,
+          "listed_count": 0,
+          "media_count": 168,
+          "tweet_count": 2450
+        },
+        "username": "godspeedyou50",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-19T18:51:20.000Z",
+        "description": "官网：https://t.co/eW2O3fXtGc TG交流群：https://t.co/97NEazf5eZ DC交流群：https://t.co/a6mR5WgaIN 提问箱：https://t.co/fI760pi6Zw",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "jile.bid",
+                "end": 26,
+                "expanded_url": "http://jile.bid",
+                "start": 3,
+                "url": "https://t.co/eW2O3fXtGc"
+              },
+              {
+                "display_url": "t.me/yuanliaogeming",
+                "end": 56,
+                "expanded_url": "https://t.me/yuanliaogeming",
+                "start": 33,
+                "url": "https://t.co/97NEazf5eZ"
+              },
+              {
+                "display_url": "discord.gg/XmNt8AXCEb",
+                "end": 86,
+                "expanded_url": "http://discord.gg/XmNt8AXCEb",
+                "start": 63,
+                "url": "https://t.co/a6mR5WgaIN"
+              },
+              {
+                "display_url": "ngl.link/yumeng_0721",
+                "end": 114,
+                "expanded_url": "https://ngl.link/yumeng_0721",
+                "start": 91,
+                "url": "https://t.co/fI760pi6Zw"
+              }
+            ]
+          }
+        },
+        "id": "1847712034361659392",
+        "name": "极光实验室⚛️",
+        "pinned_tweet_id": "2058033792745648331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046789084790890496/tu0DxovY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2088,
+          "following_count": 900,
+          "like_count": 24883,
+          "listed_count": 2,
+          "media_count": 419,
+          "tweet_count": 3186
+        },
+        "username": "JiguangLab",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "1982500435803161014",
+    "created_at": "2025-10-30T08:23:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-30T09:23:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983811968336294239"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1771286399183982592",
+          "start": 0,
+          "username": "rice_balls77"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983811968336294239",
+    "in_reply_to_user_id": "1771286399183982592",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983809692452499587",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rice_balls77 没听说过 策划药 谁卖的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "1982500435803161014",
+        "created_at": "2025-10-30T08:23:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T09:23:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983811968336294239"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1771286399183982592",
+              "start": 0,
+              "username": "rice_balls77"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983811968336294239",
+        "in_reply_to_user_id": "1771286399183982592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983809692452499587",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rice_balls77 没听说过 策划药 谁卖的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1771286399183982592",
+        "conversation_id": "1982500435803161014",
+        "created_at": "2025-10-30T08:14:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T09:14:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983809692452499587"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1518404201168007168",
+              "start": 0,
+              "username": "godspeedyou50"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983809692452499587",
+        "in_reply_to_user_id": "1518404201168007168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983746673487835162",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@godspeedyou50 tcpy，一颗200，三剂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "路人。and这段日子我愿意聊天，欢迎找我解惑，定期批量回fo或者私我",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1983757018830663844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827690417619697665/4z5RgWOE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 399,
+          "following_count": 242,
+          "like_count": 97,
+          "listed_count": 1,
+          "media_count": 52,
+          "tweet_count": 585
+        },
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-22T21:22:51.000Z",
+        "description": "一个宁愿飞行、向往生命一般人  ||性别男男男男 🚪166 可线下  ||坐标重庆  ||接爸爸妈妈活  ||Telegram小团体https://t.co/4Keg7bSGN2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Evil_Candy_D",
+                "end": 89,
+                "expanded_url": "https://t.me/Evil_Candy_D",
+                "start": 66,
+                "url": "https://t.co/4Keg7bSGN2"
+              }
+            ]
+          }
+        },
+        "id": "1771286399183982592",
+        "location": "重庆",
+        "name": "×𝄪˙★愛♡Kush☠︎×˙‧",
+        "pinned_tweet_id": "1981726891942830131",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981749191010398208/N3lIhF6V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 874,
+          "following_count": 136,
+          "like_count": 635,
+          "listed_count": 6,
+          "media_count": 196,
+          "tweet_count": 761
+        },
+        "username": "rice_balls77",
+        "verified": false
+      }
+    ]
+  }
+}

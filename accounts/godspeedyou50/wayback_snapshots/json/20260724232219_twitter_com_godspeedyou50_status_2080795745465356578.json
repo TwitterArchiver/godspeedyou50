@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2080795645431218402",
+    "created_at": "2026-07-24T23:22:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T00:22:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080795745465356578"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2080795745465356578",
+    "in_reply_to_user_id": "1518404201168007168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080795645431218402",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "上一条没有保护客户隐私故删除"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2080795634790232064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOB4mvXa8AAY1UB.jpg",
+        "width": 621
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2080795634802769920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOB4mvaaQAAn3j_.jpg",
+        "width": 653
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2080795645431218402",
+        "created_at": "2026-07-24T23:22:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T00:22:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080795745465356578"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080795745465356578",
+        "in_reply_to_user_id": "1518404201168007168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080795645431218402",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "上一条没有保护客户隐私故删除"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080795634790232064",
+            "3_2080795634802769920"
+          ]
+        },
+        "author_id": "1518404201168007168",
+        "conversation_id": "2080795645431218402",
+        "created_at": "2026-07-24T23:21:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T00:21:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080795645431218402"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AtJqBFeHJU",
+              "end": 102,
+              "expanded_url": "https://x.com/godspeedyou50/status/2080795645431218402/photo/1",
+              "media_key": "3_2080795634790232064",
+              "start": 79,
+              "url": "https://t.co/AtJqBFeHJU"
+            },
+            {
+              "display_url": "pic.x.com/AtJqBFeHJU",
+              "end": 102,
+              "expanded_url": "https://x.com/godspeedyou50/status/2080795645431218402/photo/1",
+              "media_key": "3_2080795634802769920",
+              "start": 79,
+              "url": "https://t.co/AtJqBFeHJU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080795645431218402",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "“最近的一些命理咨询客反”\n\n但其实人类最重要的是“无知” 只有对未来抱有不确定性才能摆脱宿命论的可能性\n\n命理咨询依然还是后付 我自信没有客户愿意跑我的单 https://t.co/AtJqBFeHJU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个违背了大众良知od喝大酒的神棍。\n☯️算命后付不怕跑单｜代请符箓、祈福请私讯\n传统宗教现代哲学文化传播者，又称中式廉价心理医生。\n狐朋@Nonentity_xxx17 狗友@Jinggebiezhuaw",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 69,
+                "username": "Nonentity_xxx17"
+              },
+              {
+                "end": 103,
+                "start": 88,
+                "username": "Jinggebiezhuaw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/buyaogaowosorry",
+                "end": 23,
+                "expanded_url": "https://t.me/buyaogaowosorry",
+                "start": 0,
+                "url": "https://t.co/AdoFGQJT3r"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2069223594711011526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1741,
+          "following_count": 634,
+          "like_count": 1287,
+          "listed_count": 1,
+          "media_count": 213,
+          "tweet_count": 2924
+        },
+        "url": "https://t.co/AdoFGQJT3r",
+        "username": "godspeedyou50",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "1984436846139752919",
+    "created_at": "2025-11-01T02:11:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-01T03:11:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984443103986721213"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "971329071576596480",
+          "start": 0,
+          "username": "spspsky"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984443103986721213",
+    "in_reply_to_user_id": "971329071576596480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "保姆是最重要的事 但是这些人可能没法互相当保姆\n主要因为药圈的孩子挺孤僻的或者没有经验没法引导，如果是至交好友至少能至少保证安全但是又没体验\n再就是我以前刷到视觉系那群傻逼的视频 别人吃普瑞癫痫犯了在地上抽搐 他们在那里嘎嘎嘎的乐\n妈的正常人很少啊 在这说话只能把话说到最烂 刺耳的让别人尝试听到。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984438470803100023",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@spspsky 保姆是最重要的事 但是这些人可能没法互相当保姆\n主要因为药圈的孩子挺孤僻的或者没有经验没法引导，如果是至交好友至少能至少保证安全但是又没体验\n再就是我以前刷到视觉系那群傻逼的视频 别人吃普瑞癫痫犯了在地上抽搐 他们在那里嘎嘎嘎的乐\n妈的正常人很少啊 在这说话只能把话说到最烂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "1984436846139752919",
+        "created_at": "2025-11-01T02:11:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T03:11:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984443103986721213"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "971329071576596480",
+              "start": 0,
+              "username": "spspsky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984443103986721213",
+        "in_reply_to_user_id": "971329071576596480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "保姆是最重要的事 但是这些人可能没法互相当保姆\n主要因为药圈的孩子挺孤僻的或者没有经验没法引导，如果是至交好友至少能至少保证安全但是又没体验\n再就是我以前刷到视觉系那群傻逼的视频 别人吃普瑞癫痫犯了在地上抽搐 他们在那里嘎嘎嘎的乐\n妈的正常人很少啊 在这说话只能把话说到最烂 刺耳的让别人尝试听到。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984438470803100023",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@spspsky 保姆是最重要的事 但是这些人可能没法互相当保姆\n主要因为药圈的孩子挺孤僻的或者没有经验没法引导，如果是至交好友至少能至少保证安全但是又没体验\n再就是我以前刷到视觉系那群傻逼的视频 别人吃普瑞癫痫犯了在地上抽搐 他们在那里嘎嘎嘎的乐\n妈的正常人很少啊 在这说话只能把话说到最烂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "971329071576596480",
+        "conversation_id": "1984436846139752919",
+        "created_at": "2025-11-01T01:52:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T02:52:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984438470803100023"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1518404201168007168",
+              "start": 0,
+              "username": "godspeedyou50"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984438470803100023",
+        "in_reply_to_user_id": "1518404201168007168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984436846139752919",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@godspeedyou50 建议有一个旅行伴侣陪同下尝试致幻物质。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "路人。and这段日子我愿意聊天，欢迎找我解惑，定期批量回fo或者私我",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1983757018830663844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983944337726787584/JcjyTY_u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 419,
+          "following_count": 258,
+          "like_count": 107,
+          "listed_count": 1,
+          "media_count": 49,
+          "tweet_count": 613
+        },
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2018-03-07T10:17:51.000Z",
+        "description": "策划药直发/日本药代购 TG联系：https://t.co/cn5u2YVJ7J\n我们致力于给广大ODer提供价格低廉且稳定的服务",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+959775374957",
+                "end": 40,
+                "expanded_url": "https://t.me/+959775374957",
+                "start": 17,
+                "url": "https://t.co/cn5u2YVJ7J"
+              }
+            ]
+          }
+        },
+        "id": "971329071576596480",
+        "name": "PsyCheDelicProject",
+        "pinned_tweet_id": "1981458088667599191",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983915356100902912/vYtczVCZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1507,
+          "following_count": 1864,
+          "like_count": 1040,
+          "listed_count": 5,
+          "media_count": 2,
+          "tweet_count": 67
+        },
+        "username": "spspsky",
+        "verified": false
+      }
+    ]
+  }
+}

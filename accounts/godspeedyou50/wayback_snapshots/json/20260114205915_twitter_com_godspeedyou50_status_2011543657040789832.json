@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10046838569",
+          "name": "Reddit"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10046838569",
+          "name": "Reddit"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      }
+    ],
+    "conversation_id": "2011333963244331444",
+    "created_at": "2026-01-14T20:59:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-14T21:59:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2011543657040789832"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1659962043460354050",
+          "start": 0,
+          "username": "SalviaSWC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011543657040789832",
+    "in_reply_to_user_id": "1659962043460354050",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2011537076765016542",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SalviaSWC 其实从最早的一批策划药商或者是wiki作者们开始 大多数资料都来自Erowid这个类似于嗑药版天涯社区 reddit就更像贴吧那种神人特别神傻逼特别傻的地方"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10046838569",
+              "name": "Reddit"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10046838569",
+              "name": "Reddit"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "2011333963244331444",
+        "created_at": "2026-01-14T20:59:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-14T21:59:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011543657040789832"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1659962043460354050",
+              "start": 0,
+              "username": "SalviaSWC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011543657040789832",
+        "in_reply_to_user_id": "1659962043460354050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011537076765016542",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SalviaSWC 其实从最早的一批策划药商或者是wiki作者们开始 大多数资料都来自Erowid这个类似于嗑药版天涯社区 reddit就更像贴吧那种神人特别神傻逼特别傻的地方"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "2011333963244331444",
+        "created_at": "2026-01-14T20:33:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-14T21:33:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011537076765016542"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1518404201168007168",
+              "start": 0,
+              "username": "godspeedyou50"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011537076765016542",
+        "in_reply_to_user_id": "1518404201168007168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011371201722216525",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@godspeedyou50 窝觉得这个网站的有些内容很好，值得挖掘(\n哈人😨"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1994852955737264187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 674,
+          "following_count": 94,
+          "like_count": 397,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 1110
+        },
+        "username": "godspeedyou50",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺丨\nSay Know to Drugs 💊丨\n会发各种东西丨欢迎任何人🌈丨互fo🉑🥰丨如果没回fo的话，请私信哦\n脑婆:@DXM8964LXM\nFreeODwiki: https://t.co/ki2TerCl7C",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 87,
+                "username": "DXM8964LXM"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC/Free…",
+                "end": 134,
+                "expanded_url": "https://github.com/SalviaSWC/FreeODwiki",
+                "start": 111,
+                "url": "https://t.co/ki2TerCl7C"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC",
+                "end": 23,
+                "expanded_url": "https://github.com/SalviaSWC",
+                "start": 0,
+                "url": "https://t.co/NJRjXJi1ON"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567905659092992/cvZN-2cJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2186,
+          "following_count": 739,
+          "like_count": 17636,
+          "listed_count": 7,
+          "media_count": 216,
+          "tweet_count": 4789
+        },
+        "url": "https://t.co/NJRjXJi1ON",
+        "username": "SalviaSWC",
+        "verified": false
+      }
+    ]
+  }
+}

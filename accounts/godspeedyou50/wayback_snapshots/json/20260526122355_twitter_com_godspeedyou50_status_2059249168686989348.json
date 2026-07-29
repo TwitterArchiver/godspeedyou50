@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2059224850770845933",
+    "created_at": "2026-05-26T12:23:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T13:23:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059249168686989348"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2047900485324324865",
+          "start": 0,
+          "username": "naiiiiiii_77"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059249168686989348",
+    "in_reply_to_user_id": "2047900485324324865",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059224850770845933",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@naiiiiiii_77 你大爷的你啥样了还打"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2059224850770845933",
+        "created_at": "2026-05-26T12:23:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T13:23:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059249168686989348"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2047900485324324865",
+              "start": 0,
+              "username": "naiiiiiii_77"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059249168686989348",
+        "in_reply_to_user_id": "2047900485324324865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059224850770845933",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@naiiiiiii_77 你大爷的你啥样了还打"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047900485324324865",
+        "conversation_id": "2059224850770845933",
+        "created_at": "2026-05-26T10:47:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T11:47:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059224850770845933"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059224850770845933",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天是打完减肥针第二天 刚吃了点pr全给吐出去了。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2048720319872192919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1277,
+          "following_count": 294,
+          "like_count": 1080,
+          "listed_count": 0,
+          "media_count": 168,
+          "tweet_count": 2448
+        },
+        "username": "godspeedyou50",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-25T04:50:10.000Z",
+        "description": "msk你别得瑟\n大号被封7天@Nana_naiiiiiii",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 14,
+                "username": "Nana_naiiiiiii"
+              }
+            ]
+          }
+        },
+        "id": "2047900485324324865",
+        "name": "Naiiiiiii",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047901274579030016/GuOfRlAe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 45,
+          "like_count": 146,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 24
+        },
+        "username": "naiiiiiii_77",
+        "verified": false
+      }
+    ]
+  }
+}

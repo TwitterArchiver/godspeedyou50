@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "1998983402935263698",
+    "created_at": "2025-12-11T05:46:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-11T06:46:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998992822150832367"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1965531250447568896",
+          "start": 0,
+          "username": "jingyin_8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998992822150832367",
+    "in_reply_to_user_id": "1965531250447568896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998983402935263698",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jingyin_8964 因为我等你发呢大姐 都等着看笑话呢 能不能别这么搞笑  我就喜欢你追着咬我的样子\n早说了骂你的时候就没想瞒着你 是不是谁都要被扣上阴暗男的帽子呢 我骂你可不止这一次 你能看见是因为其余几次骂你的更多😂😂 内鬼看你急也乐麻了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "1998983402935263698",
+        "created_at": "2025-12-11T05:46:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T06:46:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998992822150832367"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1965531250447568896",
+              "start": 0,
+              "username": "jingyin_8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998992822150832367",
+        "in_reply_to_user_id": "1965531250447568896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998983402935263698",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jingyin_8964 因为我等你发呢大姐 都等着看笑话呢 能不能别这么搞笑  我就喜欢你追着咬我的样子\n早说了骂你的时候就没想瞒着你 是不是谁都要被扣上阴暗男的帽子呢 我骂你可不止这一次 你能看见是因为其余几次骂你的更多😂😂 内鬼看你急也乐麻了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965531250447568896",
+        "conversation_id": "1998983402935263698",
+        "created_at": "2025-12-11T05:09:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T06:09:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998983402935263698"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/godspeedyou50/…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/godspeedyou50/status/1998769636264067443",
+              "start": 21,
+              "url": "https://t.co/tv8PXhnSWZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998983402935263698",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 63,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998769636264067443",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "笑点解析：我帖子刚发六分钟小作文就出来了 https://t.co/tv8PXhnSWZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1994852955737264187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 672,
+          "following_count": 209,
+          "like_count": 363,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 996
+        },
+        "username": "godspeedyou50",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-09T21:43:35.000Z",
+        "description": "我看着幸福的日子被我亲手摧毁以后开心地闭上了眼 \n/口粮：@420420420CTL \n/接受药圈新闻投稿\n/接RC代测\n镜音的匿名提问箱：https://t.co/Ko843XLkGn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 29,
+                "username": "420420420CTL"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/jingyin_8964",
+                "end": 93,
+                "expanded_url": "https://ngl.link/jingyin_8964",
+                "start": 70,
+                "url": "https://t.co/Ko843XLkGn"
+              }
+            ]
+          }
+        },
+        "id": "1965531250447568896",
+        "location": "🚪88/288/520/1314可不固定",
+        "name": "镜音（二代目）",
+        "pinned_tweet_id": "1998694737906155891",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996595366100361216/GWBNbt7G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 164,
+          "following_count": 111,
+          "like_count": 491,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 247
+        },
+        "username": "jingyin_8964",
+        "verified": false
+      }
+    ]
+  }
+}

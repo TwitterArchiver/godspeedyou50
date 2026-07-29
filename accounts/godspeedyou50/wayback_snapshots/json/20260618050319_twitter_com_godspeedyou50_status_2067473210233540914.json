@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2067465781483307312",
+    "created_at": "2026-06-18T05:03:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T06:03:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067473210233540914"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1834971146304790528",
+          "start": 0,
+          "username": "KISA134541"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067473210233540914",
+    "in_reply_to_user_id": "1834971146304790528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067465781483307312",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KISA134541 他能上架你就能买"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2067465764731240448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLEdKLwWQAA5RQz.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2067465764743897088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLEdKLzXYAASmnD.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2067465781483307312",
+        "created_at": "2026-06-18T05:03:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T06:03:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067473210233540914"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1834971146304790528",
+              "start": 0,
+              "username": "KISA134541"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067473210233540914",
+        "in_reply_to_user_id": "1834971146304790528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067465781483307312",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KISA134541 他能上架你就能买"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067465764731240448",
+            "3_2067465764743897088"
+          ]
+        },
+        "author_id": "1834971146304790528",
+        "conversation_id": "2067465781483307312",
+        "created_at": "2026-06-18T04:33:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T05:33:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067465781483307312"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rAry2CrxL0",
+              "end": 28,
+              "expanded_url": "https://x.com/KISA134541/status/2067465781483307312/photo/1",
+              "media_key": "3_2067465764731240448",
+              "start": 5,
+              "url": "https://t.co/rAry2CrxL0"
+            },
+            {
+              "display_url": "pic.x.com/rAry2CrxL0",
+              "end": 28,
+              "expanded_url": "https://x.com/KISA134541/status/2067465781483307312/photo/1",
+              "media_key": "3_2067465764743897088",
+              "start": 5,
+              "url": "https://t.co/rAry2CrxL0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067465781483307312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这能买不 https://t.co/rAry2CrxL0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2048720319872192919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1368,
+          "following_count": 356,
+          "like_count": 1172,
+          "listed_count": 1,
+          "media_count": 194,
+          "tweet_count": 2715
+        },
+        "url": "",
+        "username": "godspeedyou50",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-14T15:03:41.000Z",
+        "description": "我會讓所有人都不再流淚\n💟50/75/100/200/520\n都是纯绿请想清楚再发口令^ω^门费不退奥",
+        "id": "1834971146304790528",
+        "location": "腐爛的你聽得到嗎",
+        "name": "我只想感受你的體溫溫溫溫溫溫溫溫",
+        "pinned_tweet_id": "1995473857021379048",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1835578472090980352/yJa3ni5A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1029,
+          "following_count": 147,
+          "like_count": 3562,
+          "listed_count": 3,
+          "media_count": 151,
+          "tweet_count": 1422
+        },
+        "url": "",
+        "username": "KISA134541",
+        "verified": false
+      }
+    ]
+  }
+}

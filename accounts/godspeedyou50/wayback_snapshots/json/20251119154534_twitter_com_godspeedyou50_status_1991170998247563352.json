@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "1991169156872589481",
+    "created_at": "2025-11-19T15:45:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-19T16:45:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991170998247563352"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1991170998247563352",
+    "in_reply_to_user_id": "1518404201168007168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "全网哭坟五六天 你这不是钟离假死 属于是三岁智商水平的智斗 我玩推就是贱玩 瞎玩 真身躲在角落里猛吸呢 那我都要站起来一下了\n要不要我把我保存的一大堆哭坟记录甩出来？\n怎么你们群语音 那一个群的人都知情 同时保持沉默🤐？ 玩啥呢老铁 你没钱了你发货员跑路就完了呗 你怎么又想吃饭又不想刷碗呢\n别问我为啥 我朋友被骗了 你欠的账单十万八千里你特么也是欠了 不还你就滚"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991169156872589481",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "全网哭坟五六天 你这不是钟离假死 属于是三岁智商水平的智斗 我玩推就是贱玩 瞎玩 真身躲在角落里猛吸呢 那我都要站起来一下了\n要不要我把我保存的一大堆哭坟记录甩出来？\n怎么你们群语音 那一个群的人都知情 同时保持沉默🤐？ 玩啥呢老铁 你没钱了你发货员跑路就完了呗 你怎么又想吃饭又不想刷碗呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "1991169156872589481",
+        "created_at": "2025-11-19T15:45:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T16:45:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991170998247563352"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1991170998247563352",
+        "in_reply_to_user_id": "1518404201168007168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "全网哭坟五六天 你这不是钟离假死 属于是三岁智商水平的智斗 我玩推就是贱玩 瞎玩 真身躲在角落里猛吸呢 那我都要站起来一下了\n要不要我把我保存的一大堆哭坟记录甩出来？\n怎么你们群语音 那一个群的人都知情 同时保持沉默🤐？ 玩啥呢老铁 你没钱了你发货员跑路就完了呗 你怎么又想吃饭又不想刷碗呢\n别问我为啥 我朋友被骗了 你欠的账单十万八千里你特么也是欠了 不还你就滚"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991169156872589481",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "全网哭坟五六天 你这不是钟离假死 属于是三岁智商水平的智斗 我玩推就是贱玩 瞎玩 真身躲在角落里猛吸呢 那我都要站起来一下了\n要不要我把我保存的一大堆哭坟记录甩出来？\n怎么你们群语音 那一个群的人都知情 同时保持沉默🤐？ 玩啥呢老铁 你没钱了你发货员跑路就完了呗 你怎么又想吃饭又不想刷碗呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "1991169156872589481",
+        "created_at": "2025-11-19T15:38:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T16:38:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991169156872589481"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cy_mystica/sta…",
+              "end": 132,
+              "expanded_url": "https://twitter.com/cy_mystica/status/1991060497672896808",
+              "start": 109,
+              "url": "https://t.co/Kph834Q8Yv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991169156872589481",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我本来不想参与的哈 但是你们这马后炮太漂亮了 坐等假账单哈 各路说法都有 那么多不同的\n“我睡着了没救到他我好后悔”\n什么群语音 那咋早不说在这玩神秘炒作呢，是有挺多小孩傻逼哈，但我们这些老东西不爱听，抓紧熄火行不。\n我劝过N次别吃阿普了，别磕pce了，那挺厉害的，解离剂是可以让人灵光一现哈，非常漂亮的一出节目，但是要是认真我可坐不住了😅，毕竟我给我朋友们赚良心钱也不想让你们把低龄oder们当傻逼耍。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991060497672896808",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我本来不想参与的哈 但是你们这马后炮太漂亮了 坐等假账单哈 各路说法都有 那么多不同的\n“我睡着了没救到他我好后悔”\n什么群语音 那咋早不说在这玩神秘炒作呢，是有挺多小孩傻逼哈，但我们这些老东西不爱听，抓紧熄火行不。 https://t.co/Kph834Q8Yv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "路人。and这段日子我愿意聊天，欢迎找我解惑，定期批量回fo或者私我",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1983757018830663844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990279769297149952/3r34Cj2f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 578,
+          "following_count": 293,
+          "like_count": 226,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 821
+        },
+        "username": "godspeedyou50",
+        "verified": true
+      }
+    ]
+  }
+}

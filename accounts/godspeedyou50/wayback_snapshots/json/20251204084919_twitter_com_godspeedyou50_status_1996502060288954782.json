@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "1996455613598155202",
+    "created_at": "2025-12-04T08:49:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-04T09:49:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996502060288954782"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1659962043460354050",
+          "start": 0,
+          "username": "SalviaSWC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996502060288954782",
+    "in_reply_to_user_id": "1659962043460354050",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996455613598155202",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SalviaSWC 我六十万浏览不也才三百多赞 这不正常吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1790,
+        "media_key": "3_1996453719689355264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7TUFJSXYAABky6.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "1996455613598155202",
+        "created_at": "2025-12-04T08:49:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T09:49:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996502060288954782"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1659962043460354050",
+              "start": 0,
+              "username": "SalviaSWC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996502060288954782",
+        "in_reply_to_user_id": "1659962043460354050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996455613598155202",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SalviaSWC 我六十万浏览不也才三百多赞 这不正常吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996453719689355264"
+          ]
+        },
+        "author_id": "1659962043460354050",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1996455613598155202",
+        "created_at": "2025-12-04T05:44:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T06:44:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996455613598155202"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lny1Cw4I6D",
+              "end": 170,
+              "expanded_url": "https://x.com/SalviaSWC/status/1996455613598155202/photo/1",
+              "media_key": "3_1996453719689355264",
+              "start": 147,
+              "url": "https://t.co/lny1Cw4I6D"
+            },
+            {
+              "display_url": "x.com/SalviaSWC/stat…",
+              "end": 194,
+              "expanded_url": "https://twitter.com/SalviaSWC/status/1995400976686293454",
+              "start": 171,
+              "url": "https://t.co/TuWw7xBpoJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996455613598155202",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 319,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995400976686293454",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个贴子的流量和互动数据，是我入推以来看到过的最惊悚的，没有之一。\n截至目前，这个贴子约有超过32000的展示量、4800的点击量，点赞量却只有91个。这么惊悚的数据也许和贴子自身的内容有关。\n不过，可以从中推测出，你的贴子是否能被流量推送与点赞率关系不大，而点击率对于流量推送有很大的影响。 https://t.co/lny1Cw4I6D https://t.co/TuWw7xBpoJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1994852955737264187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 686,
+          "following_count": 323,
+          "like_count": 359,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 977
+        },
+        "username": "godspeedyou50",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺丨\nSay Know to Drugs 💊丨\n会发各种东西丨欢迎任何人🌈丨互fo🉑🥰丨如果没回fo的话，请私信哦\n脑婆:@DXM8964LXM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 87,
+                "username": "DXM8964LXM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC",
+                "end": 23,
+                "expanded_url": "https://github.com/SalviaSWC",
+                "start": 0,
+                "url": "https://t.co/NJRjXJi1ON"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "pinned_tweet_id": "1991745849333047520",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984830293103046656/fgZKegRL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1920,
+          "following_count": 715,
+          "like_count": 14645,
+          "listed_count": 7,
+          "media_count": 184,
+          "tweet_count": 4015
+        },
+        "url": "https://t.co/NJRjXJi1ON",
+        "username": "SalviaSWC",
+        "verified": false
+      }
+    ]
+  }
+}

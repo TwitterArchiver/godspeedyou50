@@ -1,0 +1,361 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2075121770877898980",
+    "created_at": "2026-07-14T04:24:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T05:24:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076885572694749294"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1459078647571116033",
+          "start": 0,
+          "username": "lucierer419"
+        },
+        {
+          "end": 24,
+          "id": "1936431627229622272",
+          "start": 13,
+          "username": "mengyoutu2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076885572694749294",
+    "in_reply_to_user_id": "1459078647571116033",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075121770877898980",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lucierer419 @mengyoutu2 提前预约"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1254,
+        "media_key": "3_2075121760832520192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMxQPzwbAAA9vNN.jpg",
+        "width": 1254
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2075121770877898980",
+        "created_at": "2026-07-14T04:24:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T05:24:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076885572694749294"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1459078647571116033",
+              "start": 0,
+              "username": "lucierer419"
+            },
+            {
+              "end": 24,
+              "id": "1936431627229622272",
+              "start": 13,
+              "username": "mengyoutu2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076885572694749294",
+        "in_reply_to_user_id": "1459078647571116033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075121770877898980",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lucierer419 @mengyoutu2 提前预约"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075121760832520192"
+          ]
+        },
+        "author_id": "1459078647571116033",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2075121770877898980",
+        "created_at": "2026-07-09T07:35:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T08:35:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075121770877898980"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 92,
+              "id": "1936431627229622272",
+              "start": 81,
+              "username": "mengyoutu2"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Fast. Secure. Powerful.",
+              "display_url": "t.me/@mengyoutu233",
+              "end": 77,
+              "expanded_url": "http://t.me/@mengyoutu233",
+              "images": [
+                {
+                  "height": 256,
+                  "url": "https://pbs.twimg.com/news_img/2076628069545291776/1ffRka0C?format=png&name=orig",
+                  "width": 256
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2076628069545291776/1ffRka0C?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 54,
+              "status": 200,
+              "title": "Telegram – a new era of messaging",
+              "unwound_url": "https://telegram.org/",
+              "url": "https://t.co/Ci7UvxR5ZH"
+            },
+            {
+              "display_url": "pic.x.com/Y1mOdDWB4R",
+              "end": 188,
+              "expanded_url": "https://x.com/lucierer419/status/2075121770877898980/photo/1",
+              "media_key": "3_2075121760832520192",
+              "start": 165,
+              "url": "https://t.co/Y1mOdDWB4R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075121770877898980",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2746,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "最近公司、工作室事情多，还得出差，消息回复不及时，200多条消息来不及处理，各位老爷多海涵，可以先联系兔子：https://t.co/Ci7UvxR5ZH\n推特：@mengyoutu2\n\n还有三个事情：\n1、莓粉的2版小样打出来了，3天后测试；\n2、两款新产品小样也马上出来，全新结构，兴奋剂系列；\n3、4000粉抽奖月底进行。 https://t.co/Y1mOdDWB4R"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个违背了大众良知od喝大酒的神棍。\n☯️算命后付不怕跑单｜代请符箓、祈福请私讯\n传统宗教现代哲学文化传播者，又称中式廉价心理医生。\n狐朋@Nonentity_xxx17 狗友@Jinggebiezhuaw",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 69,
+                "username": "Nonentity_xxx17"
+              },
+              {
+                "end": 103,
+                "start": 88,
+                "username": "Jinggebiezhuaw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/buyaogaowosorry",
+                "end": 23,
+                "expanded_url": "https://t.me/buyaogaowosorry",
+                "start": 0,
+                "url": "https://t.co/AdoFGQJT3r"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2069223594711011526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1670,
+          "following_count": 599,
+          "like_count": 1272,
+          "listed_count": 1,
+          "media_count": 207,
+          "tweet_count": 2871
+        },
+        "url": "https://t.co/AdoFGQJT3r",
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2021-11-12T08:41:26.000Z",
+        "description": "扎根泥土 向阳而生 测评博主 纸飞机：https://t.co/Xeakl2PEGA 联系兔子：https://t.co/HLDfzjKaFV 推特： @mengyoutu2\nC&R产品介绍、测评、反馈频道：https://t.co/54X1uK90la",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 76,
+                "username": "mengyoutu2"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/baimaoshu2333",
+                "end": 42,
+                "expanded_url": "https://t.me/baimaoshu2333",
+                "start": 19,
+                "url": "https://t.co/Xeakl2PEGA"
+              },
+              {
+                "display_url": "t.me/@mengyoutu233",
+                "end": 71,
+                "expanded_url": "http://t.me/@mengyoutu233",
+                "start": 48,
+                "url": "https://t.co/HLDfzjKaFV"
+              },
+              {
+                "display_url": "t.me/CRlab_introduce",
+                "end": 127,
+                "expanded_url": "https://t.me/CRlab_introduce",
+                "start": 104,
+                "url": "https://t.co/54X1uK90la"
+              }
+            ]
+          }
+        },
+        "id": "1459078647571116033",
+        "name": "白猫书",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1751076583161618432/lx1RHZ2w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4196,
+          "following_count": 9,
+          "like_count": 206,
+          "listed_count": 10,
+          "media_count": 69,
+          "tweet_count": 773
+        },
+        "url": "",
+        "username": "lucierer419",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-21T14:31:14.000Z",
+        "description": "一名贩卖快乐的小女孩 测评🥰好物推荐🥰安全过检✈️@mengyoutu233\n测评频道https://t.co/ZjKx1amtt0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 25,
+                "username": "mengyoutu233"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/CRlab123",
+                "end": 66,
+                "expanded_url": "https://t.me/CRlab123",
+                "start": 43,
+                "url": "https://t.co/ZjKx1amtt0"
+              }
+            ]
+          }
+        },
+        "id": "1936431627229622272",
+        "name": "梦游兔🐰",
+        "pinned_tweet_id": "2058918336780796316",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936431905836003328/HzL-h2hy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1728,
+          "following_count": 29,
+          "like_count": 71,
+          "listed_count": 6,
+          "media_count": 23,
+          "tweet_count": 141
+        },
+        "url": "",
+        "username": "mengyoutu2",
+        "verified": false
+      }
+    ]
+  }
+}

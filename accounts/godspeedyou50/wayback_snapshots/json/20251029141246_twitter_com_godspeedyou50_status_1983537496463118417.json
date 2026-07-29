@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "1983523751259181466",
+    "created_at": "2025-10-29T14:12:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-29T15:12:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983537496463118417"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1911828872334831616",
+          "start": 0,
+          "username": "Edward_8964"
+        },
+        {
+          "end": 26,
+          "id": "1700948552078467072",
+          "start": 13,
+          "username": "Overdose_DBD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983537496463118417",
+    "in_reply_to_user_id": "1911828872334831616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983536228952850719",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Edward_8964 @Overdose_DBD 不小 因为我们都有小群儿 恰好一起处了三年 看大家慢慢走向别的方向然后分道扬镳 我只是不信奉那一套所以有分歧\no圈受众忒多了 就是爱逼逼逼的就这几个人都互相浅熟深熟浅仇大仇\n我上周18万浏览量 多吓人\n主要也是因为以前特么戒药吧大神qq群大神微博厕妹都集合在一起了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "1983523751259181466",
+        "created_at": "2025-10-29T14:12:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T15:12:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983537496463118417"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1911828872334831616",
+              "start": 0,
+              "username": "Edward_8964"
+            },
+            {
+              "end": 26,
+              "id": "1700948552078467072",
+              "start": 13,
+              "username": "Overdose_DBD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983537496463118417",
+        "in_reply_to_user_id": "1911828872334831616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983536228952850719",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Edward_8964 @Overdose_DBD 不小 因为我们都有小群儿 恰好一起处了三年 看大家慢慢走向别的方向然后分道扬镳 我只是不信奉那一套所以有分歧\no圈受众忒多了 就是爱逼逼逼的就这几个人都互相浅熟深熟浅仇大仇\n我上周18万浏览量 多吓人\n主要也是因为以前特么戒药吧大神qq群大神微博厕妹都集合在一起了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1911828872334831616",
+        "conversation_id": "1983523751259181466",
+        "created_at": "2025-10-29T14:07:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T15:07:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983536228952850719"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1518404201168007168",
+              "start": 0,
+              "username": "godspeedyou50"
+            },
+            {
+              "end": 28,
+              "id": "1700948552078467072",
+              "start": 15,
+              "username": "Overdose_DBD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983536228952850719",
+        "in_reply_to_user_id": "1518404201168007168",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983532068576665990",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@godspeedyou50 @Overdose_DBD o圈真小（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "路人。and这段日子我愿意聊天，欢迎找我解惑，定期批量回fo或者私我",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1982515322788942238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827690417619697665/4z5RgWOE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 391,
+          "following_count": 233,
+          "like_count": 84,
+          "listed_count": 1,
+          "media_count": 48,
+          "tweet_count": 549
+        },
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-14T17:08:26.000Z",
+        "description": "南湖之虎｜第4次转生 生理男｜退役OIer｜OD｜重精神病｜ADHD｜右美沙芬 ｜freeODwiki参与者｜NEwiki维护员｜自由、梦想、进取｜没有任何盈利",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "nonexistent.wiki",
+                "end": 23,
+                "expanded_url": "http://nonexistent.wiki",
+                "start": 0,
+                "url": "https://t.co/l3ALBiDDXN"
+              }
+            ]
+          }
+        },
+        "id": "1911828872334831616",
+        "location": "NE",
+        "name": "💊爱德华",
+        "pinned_tweet_id": "1980565827196973398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968709578079764480/7M5DfbwN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 651,
+          "following_count": 528,
+          "like_count": 4890,
+          "listed_count": 2,
+          "media_count": 189,
+          "tweet_count": 3070
+        },
+        "url": "https://t.co/l3ALBiDDXN",
+        "username": "Edward_8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-10T19:05:21.000Z",
+        "description": "谁的附庸？\n高原整活观景台 https://t.co/WnyZ64KQD6",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/HWA_FK1",
+                "end": 37,
+                "expanded_url": "https://t.me/HWA_FK1",
+                "start": 14,
+                "url": "https://t.co/WnyZ64KQD6"
+              }
+            ]
+          }
+        },
+        "id": "1700948552078467072",
+        "name": "超级后后后藤",
+        "pinned_tweet_id": "1777999878117097536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969951860279975936/NhjtbqPh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3951,
+          "following_count": 58,
+          "like_count": 23,
+          "listed_count": 10,
+          "media_count": 477,
+          "tweet_count": 5992
+        },
+        "username": "Overdose_DBD",
+        "verified": false
+      }
+    ]
+  }
+}

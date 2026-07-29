@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2022348074614690035",
+    "created_at": "2026-02-13T16:32:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T17:32:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2022348074614690035"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lei_le91111/st…",
+          "end": 45,
+          "expanded_url": "https://twitter.com/lei_le91111/status/2021666946035618184",
+          "start": 22,
+          "url": "https://t.co/I5GKnhXQXs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022348074614690035",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021666946035618184",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这大鸡巴怎么这么特么大草泥马嫉妒（纯路人） https://t.co/I5GKnhXQXs"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9729,
+        "height": 1080,
+        "media_key": "13_2021666861377892354",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2021666861377892354/img/-pqXgK1dfW0Jz4Pf.jpg",
+        "public_metrics": {
+          "view_count": 2119
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2021666861377892354/vid/avc1/480x270/ewh50rtqjiHeMM1A.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2021666861377892354/vid/avc1/640x360/iqaciapOfmv4JaS9.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2021666861377892354/vid/avc1/1280x720/hQohKMQ5JAYXs2tK.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2021666861377892354/pl/RPAt_AE45SUfpq0B.m3u8?tag=14"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2022348074614690035",
+        "created_at": "2026-02-13T16:32:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T17:32:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022348074614690035"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lei_le91111/st…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/lei_le91111/status/2021666946035618184",
+              "start": 22,
+              "url": "https://t.co/I5GKnhXQXs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022348074614690035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021666946035618184",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这大鸡巴怎么这么特么大草泥马嫉妒（纯路人） https://t.co/I5GKnhXQXs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2021666861377892354"
+          ]
+        },
+        "author_id": "1685053257100689408",
+        "conversation_id": "2021666946035618184",
+        "created_at": "2026-02-11T19:25:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T20:25:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021666946035618184"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 14,
+              "tag": "直男形态"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1LwHzETnJe",
+              "end": 43,
+              "expanded_url": "https://x.com/lei_le91111/status/2021666946035618184/video/1",
+              "media_key": "13_2021666861377892354",
+              "start": 20,
+              "url": "https://t.co/1LwHzETnJe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021666946035618184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 4647,
+          "like_count": 111,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "随橙想 白天已经射过三次了 #直男形态 https://t.co/1LwHzETnJe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。/@Jahseh14138/双相I型",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "Jahseh14138"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1994852955737264187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 726,
+          "following_count": 114,
+          "like_count": 426,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 1276
+        },
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-28T22:23:20.000Z",
+        "description": "🚪88小号188大号(互关除外) 男的一万。",
+        "id": "1685053257100689408",
+        "name": "藤宫周",
+        "pinned_tweet_id": "2017586349289943261",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999334474354688008/FQSipxx1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4836,
+          "following_count": 759,
+          "like_count": 12016,
+          "listed_count": 19,
+          "media_count": 198,
+          "tweet_count": 1611
+        },
+        "username": "lei_le91111",
+        "verified": false
+      }
+    ]
+  }
+}

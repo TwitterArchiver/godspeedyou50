@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073968891194441728",
+        "3_2073968891156672512",
+        "3_2073968891206979584",
+        "3_2073968891202838528"
+      ]
+    },
+    "author_id": "1518404201168007168",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2073968897741803542",
+    "created_at": "2026-07-06T03:14:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T04:14:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073968897741803542"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/uFExRWYSbR",
+          "end": 43,
+          "expanded_url": "https://x.com/godspeedyou50/status/2073968897741803542/photo/1",
+          "media_key": "3_2073968891194441728",
+          "start": 20,
+          "url": "https://t.co/uFExRWYSbR"
+        },
+        {
+          "display_url": "pic.x.com/uFExRWYSbR",
+          "end": 43,
+          "expanded_url": "https://x.com/godspeedyou50/status/2073968897741803542/photo/1",
+          "media_key": "3_2073968891156672512",
+          "start": 20,
+          "url": "https://t.co/uFExRWYSbR"
+        },
+        {
+          "display_url": "pic.x.com/uFExRWYSbR",
+          "end": 43,
+          "expanded_url": "https://x.com/godspeedyou50/status/2073968897741803542/photo/1",
+          "media_key": "3_2073968891206979584",
+          "start": 20,
+          "url": "https://t.co/uFExRWYSbR"
+        },
+        {
+          "display_url": "pic.x.com/uFExRWYSbR",
+          "end": 43,
+          "expanded_url": "https://x.com/godspeedyou50/status/2073968897741803542/photo/1",
+          "media_key": "3_2073968891202838528",
+          "start": 20,
+          "url": "https://t.co/uFExRWYSbR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073968897741803542",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "飞叶子得嚼点胡椒粒\n炖豆角得放土豆排骨 https://t.co/uFExRWYSbR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2073968891194441728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMg3t9rbAAAJd8G.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2073968891156672512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMg3t9iasAAbCao.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2073968891206979584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMg3t9uaUAAaJPa.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2073968891202838528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMg3t9tbIAAHfuU.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073968891194441728",
+            "3_2073968891156672512",
+            "3_2073968891206979584",
+            "3_2073968891202838528"
+          ]
+        },
+        "author_id": "1518404201168007168",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2073968897741803542",
+        "created_at": "2026-07-06T03:14:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T04:14:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073968897741803542"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uFExRWYSbR",
+              "end": 43,
+              "expanded_url": "https://x.com/godspeedyou50/status/2073968897741803542/photo/1",
+              "media_key": "3_2073968891194441728",
+              "start": 20,
+              "url": "https://t.co/uFExRWYSbR"
+            },
+            {
+              "display_url": "pic.x.com/uFExRWYSbR",
+              "end": 43,
+              "expanded_url": "https://x.com/godspeedyou50/status/2073968897741803542/photo/1",
+              "media_key": "3_2073968891156672512",
+              "start": 20,
+              "url": "https://t.co/uFExRWYSbR"
+            },
+            {
+              "display_url": "pic.x.com/uFExRWYSbR",
+              "end": 43,
+              "expanded_url": "https://x.com/godspeedyou50/status/2073968897741803542/photo/1",
+              "media_key": "3_2073968891206979584",
+              "start": 20,
+              "url": "https://t.co/uFExRWYSbR"
+            },
+            {
+              "display_url": "pic.x.com/uFExRWYSbR",
+              "end": 43,
+              "expanded_url": "https://x.com/godspeedyou50/status/2073968897741803542/photo/1",
+              "media_key": "3_2073968891202838528",
+              "start": 20,
+              "url": "https://t.co/uFExRWYSbR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073968897741803542",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "飞叶子得嚼点胡椒粒\n炖豆角得放土豆排骨 https://t.co/uFExRWYSbR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个违背了大众道德良知的神棍。\n☯️算命后付不怕跑单｜代请符箓、祈福请私讯\n传统宗教现代哲学文化传播者，又称中式廉价心理医生。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/buyaogaowosorry",
+                "end": 23,
+                "expanded_url": "https://t.me/buyaogaowosorry",
+                "start": 0,
+                "url": "https://t.co/AdoFGQJT3r"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2069223594711011526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1596,
+          "following_count": 565,
+          "like_count": 1263,
+          "listed_count": 1,
+          "media_count": 199,
+          "tweet_count": 2833
+        },
+        "url": "https://t.co/AdoFGQJT3r",
+        "username": "godspeedyou50",
+        "verified": true
+      }
+    ]
+  }
+}

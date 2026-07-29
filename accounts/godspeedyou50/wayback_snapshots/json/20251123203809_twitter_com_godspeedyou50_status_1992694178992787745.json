@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "1992556978741379289",
+    "created_at": "2025-11-23T20:38:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T21:38:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992694178992787745"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1892114014563598339",
+          "start": 0,
+          "username": "3He2_Ka1R0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992694178992787745",
+    "in_reply_to_user_id": "1892114014563598339",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992556978741379289",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@3He2_Ka1R0 你的微信是多少"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "1992556978741379289",
+        "created_at": "2025-11-23T20:38:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T21:38:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992694178992787745"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1892114014563598339",
+              "start": 0,
+              "username": "3He2_Ka1R0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992694178992787745",
+        "in_reply_to_user_id": "1892114014563598339",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992556978741379289",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3He2_Ka1R0 你的微信是多少"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892114014563598339",
+        "conversation_id": "1992556978741379289",
+        "created_at": "2025-11-23T11:32:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T12:32:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992556978741379289"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/liu_lu43456/st…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/liu_lu43456/status/1992462036996178107",
+              "start": 8,
+              "url": "https://t.co/c3AuycgzVD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992556978741379289",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 250,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992462036996178107",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "谁去把鸡哥打死 https://t.co/c3AuycgzVD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "路人。",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1983757018830663844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990279769297149952/3r34Cj2f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 637,
+          "following_count": 313,
+          "like_count": 318,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 922
+        },
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-19T07:28:41.000Z",
+        "description": "‣  你有尝试变得真实吗?叫我 𝗞𝗮𝗶𝗿𝗼 就好ɪɴᴛᴘ⁃ᴍ𝔱𝖝⁃ᴏᴠᴇʀᴅᴏsᴇ﹠ᴅʀᴜɢ⁃Ⓐ☜",
+        "id": "1892114014563598339",
+        "name": "xX梅妻鹤子Xx",
+        "pinned_tweet_id": "1962443374633644505",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984261889027895296/4bprvd8Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 243,
+          "following_count": 398,
+          "like_count": 64285,
+          "listed_count": 1,
+          "media_count": 143,
+          "tweet_count": 2494
+        },
+        "username": "3He2_Ka1R0",
+        "verified": false
+      }
+    ]
+  }
+}

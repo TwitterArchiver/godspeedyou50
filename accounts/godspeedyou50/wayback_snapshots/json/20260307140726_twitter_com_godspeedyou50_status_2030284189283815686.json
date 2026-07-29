@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2030284189283815686",
+    "created_at": "2026-03-07T14:07:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-07T15:07:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2030284189283815686"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/aliebwa/status…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/aliebwa/status/2030282783567053166",
+          "start": 5,
+          "url": "https://t.co/GP8TQaxFZL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030284189283815686",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030282783567053166",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "感谢信任 https://t.co/GP8TQaxFZL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2030282762897514496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC0Danwa4AAykBA.jpg",
+        "width": 471
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2030282762897473536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC0DanwaQAAIyO0.jpg",
+        "width": 471
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2030284189283815686",
+        "created_at": "2026-03-07T14:07:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T15:07:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030284189283815686"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/aliebwa/status…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/aliebwa/status/2030282783567053166",
+              "start": 5,
+              "url": "https://t.co/GP8TQaxFZL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030284189283815686",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030282783567053166",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "感谢信任 https://t.co/GP8TQaxFZL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030282762897514496",
+            "3_2030282762897473536"
+          ]
+        },
+        "author_id": "1724267127031672832",
+        "conversation_id": "2030282783567053166",
+        "created_at": "2026-03-07T14:01:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T15:01:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030282783567053166"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1518404201168007168",
+              "start": 0,
+              "username": "godspeedyou50"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/G2YwdyyhBL",
+              "end": 76,
+              "expanded_url": "https://x.com/aliebwa/status/2030282783567053166/photo/1",
+              "media_key": "3_2030282762897514496",
+              "start": 53,
+              "url": "https://t.co/G2YwdyyhBL"
+            },
+            {
+              "display_url": "pic.x.com/G2YwdyyhBL",
+              "end": 76,
+              "expanded_url": "https://x.com/aliebwa/status/2030282783567053166/photo/1",
+              "media_key": "3_2030282762897473536",
+              "start": 53,
+              "url": "https://t.co/G2YwdyyhBL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030282783567053166",
+        "in_reply_to_user_id": "1518404201168007168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@godspeedyou50 这个老师很准啊！只要几十块钱！我付钱了他立马回复了。而且很准。太他妈牛逼了 https://t.co/G2YwdyyhBL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。/@Jahseh14138/双相I型/欢迎提问",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "Jahseh14138"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jahseh79919",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jahseh79919",
+                "start": 0,
+                "url": "https://t.co/xaz6T7v19q"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2029134307244294287",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 854,
+          "following_count": 168,
+          "like_count": 572,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 1605
+        },
+        "url": "https://t.co/xaz6T7v19q",
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-14T03:25:00.000Z",
+        "description": "",
+        "id": "1724267127031672832",
+        "name": "idi",
+        "pinned_tweet_id": "1853642736207040577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005893629219627008/uLj6ERYb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1004,
+          "following_count": 1073,
+          "like_count": 1131,
+          "listed_count": 4,
+          "media_count": 79,
+          "tweet_count": 1614
+        },
+        "username": "aliebwa",
+        "verified": false
+      }
+    ]
+  }
+}

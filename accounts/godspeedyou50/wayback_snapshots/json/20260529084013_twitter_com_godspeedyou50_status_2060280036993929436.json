@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2060278860126793982",
+    "created_at": "2026-05-29T08:40:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T09:40:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060280036993929436"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1128010587089264640",
+          "start": 0,
+          "username": "uixxixu"
+        },
+        {
+          "end": 18,
+          "id": "1632832954421633029",
+          "start": 9,
+          "username": "482xxnay"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060280036993929436",
+    "in_reply_to_user_id": "1128010587089264640",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060278860126793982",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@uixxixu @482xxnay 我去99"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2060278860126793982].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2060278860126793982",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2060278860126793982"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2060278860126793982",
+        "created_at": "2026-05-29T08:40:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T09:40:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060280036993929436"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1128010587089264640",
+              "start": 0,
+              "username": "uixxixu"
+            },
+            {
+              "end": 18,
+              "id": "1632832954421633029",
+              "start": 9,
+              "username": "482xxnay"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060280036993929436",
+        "in_reply_to_user_id": "1128010587089264640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060278860126793982",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uixxixu @482xxnay 我去99"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2048720319872192919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1300,
+          "following_count": 307,
+          "like_count": 1107,
+          "listed_count": 0,
+          "media_count": 165,
+          "tweet_count": 2482
+        },
+        "username": "godspeedyou50",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "未来/现实失败的中年女人/精神状态不正常cos只是爱好/我的狗@takanashi110998/不混任何圈子/勿问渠道/健全人和看黄男别关注",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 31,
+                "username": "takanashi110998"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "location": "拓麻歌子星球",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2056982022753824885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047434191672164352/lyFNZo5S_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1343,
+          "following_count": 454,
+          "like_count": 5709,
+          "listed_count": 0,
+          "media_count": 213,
+          "tweet_count": 3358
+        },
+        "username": "uixxixu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-06T19:58:19.000Z",
+        "description": "no way…！my life is so suck 自我生存娱乐空间 内可能含有NSFW 有SH pill 20+警告 they 我想复健产粮..懒惰的同人爱好者 是成年账户 全是翻译器 是精神病 温和随时锁推 业余的很笨 有不对的请不要说我对异形勃起欢迎讨论 不会讨厌谁叫我什么都可以不会外语一切用翻译器人很佛",
+        "id": "1632832954421633029",
+        "name": "im gay（盐被肉鸦制2.0）",
+        "pinned_tweet_id": "2060229801282306383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052762986327240704/uZOTKK3r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 555,
+          "like_count": 4008,
+          "listed_count": 0,
+          "media_count": 280,
+          "tweet_count": 4286
+        },
+        "username": "482xxnay",
+        "verified": false
+      }
+    ]
+  }
+}

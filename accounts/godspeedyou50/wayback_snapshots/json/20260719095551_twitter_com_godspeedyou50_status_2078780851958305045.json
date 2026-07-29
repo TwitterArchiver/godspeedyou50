@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2078780660215677057",
+    "created_at": "2026-07-19T09:55:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T10:55:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078780851958305045"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2078780851958305045",
+    "in_reply_to_user_id": "1518404201168007168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078780660215677057",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "爆了 爆了 ！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2078780660215677057",
+        "created_at": "2026-07-19T09:55:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T10:55:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078780851958305045"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078780851958305045",
+        "in_reply_to_user_id": "1518404201168007168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078780660215677057",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "爆了 爆了 ！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2078780660215677057",
+        "created_at": "2026-07-19T09:55:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T10:55:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078780660215677057"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/greenfish_111/…",
+              "end": 108,
+              "expanded_url": "https://twitter.com/greenfish_111/status/2078756522625249722",
+              "start": 85,
+              "url": "https://t.co/U6H5O6u7Ue"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078780660215677057",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078756522625249722",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我操他妈的药奸虚伪恶臭假破碎男废物，报警就是了你记住普瑞sns不违法！ 但喂精二尤其思诺思就是迷奸！ 支持你跳楼 不然你就强奸罪进去被光头大哥干屁眼吧逼人 真心诅咒你🙏 https://t.co/U6H5O6u7Ue"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个违背了大众良知od喝大酒的神棍。\n☯️算命后付不怕跑单｜代请符箓、祈福请私讯\n传统宗教现代哲学文化传播者，又称中式廉价心理医生。\n狐朋@Nonentity_xxx17 狗友@Jinggebiezhuaw",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 69,
+                "username": "Nonentity_xxx17"
+              },
+              {
+                "end": 103,
+                "start": 88,
+                "username": "Jinggebiezhuaw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/buyaogaowosorry",
+                "end": 23,
+                "expanded_url": "https://t.me/buyaogaowosorry",
+                "start": 0,
+                "url": "https://t.co/AdoFGQJT3r"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2069223594711011526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1707,
+          "following_count": 601,
+          "like_count": 1290,
+          "listed_count": 1,
+          "media_count": 209,
+          "tweet_count": 2913
+        },
+        "url": "https://t.co/AdoFGQJT3r",
+        "username": "godspeedyou50",
+        "verified": true
+      }
+    ]
+  }
+}

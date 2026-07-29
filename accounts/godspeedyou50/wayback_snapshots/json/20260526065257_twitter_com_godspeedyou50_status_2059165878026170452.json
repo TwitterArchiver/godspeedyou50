@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2059164808604484065",
+    "created_at": "2026-05-26T06:52:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T07:52:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059165878026170452"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1830934925769613334",
+          "start": 0,
+          "username": "Jinggebiezhuaw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059165878026170452",
+    "in_reply_to_user_id": "1830934925769613334",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059164808604484065",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jinggebiezhuaw 有空操逼"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1572,
+        "media_key": "3_2059164800085798912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJOfecsaMAAmlT4.jpg",
+        "width": 1180
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2059164800073228288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJOfecpaYAAFnIy.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2059164808604484065",
+        "created_at": "2026-05-26T06:52:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T07:52:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059165878026170452"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1830934925769613334",
+              "start": 0,
+              "username": "Jinggebiezhuaw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059165878026170452",
+        "in_reply_to_user_id": "1830934925769613334",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059164808604484065",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jinggebiezhuaw 有空操逼"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059164800085798912",
+            "3_2059164800073228288"
+          ]
+        },
+        "author_id": "1830934925769613334",
+        "conversation_id": "2059164808604484065",
+        "created_at": "2026-05-26T06:48:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T07:48:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059164808604484065"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Iy5yXI7GrL",
+              "end": 23,
+              "expanded_url": "https://x.com/Jinggebiezhuaw/status/2059164808604484065/photo/1",
+              "media_key": "3_2059164800085798912",
+              "start": 0,
+              "url": "https://t.co/Iy5yXI7GrL"
+            },
+            {
+              "display_url": "pic.x.com/Iy5yXI7GrL",
+              "end": 23,
+              "expanded_url": "https://x.com/Jinggebiezhuaw/status/2059164808604484065/photo/1",
+              "media_key": "3_2059164800073228288",
+              "start": 0,
+              "url": "https://t.co/Iy5yXI7GrL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059164808604484065",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Iy5yXI7GrL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2048720319872192919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1275,
+          "following_count": 294,
+          "like_count": 1077,
+          "listed_count": 0,
+          "media_count": 168,
+          "tweet_count": 2441
+        },
+        "username": "godspeedyou50",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-03T11:45:04.000Z",
+        "description": "女，长头发性恋，精神分裂确诊，导演系在读，精神意大利人，非典型支黑，非典型化学推，喜欢跟小男娘玩。 我的名字读作奥克萨娜 不是OK娑娜。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Oksana_132435",
+                "end": 23,
+                "expanded_url": "https://t.me/Oksana_132435",
+                "start": 0,
+                "url": "https://t.co/McxnWOqV5m"
+              }
+            ]
+          }
+        },
+        "id": "1830934925769613334",
+        "location": "Tokyo-to, Japan",
+        "name": "Oksana💊",
+        "pinned_tweet_id": "1991449358647325050",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836467833401937920/1OZ_D_Qp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2538,
+          "following_count": 411,
+          "like_count": 943,
+          "listed_count": 4,
+          "media_count": 200,
+          "tweet_count": 698
+        },
+        "url": "https://t.co/McxnWOqV5m",
+        "username": "Jinggebiezhuaw",
+        "verified": false
+      }
+    ]
+  }
+}

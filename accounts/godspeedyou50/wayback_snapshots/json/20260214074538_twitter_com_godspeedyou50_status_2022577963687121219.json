@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2022569826213093442",
+    "created_at": "2026-02-14T07:45:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-14T08:45:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022577963687121219"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1964331185590718464",
+          "start": 0,
+          "username": "breakcoreWTF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022577963687121219",
+    "in_reply_to_user_id": "1964331185590718464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022569826213093442",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@breakcoreWTF 嗯神药"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2022569826213093442",
+        "created_at": "2026-02-14T07:45:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T08:45:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022577963687121219"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1964331185590718464",
+              "start": 0,
+              "username": "breakcoreWTF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022577963687121219",
+        "in_reply_to_user_id": "1964331185590718464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022569826213093442",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@breakcoreWTF 嗯神药"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964331185590718464",
+        "conversation_id": "2022569826213093442",
+        "created_at": "2026-02-14T07:13:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T08:13:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022569826213093442"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2022569826213093442",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我操这个普瑞巴林改善睡眠好牛逼啊，我就吃了一点点然后我直接睡了13个小时，然后我之前那些莫名其妙的症状都没有了，什么肩膀痛什么头痛什么耳鸣什么的，好像解离也没有了我解离了三天"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。/@Jahseh14138/双相I型",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "Jahseh14138"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1994852955737264187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 728,
+          "following_count": 118,
+          "like_count": 430,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 1299
+        },
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "OD丨自伤丨Vocaloid丨音游丨友跨顺女丨少关心我\n不喜欢的直接b 推特是垃圾桶口无遮拦 同类回fo",
+        "id": "1964331185590718464",
+        "location": "🚪40走vx+10pyq 熟推免",
+        "name": "箸",
+        "pinned_tweet_id": "2016685165557534981",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019848796881186816/pdjXkx-3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 524,
+          "following_count": 562,
+          "like_count": 7907,
+          "listed_count": 0,
+          "media_count": 131,
+          "tweet_count": 2482
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2020410739933213152",
+    "created_at": "2026-02-08T08:13:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-08T09:13:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2020410739933213152"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/llll926080/sta…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/llll926080/status/2020407266139337028",
+          "start": 19,
+          "url": "https://t.co/xON0Qi1hoB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020410739933213152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020407266139337028",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这骚逼 给唐毓文请来给他切了 省着撸 https://t.co/xON0Qi1hoB"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 20000,
+        "height": 634,
+        "media_key": "13_2020407198896025600",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2020407198896025600/img/b_EqukNk55mkrqZh.jpg",
+        "public_metrics": {
+          "view_count": 102
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2020407198896025600/vid/avc1/544x270/gxrTfEarDCxpYPwr.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2020407198896025600/vid/avc1/726x360/f0MVeIn7qebMd6lJ.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2020407198896025600/vid/avc1/1280x634/SIfFo_b8RCYEF7O7.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2020407198896025600/pl/QsbVnt5_GrZF_yKd.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2020410739933213152",
+        "created_at": "2026-02-08T08:13:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T09:13:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020410739933213152"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/llll926080/sta…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/llll926080/status/2020407266139337028",
+              "start": 19,
+              "url": "https://t.co/xON0Qi1hoB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020410739933213152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020407266139337028",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这骚逼 给唐毓文请来给他切了 省着撸 https://t.co/xON0Qi1hoB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2020407198896025600"
+          ]
+        },
+        "author_id": "1749232086840647680",
+        "conversation_id": "2020407266139337028",
+        "created_at": "2026-02-08T08:00:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T09:00:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020407266139337028"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 144,
+              "start": 137,
+              "tag": "femboy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YQxw6sfPFr",
+              "end": 168,
+              "expanded_url": "https://x.com/llll926080/status/2020407266139337028/video/1",
+              "media_key": "13_2020407198896025600",
+              "start": 145,
+              "url": "https://t.co/YQxw6sfPFr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020407266139337028",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 428,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我玩不了这个梗，反耳呢，我的脸蛋又漂亮身材又曼妙，别人会以为我在炫耀 你们都一般，只有我眉目温润，面容并非棱角分明的明艳类型，更似暖玉琢成的柔润模样。肤色匀净，几乎不见纹路，在灯下泛着浅瓷般的光泽 唇角习惯性轻扬，不过笑痕很淡，未达眼底，行动间从容含蓄却自带一层薄薄的隔阂 #femboy https://t.co/YQxw6sfPFr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。/@Jahseh14138/严重双相I型",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "Jahseh14138"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1994852955737264187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 721,
+          "following_count": 106,
+          "like_count": 410,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 1231
+        },
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-22T00:46:54.000Z",
+        "description": "pan/brat 可能是男娘（？🇨🇳🇨🇦175cm 53kg 17高二坐牢中… 中文/English welcome dm欢迎大家来找我聊天🥺od/自伤元素注意⚠️好友位🚪50CNY 后背隐藏能源：@fuckmylife8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 114,
+                "start": 99,
+                "username": "fuckmylife8964"
+              }
+            ]
+          }
+        },
+        "id": "1749232086840647680",
+        "location": "上海",
+        "name": "网友泉顺方",
+        "pinned_tweet_id": "1997871437692993604",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984325613352538112/-fZhgABW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1072,
+          "following_count": 184,
+          "like_count": 1616,
+          "listed_count": 1,
+          "media_count": 423,
+          "tweet_count": 2191
+        },
+        "username": "llll926080",
+        "verified": false
+      }
+    ]
+  }
+}

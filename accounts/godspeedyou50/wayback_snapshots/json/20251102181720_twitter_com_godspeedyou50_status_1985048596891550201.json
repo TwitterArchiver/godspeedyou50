@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "1985048596891550201",
+    "created_at": "2025-11-02T18:17:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-02T19:17:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1985048596891550201"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/drug_artist1/s…",
+          "end": 45,
+          "expanded_url": "https://twitter.com/drug_artist1/status/1985030769220497853",
+          "start": 22,
+          "url": "https://t.co/lck13jIItB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985048596891550201",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985030769220497853",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "操你妈我就知道会这样 拖出去斩了\n这人癫了 https://t.co/lck13jIItB"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "1985048596891550201",
+        "created_at": "2025-11-02T18:17:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T19:17:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985048596891550201"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/drug_artist1/s…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/drug_artist1/status/1985030769220497853",
+              "start": 22,
+              "url": "https://t.co/lck13jIItB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985048596891550201",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985030769220497853",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "操你妈我就知道会这样 拖出去斩了\n这人癫了 https://t.co/lck13jIItB"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1963867793776070656",
+        "conversation_id": "1985030769220497853",
+        "created_at": "2025-11-02T17:06:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T18:06:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985030769220497853"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1985030769220497853",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 157,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我登上第五高原了 我看见真相了 哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "路人。and这段日子我愿意聊天，欢迎找我解惑，定期批量回fo或者私我",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1983757018830663844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984905090818523136/vVZ-D8dQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 441,
+          "following_count": 267,
+          "like_count": 114,
+          "listed_count": 1,
+          "media_count": 59,
+          "tweet_count": 678
+        },
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-05T07:32:46.000Z",
+        "description": "药物百科wiki主｜投稿报告请私信我｜长发视觉系4i男娘｜售卖合法物质｜提问箱:https://t.co/ez10SQHDdD｜愿每一位药物滥用者都能脱离深渊｜提供药物咨询 ｜im crazy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/drug_artist",
+                "end": 63,
+                "expanded_url": "https://ngl.link/drug_artist",
+                "start": 40,
+                "url": "https://t.co/ez10SQHDdD"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/N4ZvRTnSIg"
+              }
+            ]
+          }
+        },
+        "id": "1963867793776070656",
+        "location": "Xanax天国12mg自治区",
+        "name": "沐雨",
+        "pinned_tweet_id": "1983475029259239573",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984290837677965312/pwoAuV9f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1413,
+          "following_count": 85,
+          "like_count": 440,
+          "listed_count": 2,
+          "media_count": 42,
+          "tweet_count": 505
+        },
+        "url": "https://t.co/N4ZvRTnSIg",
+        "username": "drug_artist1",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2040912139737821443",
+    "created_at": "2026-04-05T21:59:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T22:59:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2040912139737821443"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/jcy19950601/st…",
+          "end": 82,
+          "expanded_url": "https://twitter.com/jcy19950601/status/2040910936517538188",
+          "start": 59,
+          "url": "https://t.co/w882pFuO3O"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040912139737821443",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040910936517538188",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "谢谢你关心我 雀儿…..\n哥特么知道，但是哥都快把嗓子眼当挎兜一样随便掏了。\n只有在这情况才会舔个逼脸来问大伙儿的！ https://t.co/w882pFuO3O"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2040912139737821443",
+        "created_at": "2026-04-05T21:59:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T22:59:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040912139737821443"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jcy19950601/st…",
+              "end": 82,
+              "expanded_url": "https://twitter.com/jcy19950601/status/2040910936517538188",
+              "start": 59,
+              "url": "https://t.co/w882pFuO3O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040912139737821443",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040910936517538188",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "谢谢你关心我 雀儿…..\n哥特么知道，但是哥都快把嗓子眼当挎兜一样随便掏了。\n只有在这情况才会舔个逼脸来问大伙儿的！ https://t.co/w882pFuO3O"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1977492000493481984",
+        "conversation_id": "2040837751524999615",
+        "created_at": "2026-04-05T21:54:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T22:54:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040910936517538188"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1518404201168007168",
+              "start": 0,
+              "username": "godspeedyou50"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040910936517538188",
+        "in_reply_to_user_id": "1518404201168007168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040837751524999615",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@godspeedyou50 我一般喝酒喝多了会反胃，这个时候吐就是把舌头O一下就吐出来了，你平时催吐也可以直接扣嗓子眼，抠深点很快的。吐酒就是连着胃酸一起了，很辣嗓子，我一般每吐一口就喝点水，稀释了胃酸和酒精吐的时候没有那么难熬"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。/双相I型/欢迎提问",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jahseh79919",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jahseh79919",
+                "start": 0,
+                "url": "https://t.co/xaz6T7v19q"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2029134307244294287",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1018,
+          "following_count": 207,
+          "like_count": 861,
+          "listed_count": 0,
+          "media_count": 132,
+          "tweet_count": 2111
+        },
+        "url": "https://t.co/xaz6T7v19q",
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-12T21:50:33.000Z",
+        "description": "这条苦海无涯我已双脚踏上｜上网只为了缓解/发泄情绪｜互fo欢迎",
+        "id": "1977492000493481984",
+        "name": "野火",
+        "pinned_tweet_id": "2037778521175568616",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040003320073637888/XWoH0ne2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 68,
+          "like_count": 1287,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 490
+        },
+        "username": "jcy19950601",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "1994060334567489818",
+    "created_at": "2025-11-27T15:06:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T16:06:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1994060334567489818"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yanyelove/stat…",
+          "end": 168,
+          "expanded_url": "https://twitter.com/yanyelove/status/1993868929304023312",
+          "start": 145,
+          "url": "https://t.co/ekPhBn2DDO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994060334567489818",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993868929304023312",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "支持门槛妹圈钱但不支持门槛妹骗钱\n过门槛的说白了就是想要情绪价值，对一个人展现出来的社交媒体风格所吸引，想了解到一个人，想看脸看奶子操逼，过程中不明码标价但这就是门哥该干的事，你能圈到是你的本事。\n就这种傻逼硬骗低智商群体的 你赶紧死去z自杀 割喉 逼里塞炸药把自己崩死 赶紧死 真恶心人 https://t.co/ekPhBn2DDO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1993868922547027968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6ulOJkbQAACH04.jpg",
+        "width": 916
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1993868922547040256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6ulOJkbcAAUwLK.jpg",
+        "width": 916
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1993868922526027782",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6ulOJfa0AYnEws.jpg",
+        "width": 916
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1993868922526027776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6ulOJfa0AA0huj.jpg",
+        "width": 916
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "1994060334567489818",
+        "created_at": "2025-11-27T15:06:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T16:06:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994060334567489818"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yanyelove/stat…",
+              "end": 168,
+              "expanded_url": "https://twitter.com/yanyelove/status/1993868929304023312",
+              "start": 145,
+              "url": "https://t.co/ekPhBn2DDO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994060334567489818",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993868929304023312",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "支持门槛妹圈钱但不支持门槛妹骗钱\n过门槛的说白了就是想要情绪价值，对一个人展现出来的社交媒体风格所吸引，想了解到一个人，想看脸看奶子操逼，过程中不明码标价但这就是门哥该干的事，你能圈到是你的本事。\n就这种傻逼硬骗低智商群体的 你赶紧死去z自杀 割喉 逼里塞炸药把自己崩死 赶紧死 真恶心人 https://t.co/ekPhBn2DDO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993868922547027968",
+            "3_1993868922547040256",
+            "3_1993868922526027782",
+            "3_1993868922526027776"
+          ]
+        },
+        "author_id": "1562858237657231361",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1993867630789447932",
+        "created_at": "2025-11-27T02:26:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T03:26:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993868929304023312"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1zjLRmAB3Z",
+              "end": 23,
+              "expanded_url": "https://x.com/yanyelove/status/1993868929304023312/photo/1",
+              "media_key": "3_1993868922547027968",
+              "start": 0,
+              "url": "https://t.co/1zjLRmAB3Z"
+            },
+            {
+              "display_url": "pic.x.com/1zjLRmAB3Z",
+              "end": 23,
+              "expanded_url": "https://x.com/yanyelove/status/1993868929304023312/photo/1",
+              "media_key": "3_1993868922547040256",
+              "start": 0,
+              "url": "https://t.co/1zjLRmAB3Z"
+            },
+            {
+              "display_url": "pic.x.com/1zjLRmAB3Z",
+              "end": 23,
+              "expanded_url": "https://x.com/yanyelove/status/1993868929304023312/photo/1",
+              "media_key": "3_1993868922526027782",
+              "start": 0,
+              "url": "https://t.co/1zjLRmAB3Z"
+            },
+            {
+              "display_url": "pic.x.com/1zjLRmAB3Z",
+              "end": 23,
+              "expanded_url": "https://x.com/yanyelove/status/1993868929304023312/photo/1",
+              "media_key": "3_1993868922526027776",
+              "start": 0,
+              "url": "https://t.co/1zjLRmAB3Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993868929304023312",
+        "in_reply_to_user_id": "1562858237657231361",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 680,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993867630789447932",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/1zjLRmAB3Z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "路人。",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1983757018830663844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990279769297149952/3r34Cj2f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 647,
+          "following_count": 313,
+          "like_count": 329,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 943
+        },
+        "username": "godspeedyou50",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-25T17:43:41.000Z",
+        "description": "革命家と彼女の恋愛 我是言葉的複製體 前世@yanyedawang 精神狀態不好⚠️注意自避 ｜🚪88純綠陪聊 沒有福利 只有陪聊🚪200纯绿线下🚪300半绿线下 🚪520非绿线下",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 21,
+                "username": "yanyedawang"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoye44231",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaoye44231",
+                "start": 0,
+                "url": "https://t.co/IhqVPtqVjL"
+              }
+            ]
+          }
+        },
+        "id": "1562858237657231361",
+        "location": "只有我的地方 ",
+        "name": "言叶的happy sugar life",
+        "pinned_tweet_id": "1993869600031953287",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936383796007305216/VDu1XEjf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 906,
+          "following_count": 162,
+          "like_count": 1498,
+          "listed_count": 0,
+          "media_count": 117,
+          "tweet_count": 494
+        },
+        "url": "https://t.co/IhqVPtqVjL",
+        "username": "yanyelove",
+        "verified": false
+      }
+    ]
+  }
+}

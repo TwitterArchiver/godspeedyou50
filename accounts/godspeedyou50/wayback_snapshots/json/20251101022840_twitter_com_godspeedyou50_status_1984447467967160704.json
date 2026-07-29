@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "1984434992496459894",
+    "created_at": "2025-11-01T02:28:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-01T03:28:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984447467967160704"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1481172876589821952",
+          "start": 0,
+          "username": "pyke2076"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984447467967160704",
+    "in_reply_to_user_id": "1481172876589821952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984446942215106728",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pyke2076 刷了一下你推 你在川渝吗 有空熬点喂佛珠点 我看她最近魔得很"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "1984434992496459894",
+        "created_at": "2025-11-01T02:28:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T03:28:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984447467967160704"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1481172876589821952",
+              "start": 0,
+              "username": "pyke2076"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984447467967160704",
+        "in_reply_to_user_id": "1481172876589821952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984446942215106728",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pyke2076 刷了一下你推 你在川渝吗 有空熬点喂佛珠点 我看她最近魔得很"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1481172876589821952",
+        "conversation_id": "1984434992496459894",
+        "created_at": "2025-11-01T02:26:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T03:26:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984446942215106728"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1518404201168007168",
+              "start": 0,
+              "username": "godspeedyou50"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984446942215106728",
+        "in_reply_to_user_id": "1518404201168007168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984445651384700952",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@godspeedyou50 我没有石油醚，没办法去除油脂，不过最近也没做了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "路人。and这段日子我愿意聊天，欢迎找我解惑，定期批量回fo或者私我",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1983757018830663844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983944337726787584/JcjyTY_u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 420,
+          "following_count": 259,
+          "like_count": 110,
+          "listed_count": 1,
+          "media_count": 50,
+          "tweet_count": 622
+        },
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "description": "当你离去之后，你仍在我的视线里。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pyke2077",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pyke2077",
+                "start": 0,
+                "url": "https://t.co/OVd42ruoYd"
+              }
+            ]
+          }
+        },
+        "id": "1481172876589821952",
+        "location": "地狱",
+        "name": "bunny",
+        "pinned_tweet_id": "1948055006441320599",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1739460199323435008/cSDInbKL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8023,
+          "following_count": 1246,
+          "like_count": 62429,
+          "listed_count": 9,
+          "media_count": 2842,
+          "tweet_count": 16972
+        },
+        "url": "https://t.co/OVd42ruoYd",
+        "username": "pyke2076",
+        "verified": false
+      }
+    ]
+  }
+}

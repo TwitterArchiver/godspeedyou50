@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2034574472460816384"
+      ]
+    },
+    "author_id": "1518404201168007168",
+    "conversation_id": "2034574512214438133",
+    "created_at": "2026-03-19T10:15:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T11:15:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2034574512214438133"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1754774517594181632",
+          "start": 0,
+          "username": "ValenceLab"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wkrrWsJyVB",
+          "end": 35,
+          "expanded_url": "https://x.com/godspeedyou50/status/2034574512214438133/video/1",
+          "media_key": "13_2034574472460816384",
+          "start": 12,
+          "url": "https://t.co/wkrrWsJyVB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034574512214438133",
+    "in_reply_to_user_id": "1754774517594181632",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "@ValenceLab https://t.co/wkrrWsJyVB"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7766,
+        "height": 640,
+        "media_key": "13_2034574472460816384",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2034574472460816384/img/N6eUlo8vXcz8Vw4t.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2034574472460816384/vid/avc1/320x426/e8pMGb0NdvFu59QH.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2034574472460816384/vid/avc1/480x640/ao2g_JD64O3kB_10.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2034574472460816384/pl/4-w1o36XKbo8nYzS.m3u8"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2034574472460816384"
+          ]
+        },
+        "author_id": "1518404201168007168",
+        "conversation_id": "2034574512214438133",
+        "created_at": "2026-03-19T10:15:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T11:15:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034574512214438133"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1754774517594181632",
+              "start": 0,
+              "username": "ValenceLab"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wkrrWsJyVB",
+              "end": 35,
+              "expanded_url": "https://x.com/godspeedyou50/status/2034574512214438133/video/1",
+              "media_key": "13_2034574472460816384",
+              "start": 12,
+              "url": "https://t.co/wkrrWsJyVB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034574512214438133",
+        "in_reply_to_user_id": "1754774517594181632",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@ValenceLab https://t.co/wkrrWsJyVB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。/双相I型/欢迎提问",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jahseh79919",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jahseh79919",
+                "start": 0,
+                "url": "https://t.co/xaz6T7v19q"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2029134307244294287",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 921,
+          "following_count": 199,
+          "like_count": 660,
+          "listed_count": 1,
+          "media_count": 111,
+          "tweet_count": 1777
+        },
+        "url": "https://t.co/xaz6T7v19q",
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-06T07:50:34.000Z",
+        "description": "我只是一只野生瓦楞斯∥在深山模仿古猿的神秘露营爱好者⛺∥神厨小瓦楞斯∥频道链接↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/ValenceRC_cp",
+                "end": 23,
+                "expanded_url": "https://t.me/ValenceRC_cp",
+                "start": 0,
+                "url": "https://t.co/3X53fRNTwL"
+              }
+            ]
+          }
+        },
+        "id": "1754774517594181632",
+        "location": "本栖湖",
+        "name": "𝗩𝗮𝗹𝗲𝗻𝗰𝗲🆁🅲 瓦楞斯",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033925913575100419/x5z1bNHB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 76,
+          "like_count": 22,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 38
+        },
+        "url": "https://t.co/3X53fRNTwL",
+        "username": "ValenceLab",
+        "verified": false
+      }
+    ]
+  }
+}

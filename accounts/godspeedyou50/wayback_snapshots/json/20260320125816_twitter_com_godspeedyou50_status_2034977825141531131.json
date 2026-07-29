@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2034977825141531131",
+    "created_at": "2026-03-20T12:58:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-20T13:58:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2034977825141531131"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 3,
+          "normalized_text": "骚逼小慧",
+          "probability": 0.3124,
+          "start": 0,
+          "type": "Person"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/cfpwmr5zhy948/…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/cfpwmr5zhy948/status/2034959135511560685",
+          "start": 9,
+          "url": "https://t.co/gdjnt3gkJv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034977825141531131",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034959135511560685",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "骚逼小慧。下一位 https://t.co/gdjnt3gkJv"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10066,
+        "height": 1280,
+        "media_key": "13_2034959078779428864",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2034959078779428864/img/cuRhig2B8ZnpuBfB.jpg",
+        "public_metrics": {
+          "view_count": 4
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2034959078779428864/vid/avc1/320x568/fHpg6NKqt6Yk70FS.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2034959078779428864/vid/avc1/480x852/E9AO45338cr6FPSR.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2034959078779428864/vid/avc1/720x1280/xRTwERBtraxFXLw9.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2034959078779428864/pl/C1SCPM7AmKytehPK.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2034977825141531131",
+        "created_at": "2026-03-20T12:58:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T13:58:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034977825141531131"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 3,
+              "normalized_text": "骚逼小慧",
+              "probability": 0.3124,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/cfpwmr5zhy948/…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/cfpwmr5zhy948/status/2034959135511560685",
+              "start": 9,
+              "url": "https://t.co/gdjnt3gkJv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034977825141531131",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034959135511560685",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "骚逼小慧。下一位 https://t.co/gdjnt3gkJv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2034959078779428864"
+          ]
+        },
+        "author_id": "1823446565245345792",
+        "conversation_id": "2034959135511560685",
+        "created_at": "2026-03-20T11:44:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T12:44:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034959135511560685"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VrWsxptyxV",
+              "end": 39,
+              "expanded_url": "https://x.com/cFPwMr5ZHy948/status/2034959135511560685/video/1",
+              "media_key": "13_2034959078779428864",
+              "start": 16,
+              "url": "https://t.co/VrWsxptyxV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034959135511560685",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "他们说有一对模范情侣不如我和你 https://t.co/VrWsxptyxV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。/双相I型/欢迎提问",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jahseh79919",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jahseh79919",
+                "start": 0,
+                "url": "https://t.co/xaz6T7v19q"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2029134307244294287",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 946,
+          "following_count": 211,
+          "like_count": 674,
+          "listed_count": 1,
+          "media_count": 113,
+          "tweet_count": 1821
+        },
+        "url": "https://t.co/xaz6T7v19q",
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-13T19:48:43.000Z",
+        "description": "过路人",
+        "id": "1823446565245345792",
+        "name": "家妻",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984205402310094848/RWKLWNzB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 18,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 6
+        },
+        "username": "cFPwMr5ZHy948",
+        "verified": false
+      }
+    ]
+  }
+}

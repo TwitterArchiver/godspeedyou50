@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "1994059136699662565",
+    "created_at": "2025-11-27T15:14:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T16:14:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994062281987010686"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1528005407469346818",
+          "start": 0,
+          "username": "K1raK1ra818"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994062281987010686",
+    "in_reply_to_user_id": "1528005407469346818",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994059136699662565",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@K1raK1ra818 全国都有万达 你随时穿越吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "1994059136699662565",
+        "created_at": "2025-11-27T15:14:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T16:14:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994062281987010686"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1528005407469346818",
+              "start": 0,
+              "username": "K1raK1ra818"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994062281987010686",
+        "in_reply_to_user_id": "1528005407469346818",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994059136699662565",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@K1raK1ra818 全国都有万达 你随时穿越吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1528005407469346818",
+        "conversation_id": "1994059136699662565",
+        "created_at": "2025-11-27T15:02:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T16:02:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994059136699662565"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1994059136699662565",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "万达广场附近有吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "路人。",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1983757018830663844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990279769297149952/3r34Cj2f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 647,
+          "following_count": 314,
+          "like_count": 329,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 944
+        },
+        "username": "godspeedyou50",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-21T13:31:04.000Z",
+        "description": "病み垢。同類會回fo",
+        "id": "1528005407469346818",
+        "name": "愛",
+        "pinned_tweet_id": "1990288650362593493",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981203600161333248/jyvginla_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 248,
+          "following_count": 509,
+          "like_count": 7444,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 976
+        },
+        "username": "K1raK1ra818",
+        "verified": false
+      }
+    ]
+  }
+}

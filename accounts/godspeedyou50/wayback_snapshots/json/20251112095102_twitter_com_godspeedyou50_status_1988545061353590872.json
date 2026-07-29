@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "1988492967674548501",
+    "created_at": "2025-11-12T09:51:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T10:51:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988545061353590872"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1768977125233901568",
+          "start": 0,
+          "username": "wohennixi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988545061353590872",
+    "in_reply_to_user_id": "1768977125233901568",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988544574537756999",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wohennixi 真？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "1988492967674548501",
+        "created_at": "2025-11-12T09:51:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T10:51:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988545061353590872"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1768977125233901568",
+              "start": 0,
+              "username": "wohennixi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988545061353590872",
+        "in_reply_to_user_id": "1768977125233901568",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988544574537756999",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohennixi 真？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768977125233901568",
+        "conversation_id": "1988492967674548501",
+        "created_at": "2025-11-12T09:49:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T10:49:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988544574537756999"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1518404201168007168",
+              "start": 0,
+              "username": "godspeedyou50"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988544574537756999",
+        "in_reply_to_user_id": "1518404201168007168",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988492967674548501",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@godspeedyou50 来"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "路人。and这段日子我愿意聊天，欢迎找我解惑，定期批量回fo或者私我",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1983757018830663844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984905090818523136/vVZ-D8dQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 482,
+          "following_count": 278,
+          "like_count": 132,
+          "listed_count": 1,
+          "media_count": 69,
+          "tweet_count": 734
+        },
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-16T12:26:39.000Z",
+        "description": "161 44kg b 🚪88/188/288/520/1314 私信礼貌问价 只回复五句之内 不过门勿扰sorry//互转三天下 我需要发日常",
+        "id": "1768977125233901568",
+        "location": "距离你9.6km",
+        "name": "X^^",
+        "pinned_tweet_id": "1987836681689694273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854333186546991104/LXKvnBz9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 684,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 3,
+          "media_count": 65,
+          "tweet_count": 236
+        },
+        "username": "wohennixi",
+        "verified": false
+      }
+    ]
+  }
+}

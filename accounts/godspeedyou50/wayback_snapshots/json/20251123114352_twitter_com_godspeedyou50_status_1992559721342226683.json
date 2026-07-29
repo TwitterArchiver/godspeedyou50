@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "1992532418491023782",
+    "created_at": "2025-11-23T11:43:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T12:43:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992559721342226683"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1726413640008712192",
+          "start": 0,
+          "username": "Tabasco0420_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992559721342226683",
+    "in_reply_to_user_id": "1726413640008712192",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992558033474584735",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tabasco0420_ 和我一起去南方吸毒吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "1992532418491023782",
+        "created_at": "2025-11-23T11:43:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T12:43:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992559721342226683"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1726413640008712192",
+              "start": 0,
+              "username": "Tabasco0420_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992559721342226683",
+        "in_reply_to_user_id": "1726413640008712192",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992558033474584735",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tabasco0420_ 和我一起去南方吸毒吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726413640008712192",
+        "conversation_id": "1992532418491023782",
+        "created_at": "2025-11-23T11:37:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T12:37:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992558033474584735"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1518404201168007168",
+              "start": 0,
+              "username": "godspeedyou50"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992558033474584735",
+        "in_reply_to_user_id": "1518404201168007168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992557508381294822",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@godspeedyou50 给我尝尝"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "路人。and这段日子我愿意聊天，欢迎找我解惑，定期批量回fo或者私我",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1983757018830663844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990279769297149952/3r34Cj2f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 635,
+          "following_count": 312,
+          "like_count": 312,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 918
+        },
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-20T01:34:34.000Z",
+        "description": "辣酱｜双相 INTJ｜自伤od｜泛性恋｜直fo选回",
+        "id": "1726413640008712192",
+        "name": "타코",
+        "pinned_tweet_id": "1992250682662142237",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990732387681243136/HgU58e4Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 182,
+          "following_count": 150,
+          "like_count": 633,
+          "listed_count": 2,
+          "media_count": 46,
+          "tweet_count": 417
+        },
+        "username": "Tabasco0420_",
+        "verified": false
+      }
+    ]
+  }
+}

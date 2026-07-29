@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "1992618676089242019",
+    "created_at": "2025-11-23T19:36:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T20:36:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992678678195761222"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1849043039496617984",
+          "start": 0,
+          "username": "Rinko_zero8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992678678195761222",
+    "in_reply_to_user_id": "1849043039496617984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992618676089242019",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rinko_zero8964 我特么以为🍐老师呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "1992618676089242019",
+        "created_at": "2025-11-23T19:36:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T20:36:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992678678195761222"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1849043039496617984",
+              "start": 0,
+              "username": "Rinko_zero8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992678678195761222",
+        "in_reply_to_user_id": "1849043039496617984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992618676089242019",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rinko_zero8964 我特么以为🍐老师呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "1992618676089242019",
+        "created_at": "2025-11-23T15:38:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T16:38:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992618676089242019"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/rinko_zero8964…",
+              "end": 142,
+              "expanded_url": "https://twitter.com/rinko_zero8964/status/1992497282147864867",
+              "start": 119,
+              "url": "https://t.co/GCTP3eW4B2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992618676089242019",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 325,
+          "like_count": 9,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992497282147864867",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "后续发展是🍐跑来酒店找我被我晾了3h，然后他犯精分了我给他送回家，然后这个🍐到家以后直接给我摁床上操了，还因为吃了噻萘普汀做着做着药效来了直接软了，结果我药效没来我就只能痛苦的看🍐在旁边爽。🍐技术好差……第二次做爱也是两人都没高潮。。。 https://t.co/GCTP3eW4B2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "路人。and这段日子我愿意聊天，欢迎找我解惑，定期批量回fo或者私我",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1983757018830663844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990279769297149952/3r34Cj2f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 637,
+          "following_count": 313,
+          "like_count": 318,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 921
+        },
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子｜🥺@NashiMoe233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "NashiMoe233"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1967335109767692560",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965923999197921280/V0d6smjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 359,
+          "following_count": 332,
+          "like_count": 4766,
+          "listed_count": 1,
+          "media_count": 90,
+          "tweet_count": 4606
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      }
+    ]
+  }
+}

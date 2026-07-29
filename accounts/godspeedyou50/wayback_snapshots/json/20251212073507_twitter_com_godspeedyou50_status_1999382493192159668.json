@@ -1,0 +1,140 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "1999381852415754308",
+    "created_at": "2025-12-12T07:35:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-12T08:35:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999382493192159668"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1999382493192159668",
+    "in_reply_to_user_id": "1518404201168007168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999381852415754308",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "喜欢嘀咕叫我大名就叫 我无所谓 我到现在除了我说你自己也嘴不干净 发了一个记录 剩下的可没乱发一条关于你的事\n我们不是不熟么？那你就接着作\n我们拉你玩一把就是天大的祸害 谁也不怕你 别搞得义正言辞撒谎成性 我真懒得解释这些颠倒黑白的东西了 玩去吧 嗯"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "1999381852415754308",
+        "created_at": "2025-12-12T07:35:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T08:35:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999382493192159668"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1999382493192159668",
+        "in_reply_to_user_id": "1518404201168007168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999381852415754308",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "喜欢嘀咕叫我大名就叫 我无所谓 我到现在除了我说你自己也嘴不干净 发了一个记录 剩下的可没乱发一条关于你的事\n我们不是不熟么？那你就接着作\n我们拉你玩一把就是天大的祸害 谁也不怕你 别搞得义正言辞撒谎成性 我真懒得解释这些颠倒黑白的东西了 玩去吧 嗯"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "1999381852415754308",
+        "created_at": "2025-12-12T07:32:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T08:32:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999381852415754308"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1999381852415754308",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我说过拿你当过朋友那一天之后你随意怎么背刺都无所谓了 什么个人信息都互相有\n现在又哦哦根本不熟 怕什么 撕破脸呗？\n我删你就是特么删你 爱爆你就爆 群里每个人都说过癫话 一个一个全爆吧\n说到底就是地雷炸毛了 你自己去找素人发截图引导我 佛珠都锁推的一个人也挂出来\n挂吧挂吧 本来都隐了 你挂吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1999064457344147720",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 663,
+          "following_count": 63,
+          "like_count": 363,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 1036
+        },
+        "username": "godspeedyou50",
+        "verified": false
+      }
+    ]
+  }
+}

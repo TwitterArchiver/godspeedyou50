@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2064576887859622190",
+    "created_at": "2026-06-10T05:14:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T06:14:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064576887859622190"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/zqtlovekris99/…",
+          "end": 46,
+          "expanded_url": "https://twitter.com/zqtlovekris99/status/2064557755609055312",
+          "start": 23,
+          "url": "https://t.co/jPaNJwXa2Y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064576887859622190",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064557755609055312",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "执业医药师培训的重点环节就是敏感药物反引导… https://t.co/jPaNJwXa2Y"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2064576887859622190",
+        "created_at": "2026-06-10T05:14:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T06:14:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064576887859622190"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zqtlovekris99/…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/zqtlovekris99/status/2064557755609055312",
+              "start": 23,
+              "url": "https://t.co/jPaNJwXa2Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064576887859622190",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064557755609055312",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "执业医药师培训的重点环节就是敏感药物反引导… https://t.co/jPaNJwXa2Y"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "2064506818307711379",
+        "created_at": "2026-06-10T03:58:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T04:58:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064557755609055312"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2061831120292020225",
+              "start": 0,
+              "username": "ElonloveDEA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064557755609055312",
+        "in_reply_to_user_id": "2061831120292020225",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 166,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064506818307711379",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ElonloveDEA 哎呀点菜不是这样的你不能进去就说你要什么什么，你要编出符合那个药对应的症状，并且找理由排除掉他可能会给你选的其他药，引导他自己给你开你想要的那个"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2048720319872192919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1337,
+          "following_count": 313,
+          "like_count": 1129,
+          "listed_count": 1,
+          "media_count": 184,
+          "tweet_count": 2591
+        },
+        "username": "godspeedyou50",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "出卖了灵魂的空壳，日常号 @Grtr_nk\n🍀关注竹蜻蜓喵谢谢喵🍀蓝v互关其他回fo请私信 | 闺蜜 @Misako_25ji 🐱 @Citrus_amara",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "Grtr_nk"
+              },
+              {
+                "end": 63,
+                "start": 51,
+                "username": "Misako_25ji"
+              },
+              {
+                "end": 79,
+                "start": 66,
+                "username": "Citrus_amara"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekotonbo1",
+                "end": 23,
+                "expanded_url": "http://ngl.link/nekotonbo1",
+                "start": 0,
+                "url": "https://t.co/WeibacoXza"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "找我提问箱！",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "2059679856359809440",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005202233164709888/10McwBTc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13360,
+          "following_count": 1652,
+          "like_count": 26081,
+          "listed_count": 15,
+          "media_count": 5243,
+          "tweet_count": 28610
+        },
+        "url": "https://t.co/WeibacoXza",
+        "username": "zqtlovekris99",
+        "verified": true
+      }
+    ]
+  }
+}

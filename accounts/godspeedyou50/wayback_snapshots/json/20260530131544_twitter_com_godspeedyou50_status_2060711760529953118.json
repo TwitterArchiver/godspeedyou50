@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2060684724524515437",
+    "created_at": "2026-05-30T13:15:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T14:15:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060711760529953118"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1944351426827735040",
+          "start": 0,
+          "username": "kiss_u_back"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060711760529953118",
+    "in_reply_to_user_id": "1944351426827735040",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060684724524515437",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kiss_u_back 我去 神"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2060684719289974784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJkF1Y9awAArL2M.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2060684719277428736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJkF1Y6bUAAcZ0b.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2060684724524515437",
+        "created_at": "2026-05-30T13:15:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T14:15:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060711760529953118"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1944351426827735040",
+              "start": 0,
+              "username": "kiss_u_back"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060711760529953118",
+        "in_reply_to_user_id": "1944351426827735040",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060684724524515437",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kiss_u_back 我去 神"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060684719289974784",
+            "3_2060684719277428736"
+          ]
+        },
+        "author_id": "1944351426827735040",
+        "conversation_id": "2060684724524515437",
+        "created_at": "2026-05-30T11:28:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T12:28:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060684724524515437"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/E1Kv6XE1BQ",
+              "end": 23,
+              "expanded_url": "https://x.com/kiss_u_back/status/2060684724524515437/photo/1",
+              "media_key": "3_2060684719289974784",
+              "start": 0,
+              "url": "https://t.co/E1Kv6XE1BQ"
+            },
+            {
+              "display_url": "pic.x.com/E1Kv6XE1BQ",
+              "end": 23,
+              "expanded_url": "https://x.com/kiss_u_back/status/2060684724524515437/photo/1",
+              "media_key": "3_2060684719277428736",
+              "start": 0,
+              "url": "https://t.co/E1Kv6XE1BQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060684724524515437",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 231,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/E1Kv6XE1BQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2048720319872192919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1308,
+          "following_count": 311,
+          "like_count": 1111,
+          "listed_count": 0,
+          "media_count": 166,
+          "tweet_count": 2490
+        },
+        "username": "godspeedyou50",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-13T11:01:50.000Z",
+        "description": "死在2025年3月28号\n已阳痿 勿骚扰",
+        "id": "1944351426827735040",
+        "location": "火星",
+        "name": "我的泪口是心非",
+        "pinned_tweet_id": "1989765441888424290",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032342364212379650/Ir3K5fHP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1291,
+          "following_count": 186,
+          "like_count": 1658,
+          "listed_count": 3,
+          "media_count": 407,
+          "tweet_count": 1428
+        },
+        "username": "kiss_u_back",
+        "verified": false
+      }
+    ]
+  }
+}

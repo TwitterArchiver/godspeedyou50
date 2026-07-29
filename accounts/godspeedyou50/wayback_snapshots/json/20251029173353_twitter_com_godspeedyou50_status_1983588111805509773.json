@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "1983265288364986874",
+    "created_at": "2025-10-29T17:33:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-29T18:33:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983588111805509773"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1662439435726905344",
+          "start": 0,
+          "username": "moya_michaeI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983588111805509773",
+    "in_reply_to_user_id": "1662439435726905344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983587164941381754",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@moya_michaeI 想吃死吃健胃消食片都能吃死 老往这上研究 都无痛没人去瑞典了 止吐药会让你吐不出来疼的也昏迷不过去"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "1983265288364986874",
+        "created_at": "2025-10-29T17:33:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T18:33:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983588111805509773"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1662439435726905344",
+              "start": 0,
+              "username": "moya_michaeI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983588111805509773",
+        "in_reply_to_user_id": "1662439435726905344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983587164941381754",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@moya_michaeI 想吃死吃健胃消食片都能吃死 老往这上研究 都无痛没人去瑞典了 止吐药会让你吐不出来疼的也昏迷不过去"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662439435726905344",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1364667946291798017",
+              "name": "Study abroad"
+            }
+          }
+        ],
+        "conversation_id": "1983265288364986874",
+        "created_at": "2025-10-29T17:30:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T18:30:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983587164941381754"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1518404201168007168",
+              "start": 0,
+              "username": "godspeedyou50"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983587164941381754",
+        "in_reply_to_user_id": "1518404201168007168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983586708378808447",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@godspeedyou50 笑死我了，这是我一个在德国留学的地雷妹集美发给我的，问我这么吃能不能死"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "路人。and这段日子我愿意聊天，欢迎找我解惑，定期批量回fo或者私我",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1982515322788942238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827690417619697665/4z5RgWOE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 394,
+          "following_count": 234,
+          "like_count": 87,
+          "listed_count": 1,
+          "media_count": 50,
+          "tweet_count": 573
+        },
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-27T12:44:05.000Z",
+        "description": "青年收录计划主理 公众号请翻阅往期内容 以后当个人号随便发发",
+        "id": "1662439435726905344",
+        "location": "東京 渋谷区",
+        "name": "Michael MoyA",
+        "pinned_tweet_id": "1980865192201535626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980691164454957056/9PYYcgzi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 328,
+          "following_count": 167,
+          "like_count": 7300,
+          "listed_count": 1,
+          "media_count": 44,
+          "tweet_count": 1119
+        },
+        "username": "moya_michaeI",
+        "verified": false
+      }
+    ]
+  }
+}

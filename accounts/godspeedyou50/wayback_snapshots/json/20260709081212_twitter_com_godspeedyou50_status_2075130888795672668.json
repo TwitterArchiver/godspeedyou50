@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2075126590674190531",
+    "created_at": "2026-07-09T08:12:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T09:12:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075130888795672668"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2054912328978817024",
+          "start": 0,
+          "username": "Nauseous_17"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075130888795672668",
+    "in_reply_to_user_id": "2054912328978817024",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075126590674190531",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nauseous_17 建议结晶还是挺简单的，酸化加石脑油再控制ph度"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 480,
+        "media_key": "3_2075126576950423552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMxUoJMaMAAd0Zd.jpg",
+        "width": 1236
+      },
+      {
+        "height": 1056,
+        "media_key": "3_2075126582033973248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMxUocIbAAAbBJR.jpg",
+        "width": 1236
+      },
+      {
+        "height": 737,
+        "media_key": "3_2075126586844811264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMxUouDakAAtcC9.jpg",
+        "width": 1235
+      },
+      {
+        "height": 1229,
+        "media_key": "3_2075126577609007104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMxUoLpbYAAFma7.jpg",
+        "width": 1236
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2075126590674190531",
+        "created_at": "2026-07-09T08:12:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T09:12:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075130888795672668"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2054912328978817024",
+              "start": 0,
+              "username": "Nauseous_17"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075130888795672668",
+        "in_reply_to_user_id": "2054912328978817024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075126590674190531",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nauseous_17 建议结晶还是挺简单的，酸化加石脑油再控制ph度"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075126576950423552",
+            "3_2075126582033973248",
+            "3_2075126586844811264",
+            "3_2075126577609007104"
+          ]
+        },
+        "author_id": "2054912328978817024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2075126590674190531",
+        "created_at": "2026-07-09T07:55:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T08:55:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075126590674190531"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zosZBdFwP6",
+              "end": 174,
+              "expanded_url": "https://x.com/Nauseous_17/status/2075126590674190531/photo/1",
+              "media_key": "3_2075126576950423552",
+              "start": 151,
+              "url": "https://t.co/zosZBdFwP6"
+            },
+            {
+              "display_url": "pic.x.com/zosZBdFwP6",
+              "end": 174,
+              "expanded_url": "https://x.com/Nauseous_17/status/2075126590674190531/photo/1",
+              "media_key": "3_2075126582033973248",
+              "start": 151,
+              "url": "https://t.co/zosZBdFwP6"
+            },
+            {
+              "display_url": "pic.x.com/zosZBdFwP6",
+              "end": 174,
+              "expanded_url": "https://x.com/Nauseous_17/status/2075126590674190531/photo/1",
+              "media_key": "3_2075126586844811264",
+              "start": 151,
+              "url": "https://t.co/zosZBdFwP6"
+            },
+            {
+              "display_url": "pic.x.com/zosZBdFwP6",
+              "end": 174,
+              "expanded_url": "https://x.com/Nauseous_17/status/2075126590674190531/photo/1",
+              "media_key": "3_2075126577609007104",
+              "start": 151,
+              "url": "https://t.co/zosZBdFwP6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075126590674190531",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 62,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近打算做个从相思树里提纯dmt色胺的化学实验 之前一直没干确实有部分传奇药师spring风的先例原因 但ta是熬成死藤水喝汤的 我不喜欢这种摄入方式 所以要自己制成游离碱 因为是化学工艺我也在想测试问题 我一向剧烈自信 但也会怕不小心嘎了 生性谨慎习惯了\n最后被糯米一下子想到测试方案了！剧烈聪明！ https://t.co/zosZBdFwP6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个违背了大众道德良知od喝大酒的神棍。\n☯️算命后付不怕跑单｜代请符箓、祈福请私讯\n传统宗教现代哲学文化传播者，又称中式廉价心理医生。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/buyaogaowosorry",
+                "end": 23,
+                "expanded_url": "https://t.me/buyaogaowosorry",
+                "start": 0,
+                "url": "https://t.co/AdoFGQJT3r"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2069223594711011526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1625,
+          "following_count": 564,
+          "like_count": 1266,
+          "listed_count": 1,
+          "media_count": 199,
+          "tweet_count": 2844
+        },
+        "url": "https://t.co/AdoFGQJT3r",
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-14T13:11:55.000Z",
+        "description": "是的我是十七 第二账号 随缘回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jiuyouforwhite",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jiuyouforwhite",
+                "start": 0,
+                "url": "https://t.co/AjBpCjFKeY"
+              }
+            ]
+          }
+        },
+        "id": "2054912328978817024",
+        "location": "Hopelessly free",
+        "name": "十七Nauseous",
+        "pinned_tweet_id": "2055265228334739510",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067675245201563648/LId8p_ka_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 646,
+          "following_count": 134,
+          "like_count": 394,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 236
+        },
+        "url": "https://t.co/AjBpCjFKeY",
+        "username": "Nauseous_17",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "1999061914496983458",
+    "created_at": "2025-12-11T10:21:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-11T11:21:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1999061914496983458"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1999061914496983458",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "喜欢把私事摆在台面上的无异于三姓家奴\n应该把私事全抖出来被笑话 讲讲吸毒史\n讲讲AA的东西我答应给你扔下有没有至少10g3贴 讲讲所谓的一百块 继续发私下的交往截图啊\n别撕逼就带上路人 很蠢 你也不是什么好东西 喜欢闹到后果你脸很躁得慌就来 我又不要脸"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "1999061914496983458",
+        "created_at": "2025-12-11T10:21:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T11:21:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999061914496983458"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1999061914496983458",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喜欢把私事摆在台面上的无异于三姓家奴\n应该把私事全抖出来被笑话 讲讲吸毒史\n讲讲AA的东西我答应给你扔下有没有至少10g3贴 讲讲所谓的一百块 继续发私下的交往截图啊\n别撕逼就带上路人 很蠢 你也不是什么好东西 喜欢闹到后果你脸很躁得慌就来 我又不要脸"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1994852955737264187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 670,
+          "following_count": 63,
+          "like_count": 364,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 1011
+        },
+        "username": "godspeedyou50",
+        "verified": false
+      }
+    ]
+  }
+}

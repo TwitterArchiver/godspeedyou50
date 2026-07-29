@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2025830253227282776",
+    "created_at": "2026-02-23T08:27:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T09:27:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025850052347080737"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1816489710682030080",
+          "start": 0,
+          "username": "keaiiea"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025850052347080737",
+    "in_reply_to_user_id": "1816489710682030080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025830253227282776",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@keaiiea 其实是服从性调试加上懒，我姑且就是这种领导，没办法，我以前也挺心酸的。\n但是总是要把一件很简单的小事变得很复杂的，不然显得我并没有太大作用和这个体系其实很简单，这就是管理层"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2025830253227282776",
+        "created_at": "2026-02-23T08:27:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T09:27:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025850052347080737"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1816489710682030080",
+              "start": 0,
+              "username": "keaiiea"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025850052347080737",
+        "in_reply_to_user_id": "1816489710682030080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025830253227282776",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@keaiiea 其实是服从性调试加上懒，我姑且就是这种领导，没办法，我以前也挺心酸的。\n但是总是要把一件很简单的小事变得很复杂的，不然显得我并没有太大作用和这个体系其实很简单，这就是管理层"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1816489710682030080",
+        "conversation_id": "2025830253227282776",
+        "created_at": "2026-02-23T07:09:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T08:09:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025830253227282776"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2025830253227282776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "中国充满了各种傻逼效率低下的领导和甲方，假设要提交一个方案，领导和甲方发现有若干需要改的地方，他们不会一次性提出这些要求，而是会每提交一次提出一个要求，审阅过程又慢又低质，甚至在最后还会有个后悔环节，要求改回原先的样子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。/@Jahseh14138/双相I型/欢迎提问",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "Jahseh14138"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jahseh79919",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jahseh79919",
+                "start": 0,
+                "url": "https://t.co/xaz6T7v19q"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1994852955737264187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 767,
+          "following_count": 129,
+          "like_count": 442,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 1355
+        },
+        "url": "https://t.co/xaz6T7v19q",
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-25T15:04:46.000Z",
+        "description": "我是jonas",
+        "id": "1816489710682030080",
+        "name": "人生有梦磕药撸管886",
+        "pinned_tweet_id": "1983196415313752421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983194484243640320/zM9EhOUv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 647,
+          "following_count": 394,
+          "like_count": 20770,
+          "listed_count": 0,
+          "media_count": 224,
+          "tweet_count": 1567
+        },
+        "username": "keaiiea",
+        "verified": false
+      }
+    ]
+  }
+}

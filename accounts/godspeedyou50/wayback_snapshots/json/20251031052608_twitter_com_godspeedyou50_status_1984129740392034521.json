@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "1984129740392034521",
+    "created_at": "2025-10-31T05:26:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-31T06:26:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1984129740392034521"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/taoisthan1911/…",
+          "end": 56,
+          "expanded_url": "https://twitter.com/taoisthan1911/status/1984114907646963898",
+          "start": 33,
+          "url": "https://t.co/XRWV8at4Zo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984129740392034521",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984114907646963898",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我何德何能？\n妈妈我终于到了全世界最高原组织了\n共济会出列！！！ https://t.co/XRWV8at4Zo"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "1984129740392034521",
+        "created_at": "2025-10-31T05:26:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T06:26:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984129740392034521"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/taoisthan1911/…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/taoisthan1911/status/1984114907646963898",
+              "start": 33,
+              "url": "https://t.co/XRWV8at4Zo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984129740392034521",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984114907646963898",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我何德何能？\n妈妈我终于到了全世界最高原组织了\n共济会出列！！！ https://t.co/XRWV8at4Zo"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1871954049538654209",
+        "conversation_id": "1984098876551553157",
+        "created_at": "2025-10-31T04:27:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T05:27:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984114907646963898"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1896061942785310720",
+              "start": 0,
+              "username": "notThujaS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984114907646963898",
+        "in_reply_to_user_id": "1896061942785310720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984098876551553157",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@notThujaS 其实是共济会光明会的标志👁️共济会光明会会员在互相接头，普通人以为只是普通的emoji"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "路人。and这段日子我愿意聊天，欢迎找我解惑，定期批量回fo或者私我",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1983757018830663844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983944337726787584/JcjyTY_u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 417,
+          "following_count": 255,
+          "like_count": 105,
+          "listed_count": 1,
+          "media_count": 53,
+          "tweet_count": 605
+        },
+        "username": "godspeedyou50",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-25T16:20:07.000Z",
+        "description": "【反共學】【漢學】授課教員NPC🤓國產思政AI\n\n@aas787878778\n@whyyoutouzhele",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 25,
+                "username": "aas787878778"
+              },
+              {
+                "end": 54,
+                "start": 39,
+                "username": "whyyoutouzhele"
+              }
+            ]
+          }
+        },
+        "id": "1871954049538654209",
+        "name": "反共教員",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960638253926899712/2AiQFbC2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 862,
+          "following_count": 523,
+          "like_count": 34469,
+          "listed_count": 3,
+          "media_count": 290,
+          "tweet_count": 6360
+        },
+        "username": "TaoistHan1911",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2069388994014859700",
+    "created_at": "2026-06-23T11:55:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T12:55:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069388994014859700"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/c020402/status…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/c020402/status/2067831504819060965",
+          "start": 14,
+          "url": "https://t.co/g61qxTZ7gh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069388994014859700",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067831504819060965",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "太牛逼了 原料革命 好样的 https://t.co/g61qxTZ7gh"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2069388994014859700",
+        "created_at": "2026-06-23T11:55:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T12:55:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069388994014859700"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/c020402/status…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/c020402/status/2067831504819060965",
+              "start": 14,
+              "url": "https://t.co/g61qxTZ7gh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069388994014859700",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067831504819060965",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "太牛逼了 原料革命 好样的 https://t.co/g61qxTZ7gh"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1872858571563753472",
+        "conversation_id": "2067831504819060965",
+        "created_at": "2026-06-19T04:47:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T05:47:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067831504819060965"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067831504819060965",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 436,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "呃 好的我现在有一个1000g 15000元的1161报价。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/buyaogaowosorry",
+                "end": 23,
+                "expanded_url": "https://t.me/buyaogaowosorry",
+                "start": 0,
+                "url": "https://t.co/AdoFGQJT3r"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2069223594711011526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1377,
+          "following_count": 363,
+          "like_count": 1190,
+          "listed_count": 1,
+          "media_count": 186,
+          "tweet_count": 2748
+        },
+        "url": "https://t.co/AdoFGQJT3r",
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-28T04:14:21.000Z",
+        "description": "hold me now!",
+        "id": "1872858571563753472",
+        "name": "C",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060947855200952320/JE-P-e1i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 21,
+          "like_count": 79,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 93
+        },
+        "url": "",
+        "username": "c020402",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2071678773901349170",
+    "created_at": "2026-06-29T19:42:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T20:42:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071680824093941828"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1757603703811371008",
+          "start": 0,
+          "username": "11andpr89648964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071680824093941828",
+    "in_reply_to_user_id": "1757603703811371008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071678773901349170",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@11andpr89648964 国潮来啦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2071678773901349170",
+        "created_at": "2026-06-29T19:42:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T20:42:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071680824093941828"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1757603703811371008",
+              "start": 0,
+              "username": "11andpr89648964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071680824093941828",
+        "in_reply_to_user_id": "1757603703811371008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071678773901349170",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@11andpr89648964 国潮来啦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757603703811371008",
+        "conversation_id": "2071678773901349170",
+        "created_at": "2026-06-29T19:34:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T20:34:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071678773901349170"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071678773901349170",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "月经来啦！！！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个违背了大众道德良知的神棍。\n☯️算命后付不怕跑单｜代请符箓、祈福请私讯\n传统宗教现代哲学文化传播者，又称中式廉价心理医生。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/buyaogaowosorry",
+                "end": 23,
+                "expanded_url": "https://t.me/buyaogaowosorry",
+                "start": 0,
+                "url": "https://t.co/AdoFGQJT3r"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2069223594711011526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1571,
+          "following_count": 545,
+          "like_count": 1262,
+          "listed_count": 1,
+          "media_count": 198,
+          "tweet_count": 2808
+        },
+        "url": "https://t.co/AdoFGQJT3r",
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-14T03:12:45.000Z",
+        "description": "重度双相情感障碍患者 友跨 顺女 爱我请给我买普瑞巴林… 我爱普瑞 普瑞爱我 最喜欢的动物是小鸡𖤐HAIL SATAN.666𖤐 🚪52",
+        "id": "1757603703811371008",
+        "location": "普瑞药效里",
+        "name": "11",
+        "pinned_tweet_id": "2066273352856306030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043146436347613185/S_9YQ-s3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1439,
+          "following_count": 965,
+          "like_count": 184,
+          "listed_count": 1,
+          "media_count": 201,
+          "tweet_count": 2002
+        },
+        "url": "",
+        "username": "11andpr89648964",
+        "verified": false
+      }
+    ]
+  }
+}

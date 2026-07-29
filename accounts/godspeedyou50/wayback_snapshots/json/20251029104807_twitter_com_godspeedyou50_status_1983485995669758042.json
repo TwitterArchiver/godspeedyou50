@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "1983437072548683950",
+    "created_at": "2025-10-29T10:48:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-29T11:48:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983485995669758042"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1823987651655127040",
+          "start": 0,
+          "username": "ookoukibob"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983485995669758042",
+    "in_reply_to_user_id": "1823987651655127040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983437072548683950",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ookoukibob 鸡哥的烂wiki你能看得下去我也服了 不引流 同上"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "1983437072548683950",
+        "created_at": "2025-10-29T10:48:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T11:48:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983485995669758042"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1823987651655127040",
+              "start": 0,
+              "username": "ookoukibob"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983485995669758042",
+        "in_reply_to_user_id": "1823987651655127040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983437072548683950",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ookoukibob 鸡哥的烂wiki你能看得下去我也服了 不引流 同上"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1823987651655127040",
+        "conversation_id": "1983437072548683950",
+        "created_at": "2025-10-29T07:33:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T08:33:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983437072548683950"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1983437072548683950",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 54,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "求求你们别杀🐔哥喵😭😭😭  🐔哥4️⃣了我去哪个wiki😭😭😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "路人。and这段日子我愿意聊天，欢迎找我解惑，定期批量回fo或者私我",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1982515322788942238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827690417619697665/4z5RgWOE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 391,
+          "following_count": 232,
+          "like_count": 84,
+          "listed_count": 1,
+          "media_count": 45,
+          "tweet_count": 548
+        },
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-15T07:38:48.000Z",
+        "description": "前小镇做题家，现霓虹&内地某小城挂壁中。比较菜的数竞生，还算及格的乐手，怪猎太刀🦐，专注硬件的Tinkerer，不od的Biohacker。各方面的温和骑墙派。接药物报告中，求投稿私信❤️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ookoukibob92491",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ookoukibob92491",
+                "start": 0,
+                "url": "https://t.co/1RB1UGdjTR"
+              }
+            ]
+          }
+        },
+        "id": "1823987651655127040",
+        "location": "Toshima-ku, Tokyo",
+        "name": "OokoukiBob",
+        "pinned_tweet_id": "1971912857026547937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1823987821943934976/b_FqfB7P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 213,
+          "like_count": 147,
+          "listed_count": 1,
+          "media_count": 56,
+          "tweet_count": 217
+        },
+        "url": "https://t.co/1RB1UGdjTR",
+        "username": "ookoukibob",
+        "verified": false
+      }
+    ]
+  }
+}

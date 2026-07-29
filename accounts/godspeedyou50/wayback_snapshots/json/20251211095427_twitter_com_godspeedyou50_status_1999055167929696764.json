@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "1999046086347112765",
+    "created_at": "2025-12-11T09:54:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-11T10:54:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999055167929696764"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1812582185293234176",
+          "start": 0,
+          "username": "xingyi1234567"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999055167929696764",
+    "in_reply_to_user_id": "1812582185293234176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999050879933243619",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xingyi1234567 所以你就是那种不明所以的群众呀\n我什么时候豁达又什么时候不豁达了呢\n你哥随手roll10g叶子不要了给他们买烟纸烟料你看见了 你的朋友使出贱人那出恶心你 你就乐坏了\n傻逼 翻开你妈的肿胀阴核回炉重造呗？？？\n你无脑我理解 你们背后骂发帖子骂无妨 你来我这我就祝你全家死绝-.-"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "1999046086347112765",
+        "created_at": "2025-12-11T09:54:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T10:54:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999055167929696764"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1812582185293234176",
+              "start": 0,
+              "username": "xingyi1234567"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999055167929696764",
+        "in_reply_to_user_id": "1812582185293234176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999050879933243619",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xingyi1234567 所以你就是那种不明所以的群众呀\n我什么时候豁达又什么时候不豁达了呢\n你哥随手roll10g叶子不要了给他们买烟纸烟料你看见了 你的朋友使出贱人那出恶心你 你就乐坏了\n傻逼 翻开你妈的肿胀阴核回炉重造呗？？？\n你无脑我理解 你们背后骂发帖子骂无妨 你来我这我就祝你全家死绝-.-"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1812582185293234176",
+        "conversation_id": "1999046086347112765",
+        "created_at": "2025-12-11T09:37:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T10:37:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999050879933243619"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1518404201168007168",
+              "start": 0,
+              "username": "godspeedyou50"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999050879933243619",
+        "in_reply_to_user_id": "1518404201168007168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999046086347112765",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@godspeedyou50 毒虫的一点优越感就是靠那群随时毙命的朋友吗？这就是人脉与眼界？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1994852955737264187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 670,
+          "following_count": 63,
+          "like_count": 364,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 1004
+        },
+        "username": "godspeedyou50",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-14T20:17:32.000Z",
+        "description": "废人日记",
+        "id": "1812582185293234176",
+        "name": "^_^",
+        "pinned_tweet_id": "1988979830260658279",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1812669906808168450/WFOUJ4st_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 80,
+          "like_count": 920,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 373
+        },
+        "username": "xingyi1234567",
+        "verified": false
+      }
+    ]
+  }
+}

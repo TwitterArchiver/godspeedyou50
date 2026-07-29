@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "1991885851446722901",
+    "created_at": "2025-11-21T15:31:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-21T16:31:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991892154634100821"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1823446565245345792",
+          "start": 0,
+          "username": "cFPwMr5ZHy948"
+        },
+        {
+          "end": 28,
+          "id": "1989627406391635968",
+          "start": 15,
+          "username": "drug_artist2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991892154634100821",
+    "in_reply_to_user_id": "1823446565245345792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991891917538558261",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cFPwMr5ZHy948 @drug_artist2 那都给你 问问人家药圈皇帝吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "1991885851446722901",
+        "created_at": "2025-11-21T15:31:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T16:31:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991892154634100821"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1823446565245345792",
+              "start": 0,
+              "username": "cFPwMr5ZHy948"
+            },
+            {
+              "end": 28,
+              "id": "1989627406391635968",
+              "start": 15,
+              "username": "drug_artist2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991892154634100821",
+        "in_reply_to_user_id": "1823446565245345792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991891917538558261",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cFPwMr5ZHy948 @drug_artist2 那都给你 问问人家药圈皇帝吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1823446565245345792",
+        "conversation_id": "1991885851446722901",
+        "created_at": "2025-11-21T15:30:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T16:30:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991891917538558261"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1518404201168007168",
+              "start": 0,
+              "username": "godspeedyou50"
+            },
+            {
+              "end": 28,
+              "id": "1989627406391635968",
+              "start": 15,
+              "username": "drug_artist2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991891917538558261",
+        "in_reply_to_user_id": "1518404201168007168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991890916026786248",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@godspeedyou50 @drug_artist2 能分我一个吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "路人。and这段日子我愿意聊天，欢迎找我解惑，定期批量回fo或者私我",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1983757018830663844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990279769297149952/3r34Cj2f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 621,
+          "following_count": 308,
+          "like_count": 263,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 904
+        },
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-13T19:48:43.000Z",
+        "description": "",
+        "id": "1823446565245345792",
+        "name": "家妻",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984205402310094848/RWKLWNzB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 11,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 5
+        },
+        "username": "cFPwMr5ZHy948",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-15T09:32:30.000Z",
+        "description": "药物百科wiki主|投稿报告请私信我|长发视觉系4i男娘|售卖合法物质直接私信我或联系TG:https://t.co/FmpWHRKM7z｜提问箱:https://t.co/zPtZpIiuYS |愿每一位药物滥用者都能脱离深渊|提供药物/精神病咨询|im crazy!",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/drug_artist",
+                "end": 69,
+                "expanded_url": "http://t.me/drug_artist",
+                "start": 46,
+                "url": "https://t.co/FmpWHRKM7z"
+              },
+              {
+                "display_url": "ngl.link/drug_artist",
+                "end": 97,
+                "expanded_url": "http://ngl.link/drug_artist",
+                "start": 74,
+                "url": "https://t.co/zPtZpIiuYS"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/CuWdphsu7d"
+              }
+            ]
+          }
+        },
+        "id": "1989627406391635968",
+        "location": "Xanax天国2mg自治区",
+        "name": "沐雨",
+        "pinned_tweet_id": "1991885851446722901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989627623304302594/iRhfipvR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 545,
+          "following_count": 13,
+          "like_count": 18,
+          "listed_count": 1,
+          "media_count": 3,
+          "tweet_count": 43
+        },
+        "url": "https://t.co/CuWdphsu7d",
+        "username": "drug_artist2",
+        "verified": false
+      }
+    ]
+  }
+}

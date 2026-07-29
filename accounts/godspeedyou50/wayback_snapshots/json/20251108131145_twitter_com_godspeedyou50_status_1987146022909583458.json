@@ -1,0 +1,143 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "1987146022909583458",
+    "created_at": "2025-11-08T13:11:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-08T14:11:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1987146022909583458"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/i/spaces/1ynKO…",
+          "end": 23,
+          "expanded_url": "https://x.com/i/spaces/1ynKOMWbEkEJR",
+          "images": [
+            {
+              "height": 634,
+              "url": "https://pbs.twimg.com/news_img/1987146028353753088/cZ6Js_yq?format=jpg&name=orig",
+              "width": 1202
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1987146028353753088/cZ6Js_yq?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 0,
+          "status": 200,
+          "title": "X",
+          "unwound_url": "https://twitter.com/i/spaces/1ynKOMWbEkEJR/peek",
+          "url": "https://t.co/kW322uPN35"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987146022909583458",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/kW322uPN35"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "1987146022909583458",
+        "created_at": "2025-11-08T13:11:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T14:11:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987146022909583458"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/i/spaces/1ynKO…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/spaces/1ynKOMWbEkEJR",
+              "images": [
+                {
+                  "height": 634,
+                  "url": "https://pbs.twimg.com/news_img/1987146028353753088/cZ6Js_yq?format=jpg&name=orig",
+                  "width": 1202
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1987146028353753088/cZ6Js_yq?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "X",
+              "unwound_url": "https://twitter.com/i/spaces/1ynKOMWbEkEJR/peek",
+              "url": "https://t.co/kW322uPN35"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987146022909583458",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/kW322uPN35"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "路人。and这段日子我愿意聊天，欢迎找我解惑，定期批量回fo或者私我",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1983757018830663844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984905090818523136/vVZ-D8dQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 462,
+          "following_count": 270,
+          "like_count": 133,
+          "listed_count": 1,
+          "media_count": 64,
+          "tweet_count": 723
+        },
+        "username": "godspeedyou50",
+        "verified": true
+      }
+    ]
+  }
+}

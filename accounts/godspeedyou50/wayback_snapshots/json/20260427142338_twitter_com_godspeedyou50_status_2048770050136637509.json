@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2048766732840685764",
+    "created_at": "2026-04-27T14:23:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T15:23:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048770050136637509"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1541826306383437829",
+          "start": 0,
+          "username": "JiusiHuang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048770050136637509",
+    "in_reply_to_user_id": "1541826306383437829",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048769833404411921",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JiusiHuang 你信他是真商还是信小洇是美国总统"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2048766732840685764",
+        "created_at": "2026-04-27T14:23:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T15:23:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048770050136637509"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1541826306383437829",
+              "start": 0,
+              "username": "JiusiHuang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048770050136637509",
+        "in_reply_to_user_id": "1541826306383437829",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048769833404411921",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JiusiHuang 你信他是真商还是信小洇是美国总统"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1541826306383437829",
+        "conversation_id": "2048766732840685764",
+        "created_at": "2026-04-27T14:22:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T15:22:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048769833404411921"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1518404201168007168",
+              "start": 0,
+              "username": "godspeedyou50"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048769833404411921",
+        "in_reply_to_user_id": "1518404201168007168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048766732840685764",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@godspeedyou50 我靠 我还想从她那里买pr来着 所以她是骗子吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。/欢迎提问/@OvooLOO3o",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 17,
+                "username": "OvooLOO3o"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jahseh79919",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jahseh79919",
+                "start": 0,
+                "url": "https://t.co/xaz6T7v19q"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2029134307244294287",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1154,
+          "following_count": 254,
+          "like_count": 988,
+          "listed_count": 0,
+          "media_count": 158,
+          "tweet_count": 2312
+        },
+        "url": "https://t.co/xaz6T7v19q",
+        "username": "godspeedyou50",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-28T16:50:25.000Z",
+        "description": "这里是余～05/od/地雷系/non binary",
+        "id": "1541826306383437829",
+        "name": "yuu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001213696832684032/3ibxgFB4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 42,
+          "like_count": 97,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 85
+        },
+        "username": "JiusiHuang",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2069612113262436726",
+    "created_at": "2026-06-24T12:39:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T13:39:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069762404444221672"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1619698674917068801",
+          "start": 0,
+          "username": "InfiniteTritium"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069762404444221672",
+    "in_reply_to_user_id": "1619698674917068801",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069761312784281741",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@InfiniteTritium 没什么"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2069612113262436726",
+        "created_at": "2026-06-24T12:39:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T13:39:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069762404444221672"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1619698674917068801",
+              "start": 0,
+              "username": "InfiniteTritium"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069762404444221672",
+        "in_reply_to_user_id": "1619698674917068801",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069761312784281741",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@InfiniteTritium 没什么"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1619698674917068801",
+        "conversation_id": "2069612113262436726",
+        "created_at": "2026-06-24T12:35:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T13:35:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069761312784281741"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1518404201168007168",
+              "start": 0,
+              "username": "godspeedyou50"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069761312784281741",
+        "in_reply_to_user_id": "1518404201168007168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069720697023459432",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@godspeedyou50 芜什么是盘🤔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/buyaogaowosorry",
+                "end": 23,
+                "expanded_url": "https://t.me/buyaogaowosorry",
+                "start": 0,
+                "url": "https://t.co/AdoFGQJT3r"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2069223594711011526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1380,
+          "following_count": 365,
+          "like_count": 1195,
+          "listed_count": 1,
+          "media_count": 188,
+          "tweet_count": 2759
+        },
+        "url": "https://t.co/AdoFGQJT3r",
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-29T14:08:10.000Z",
+        "description": "UnrealEngine地编师（学 接 私）｜艺术｜形而上｜理想国｜棱镜｜身外的世界总是模糊的…\n我想休息一下 在一个只有我的世界里。\n匿↘️）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/infinite%20tri…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/infinite%20tritium",
+                "start": 0,
+                "url": "https://t.co/rFRsz41wvR"
+              }
+            ]
+          }
+        },
+        "id": "1619698674917068801",
+        "location": "NewMap",
+        "name": "mono氚",
+        "pinned_tweet_id": "2049368028752875769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916186524884078594/dGmyKGAr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 229,
+          "like_count": 904,
+          "listed_count": 0,
+          "media_count": 140,
+          "tweet_count": 958
+        },
+        "url": "https://t.co/rFRsz41wvR",
+        "username": "InfiniteTritium",
+        "verified": false
+      }
+    ]
+  }
+}

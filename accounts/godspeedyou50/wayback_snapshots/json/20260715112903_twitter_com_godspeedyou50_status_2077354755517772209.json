@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077354749138214912",
+        "3_2077354749121429504"
+      ]
+    },
+    "author_id": "1518404201168007168",
+    "conversation_id": "2077354755517772209",
+    "created_at": "2026-07-15T11:29:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T12:29:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077354755517772209"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/rvUmA35s02",
+          "end": 46,
+          "expanded_url": "https://x.com/godspeedyou50/status/2077354755517772209/photo/1",
+          "media_key": "3_2077354749138214912",
+          "start": 23,
+          "url": "https://t.co/rvUmA35s02"
+        },
+        {
+          "display_url": "pic.x.com/rvUmA35s02",
+          "end": 46,
+          "expanded_url": "https://x.com/godspeedyou50/status/2077354755517772209/photo/1",
+          "media_key": "3_2077354749121429504",
+          "start": 23,
+          "url": "https://t.co/rvUmA35s02"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077354755517772209",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "整完了 兴子在玩奥特曼 佛珠在玩神秘原料子们 https://t.co/rvUmA35s02"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2077354749138214912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNQ_I1baoAAf6c8.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2077354749121429504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNQ_I1XagAAOJ3K.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077354749138214912",
+            "3_2077354749121429504"
+          ]
+        },
+        "author_id": "1518404201168007168",
+        "conversation_id": "2077354755517772209",
+        "created_at": "2026-07-15T11:29:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T12:29:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077354755517772209"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rvUmA35s02",
+              "end": 46,
+              "expanded_url": "https://x.com/godspeedyou50/status/2077354755517772209/photo/1",
+              "media_key": "3_2077354749138214912",
+              "start": 23,
+              "url": "https://t.co/rvUmA35s02"
+            },
+            {
+              "display_url": "pic.x.com/rvUmA35s02",
+              "end": 46,
+              "expanded_url": "https://x.com/godspeedyou50/status/2077354755517772209/photo/1",
+              "media_key": "3_2077354749121429504",
+              "start": 23,
+              "url": "https://t.co/rvUmA35s02"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077354755517772209",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "整完了 兴子在玩奥特曼 佛珠在玩神秘原料子们 https://t.co/rvUmA35s02"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个违背了大众良知od喝大酒的神棍。\n☯️算命后付不怕跑单｜代请符箓、祈福请私讯\n传统宗教现代哲学文化传播者，又称中式廉价心理医生。\n狐朋@Nonentity_xxx17 狗友@Jinggebiezhuaw",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 69,
+                "username": "Nonentity_xxx17"
+              },
+              {
+                "end": 103,
+                "start": 88,
+                "username": "Jinggebiezhuaw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/buyaogaowosorry",
+                "end": 23,
+                "expanded_url": "https://t.me/buyaogaowosorry",
+                "start": 0,
+                "url": "https://t.co/AdoFGQJT3r"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2069223594711011526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1675,
+          "following_count": 599,
+          "like_count": 1273,
+          "listed_count": 1,
+          "media_count": 207,
+          "tweet_count": 2884
+        },
+        "url": "https://t.co/AdoFGQJT3r",
+        "username": "godspeedyou50",
+        "verified": true
+      }
+    ]
+  }
+}

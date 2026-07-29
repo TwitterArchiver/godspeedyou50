@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2019307830248108472",
+    "created_at": "2026-02-05T07:29:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-05T08:29:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019312498227265636"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1698001955422175232",
+          "start": 0,
+          "username": "d07207333210"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019312498227265636",
+    "in_reply_to_user_id": "1698001955422175232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "看了一眼主页，发现你这个人特别喜欢拿各种手册论文来压到别人之后，我就觉得没有回你的必要，因为你这种鬼辩的人就牛皮糖一样粘牙，我转发的帖子原文已经说过了，CPR也就是我用中文表述的心肺复苏完全程序是对的，但前提是是否使用纳洛酮的原因争论的根本不是一个东西，而且我原话说过CPR当中首先使用肾上腺素是对的但是如果呼吸都没有打开，哪怕上呼吸机之前，阿片中毒就绝对优先使用纳若酮，而不是用肾上腺素去让血氧饱和度以及动脉血压造成再次的不稳定，我只告诉你最后一句就像一个水龙头一样，你不把阀门打开，你往里面灌多少水都没有用，你可以继续搜索你的手册再去你的主页挂我，我不会再问你一句，因为你这种文盲就只会用AI和搜索来用这种无厘头的东西来诡辩 睿智-.-"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019307830248108472",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@d07207333210 看了一眼主页，发现你这个人特别喜欢拿各种手册论文来压到别人之后，我就觉得没有回你的必要，因为你这种鬼辩的人就牛皮糖一样粘牙，我转发的帖子原文已经说过了，CPR也就是我用中文表述的心肺复苏完全程序是对的，但前提是是否使用纳洛酮的原因争论的根本不是一个东西，而且我原话说过CPR当中首先使用"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 599,
+        "media_key": "3_2019307823562432512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAYFxEubIAAnkg8.png",
+        "width": 692
+      },
+      {
+        "height": 879,
+        "media_key": "3_2019307823587553281",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAYFxE0acAEQ29n.png",
+        "width": 721
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2019307830248108472",
+        "created_at": "2026-02-05T07:29:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T08:29:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019312498227265636"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1698001955422175232",
+              "start": 0,
+              "username": "d07207333210"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019312498227265636",
+        "in_reply_to_user_id": "1698001955422175232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "看了一眼主页，发现你这个人特别喜欢拿各种手册论文来压到别人之后，我就觉得没有回你的必要，因为你这种鬼辩的人就牛皮糖一样粘牙，我转发的帖子原文已经说过了，CPR也就是我用中文表述的心肺复苏完全程序是对的，但前提是是否使用纳洛酮的原因争论的根本不是一个东西，而且我原话说过CPR当中首先使用肾上腺素是对的但是如果呼吸都没有打开，哪怕上呼吸机之前，阿片中毒就绝对优先使用纳若酮，而不是用肾上腺素去让血氧饱和度以及动脉血压造成再次的不稳定，我只告诉你最后一句就像一个水龙头一样，你不把阀门打开，你往里面灌多少水都没有用，你可以继续搜索你的手册再去你的主页挂我，我不会再问你一句，因为你这种文盲就只会用AI和搜索来用这种无厘头的东西来诡辩 睿智-.-"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019307830248108472",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@d07207333210 看了一眼主页，发现你这个人特别喜欢拿各种手册论文来压到别人之后，我就觉得没有回你的必要，因为你这种鬼辩的人就牛皮糖一样粘牙，我转发的帖子原文已经说过了，CPR也就是我用中文表述的心肺复苏完全程序是对的，但前提是是否使用纳洛酮的原因争论的根本不是一个东西，而且我原话说过CPR当中首先使用"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019307823562432512",
+            "3_2019307823587553281"
+          ]
+        },
+        "author_id": "1698001955422175232",
+        "conversation_id": "2019307830248108472",
+        "created_at": "2026-02-05T07:11:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T08:11:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019307830248108472"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "cpr.heart.org/-/media/cpr-fi…",
+              "end": 59,
+              "expanded_url": "https://cpr.heart.org/-/media/cpr-files/cpr-guidelines-files/highlights/hghlghts_2020eccguidelines_chinese-simplified.pdf",
+              "start": 36,
+              "unwound_url": "https://cpr.heart.org/-/media/cpr-files/cpr-guidelines-files/highlights/hghlghts_2020eccguidelines_chinese-simplified.pdf",
+              "url": "https://t.co/l9zBkwxEGa"
+            },
+            {
+              "display_url": "pic.x.com/IKLR2OdYD7",
+              "end": 83,
+              "expanded_url": "https://x.com/d07207333210/status/2019307830248108472/photo/1",
+              "media_key": "3_2019307823562432512",
+              "start": 60,
+              "url": "https://t.co/IKLR2OdYD7"
+            },
+            {
+              "display_url": "pic.x.com/IKLR2OdYD7",
+              "end": 83,
+              "expanded_url": "https://x.com/d07207333210/status/2019307830248108472/photo/1",
+              "media_key": "3_2019307823587553281",
+              "start": 60,
+              "url": "https://t.co/IKLR2OdYD7"
+            },
+            {
+              "display_url": "x.com/godspeedyou50/…",
+              "end": 107,
+              "expanded_url": "https://twitter.com/godspeedyou50/status/2019302104050045206",
+              "start": 84,
+              "url": "https://t.co/TJifxeVa4L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019307830248108472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019302104050045206",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你比美国心脏协会还牛逼，你简直就是阿片鬼毒虫之王，医院应该请你做特别顾问https://t.co/l9zBkwxEGa https://t.co/IKLR2OdYD7 https://t.co/TJifxeVa4L"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。/@Jahseh14138/严重双相I型",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "Jahseh14138"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1994852955737264187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 715,
+          "following_count": 102,
+          "like_count": 404,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 1198
+        },
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2023-09-02T15:56:46.000Z",
+        "description": "非二元/键政/哲学/日常话题",
+        "id": "1698001955422175232",
+        "name": "邓曦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002166994934902785/uqB2YuLd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 832,
+          "following_count": 870,
+          "like_count": 25004,
+          "listed_count": 4,
+          "media_count": 427,
+          "tweet_count": 4767
+        },
+        "username": "d07207333210",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "1995936572907393356",
+    "created_at": "2025-12-03T10:53:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-03T11:53:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996171009645592894"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2405324646",
+          "start": 0,
+          "username": "alexavad"
+        },
+        {
+          "end": 20,
+          "id": "1920308340737126400",
+          "start": 10,
+          "username": "fusedjiii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996171009645592894",
+    "in_reply_to_user_id": "2405324646",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996169536576671811",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@alexavad @fusedjiii 行"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "1995936572907393356",
+        "created_at": "2025-12-03T10:53:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T11:53:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996171009645592894"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2405324646",
+              "start": 0,
+              "username": "alexavad"
+            },
+            {
+              "end": 20,
+              "id": "1920308340737126400",
+              "start": 10,
+              "username": "fusedjiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996171009645592894",
+        "in_reply_to_user_id": "2405324646",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996169536576671811",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@alexavad @fusedjiii 行"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2405324646",
+        "conversation_id": "1995936572907393356",
+        "created_at": "2025-12-03T10:47:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T11:47:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996169536576671811"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1518404201168007168",
+              "start": 0,
+              "username": "godspeedyou50"
+            },
+            {
+              "end": 25,
+              "id": "1920308340737126400",
+              "start": 15,
+              "username": "fusedjiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996169536576671811",
+        "in_reply_to_user_id": "1518404201168007168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996122399579001053",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@godspeedyou50 @fusedjiii 别杀我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1994852955737264187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 682,
+          "following_count": 324,
+          "like_count": 359,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 965
+        },
+        "username": "godspeedyou50",
+        "verified": false
+      },
+      {
+        "created_at": "2014-03-23T00:20:59.000Z",
+        "description": "何时归",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/ChuangChuangha…",
+                "end": 23,
+                "expanded_url": "https://t.me/ChuangChuanghajimi",
+                "start": 0,
+                "url": "https://t.co/dq6IelJn5p"
+              }
+            ]
+          }
+        },
+        "id": "2405324646",
+        "location": "桃源1.6.4",
+        "name": "пока-пока #战狼二",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995958071848566784/UHqDL_cQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 189,
+          "like_count": 1794,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 1069
+        },
+        "url": "https://t.co/dq6IelJn5p",
+        "username": "alexavad",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-08T02:42:51.000Z",
+        "description": "一般路过门槛妹，私信只想回口令。互联网是我的墓地🪦，爱你们，你们也爱我只爱我好吗",
+        "id": "1920308340737126400",
+        "location": "家",
+        "name": "裴裴小猫好吗",
+        "pinned_tweet_id": "1994016765752549629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994917273942007808/XUPRB-WI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5002,
+          "following_count": 165,
+          "like_count": 675,
+          "listed_count": 11,
+          "media_count": 113,
+          "tweet_count": 1724
+        },
+        "username": "fusedjiii",
+        "verified": false
+      }
+    ]
+  }
+}

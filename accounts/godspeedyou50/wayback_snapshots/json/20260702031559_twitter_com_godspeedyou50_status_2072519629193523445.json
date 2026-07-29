@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2059750059466727507",
+    "created_at": "2026-07-02T03:15:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T04:15:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072519629193523445"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1798774957960572928",
+          "start": 0,
+          "username": "c_ocoaberry"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072519629193523445",
+    "in_reply_to_user_id": "1798774957960572928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059750059466727507",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@c_ocoaberry 我闻闻"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1794,
+        "media_key": "3_2059750053057806337",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJWzwp6aQAE7sTi.jpg",
+        "width": 1196
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2059750059466727507",
+        "created_at": "2026-07-02T03:15:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T04:15:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072519629193523445"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1798774957960572928",
+              "start": 0,
+              "username": "c_ocoaberry"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072519629193523445",
+        "in_reply_to_user_id": "1798774957960572928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059750059466727507",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@c_ocoaberry 我闻闻"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059750053057806337"
+          ]
+        },
+        "author_id": "1798774957960572928",
+        "conversation_id": "2059750059466727507",
+        "created_at": "2026-05-27T21:34:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T22:34:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059750059466727507"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uhfRcGPIev",
+              "end": 29,
+              "expanded_url": "https://x.com/c_ocoaberry/status/2059750059466727507/photo/1",
+              "media_key": "3_2059750053057806337",
+              "start": 6,
+              "url": "https://t.co/uhfRcGPIev"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059750059466727507",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 3674,
+          "like_count": 153,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "終於露腳了 https://t.co/uhfRcGPIev"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个违背了大众道德良知的神棍。\n☯️算命后付不怕跑单｜代请符箓、祈福请私讯\n传统宗教现代哲学文化传播者，又称中式廉价心理医生。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/buyaogaowosorry",
+                "end": 23,
+                "expanded_url": "https://t.me/buyaogaowosorry",
+                "start": 0,
+                "url": "https://t.co/AdoFGQJT3r"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2069223594711011526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1591,
+          "following_count": 554,
+          "like_count": 1264,
+          "listed_count": 1,
+          "media_count": 197,
+          "tweet_count": 2828
+        },
+        "url": "https://t.co/AdoFGQJT3r",
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-06T17:52:44.000Z",
+        "description": "休閒旅行者/法语学习中/喜欢阳光草地海岛冷空气，不睡覺的時間會打高爾夫 但一般都在睡覺。",
+        "id": "1798774957960572928",
+        "name": "Pearl💕",
+        "pinned_tweet_id": "2047643300371583293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870017941259071488/EvflytmG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 902,
+          "following_count": 266,
+          "like_count": 14571,
+          "listed_count": 5,
+          "media_count": 372,
+          "tweet_count": 1475
+        },
+        "url": "",
+        "username": "c_ocoaberry",
+        "verified": false
+      }
+    ]
+  }
+}

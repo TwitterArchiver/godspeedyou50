@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2057023544434012473",
+    "created_at": "2026-05-20T09:00:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T10:00:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057023544434012473"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1830934925769613334",
+          "start": 3,
+          "username": "Jinggebiezhuaw"
+        },
+        {
+          "end": 58,
+          "id": "1518404201168007168",
+          "start": 44,
+          "username": "godspeedyou50"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057023544434012473",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057004853130674224",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Jinggebiezhuaw: 唉！我突然发现我也算是杰森小团体中的开服老玩家了@godspeedyou50"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2057023544434012473",
+        "created_at": "2026-05-20T09:00:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T10:00:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057023544434012473"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1830934925769613334",
+              "start": 3,
+              "username": "Jinggebiezhuaw"
+            },
+            {
+              "end": 58,
+              "id": "1518404201168007168",
+              "start": 44,
+              "username": "godspeedyou50"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057023544434012473",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057004853130674224",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Jinggebiezhuaw: 唉！我突然发现我也算是杰森小团体中的开服老玩家了@godspeedyou50"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1830934925769613334",
+        "conversation_id": "2057004853130674224",
+        "created_at": "2026-05-20T07:45:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T08:45:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057004853130674224"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 38,
+              "id": "1518404201168007168",
+              "start": 24,
+              "username": "godspeedyou50"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057004853130674224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 102,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "唉！我突然发现我也算是杰森小团体中的开服老玩家了@godspeedyou50"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2048720319872192919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1258,
+          "following_count": 289,
+          "like_count": 1067,
+          "listed_count": 0,
+          "media_count": 167,
+          "tweet_count": 2428
+        },
+        "username": "godspeedyou50",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-03T11:45:04.000Z",
+        "description": "女，长头发性恋，精神分裂确诊，导演系在读，精神意大利人，非典型支黑，非典型化学推，喜欢跟小男娘玩。 我的名字读作奥克萨娜 不是OK娑娜。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Oksana_132435",
+                "end": 23,
+                "expanded_url": "https://t.me/Oksana_132435",
+                "start": 0,
+                "url": "https://t.co/McxnWOqV5m"
+              }
+            ]
+          }
+        },
+        "id": "1830934925769613334",
+        "location": "Tokyo-to, Japan",
+        "name": "Oksana💊",
+        "pinned_tweet_id": "1991449358647325050",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836467833401937920/1OZ_D_Qp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2522,
+          "following_count": 406,
+          "like_count": 888,
+          "listed_count": 4,
+          "media_count": 193,
+          "tweet_count": 668
+        },
+        "url": "https://t.co/McxnWOqV5m",
+        "username": "Jinggebiezhuaw",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2070013556490375500",
+    "created_at": "2026-06-25T13:15:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T14:15:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070133791071535456"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2040763670511374336",
+          "start": 0,
+          "username": "Atamiofuoh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070133791071535456",
+    "in_reply_to_user_id": "2040763670511374336",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070130041720356872",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Atamiofuoh 重要的是那碗水"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2070013556490375500",
+        "created_at": "2026-06-25T13:15:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T14:15:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070133791071535456"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2040763670511374336",
+              "start": 0,
+              "username": "Atamiofuoh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070133791071535456",
+        "in_reply_to_user_id": "2040763670511374336",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070130041720356872",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Atamiofuoh 重要的是那碗水"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040763670511374336",
+        "conversation_id": "2070013556490375500",
+        "created_at": "2026-06-25T13:00:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T14:00:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070130041720356872"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1518404201168007168",
+              "start": 0,
+              "username": "godspeedyou50"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070130041720356872",
+        "in_reply_to_user_id": "1518404201168007168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070013556490375500",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@godspeedyou50 鸡公煲太神了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/buyaogaowosorry",
+                "end": 23,
+                "expanded_url": "https://t.me/buyaogaowosorry",
+                "start": 0,
+                "url": "https://t.co/AdoFGQJT3r"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2069223594711011526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1382,
+          "following_count": 370,
+          "like_count": 1201,
+          "listed_count": 1,
+          "media_count": 188,
+          "tweet_count": 2760
+        },
+        "url": "https://t.co/AdoFGQJT3r",
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-05T12:09:36.000Z",
+        "description": "",
+        "id": "2040763670511374336",
+        "name": "Atamio",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040763914150141952/EOFkDQtw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 62,
+          "like_count": 49,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 7
+        },
+        "url": "",
+        "username": "Atamiofuoh",
+        "verified": false
+      }
+    ]
+  }
+}

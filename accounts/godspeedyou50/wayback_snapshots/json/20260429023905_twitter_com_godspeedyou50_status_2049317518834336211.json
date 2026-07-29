@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2049037034535485684",
+    "created_at": "2026-04-29T02:39:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T03:39:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049317518834336211"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2039072056063541248",
+          "start": 0,
+          "username": "rosensmarked"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049317518834336211",
+    "in_reply_to_user_id": "2039072056063541248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049284851216662929",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rosensmarked 谢谢豪哥"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2049037034535485684",
+        "created_at": "2026-04-29T02:39:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T03:39:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049317518834336211"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2039072056063541248",
+              "start": 0,
+              "username": "rosensmarked"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049317518834336211",
+        "in_reply_to_user_id": "2039072056063541248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049284851216662929",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rosensmarked 谢谢豪哥"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2039072056063541248",
+        "conversation_id": "2049037034535485684",
+        "created_at": "2026-04-29T00:29:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T01:29:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049284851216662929"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1518404201168007168",
+              "start": 0,
+              "username": "godspeedyou50"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049284851216662929",
+        "in_reply_to_user_id": "1518404201168007168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049156644823859261",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@godspeedyou50 万一你有仇人呢？玩这种东西就不要公开，除非你在国外。回国真的被警方检测了，只要检测结果没问题，咬死不承认就OK啦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。/欢迎提问/@OvooLOO3o",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 17,
+                "username": "OvooLOO3o"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jahseh79919",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jahseh79919",
+                "start": 0,
+                "url": "https://t.co/xaz6T7v19q"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2029134307244294287",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1206,
+          "following_count": 268,
+          "like_count": 1006,
+          "listed_count": 0,
+          "media_count": 160,
+          "tweet_count": 2336
+        },
+        "url": "https://t.co/xaz6T7v19q",
+        "username": "godspeedyou50",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-31T20:07:29.000Z",
+        "description": "键政能极大提高自身素养，会有美女被优秀的建政男性吸引，因为他们谈吐不凡，提高国际视野对各种投资也很有好处，你跟我说键政没用?什么低认知发言。\n绝对支持刘仲敬主义",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/callum55959",
+                "end": 23,
+                "expanded_url": "https://ngl.link/callum55959",
+                "start": 0,
+                "url": "https://t.co/k2ZGRaK20t"
+              }
+            ]
+          }
+        },
+        "id": "2039072056063541248",
+        "location": "逆向民族主义",
+        "name": "久远寺有珠 (民间键政家)",
+        "pinned_tweet_id": "2048767304536936740",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042581281222070273/eop2xwyz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 33,
+          "like_count": 15,
+          "listed_count": 0,
+          "media_count": 259,
+          "tweet_count": 1291
+        },
+        "url": "https://t.co/k2ZGRaK20t",
+        "username": "rosensmarked",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2070181504018178226",
+    "created_at": "2026-06-25T21:12:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T22:12:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070253925585072599"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2004938037751652352",
+          "start": 0,
+          "username": "liming_9999"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070253925585072599",
+    "in_reply_to_user_id": "2004938037751652352",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070181504018178226",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liming_9999 互关啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2400,
+        "media_key": "3_2070181475769573376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLrDFXvW4AAQe0q.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2400,
+        "media_key": "3_2070181491733127168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLrDGTNXYAATEt6.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2070181504018178226",
+        "created_at": "2026-06-25T21:12:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T22:12:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070253925585072599"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004938037751652352",
+              "start": 0,
+              "username": "liming_9999"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070253925585072599",
+        "in_reply_to_user_id": "2004938037751652352",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070181504018178226",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liming_9999 互关啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070181475769573376",
+            "3_2070181491733127168"
+          ]
+        },
+        "author_id": "2004938037751652352",
+        "conversation_id": "2070181504018178226",
+        "created_at": "2026-06-25T16:25:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T17:25:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070181504018178226"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IzJfETAtwq",
+              "end": 55,
+              "expanded_url": "https://x.com/liming_9999/status/2070181504018178226/photo/1",
+              "media_key": "3_2070181475769573376",
+              "start": 32,
+              "url": "https://t.co/IzJfETAtwq"
+            },
+            {
+              "display_url": "pic.x.com/IzJfETAtwq",
+              "end": 55,
+              "expanded_url": "https://x.com/liming_9999/status/2070181504018178226/photo/1",
+              "media_key": "3_2070181491733127168",
+              "start": 32,
+              "url": "https://t.co/IzJfETAtwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070181504018178226",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "wise美元，欧元账户都开通了，就差港元账户了！要等30天吗？ https://t.co/IzJfETAtwq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个违背道德良知的神棍。/算命后付不怕跑单/代请符箓及更多服务请咨询/传统宗教现代哲学文化传播者，又称中式廉价心理医生。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/buyaogaowosorry",
+                "end": 23,
+                "expanded_url": "https://t.me/buyaogaowosorry",
+                "start": 0,
+                "url": "https://t.co/AdoFGQJT3r"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2069223594711011526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1388,
+          "following_count": 391,
+          "like_count": 1204,
+          "listed_count": 1,
+          "media_count": 188,
+          "tweet_count": 2761
+        },
+        "url": "https://t.co/AdoFGQJT3r",
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-27T15:31:13.000Z",
+        "description": "2018年币圈老韭菜，2025年3月接触合约，亏掉300万，现在负债240万。每天面对银行贷款和生活压力，焦虑拉满。我决定在X上真实记录生活、交易反思和翻身过程。只分享真实心情与教训，欢迎一起走过这段低谷！",
+        "id": "2004938037751652352",
+        "name": "黎明liming",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005098542323695618/iU6poAl-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 39,
+          "like_count": 16,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 40
+        },
+        "url": "",
+        "username": "liming_9999",
+        "verified": true
+      }
+    ]
+  }
+}

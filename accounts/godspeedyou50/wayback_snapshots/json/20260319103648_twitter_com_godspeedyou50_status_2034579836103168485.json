@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2034579836103168485",
+    "created_at": "2026-03-19T10:36:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T11:36:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034579836103168485"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1937073350750466048",
+          "start": 3,
+          "username": "karo269640607"
+        },
+        {
+          "end": 32,
+          "id": "926832662718775296",
+          "start": 19,
+          "username": "lixinquan021"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034579836103168485",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026208008049692887",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @karo269640607: @lixinquan021 谁信谁傻逼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2034579836103168485",
+        "created_at": "2026-03-19T10:36:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T11:36:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034579836103168485"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1937073350750466048",
+              "start": 3,
+              "username": "karo269640607"
+            },
+            {
+              "end": 32,
+              "id": "926832662718775296",
+              "start": 19,
+              "username": "lixinquan021"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034579836103168485",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026208008049692887",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @karo269640607: @lixinquan021 谁信谁傻逼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1937073350750466048",
+        "conversation_id": "1944819317650153712",
+        "created_at": "2026-02-24T08:10:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T09:10:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026208008049692887"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "926832662718775296",
+              "start": 0,
+              "username": "lixinquan021"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026208008049692887",
+        "in_reply_to_user_id": "926832662718775296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 377,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944819317650153712",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lixinquan021 谁信谁傻逼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。/双相I型/欢迎提问",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jahseh79919",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jahseh79919",
+                "start": 0,
+                "url": "https://t.co/xaz6T7v19q"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2029134307244294287",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 921,
+          "following_count": 200,
+          "like_count": 660,
+          "listed_count": 1,
+          "media_count": 111,
+          "tweet_count": 1781
+        },
+        "url": "https://t.co/xaz6T7v19q",
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-23T09:01:20.000Z",
+        "description": "o割餐券 |  虚无主义 | 生物化学药理板绘❤️ | 同类互fo呀 | 使用英文和简体中文|讨厌一切宗教 |恐游像素RPG爱好者|任何物种或性取向欢迎 | 化学极乐 | 崇拜spring风 | 基佬孝女，言切拒拆逆| 政治立场为混乱中立平等歧视所有国家领导人、键政的和所有人",
+        "id": "1937073350750466048",
+        "name": "雨鈴",
+        "pinned_tweet_id": "2032344559875924058",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028587877639045120/B1wypVK8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 127,
+          "like_count": 9291,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 902
+        },
+        "username": "karo269640607",
+        "verified": false
+      },
+      {
+        "created_at": "2017-11-04T15:25:01.000Z",
+        "description": "李云齐实验室，曼谷吉隆坡西港毛发检测，物质分析化学结构毒物检验，毒辩律师团队。排毒戒毒中药配方，降瘾缓解戒断和后遗症，误吸后排毒，毛发囊最快15到30天左右干净阴性。微信：jiance56  TG飞机：cchy321 公众号：李云齐毒检与毒辩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCEhTh…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UCEhThn4H1h8PNOPDrGodz5Q",
+                "start": 0,
+                "url": "https://t.co/U6wTh4PLQW"
+              }
+            ]
+          }
+        },
+        "id": "926832662718775296",
+        "location": "Shanghai",
+        "name": "李云齐检测 排毒 辩护",
+        "pinned_tweet_id": "1944819317650153712",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1820876686839418880/H3a2EyW6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 626,
+          "following_count": 10,
+          "like_count": 8,
+          "listed_count": 2,
+          "media_count": 287,
+          "tweet_count": 325
+        },
+        "url": "https://t.co/U6wTh4PLQW",
+        "username": "lixinquan021",
+        "verified": true
+      }
+    ]
+  }
+}

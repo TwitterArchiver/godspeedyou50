@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2067535456653512953",
+    "created_at": "2026-06-18T10:10:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T11:10:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067550620526215445"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1831311533688909824",
+          "start": 0,
+          "username": "Eee_e33"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067550620526215445",
+    "in_reply_to_user_id": "1831311533688909824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067535456653512953",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Eee_e33 我认真听了 很有天赋"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 31058,
+        "height": 1280,
+        "media_key": "13_2067535378031267840",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2067535378031267840/img/9xAfGnxJVQvCeZRh.jpg",
+        "public_metrics": {
+          "view_count": 6
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2067535378031267840/vid/avc1/320x690/20Lyul2C1pMePIu-.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2067535378031267840/vid/avc1/480x1036/xjlfoYlN_KKMBp0B.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2067535378031267840/vid/avc1/592x1280/KPjL8Cdt21wuAlrx.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2067535378031267840/pl/6j2_RMN0udcm57bC.m3u8"
+          }
+        ],
+        "width": 592
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2067535456653512953",
+        "created_at": "2026-06-18T10:10:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T11:10:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067550620526215445"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1831311533688909824",
+              "start": 0,
+              "username": "Eee_e33"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067550620526215445",
+        "in_reply_to_user_id": "1831311533688909824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067535456653512953",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Eee_e33 我认真听了 很有天赋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2067535378031267840"
+          ]
+        },
+        "author_id": "1831311533688909824",
+        "conversation_id": "2067535456653512953",
+        "created_at": "2026-06-18T09:10:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T10:10:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067535456653512953"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WtB15SoB8O",
+              "end": 46,
+              "expanded_url": "https://x.com/Eee_e33/status/2067535456653512953/video/1",
+              "media_key": "13_2067535378031267840",
+              "start": 23,
+              "url": "https://t.co/WtB15SoB8O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067535456653512953",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "吸完棉花糖再听一下我自己写的歌真是爽！！！！ https://t.co/WtB15SoB8O"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2048720319872192919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1369,
+          "following_count": 356,
+          "like_count": 1174,
+          "listed_count": 1,
+          "media_count": 195,
+          "tweet_count": 2729
+        },
+        "username": "godspeedyou50",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-04T12:41:22.000Z",
+        "description": "哈咯！可以叫我小e，是一名混音师，也是音乐制作者，然后我不知道咋写了....",
+        "id": "1831311533688909824",
+        "name": "Eee_e",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972747241543921664/wP3LHRW1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 26,
+          "like_count": 706,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 29
+        },
+        "username": "Eee_e33",
+        "verified": false
+      }
+    ]
+  }
+}

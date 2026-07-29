@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10046838569",
+          "name": "Reddit"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10046838569",
+          "name": "Reddit"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      }
+    ],
+    "conversation_id": "1985517927978983732",
+    "created_at": "2025-11-04T01:22:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-04T02:22:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985517927978983732"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1749232086840647680",
+          "start": 3,
+          "username": "llll926080"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985517927978983732",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985494422008533351",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @llll926080: 不推荐任何没有敬畏之心的人去尝试\n相思汤的幻觉高度不可控，考虑到很多oder有药物联用的习惯，这种情况下使用相思汤这种强效致幻剂是高度危险且不负责任的\n汤里的有效成分dmt所带来的幻觉因人而异，据我的经验bad trip是十分常见的，因过量而导致…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10046838569",
+              "name": "Reddit"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10046838569",
+              "name": "Reddit"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "1985517927978983732",
+        "created_at": "2025-11-04T01:22:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T02:22:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985517927978983732"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1749232086840647680",
+              "start": 3,
+              "username": "llll926080"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985517927978983732",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985494422008533351",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @llll926080: 不推荐任何没有敬畏之心的人去尝试\n相思汤的幻觉高度不可控，考虑到很多oder有药物联用的习惯，这种情况下使用相思汤这种强效致幻剂是高度危险且不负责任的\n汤里的有效成分dmt所带来的幻觉因人而异，据我的经验bad trip是十分常见的，因过量而导致…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749232086840647680",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10046838569",
+              "name": "Reddit"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10046838569",
+              "name": "Reddit"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "1985494422008533351",
+        "created_at": "2025-11-03T23:48:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T00:48:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985494422008533351"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/llll926080/sta…",
+              "end": 173,
+              "expanded_url": "https://twitter.com/llll926080/status/1985493008620388820",
+              "start": 150,
+              "url": "https://t.co/BFhSd9Yyxt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985494422008533351",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 73,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985493008620388820",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不推荐任何没有敬畏之心的人去尝试\n相思汤的幻觉高度不可控，考虑到很多oder有药物联用的习惯，这种情况下使用相思汤这种强效致幻剂是高度危险且不负责任的\n汤里的有效成分dmt所带来的幻觉因人而异，据我的经验bad trip是十分常见的，因过量而导致的恐怖幻觉并诱发精神疾病的案例也很多\n望大家责任使用 https://t.co/BFhSd9Yyxt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "路人。and这段日子我愿意聊天，欢迎找我解惑，定期批量回fo或者私我",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1983757018830663844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984905090818523136/vVZ-D8dQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 453,
+          "following_count": 270,
+          "like_count": 116,
+          "listed_count": 1,
+          "media_count": 61,
+          "tweet_count": 701
+        },
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-22T00:46:54.000Z",
+        "description": "🇨🇳🇨🇦175cm 53kg 17高二坐牢中… 中文/English welcome dm欢迎大家来找我聊天🥺好友位🚪50CNY 后背隐藏能源：@fuckmylife8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 72,
+                "username": "fuckmylife8964"
+              }
+            ]
+          }
+        },
+        "id": "1749232086840647680",
+        "location": "上海",
+        "name": "网友泉顺方",
+        "pinned_tweet_id": "1967704922318835836",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984325613352538112/-fZhgABW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 898,
+          "following_count": 167,
+          "like_count": 1375,
+          "listed_count": 1,
+          "media_count": 380,
+          "tweet_count": 1877
+        },
+        "username": "llll926080",
+        "verified": false
+      }
+    ]
+  }
+}

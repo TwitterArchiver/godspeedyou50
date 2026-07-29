@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "1995859809690907027",
+    "created_at": "2025-12-02T14:17:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-02T15:17:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1995859809690907027"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/salviaswc/stat…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/salviaswc/status/1995854146310996013",
+          "start": 9,
+          "url": "https://t.co/PbZFjUHA4i"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995859809690907027",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995854146310996013",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "到现在都没有吸过 https://t.co/PbZFjUHA4i"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "1995859809690907027",
+        "created_at": "2025-12-02T14:17:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T15:17:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995859809690907027"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/salviaswc/stat…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/salviaswc/status/1995854146310996013",
+              "start": 9,
+              "url": "https://t.co/PbZFjUHA4i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995859809690907027",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995854146310996013",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "到现在都没有吸过 https://t.co/PbZFjUHA4i"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "1995854146310996013",
+        "created_at": "2025-12-02T13:54:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T14:54:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995854146310996013"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/DXM8964LXM/sta…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/DXM8964LXM/status/1995192695644635166",
+              "start": 11,
+              "url": "https://t.co/ZA4NP3jWYy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995854146310996013",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 45,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995192695644635166",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "吸毒的人越来越多了！ https://t.co/ZA4NP3jWYy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1994852955737264187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 679,
+          "following_count": 324,
+          "like_count": 356,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 957
+        },
+        "username": "godspeedyou50",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺丨\nSay Know to Drugs 💊丨\n会发各种东西丨欢迎任何人🌈丨互fo🉑🥰丨如果没回fo的话，请私信哦\n脑婆:@DXM8964LXM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 87,
+                "username": "DXM8964LXM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC",
+                "end": 23,
+                "expanded_url": "https://github.com/SalviaSWC",
+                "start": 0,
+                "url": "https://t.co/NJRjXJi1ON"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "pinned_tweet_id": "1991745849333047520",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984830293103046656/fgZKegRL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1916,
+          "following_count": 710,
+          "like_count": 14398,
+          "listed_count": 7,
+          "media_count": 183,
+          "tweet_count": 3922
+        },
+        "url": "https://t.co/NJRjXJi1ON",
+        "username": "SalviaSWC",
+        "verified": false
+      }
+    ]
+  }
+}

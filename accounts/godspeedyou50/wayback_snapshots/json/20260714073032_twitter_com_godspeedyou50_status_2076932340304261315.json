@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2076931782281462059",
+    "created_at": "2026-07-14T07:30:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T08:30:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076932340304261315"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "891543574873026560",
+          "start": 0,
+          "username": "dcbae7777777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076932340304261315",
+    "in_reply_to_user_id": "891543574873026560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076931782281462059",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dcbae7777777 你要承认上海被称为东方小孟买 但是印度老百姓确实过的不如狗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 583,
+        "media_key": "3_2076931769862168576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNK-cM1boAAKDZH.jpg",
+        "width": 548
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2076931782281462059",
+        "created_at": "2026-07-14T07:30:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T08:30:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076932340304261315"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "891543574873026560",
+              "start": 0,
+              "username": "dcbae7777777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076932340304261315",
+        "in_reply_to_user_id": "891543574873026560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076931782281462059",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dcbae7777777 你要承认上海被称为东方小孟买 但是印度老百姓确实过的不如狗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076931769862168576"
+          ]
+        },
+        "author_id": "891543574873026560",
+        "conversation_id": "2076931782281462059",
+        "created_at": "2026-07-14T07:28:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T08:28:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076931782281462059"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7k5ovJBV13",
+              "end": 32,
+              "expanded_url": "https://x.com/dcbae7777777/status/2076931782281462059/photo/1",
+              "media_key": "3_2076931769862168576",
+              "start": 9,
+              "url": "https://t.co/7k5ovJBV13"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076931782281462059",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "被印度人瞧不起了 https://t.co/7k5ovJBV13"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个违背了大众良知od喝大酒的神棍。\n☯️算命后付不怕跑单｜代请符箓、祈福请私讯\n传统宗教现代哲学文化传播者，又称中式廉价心理医生。\n狐朋@Nonentity_xxx17 狗友@Jinggebiezhuaw",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 69,
+                "username": "Nonentity_xxx17"
+              },
+              {
+                "end": 103,
+                "start": 88,
+                "username": "Jinggebiezhuaw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/buyaogaowosorry",
+                "end": 23,
+                "expanded_url": "https://t.me/buyaogaowosorry",
+                "start": 0,
+                "url": "https://t.co/AdoFGQJT3r"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2069223594711011526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1671,
+          "following_count": 600,
+          "like_count": 1271,
+          "listed_count": 1,
+          "media_count": 207,
+          "tweet_count": 2875
+        },
+        "url": "https://t.co/AdoFGQJT3r",
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2017-07-30T06:18:47.000Z",
+        "description": "被迫躺平的废青",
+        "id": "891543574873026560",
+        "location": "Hong Kong",
+        "name": "歪歪✝️",
+        "pinned_tweet_id": "2075786661410357570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018665882780901377/7LKXxFqv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2374,
+          "following_count": 1704,
+          "like_count": 7282,
+          "listed_count": 9,
+          "media_count": 1342,
+          "tweet_count": 11865
+        },
+        "url": "",
+        "username": "dcbae7777777",
+        "verified": true
+      }
+    ]
+  }
+}

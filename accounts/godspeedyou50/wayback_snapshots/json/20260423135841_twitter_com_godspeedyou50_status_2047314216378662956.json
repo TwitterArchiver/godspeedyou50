@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2033603198884450622",
+    "created_at": "2026-04-23T13:58:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T14:58:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047314216378662956"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1851833628252127232",
+          "start": 0,
+          "username": "MagicalGirlktn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047314216378662956",
+    "in_reply_to_user_id": "1851833628252127232",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047311602769449271",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MagicalGirlktn 版主傻逼不运作"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2033603198884450622",
+        "created_at": "2026-04-23T13:58:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T14:58:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047314216378662956"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1851833628252127232",
+              "start": 0,
+              "username": "MagicalGirlktn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047314216378662956",
+        "in_reply_to_user_id": "1851833628252127232",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047311602769449271",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MagicalGirlktn 版主傻逼不运作"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1851833628252127232",
+        "conversation_id": "2033603198884450622",
+        "created_at": "2026-04-23T13:48:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T14:48:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047311602769449271"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1518404201168007168",
+              "start": 0,
+              "username": "godspeedyou50"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047311602769449271",
+        "in_reply_to_user_id": "1518404201168007168",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033603198884450622",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@godspeedyou50 催更下一期"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。/双相I型/欢迎提问",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jahseh79919",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jahseh79919",
+                "start": 0,
+                "url": "https://t.co/xaz6T7v19q"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2029134307244294287",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1097,
+          "following_count": 231,
+          "like_count": 961,
+          "listed_count": 0,
+          "media_count": 144,
+          "tweet_count": 2264
+        },
+        "url": "https://t.co/xaz6T7v19q",
+        "username": "godspeedyou50",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-31T03:48:55.000Z",
+        "description": "",
+        "id": "1851833628252127232",
+        "name": "魔法少女☆Kotone",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010749565172109313/V7h2hKl3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 82,
+          "like_count": 27,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 35
+        },
+        "username": "MagicalGirlktn",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2040837751524999615",
+    "created_at": "2026-04-06T00:37:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T01:37:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040951972719935538"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1250237155143811076",
+          "start": 0,
+          "username": "1nfinityHeaven"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040951972719935538",
+    "in_reply_to_user_id": "1250237155143811076",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040951727239893444",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1nfinityHeaven 仁义 那就行，毕竟我也不是用减肥的，我就是嗑药总扣吐  我是真心怕哪天嗓子炸了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2040837751524999615",
+        "created_at": "2026-04-06T00:37:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T01:37:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040951972719935538"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1250237155143811076",
+              "start": 0,
+              "username": "1nfinityHeaven"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040951972719935538",
+        "in_reply_to_user_id": "1250237155143811076",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040951727239893444",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1nfinityHeaven 仁义 那就行，毕竟我也不是用减肥的，我就是嗑药总扣吐  我是真心怕哪天嗓子炸了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1250237155143811076",
+        "conversation_id": "2040837751524999615",
+        "created_at": "2026-04-06T00:36:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T01:36:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040951727239893444"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1518404201168007168",
+              "start": 0,
+              "username": "godspeedyou50"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040951727239893444",
+        "in_reply_to_user_id": "1518404201168007168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040950963633262730",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@godspeedyou50 我不用管子的，我想的话如果你担心吐不干净可以试试吐完第一趟之后少量喝水再把胃里的残留物吐出来，我声带没什么损伤，水把胃酸中和一下酸性就不强了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。/双相I型/欢迎提问",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jahseh79919",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jahseh79919",
+                "start": 0,
+                "url": "https://t.co/xaz6T7v19q"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2029134307244294287",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1019,
+          "following_count": 209,
+          "like_count": 861,
+          "listed_count": 0,
+          "media_count": 132,
+          "tweet_count": 2115
+        },
+        "url": "https://t.co/xaz6T7v19q",
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2020-04-15T01:39:09.000Z",
+        "description": "水之湄",
+        "id": "1250237155143811076",
+        "name": "食色性也",
+        "pinned_tweet_id": "1836361021424099715",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037505372240621568/75ygSjX6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7271,
+          "following_count": 196,
+          "like_count": 45038,
+          "listed_count": 11,
+          "media_count": 43,
+          "tweet_count": 12827
+        },
+        "username": "1nfinityHeaven",
+        "verified": false
+      }
+    ]
+  }
+}

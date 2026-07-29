@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2067545714172055907",
+    "created_at": "2026-06-18T09:55:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T10:55:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067546728031748427"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1820594914339799040",
+          "start": 0,
+          "username": "2CROW19"
+        },
+        {
+          "end": 22,
+          "id": "1700948552078467072",
+          "start": 9,
+          "username": "Overdose_DBD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067546728031748427",
+    "in_reply_to_user_id": "1820594914339799040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067546647828238667",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@2CROW19 @Overdose_DBD 发一盒"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2067545714172055907",
+        "created_at": "2026-06-18T09:55:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T10:55:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067546728031748427"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1820594914339799040",
+              "start": 0,
+              "username": "2CROW19"
+            },
+            {
+              "end": 22,
+              "id": "1700948552078467072",
+              "start": 9,
+              "username": "Overdose_DBD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067546728031748427",
+        "in_reply_to_user_id": "1820594914339799040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067546647828238667",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@2CROW19 @Overdose_DBD 发一盒"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820594914339799040",
+        "conversation_id": "2067545714172055907",
+        "created_at": "2026-06-18T09:55:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T10:55:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067546647828238667"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1518404201168007168",
+              "start": 0,
+              "username": "godspeedyou50"
+            },
+            {
+              "end": 28,
+              "id": "1700948552078467072",
+              "start": 15,
+              "username": "Overdose_DBD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067546647828238667",
+        "in_reply_to_user_id": "1518404201168007168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067545714172055907",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@godspeedyou50 @Overdose_DBD 老辈子发根双喜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2048720319872192919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1369,
+          "following_count": 356,
+          "like_count": 1174,
+          "listed_count": 1,
+          "media_count": 195,
+          "tweet_count": 2724
+        },
+        "username": "godspeedyou50",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-05T22:57:16.000Z",
+        "description": "我叫永恒。♓192 75 泛性恋\n我的魔王护@jiangj252708\n不堪一击的瓷器。匿名问答↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 22,
+                "username": "jiangj252708"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lon3ly56935",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lon3ly56935",
+                "start": 0,
+                "url": "https://t.co/mYFeDFcvSM"
+              }
+            ]
+          }
+        },
+        "id": "1820594914339799040",
+        "location": "＜500m",
+        "name": "永恆",
+        "pinned_tweet_id": "2055473305411518828",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064326637043486720/oxEnHfI0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 550,
+          "following_count": 102,
+          "like_count": 11168,
+          "listed_count": 1,
+          "media_count": 164,
+          "tweet_count": 2758
+        },
+        "url": "https://t.co/mYFeDFcvSM",
+        "username": "2CROW19",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-10T19:05:21.000Z",
+        "description": "",
+        "id": "1700948552078467072",
+        "name": "超级后后后藤",
+        "pinned_tweet_id": "1777999878117097536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067312916790116352/oy2Qhj8S_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 4586,
+          "following_count": 74,
+          "like_count": 3,
+          "listed_count": 10,
+          "media_count": 743,
+          "tweet_count": 7285
+        },
+        "username": "Overdose_DBD",
+        "verified": false
+      }
+    ]
+  }
+}

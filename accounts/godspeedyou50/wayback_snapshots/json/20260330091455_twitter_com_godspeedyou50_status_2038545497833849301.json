@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2038537463891730701",
+    "created_at": "2026-03-30T09:14:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T10:14:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038545497833849301"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1974276207496867842",
+          "start": 0,
+          "username": "DXMDusk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038545497833849301",
+    "in_reply_to_user_id": "1974276207496867842",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038537463891730701",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DXMDusk 你特么？？？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2038537463891730701",
+        "created_at": "2026-03-30T09:14:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T10:14:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038545497833849301"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1974276207496867842",
+              "start": 0,
+              "username": "DXMDusk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038545497833849301",
+        "in_reply_to_user_id": "1974276207496867842",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038537463891730701",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DXMDusk 你特么？？？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2038537463891730701",
+        "created_at": "2026-03-30T08:43:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T09:43:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038537463891730701"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038537463891730701",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "药物滥用防治知识试卷（高等程度）\n\n───\n\n考试说明：\n\n• 本卷共 5 大题，满分 100 分\n• 考试时间 120 分钟\n• 所有题目均为客观题，请基于科学事实回答\n• 涉及药物仅作知识考查，不构成使用建议\n\n───\n\n一、选择题（每题 4 分，共 40 分）\n\n1. 右美沙芬（DXM）在治疗剂量下主要作用于：\nA. μ-阿片受体\nB. NMDA受体拮抗剂\nC. GABA-A受体正向变构调节\nD. 多巴胺再摄取抑制剂\n\n2. 5-HT综合征的典型三联征不包括：\nA. 认知障碍\nB. 自主神经功能亢进\nC. 肌肉强直\nD. 高热\n\n3. 以下哪种药物能最完全阻断经典致幻剂（如LSD）的效果：\nA. 地西泮\nB. 喹硫平\nC. 昂丹司琼\nD. 利培酮\n\n4. DMT口服无效的主要原因是：\nA. 分子极性太大\nB. 被MAO-A迅速脱甲基\nC. 与血浆蛋白结合率过高\nD. 首过效应CYP3A4代谢\n\n5. 苯海拉明过量导致的抗胆碱能危象中，瞳孔表现为：\nA. 针尖样瞳孔\nB. 散瞳伴畏光\nC. 瞳孔大小正常\nD. 瞳孔不等大\n\n6. 普瑞巴林与下列哪种药物结构最相似：\nA. 苯妥英\nB. 加巴喷丁\nC. 卡马西平\nD. 丙戊酸\n\n7. 飘飘糖（5-HT₂A部分激动剂）的\"高原分级\"4级时，主要效应是：\nA. 轻度欣快\nB. 清晰思维增强\nC. 强烈解离\nD. 深度昏迷\n\n8. 血清素综合征最常见于联用：\nA. SSRI + 苯二氮䓬\nB. MAOI + 酪胺\nC. SSRI + MDMA\nD. SNRI + 咖啡因\n\n9. 以下哪种植物不含DMT：\nA. Mimosa hostilis\nB. Psychotria viridis\nC. Banisteriopsis caapi\nD. Acacia confusa\n\n10. 药物滥用导致的\"解离性身份障碍\"风险最高见于：\nA. DXM长期高剂量\nB. LSD偶发使用\nC. 大麻每日使用\nD. MDMA偶尔使用"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 52,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "药物滥用防治知识试卷（高等程度）\n\n───\n\n考试说明：\n\n• 本卷共 5 大题，满分 100 分\n• 考试时间 120 分钟\n• 所有题目均为客观题，请基于科学事实回答\n• 涉及药物仅作知识考查，不构成使用建议\n\n───\n\n一、选择题（每题 4 分，共 40 分）\n\n1. 右美沙芬（DXM）在治疗剂量下主要作用于：\nA."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。/双相I型/欢迎提问",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jahseh79919",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jahseh79919",
+                "start": 0,
+                "url": "https://t.co/xaz6T7v19q"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2029134307244294287",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 990,
+          "following_count": 196,
+          "like_count": 821,
+          "listed_count": 0,
+          "media_count": 122,
+          "tweet_count": 2015
+        },
+        "url": "https://t.co/xaz6T7v19q",
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1914,
+          "following_count": 1076,
+          "like_count": 1848,
+          "listed_count": 3,
+          "media_count": 287,
+          "tweet_count": 1839
+        },
+        "username": "DXMDusk",
+        "verified": true
+      }
+    ]
+  }
+}

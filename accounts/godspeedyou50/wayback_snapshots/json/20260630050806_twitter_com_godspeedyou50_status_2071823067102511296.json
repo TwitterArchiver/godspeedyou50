@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2071706501383934243",
+    "created_at": "2026-06-30T05:08:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T06:08:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071823067102511296"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1961445458821484552",
+          "start": 0,
+          "username": "sleeplove2333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071823067102511296",
+    "in_reply_to_user_id": "1961445458821484552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071822124642382122",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sleeplove2333 是 在这个平台是常态 我还是没忍住而已"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2071706501383934243",
+        "created_at": "2026-06-30T05:08:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T06:08:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071823067102511296"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1961445458821484552",
+              "start": 0,
+              "username": "sleeplove2333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071823067102511296",
+        "in_reply_to_user_id": "1961445458821484552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071822124642382122",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sleeplove2333 是 在这个平台是常态 我还是没忍住而已"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1961445458821484552",
+        "conversation_id": "2071706501383934243",
+        "created_at": "2026-06-30T05:04:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T06:04:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071822124642382122"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1518404201168007168",
+              "start": 0,
+              "username": "godspeedyou50"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071822124642382122",
+        "in_reply_to_user_id": "1518404201168007168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071706501383934243",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@godspeedyou50 一个父亲，最要面子的角色，说出这些话已经能感受到他的绝望了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个违背了大众道德良知的神棍。\n☯️算命后付不怕跑单｜代请符箓、祈福请私讯\n传统宗教现代哲学文化传播者，又称中式廉价心理医生。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/buyaogaowosorry",
+                "end": 23,
+                "expanded_url": "https://t.me/buyaogaowosorry",
+                "start": 0,
+                "url": "https://t.co/AdoFGQJT3r"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2069223594711011526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1575,
+          "following_count": 546,
+          "like_count": 1264,
+          "listed_count": 1,
+          "media_count": 197,
+          "tweet_count": 2818
+        },
+        "url": "https://t.co/AdoFGQJT3r",
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-29T15:07:04.000Z",
+        "description": "一个疯子",
+        "id": "1961445458821484552",
+        "name": "ido",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071167705504514048/nnL5Kws0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 6,
+          "like_count": 148,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 5
+        },
+        "url": "",
+        "username": "sleeplove2333",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "1983878779304079481",
+    "created_at": "2025-10-30T12:48:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-30T13:48:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1983878779304079481"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/drug_artist1/s…",
+          "end": 86,
+          "expanded_url": "https://twitter.com/drug_artist1/status/1983861675905482798",
+          "start": 63,
+          "url": "https://t.co/5SkTldFhxs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983878779304079481",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983861675905482798",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我刚想说这句话 就刷到了你们太特么吓人了\n真的 谁提出来的 我害怕岔道 但我后天会喝汤 何时是圣诞节？ 今天明天玩两天梗得了 https://t.co/5SkTldFhxs"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "1983878779304079481",
+        "created_at": "2025-10-30T12:48:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T13:48:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983878779304079481"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/drug_artist1/s…",
+              "end": 86,
+              "expanded_url": "https://twitter.com/drug_artist1/status/1983861675905482798",
+              "start": 63,
+              "url": "https://t.co/5SkTldFhxs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983878779304079481",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983861675905482798",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我刚想说这句话 就刷到了你们太特么吓人了\n真的 谁提出来的 我害怕岔道 但我后天会喝汤 何时是圣诞节？ 今天明天玩两天梗得了 https://t.co/5SkTldFhxs"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1963867793776070656",
+        "conversation_id": "1983861675905482798",
+        "created_at": "2025-10-30T11:40:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T12:40:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983861675905482798"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1983861675905482798",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 363,
+          "like_count": 17,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我是沐雨，也是春风生前的好友，见过面聊过天也一起od过，甚至他的死我可以说是最了解的，他的死有一部分是因为我，所以我会很痛苦不太愿意提到这方面，等我缓解一下情绪，可能几天，我会给你们公开真相，希望你们不要讨厌我，春风之死给我带来了比较严重的心理阴影，甚至会导致PTSD，万圣节到了……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "路人。and这段日子我愿意聊天，欢迎找我解惑，定期批量回fo或者私我",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1983757018830663844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827690417619697665/4z5RgWOE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 405,
+          "following_count": 248,
+          "like_count": 97,
+          "listed_count": 1,
+          "media_count": 52,
+          "tweet_count": 587
+        },
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-05T07:32:46.000Z",
+        "description": "药物百科wiki主｜投稿报告请私信我｜长发视觉系4i男娘｜售卖合法物质｜提问箱:https://t.co/ez10SQHDdD｜愿每一位药物滥用者都能脱离深渊｜提供药物咨询 ｜im crazy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/drug_artist",
+                "end": 63,
+                "expanded_url": "https://ngl.link/drug_artist",
+                "start": 40,
+                "url": "https://t.co/ez10SQHDdD"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/N4ZvRTnSIg"
+              }
+            ]
+          }
+        },
+        "id": "1963867793776070656",
+        "location": "Xanax天国12mg自治区",
+        "name": "沐雨",
+        "pinned_tweet_id": "1980936658594996695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963871523082735616/Bl-ILJS5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1257,
+          "following_count": 70,
+          "like_count": 378,
+          "listed_count": 2,
+          "media_count": 38,
+          "tweet_count": 431
+        },
+        "url": "https://t.co/N4ZvRTnSIg",
+        "username": "drug_artist1",
+        "verified": false
+      }
+    ]
+  }
+}

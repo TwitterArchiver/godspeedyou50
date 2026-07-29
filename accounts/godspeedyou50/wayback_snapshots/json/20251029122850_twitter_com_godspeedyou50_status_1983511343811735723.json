@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "1983509423953002762",
+    "created_at": "2025-10-29T12:28:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-29T13:28:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983511343811735723"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1983511343811735723",
+    "in_reply_to_user_id": "1518404201168007168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983509423953002762",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "主要是今天特别心慌气短指尖特别痛 串窍的感觉和吃普瑞差不多 哈哈哈哈"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1983509414561918976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4bXTa-bMAA_uFg.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1127,
+        "media_key": "3_1983509414243127296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4bXTZya0AAVSSi.jpg",
+        "width": 1140
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1983509414289248256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4bXTZ9akAAivex.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1983509414280843264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4bXTZ7aUAAREe4.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "1983509423953002762",
+        "created_at": "2025-10-29T12:28:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T13:28:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983511343811735723"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1983511343811735723",
+        "in_reply_to_user_id": "1518404201168007168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983509423953002762",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "主要是今天特别心慌气短指尖特别痛 串窍的感觉和吃普瑞差不多 哈哈哈哈"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983509414561918976",
+            "3_1983509414243127296",
+            "3_1983509414289248256",
+            "3_1983509414280843264"
+          ]
+        },
+        "author_id": "1518404201168007168",
+        "conversation_id": "1983509423953002762",
+        "created_at": "2025-10-29T12:21:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T13:21:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983509423953002762"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gIHjSkPZIg",
+              "end": 142,
+              "expanded_url": "https://x.com/godspeedyou50/status/1983509423953002762/photo/1",
+              "media_key": "3_1983509414561918976",
+              "start": 119,
+              "url": "https://t.co/gIHjSkPZIg"
+            },
+            {
+              "display_url": "pic.x.com/gIHjSkPZIg",
+              "end": 142,
+              "expanded_url": "https://x.com/godspeedyou50/status/1983509423953002762/photo/1",
+              "media_key": "3_1983509414243127296",
+              "start": 119,
+              "url": "https://t.co/gIHjSkPZIg"
+            },
+            {
+              "display_url": "pic.x.com/gIHjSkPZIg",
+              "end": 142,
+              "expanded_url": "https://x.com/godspeedyou50/status/1983509423953002762/photo/1",
+              "media_key": "3_1983509414289248256",
+              "start": 119,
+              "url": "https://t.co/gIHjSkPZIg"
+            },
+            {
+              "display_url": "pic.x.com/gIHjSkPZIg",
+              "end": 142,
+              "expanded_url": "https://x.com/godspeedyou50/status/1983509423953002762/photo/1",
+              "media_key": "3_1983509414280843264",
+              "start": 119,
+              "url": "https://t.co/gIHjSkPZIg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983509423953002762",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "这两天按理说安眠药吃着不应该躁狂成这样\n昨晚开始两个朋友因为同一种事找我看事\n亲姐姐给我打电话说要上香了，原来如此…..\n我本身精神问题有一部分父母都说是老仙给的 我觉得是和吸毒有前因后果关系吧maybe\n我三爷爷出马后因为WG上吊死的 成了东北俗称的清风碑王也就是鬼仙，后面是我家其他家人，然后都扛不住堂子到我们家供奉\n不懂勿怪 我从不弄虚作假也只是地区文化，在外网这种事应该还挺有意思的，尤其我一个东北毒虫"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这两天按理说安眠药吃着不应该躁狂成这样\n昨晚开始两个朋友因为同一种事找我看事\n亲姐姐给我打电话说要上香了，原来如此…..\n我本身精神问题有一部分父母都说是老仙给的 我觉得是和吸毒有前因后果关系吧maybe\n我三爷爷出马后因为WG上吊死的 https://t.co/gIHjSkPZIg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "路人。and这段日子我愿意聊天，欢迎找我解惑，定期批量回fo或者私我",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1982515322788942238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827690417619697665/4z5RgWOE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 391,
+          "following_count": 233,
+          "like_count": 84,
+          "listed_count": 1,
+          "media_count": 44,
+          "tweet_count": 547
+        },
+        "username": "godspeedyou50",
+        "verified": true
+      }
+    ]
+  }
+}

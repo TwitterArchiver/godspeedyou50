@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "1984542350442709175",
+    "created_at": "2025-11-01T09:46:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-01T10:46:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984557767034880012"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1634793712302604289",
+          "start": 0,
+          "username": "10onatic"
+        },
+        {
+          "end": 22,
+          "id": "1544961704898940929",
+          "start": 10,
+          "username": "Baguette__9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984557767034880012",
+    "in_reply_to_user_id": "1634793712302604289",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984547356772352167",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@10onatic @Baguette__9 真是白瞎了 如果什么都是你的话 真特么自我 没记错我还给你评论过 滚黄推圈去 推特没有健全版颜值赛道哈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "1984542350442709175",
+        "created_at": "2025-11-01T09:46:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T10:46:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984557767034880012"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1634793712302604289",
+              "start": 0,
+              "username": "10onatic"
+            },
+            {
+              "end": 22,
+              "id": "1544961704898940929",
+              "start": 10,
+              "username": "Baguette__9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984557767034880012",
+        "in_reply_to_user_id": "1634793712302604289",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984547356772352167",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@10onatic @Baguette__9 真是白瞎了 如果什么都是你的话 真特么自我 没记错我还给你评论过 滚黄推圈去 推特没有健全版颜值赛道哈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634793712302604289",
+        "conversation_id": "1984542350442709175",
+        "created_at": "2025-11-01T09:05:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T10:05:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984547356772352167"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1544961704898940929",
+              "start": 0,
+              "username": "Baguette__9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984547356772352167",
+        "in_reply_to_user_id": "1544961704898940929",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 65,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984542350442709175",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Baguette__9 上一条说让我自己屏蔽的，先搞清楚顺序前后？我主页刷开就是，我屏蔽这个我还能屏蔽另一个吗？我知道谁是谁不是吗？你们想这样随你们，我想发什么就发什么。你们看不爽也可以屏蔽我啊？何必要在我这里找存在感"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "路人。and这段日子我愿意聊天，欢迎找我解惑，定期批量回fo或者私我",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1983757018830663844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983944337726787584/JcjyTY_u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 425,
+          "following_count": 266,
+          "like_count": 113,
+          "listed_count": 1,
+          "media_count": 53,
+          "tweet_count": 653
+        },
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2023-03-12T05:49:44.000Z",
+        "description": "@1oonatism",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 0,
+                "username": "1oonatism"
+              }
+            ]
+          }
+        },
+        "id": "1634793712302604289",
+        "name": "່",
+        "pinned_tweet_id": "1982797113340698724",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964662123575021568/LUa11yGY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9527,
+          "following_count": 89,
+          "like_count": 1191,
+          "listed_count": 13,
+          "media_count": 238,
+          "tweet_count": 857
+        },
+        "username": "10onatic",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-07T08:29:17.000Z",
+        "description": "你们这群傻逼死全家。",
+        "id": "1544961704898940929",
+        "name": "米安尿包",
+        "pinned_tweet_id": "1627306772800356354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878789814675521536/m2gOclDh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1934,
+          "following_count": 299,
+          "like_count": 12970,
+          "listed_count": 2,
+          "media_count": 240,
+          "tweet_count": 6111
+        },
+        "username": "Baguette__9",
+        "verified": false
+      }
+    ]
+  }
+}

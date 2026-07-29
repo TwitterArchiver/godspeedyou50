@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2018538193021489246",
+    "created_at": "2026-02-03T08:43:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-03T09:43:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018606374192910436"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1390652924481527810",
+          "start": 0,
+          "username": "zqtlovekris99"
+        },
+        {
+          "end": 24,
+          "id": "1572252869923057664",
+          "start": 15,
+          "username": "h1kari_t"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018606374192910436",
+    "in_reply_to_user_id": "1390652924481527810",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018538193021489246",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zqtlovekris99 @h1kari_t 悲哀的是爱德华实际上什么都不懂，他并没有harddrugs的反制基础，wiki只是照搬改写，我不知道有没有准备纳洛酮赛庚定等.."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2018538193021489246",
+        "created_at": "2026-02-03T08:43:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T09:43:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018606374192910436"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1390652924481527810",
+              "start": 0,
+              "username": "zqtlovekris99"
+            },
+            {
+              "end": 24,
+              "id": "1572252869923057664",
+              "start": 15,
+              "username": "h1kari_t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018606374192910436",
+        "in_reply_to_user_id": "1390652924481527810",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018538193021489246",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zqtlovekris99 @h1kari_t 悲哀的是爱德华实际上什么都不懂，他并没有harddrugs的反制基础，wiki只是照搬改写，我不知道有没有准备纳洛酮赛庚定等.."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "2018538193021489246",
+        "created_at": "2026-02-03T04:13:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T05:13:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018538193021489246"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2018538193021489246",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3353,
+          "like_count": 60,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "为什么都在骂镜音，爱德华搞wiki的知道什么能联用什么不能，自己选的这么吃，而且脚踏两条船的也是爱德华，镜音最多就是一个看护不当，怎么就成她害死爱德华了😓因为镜音是女的吗，如果把俩人性别对调一下你们肯定都说好似喵，傻逼的老中都翻墙了还是忘不了爱丁堡那套"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1994852955737264187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 696,
+          "following_count": 94,
+          "like_count": 399,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 1154
+        },
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "翻车顺女 HRT 2023.05.29 | OSDD/od💊/ed BMI15 | 默认蓝v互关其他回fo请私信，求求你了多来点蓝v吧 | 防走丢小号 @nktblovekris99 小猫 @Citrus_amara",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 76,
+                "username": "nktblovekris99"
+              },
+              {
+                "end": 108,
+                "start": 95,
+                "username": "Citrus_amara"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "confess.ngl.link/nekotonbo",
+                "end": 23,
+                "expanded_url": "https://confess.ngl.link/nekotonbo",
+                "start": 0,
+                "url": "https://t.co/osSiOZZo04"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "🚪68搞黄128",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "2004868318680023495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005202233164709888/10McwBTc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11335,
+          "following_count": 1168,
+          "like_count": 23925,
+          "listed_count": 15,
+          "media_count": 4241,
+          "tweet_count": 25708
+        },
+        "url": "https://t.co/osSiOZZo04",
+        "username": "zqtlovekris99",
+        "verified": true
+      },
+      {
+        "created_at": "2022-09-20T15:54:40.000Z",
+        "description": "鈴木光｜打賞006 0969765522570",
+        "id": "1572252869923057664",
+        "location": "天国",
+        "name": "仲夏夜之光",
+        "pinned_tweet_id": "2013246289429799417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017568596512411650/W1ouzNUy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2299,
+          "following_count": 152,
+          "like_count": 10229,
+          "listed_count": 2,
+          "media_count": 310,
+          "tweet_count": 2123
+        },
+        "username": "h1kari_t",
+        "verified": false
+      }
+    ]
+  }
+}

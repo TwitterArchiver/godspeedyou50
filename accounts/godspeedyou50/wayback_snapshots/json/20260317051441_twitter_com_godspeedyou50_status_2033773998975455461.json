@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2033772120656760832"
+      ]
+    },
+    "author_id": "1518404201168007168",
+    "conversation_id": "2033773998975455461",
+    "created_at": "2026-03-17T05:14:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-17T06:14:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2033773998975455461"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/b0zd58BxUJ",
+          "end": 34,
+          "expanded_url": "https://x.com/godspeedyou50/status/2033773998975455461/video/1",
+          "media_key": "13_2033772120656760832",
+          "start": 11,
+          "url": "https://t.co/b0zd58BxUJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033773998975455461",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好了好了忙完了歇逼了 https://t.co/b0zd58BxUJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7645,
+        "height": 1080,
+        "media_key": "13_2033772120656760832",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2033772120656760832/img/yZnh6ElclrFnqx-z.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2033772120656760832/pl/crBmVrGc7wafMB_w.m3u8"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2033772120656760832/vid/avc1/1280x720/4NrY-Y-le8lwJpP0.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2033772120656760832/vid/avc1/480x270/yJOO67Q1kmECxPwP.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2033772120656760832/vid/avc1/1920x1080/pwjazTSnz65OHF4L.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2033772120656760832/vid/avc1/640x360/_Aan4-t92BH-KFHB.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2033772120656760832"
+          ]
+        },
+        "author_id": "1518404201168007168",
+        "conversation_id": "2033773998975455461",
+        "created_at": "2026-03-17T05:14:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T06:14:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033773998975455461"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/b0zd58BxUJ",
+              "end": 34,
+              "expanded_url": "https://x.com/godspeedyou50/status/2033773998975455461/video/1",
+              "media_key": "13_2033772120656760832",
+              "start": 11,
+              "url": "https://t.co/b0zd58BxUJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033773998975455461",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好了好了忙完了歇逼了 https://t.co/b0zd58BxUJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。/双相I型/欢迎提问",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jahseh79919",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jahseh79919",
+                "start": 0,
+                "url": "https://t.co/xaz6T7v19q"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2029134307244294287",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 896,
+          "following_count": 176,
+          "like_count": 629,
+          "listed_count": 1,
+          "media_count": 104,
+          "tweet_count": 1690
+        },
+        "url": "https://t.co/xaz6T7v19q",
+        "username": "godspeedyou50",
+        "verified": true
+      }
+    ]
+  }
+}

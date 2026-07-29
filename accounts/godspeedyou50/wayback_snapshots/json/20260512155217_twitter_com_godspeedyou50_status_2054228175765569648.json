@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2053999568812126377",
+    "created_at": "2026-05-12T15:52:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T16:52:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054228175765569648"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1448206950903255040",
+          "start": 0,
+          "username": "_Shikieiki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054228175765569648",
+    "in_reply_to_user_id": "1448206950903255040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053999568812126377",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_Shikieiki 受体顶烂了 估计得一年半载的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2053999568812126377",
+        "created_at": "2026-05-12T15:52:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T16:52:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054228175765569648"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1448206950903255040",
+              "start": 0,
+              "username": "_Shikieiki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054228175765569648",
+        "in_reply_to_user_id": "1448206950903255040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053999568812126377",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_Shikieiki 受体顶烂了 估计得一年半载的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1448206950903255040",
+        "conversation_id": "2053999568812126377",
+        "created_at": "2026-05-12T00:43:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T01:43:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053999568812126377"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053999568812126377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1128,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "很坏 我对解离剂永久耐受了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。/欢迎提问/@OvooLOO3o/@salmon__sukiii",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 17,
+                "username": "OvooLOO3o"
+              },
+              {
+                "end": 43,
+                "start": 28,
+                "username": "salmon__sukiii"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jahseh79919",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jahseh79919",
+                "start": 0,
+                "url": "https://t.co/xaz6T7v19q"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2029134307244294287",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1227,
+          "following_count": 265,
+          "like_count": 1027,
+          "listed_count": 0,
+          "media_count": 164,
+          "tweet_count": 2384
+        },
+        "url": "https://t.co/xaz6T7v19q",
+        "username": "godspeedyou50",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "因为魔法少女 就是能实现希望与梦想的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "http://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/nDAVDyiKMs"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "解离之家(内含DXM，美金刚，MK801，请自取)暂关提问",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2053378863976284363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 996,
+          "following_count": 922,
+          "like_count": 28119,
+          "listed_count": 1,
+          "media_count": 486,
+          "tweet_count": 4050
+        },
+        "url": "https://t.co/nDAVDyiKMs",
+        "username": "_Shikieiki",
+        "verified": false
+      }
+    ]
+  }
+}

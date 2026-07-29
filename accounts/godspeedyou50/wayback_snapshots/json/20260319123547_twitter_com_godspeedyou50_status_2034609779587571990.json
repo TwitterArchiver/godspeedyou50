@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2034531851696591234",
+    "created_at": "2026-03-19T12:35:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T13:35:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034609779587571990"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1769358210811547648",
+          "start": 0,
+          "username": "dai_jiao70886"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034609779587571990",
+    "in_reply_to_user_id": "1769358210811547648",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034609699933376969",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dai_jiao70886 你抠我吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2034531851696591234",
+        "created_at": "2026-03-19T12:35:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T13:35:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034609779587571990"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1769358210811547648",
+              "start": 0,
+              "username": "dai_jiao70886"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034609779587571990",
+        "in_reply_to_user_id": "1769358210811547648",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034609699933376969",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dai_jiao70886 你抠我吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1769358210811547648",
+        "conversation_id": "2034531851696591234",
+        "created_at": "2026-03-19T12:35:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T13:35:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034609699933376969"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1518404201168007168",
+              "start": 0,
+              "username": "godspeedyou50"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034609699933376969",
+        "in_reply_to_user_id": "1518404201168007168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034607870936068536",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@godspeedyou50 对的，我技术还是可以的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。/双相I型/欢迎提问",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jahseh79919",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jahseh79919",
+                "start": 0,
+                "url": "https://t.co/xaz6T7v19q"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2029134307244294287",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 919,
+          "following_count": 202,
+          "like_count": 668,
+          "listed_count": 1,
+          "media_count": 112,
+          "tweet_count": 1795
+        },
+        "url": "https://t.co/xaz6T7v19q",
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-17T13:41:04.000Z",
+        "description": "小矢/消逝  ｜沉浸在药片子的温柔乡｜同类互fo漏掉记得敲我｜🚪52 详情置顶",
+        "id": "1769358210811547648",
+        "name": "Ireu一x 。.:*♡",
+        "pinned_tweet_id": "2034523383098949722",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033799162605494272/IQUfwxw0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 237,
+          "like_count": 87,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 133
+        },
+        "username": "dai_jiao70886",
+        "verified": false
+      }
+    ]
+  }
+}

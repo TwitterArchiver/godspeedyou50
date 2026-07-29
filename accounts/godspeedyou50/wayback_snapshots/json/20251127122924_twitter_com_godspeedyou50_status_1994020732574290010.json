@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1994020701595217920"
+      ]
+    },
+    "author_id": "1518404201168007168",
+    "conversation_id": "1994020732574290010",
+    "created_at": "2025-11-27T12:29:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T13:29:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1994020732574290010"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/nUqRDuOaNP",
+          "end": 27,
+          "expanded_url": "https://x.com/godspeedyou50/status/1994020732574290010/photo/1",
+          "media_key": "3_1994020701595217920",
+          "start": 4,
+          "url": "https://t.co/nUqRDuOaNP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994020732574290010",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "坏结局 https://t.co/nUqRDuOaNP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1994020701595217920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6wvQ2lbsAAShL3.jpg",
+        "width": 970
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994020701595217920"
+          ]
+        },
+        "author_id": "1518404201168007168",
+        "conversation_id": "1994020732574290010",
+        "created_at": "2025-11-27T12:29:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T13:29:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994020732574290010"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nUqRDuOaNP",
+              "end": 27,
+              "expanded_url": "https://x.com/godspeedyou50/status/1994020732574290010/photo/1",
+              "media_key": "3_1994020701595217920",
+              "start": 4,
+              "url": "https://t.co/nUqRDuOaNP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994020732574290010",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "坏结局 https://t.co/nUqRDuOaNP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "路人。",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1983757018830663844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990279769297149952/3r34Cj2f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 645,
+          "following_count": 311,
+          "like_count": 326,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 953
+        },
+        "username": "godspeedyou50",
+        "verified": false
+      }
+    ]
+  }
+}

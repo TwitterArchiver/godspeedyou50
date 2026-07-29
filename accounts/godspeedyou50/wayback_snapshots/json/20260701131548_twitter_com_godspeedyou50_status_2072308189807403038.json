@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2072062427869724770",
+    "created_at": "2026-07-01T13:15:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T14:15:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072308189807403038"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1913156900306264064",
+          "start": 0,
+          "username": "Ririkayric0407"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072308189807403038",
+    "in_reply_to_user_id": "1913156900306264064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072062427869724770",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ririkayric0407 这辈子有了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2072062419543924736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMFxytVaIAA5vKs.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2072062427869724770",
+        "created_at": "2026-07-01T13:15:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T14:15:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072308189807403038"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1913156900306264064",
+              "start": 0,
+              "username": "Ririkayric0407"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072308189807403038",
+        "in_reply_to_user_id": "1913156900306264064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072062427869724770",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ririkayric0407 这辈子有了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072062419543924736"
+          ]
+        },
+        "author_id": "1913156900306264064",
+        "conversation_id": "2072062427869724770",
+        "created_at": "2026-06-30T20:59:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T21:59:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072062427869724770"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QL6AleaUJT",
+              "end": 39,
+              "expanded_url": "https://x.com/Ririkayric0407/status/2072062427869724770/photo/1",
+              "media_key": "3_2072062419543924736",
+              "start": 16,
+              "url": "https://t.co/QL6AleaUJT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072062427869724770",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 372,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "兽药烟弹你不要走 我好想你们😭 https://t.co/QL6AleaUJT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个违背了大众道德良知的神棍。\n☯️算命后付不怕跑单｜代请符箓、祈福请私讯\n传统宗教现代哲学文化传播者，又称中式廉价心理医生。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/buyaogaowosorry",
+                "end": 23,
+                "expanded_url": "https://t.me/buyaogaowosorry",
+                "start": 0,
+                "url": "https://t.co/AdoFGQJT3r"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2069223594711011526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1588,
+          "following_count": 553,
+          "like_count": 1264,
+          "listed_count": 1,
+          "media_count": 197,
+          "tweet_count": 2824
+        },
+        "url": "https://t.co/AdoFGQJT3r",
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-18T09:06:12.000Z",
+        "description": "我叫小可🐈‍⬛｜世惨一｜173/50kg｜🚪88给的越多我越喜欢你谢谢",
+        "id": "1913156900306264064",
+        "location": "🚪88",
+        "name": "笑气女孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063670442519613440/Y3cPTX_s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 327,
+          "following_count": 49,
+          "like_count": 1708,
+          "listed_count": 1,
+          "media_count": 124,
+          "tweet_count": 1065
+        },
+        "url": "",
+        "username": "Ririkayric0407",
+        "verified": false
+      }
+    ]
+  }
+}

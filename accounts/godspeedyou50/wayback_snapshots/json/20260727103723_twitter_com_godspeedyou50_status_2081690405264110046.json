@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2081690405264110046",
+    "created_at": "2026-07-27T10:37:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T11:37:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081690405264110046"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1830934925769613334",
+          "start": 3,
+          "username": "Jinggebiezhuaw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081690405264110046",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081683659682435248",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Jinggebiezhuaw: 嘿嘿嘿嘿嘿嘿飞行快乐～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2081690405264110046",
+        "created_at": "2026-07-27T10:37:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T11:37:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081690405264110046"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1830934925769613334",
+              "start": 3,
+              "username": "Jinggebiezhuaw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081690405264110046",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081683659682435248",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Jinggebiezhuaw: 嘿嘿嘿嘿嘿嘿飞行快乐～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1830934925769613334",
+        "conversation_id": "2081683659682435248",
+        "created_at": "2026-07-27T10:10:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T11:10:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081683659682435248"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/oksana222rc/st…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/oksana222rc/status/2081683257364828670",
+              "start": 12,
+              "url": "https://t.co/vU7AKqW0DF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081683659682435248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 56,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081683257364828670",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "嘿嘿嘿嘿嘿嘿飞行快乐～ https://t.co/vU7AKqW0DF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个违背了大众良知od喝大酒的神棍。\n☯️算命后付不怕跑单｜代请符箓、祈福请私讯\n传统宗教现代哲学文化传播者，又称中式廉价心理医生。\n魔界频道入口法马康@Pharmakon14138\n狐朋@Nonentity_xxx17 狗友@Jinggebiezhuaw",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 76,
+                "username": "Pharmakon14138"
+              },
+              {
+                "end": 110,
+                "start": 94,
+                "username": "Nonentity_xxx17"
+              },
+              {
+                "end": 128,
+                "start": 113,
+                "username": "Jinggebiezhuaw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/buyaogaowosorry",
+                "end": 23,
+                "expanded_url": "https://t.me/buyaogaowosorry",
+                "start": 0,
+                "url": "https://t.co/AdoFGQJT3r"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2069223594711011526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1755,
+          "following_count": 651,
+          "like_count": 1293,
+          "listed_count": 1,
+          "media_count": 215,
+          "tweet_count": 2966
+        },
+        "url": "https://t.co/AdoFGQJT3r",
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-03T11:45:04.000Z",
+        "description": "女，黑长直性恋，精神分裂确诊，做导演的。非典型化学推，启灵物质狂信徒。RC售卖/化学物质使用咨询💊。我的名字读作奥克萨娜 不是OK娑娜。\n闺蜜：@godspeedyou50、 @Nonentity_xxx17",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 72,
+                "username": "godspeedyou50"
+              },
+              {
+                "end": 104,
+                "start": 88,
+                "username": "Nonentity_xxx17"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Oksana_132435",
+                "end": 23,
+                "expanded_url": "https://t.me/Oksana_132435",
+                "start": 0,
+                "url": "https://t.co/Mj09WQFbLQ"
+              }
+            ]
+          }
+        },
+        "id": "1830934925769613334",
+        "location": "Tokyo-to, Japan",
+        "name": "Oksana💊",
+        "pinned_tweet_id": "2064158937000358141",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836467833401937920/1OZ_D_Qp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3509,
+          "following_count": 263,
+          "like_count": 1675,
+          "listed_count": 5,
+          "media_count": 183,
+          "tweet_count": 823
+        },
+        "url": "https://t.co/Mj09WQFbLQ",
+        "username": "Jinggebiezhuaw",
+        "verified": true
+      }
+    ]
+  }
+}

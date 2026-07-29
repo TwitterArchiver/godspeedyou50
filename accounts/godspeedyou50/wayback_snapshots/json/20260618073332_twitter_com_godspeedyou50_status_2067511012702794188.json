@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2067286527101558891",
+    "created_at": "2026-06-18T07:33:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T08:33:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067511012702794188"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1534344658033180672",
+          "start": 0,
+          "username": "_tom0e_x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067511012702794188",
+    "in_reply_to_user_id": "1534344658033180672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067286527101558891",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_tom0e_x 看见美国人的哪怕是平民口粮，我都觉得我在抽的都是一些狗屎"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2067286519597944832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLB6IvmW0AAouF5.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2067286527101558891",
+        "created_at": "2026-06-18T07:33:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T08:33:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067511012702794188"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1534344658033180672",
+              "start": 0,
+              "username": "_tom0e_x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067511012702794188",
+        "in_reply_to_user_id": "1534344658033180672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067286527101558891",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_tom0e_x 看见美国人的哪怕是平民口粮，我都觉得我在抽的都是一些狗屎"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067286519597944832"
+          ]
+        },
+        "author_id": "1534344658033180672",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2067286527101558891",
+        "created_at": "2026-06-17T16:41:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T17:41:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067286527101558891"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kwt8aY8N4T",
+              "end": 26,
+              "expanded_url": "https://x.com/_tom0e_x/status/2067286527101558891/photo/1",
+              "media_key": "3_2067286519597944832",
+              "start": 3,
+              "url": "https://t.co/kwt8aY8N4T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067286527101558891",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": ":3 https://t.co/kwt8aY8N4T"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2048720319872192919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1369,
+          "following_count": 356,
+          "like_count": 1174,
+          "listed_count": 1,
+          "media_count": 194,
+          "tweet_count": 2720
+        },
+        "url": "",
+        "username": "godspeedyou50",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-08T01:20:56.000Z",
+        "description": "私はサラ/ともえ黒人と日本人のハーフです♥︎\nNonbinary ✨ my lil sis @artsyushi 🫶🏽🩵\n重度のうつ病 | BPD | 自殺念慮 | SH | SED | PTSD",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 46,
+                "username": "artsyushi"
+              }
+            ]
+          }
+        },
+        "id": "1534344658033180672",
+        "location": "Somewhere In Nyc",
+        "name": "Sara 🖤/ともえ✨",
+        "pinned_tweet_id": "2065990778090926196",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060367911307370500/PODa8D-z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 198,
+          "following_count": 105,
+          "like_count": 41233,
+          "listed_count": 1,
+          "media_count": 311,
+          "tweet_count": 2353
+        },
+        "url": "",
+        "username": "_tom0e_x",
+        "verified": false
+      }
+    ]
+  }
+}

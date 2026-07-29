@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "1982193545252307164",
+    "created_at": "2025-10-30T20:13:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-30T21:13:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983990770299498735"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1069968408",
+          "start": 0,
+          "username": "acidvaccine"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983990770299498735",
+    "in_reply_to_user_id": "1069968408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982193545252307164",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@acidvaccine 过去心不可得 现在心不可得 未来心不可得"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "1982193545252307164",
+        "created_at": "2025-10-30T20:13:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T21:13:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983990770299498735"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1069968408",
+              "start": 0,
+              "username": "acidvaccine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983990770299498735",
+        "in_reply_to_user_id": "1069968408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982193545252307164",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@acidvaccine 过去心不可得 现在心不可得 未来心不可得"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1069968408",
+        "conversation_id": "1982193545252307164",
+        "created_at": "2025-10-25T21:12:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-25T22:12:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982193545252307164"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1982193545252307164",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 733,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "世界又轮回了一遍又一遍又一遍又一遍，哈哈哈哈哈哈哈哈哈。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "路人。and这段日子我愿意聊天，欢迎找我解惑，定期批量回fo或者私我",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1983757018830663844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983944337726787584/JcjyTY_u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 414,
+          "following_count": 255,
+          "like_count": 105,
+          "listed_count": 1,
+          "media_count": 53,
+          "tweet_count": 602
+        },
+        "username": "godspeedyou50",
+        "verified": false
+      },
+      {
+        "created_at": "2013-01-08T04:37:06.000Z",
+        "description": "@SickG33024\n\nalone the last one standing is left with nothing but time to think\n\nthe memories i cant recall even if i wanted to forget them that unresolved",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 0,
+                "username": "SickG33024"
+              }
+            ]
+          }
+        },
+        "id": "1069968408",
+        "location": "Blue Earth",
+        "name": "Sickgirl 疫瞄 ⁾⁾ ༘☼ฅ˒˒ ｡・ﾟ",
+        "pinned_tweet_id": "1615671407421296640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983985474311168000/Vkp50Q2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10693,
+          "following_count": 601,
+          "like_count": 1708,
+          "listed_count": 32,
+          "media_count": 1018,
+          "tweet_count": 2291
+        },
+        "username": "acidvaccine",
+        "verified": false
+      }
+    ]
+  }
+}

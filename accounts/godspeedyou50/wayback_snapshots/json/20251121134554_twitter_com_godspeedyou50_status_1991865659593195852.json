@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "1991574928064410010",
+    "created_at": "2025-11-21T13:45:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-21T14:45:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991865659593195852"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1700948552078467072",
+          "start": 0,
+          "username": "Overdose_DBD"
+        },
+        {
+          "end": 26,
+          "id": "1505596113813876736",
+          "start": 14,
+          "username": "chrorine_17"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991865659593195852",
+    "in_reply_to_user_id": "1700948552078467072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991864800885059709",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Overdose_DBD @chrorine_17 怎了 你来吗 我组织组织把她也叫回来 热闹热闹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "1991574928064410010",
+        "created_at": "2025-11-21T13:45:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T14:45:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991865659593195852"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1700948552078467072",
+              "start": 0,
+              "username": "Overdose_DBD"
+            },
+            {
+              "end": 26,
+              "id": "1505596113813876736",
+              "start": 14,
+              "username": "chrorine_17"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991865659593195852",
+        "in_reply_to_user_id": "1700948552078467072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991864800885059709",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Overdose_DBD @chrorine_17 怎了 你来吗 我组织组织把她也叫回来 热闹热闹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700948552078467072",
+        "conversation_id": "1991574928064410010",
+        "created_at": "2025-11-21T13:42:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T14:42:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991864800885059709"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1505596113813876736",
+              "start": 0,
+              "username": "chrorine_17"
+            },
+            {
+              "end": 27,
+              "id": "1518404201168007168",
+              "start": 13,
+              "username": "godspeedyou50"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991864800885059709",
+        "in_reply_to_user_id": "1505596113813876736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991735619731759271",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chrorine_17 @godspeedyou50 😡干什么干什么！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "路人。and这段日子我愿意聊天，欢迎找我解惑，定期批量回fo或者私我",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1983757018830663844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990279769297149952/3r34Cj2f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 617,
+          "following_count": 306,
+          "like_count": 261,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 896
+        },
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2023-09-10T19:05:21.000Z",
+        "description": "谁的附庸？\n高原整活观景台 https://t.co/WnyZ64LosE\n有事请点击https://t.co/UdJgE8LpGT",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/HWA_FK1",
+                "end": 37,
+                "expanded_url": "https://t.me/HWA_FK1",
+                "start": 14,
+                "url": "https://t.co/WnyZ64LosE"
+              },
+              {
+                "display_url": "t.me/SuperGogogotou",
+                "end": 66,
+                "expanded_url": "https://t.me/SuperGogogotou",
+                "start": 43,
+                "url": "https://t.co/UdJgE8LpGT"
+              }
+            ]
+          }
+        },
+        "id": "1700948552078467072",
+        "name": "超级后后后藤",
+        "pinned_tweet_id": "1777999878117097536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984623073275125760/eoadOp59_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4202,
+          "following_count": 57,
+          "like_count": 4,
+          "listed_count": 11,
+          "media_count": 521,
+          "tweet_count": 6225
+        },
+        "username": "Overdose_DBD",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-20T17:24:36.000Z",
+        "description": "朝霞與晚霞都消失不見",
+        "id": "1505596113813876736",
+        "location": "Fiume",
+        "name": "chrorinEVE",
+        "pinned_tweet_id": "1935821900133154990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984829376392044544/-Bz5LJl5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 495,
+          "following_count": 234,
+          "like_count": 14107,
+          "listed_count": 8,
+          "media_count": 213,
+          "tweet_count": 5287
+        },
+        "username": "chrorine_17",
+        "verified": false
+      }
+    ]
+  }
+}

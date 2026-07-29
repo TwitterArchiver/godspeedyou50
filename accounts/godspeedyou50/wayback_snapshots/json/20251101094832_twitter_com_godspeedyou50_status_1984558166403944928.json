@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "1984480054861316255",
+    "created_at": "2025-11-01T09:48:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-01T10:48:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984558166403944928"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1768977125233901568",
+          "start": 0,
+          "username": "wohennixi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984558166403944928",
+    "in_reply_to_user_id": "1768977125233901568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984557106880790873",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wohennixi 大夫说你是啥你就是啥吧 这种情况要吃德巴金"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "1984480054861316255",
+        "created_at": "2025-11-01T09:48:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T10:48:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984558166403944928"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1768977125233901568",
+              "start": 0,
+              "username": "wohennixi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984558166403944928",
+        "in_reply_to_user_id": "1768977125233901568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984557106880790873",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohennixi 大夫说你是啥你就是啥吧 这种情况要吃德巴金"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768977125233901568",
+        "conversation_id": "1984480054861316255",
+        "created_at": "2025-11-01T09:44:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T10:44:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984557106880790873"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1518404201168007168",
+              "start": 0,
+              "username": "godspeedyou50"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984557106880790873",
+        "in_reply_to_user_id": "1518404201168007168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984556307819741633",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@godspeedyou50 我睡眠障碍很严重 还有双相偏抑 现在老老实实吃了半个多月拉莫三秦奎硫平 现在变得很亢奋话多 没有每天躺着了 我也感觉我要调药因为躁狂变严重了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "路人。and这段日子我愿意聊天，欢迎找我解惑，定期批量回fo或者私我",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1983757018830663844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983944337726787584/JcjyTY_u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 425,
+          "following_count": 266,
+          "like_count": 113,
+          "listed_count": 1,
+          "media_count": 53,
+          "tweet_count": 655
+        },
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-16T12:26:39.000Z",
+        "description": "161 44kg b 🚪88/188/288/520 私信只回复口令红包 有礼貌的问问题会回 没回就是睡着惹 可视频验证18.8r",
+        "id": "1768977125233901568",
+        "location": "距离你9.6km",
+        "name": "X^^",
+        "pinned_tweet_id": "1979739415686840359",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854333186546991104/LXKvnBz9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 618,
+          "following_count": 26,
+          "like_count": 149,
+          "listed_count": 3,
+          "media_count": 57,
+          "tweet_count": 175
+        },
+        "username": "wohennixi",
+        "verified": false
+      }
+    ]
+  }
+}

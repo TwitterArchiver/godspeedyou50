@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "1998997882612142522",
+    "created_at": "2025-12-11T06:06:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-11T07:06:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998997882612142522"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1518404201168007168",
+          "start": 3,
+          "username": "godspeedyou50"
+        },
+        {
+          "end": 29,
+          "id": "1659962043460354050",
+          "start": 19,
+          "username": "SalviaSWC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998997882612142522",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998997672620077524",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @godspeedyou50: @SalviaSWC 实际上我本来也没在怕什么祸\n确实是这个嗑药妹被故意诱导来喷我了\n因为有些秘密见光之前才叫秘密 但本来就是我喷的就是了 拼多多树皮 高铁挖大麻 猪逼天价门槛 都是我喷的 我发推特上骂不也是骂 有什么的 只是有些人不自知的…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "1998997882612142522",
+        "created_at": "2025-12-11T06:06:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T07:06:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998997882612142522"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1518404201168007168",
+              "start": 3,
+              "username": "godspeedyou50"
+            },
+            {
+              "end": 29,
+              "id": "1659962043460354050",
+              "start": 19,
+              "username": "SalviaSWC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998997882612142522",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998997672620077524",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @godspeedyou50: @SalviaSWC 实际上我本来也没在怕什么祸\n确实是这个嗑药妹被故意诱导来喷我了\n因为有些秘密见光之前才叫秘密 但本来就是我喷的就是了 拼多多树皮 高铁挖大麻 猪逼天价门槛 都是我喷的 我发推特上骂不也是骂 有什么的 只是有些人不自知的…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "1998769636264067443",
+        "created_at": "2025-12-11T06:05:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T07:05:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998997672620077524"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1659962043460354050",
+              "start": 0,
+              "username": "SalviaSWC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998997672620077524",
+        "in_reply_to_user_id": "1659962043460354050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998787703488524684",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SalviaSWC 实际上我本来也没在怕什么祸\n确实是这个嗑药妹被故意诱导来喷我了\n因为有些秘密见光之前才叫秘密 但本来就是我喷的就是了 拼多多树皮 高铁挖大麻 猪逼天价门槛 都是我喷的 我发推特上骂不也是骂 有什么的 只是有些人不自知的被恶意利用罢了 骂的就是你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1994852955737264187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 672,
+          "following_count": 209,
+          "like_count": 364,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 1000
+        },
+        "username": "godspeedyou50",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺丨\nSay Know to Drugs 💊丨\n会发各种东西丨欢迎任何人🌈丨互fo🉑🥰丨如果没回fo的话，请私信哦\n脑婆:@DXM8964LXM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 87,
+                "username": "DXM8964LXM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC",
+                "end": 23,
+                "expanded_url": "https://github.com/SalviaSWC",
+                "start": 0,
+                "url": "https://t.co/NJRjXJi1ON"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "pinned_tweet_id": "1991745849333047520",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984830293103046656/fgZKegRL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1951,
+          "following_count": 715,
+          "like_count": 15403,
+          "listed_count": 7,
+          "media_count": 184,
+          "tweet_count": 4173
+        },
+        "url": "https://t.co/NJRjXJi1ON",
+        "username": "SalviaSWC",
+        "verified": false
+      }
+    ]
+  }
+}

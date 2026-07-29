@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2036800853269704920",
+    "created_at": "2026-03-26T12:21:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T13:21:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037142929861689378"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1662293107738640384",
+          "start": 0,
+          "username": "SHUGE0731"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037142929861689378",
+    "in_reply_to_user_id": "1662293107738640384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037142825142542738",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SHUGE0731 你走开"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2036800853269704920",
+        "created_at": "2026-03-26T12:21:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T13:21:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037142929861689378"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1662293107738640384",
+              "start": 0,
+              "username": "SHUGE0731"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037142929861689378",
+        "in_reply_to_user_id": "1662293107738640384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037142825142542738",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SHUGE0731 你走开"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662293107738640384",
+        "conversation_id": "2036800853269704920",
+        "created_at": "2026-03-26T12:21:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T13:21:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037142825142542738"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1518404201168007168",
+              "start": 0,
+              "username": "godspeedyou50"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037142825142542738",
+        "in_reply_to_user_id": "1518404201168007168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036800853269704920",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@godspeedyou50 我真得付商水商电的费用 谁爆点金币（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。/双相I型/欢迎提问",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jahseh79919",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jahseh79919",
+                "start": 0,
+                "url": "https://t.co/xaz6T7v19q"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2029134307244294287",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 979,
+          "following_count": 190,
+          "like_count": 753,
+          "listed_count": 0,
+          "media_count": 118,
+          "tweet_count": 1948
+        },
+        "url": "https://t.co/xaz6T7v19q",
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | ⚠️负面内容&日常全是废话｜可以叫我洋流&Asuka｜鹦鹉叫uno｜请跟我聊天｜超级社恐但是谢谢你们｜欢迎互fo｜🚪20 ｜ lover & master @Dorcus10031",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 85,
+                "username": "Dorcus10031"
+              }
+            ]
+          }
+        },
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 682,
+          "following_count": 1016,
+          "like_count": 24659,
+          "listed_count": 3,
+          "media_count": 602,
+          "tweet_count": 8588
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2081993749849428348",
+    "created_at": "2026-07-28T06:42:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T07:42:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081993749849428348"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/salviaswc/stat…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/salviaswc/status/2081992550286610542",
+          "start": 9,
+          "url": "https://t.co/lS1mwrvs78"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081993749849428348",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081992550286610542",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我操 干了件正事 https://t.co/lS1mwrvs78"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1724,
+        "media_key": "3_2081962052889772032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOSddNZWgAAa4BJ.jpg",
+        "width": 3180
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2081993749849428348",
+        "created_at": "2026-07-28T06:42:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T07:42:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081993749849428348"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/salviaswc/stat…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/salviaswc/status/2081992550286610542",
+              "start": 9,
+              "url": "https://t.co/lS1mwrvs78"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081993749849428348",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081992550286610542",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我操 干了件正事 https://t.co/lS1mwrvs78"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081962052889772032"
+          ]
+        },
+        "author_id": "1659962043460354050",
+        "conversation_id": "2081992550286610542",
+        "created_at": "2026-07-28T06:38:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T07:38:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081992550286610542"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "FreeODwiki是一个开源项目，旨在让每一位ODer都能有效地获取和分享有关Overdose和精神活性物质的信息，并在减少上述事物对ODer造成的伤害的同时，为上述事物提供一个独特的视角。",
+              "display_url": "freeodwiki.org/%E6%96%87%E6%A…",
+              "end": 23,
+              "expanded_url": "https://freeodwiki.org/%E6%96%87%E6%A1%A3/%E8%8D%AF%E7%89%A9%E4%BD%BF%E7%94%A8%E8%80%85%E5%9C%A3%E7%BB%8F/preface.html",
+              "start": 0,
+              "status": 200,
+              "title": "药物使用者圣经 - FreeODwiki——可自由编辑的开源Overdose百科",
+              "unwound_url": "https://freeodwiki.org/%E6%96%87%E6%A1%A3/%E8%8D%AF%E7%89%A9%E4%BD%BF%E7%94%A8%E8%80%85%E5%9C%A3%E7%BB%8F/preface.html",
+              "url": "https://t.co/biQg959HRL"
+            },
+            {
+              "display_url": "pic.x.com/8OohQNapzk",
+              "end": 90,
+              "expanded_url": "https://x.com/SalviaSWC/status/2081992550286610542/photo/1",
+              "media_key": "3_2081962052889772032",
+              "start": 67,
+              "url": "https://t.co/8OohQNapzk"
+            },
+            {
+              "display_url": "x.com/SalviaSWC/stat…",
+              "end": 114,
+              "expanded_url": "https://twitter.com/SalviaSWC/status/2081940960448250069",
+              "start": 91,
+              "url": "https://t.co/JbXQ6FxwaL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081992550286610542",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081940960448250069",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/biQg959HRL\n\n已经做出来一部分了！目前发现了一些问题，正在火速改正中。等全书都弄好了就发pdf😈 https://t.co/8OohQNapzk https://t.co/JbXQ6FxwaL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个违背了大众良知od喝大酒的神棍。\n☯️算命后付不怕跑单｜代请符箓、祈福请私讯\n传统宗教现代哲学文化传播者，又称中式廉价心理医生。\n魔界频道入口法马康@Pharmakon14138\n狐朋@Nonentity_xxx17 狗友@Jinggebiezhuaw",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 76,
+                "username": "Pharmakon14138"
+              },
+              {
+                "end": 110,
+                "start": 94,
+                "username": "Nonentity_xxx17"
+              },
+              {
+                "end": 128,
+                "start": 113,
+                "username": "Jinggebiezhuaw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/buyaogaowosorry",
+                "end": 23,
+                "expanded_url": "https://t.me/buyaogaowosorry",
+                "start": 0,
+                "url": "https://t.co/AdoFGQJT3r"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2069223594711011526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1766,
+          "following_count": 657,
+          "like_count": 1298,
+          "listed_count": 1,
+          "media_count": 217,
+          "tweet_count": 2970
+        },
+        "url": "https://t.co/AdoFGQJT3r",
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "非必要不键政🏳️|不卖药🚫|欢迎任何人🌈|包容各种做法☮|互fo🉑🥰|没回fo的话，请私信我哦📬|\n\n脑婆:@DXM8964LXM\n\n丨药物知识开源化💊|来FreeODwiki看看吧！https://t.co/ki2TerCl7C |Say Know to Drugs 😼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 54,
+                "username": "DXM8964LXM"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC/Free…",
+                "end": 115,
+                "expanded_url": "https://github.com/SalviaSWC/FreeODwiki",
+                "start": 92,
+                "url": "https://t.co/ki2TerCl7C"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "https://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/20q0OtAeQd"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034583473692852224/nE4xPVUJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5214,
+          "following_count": 1036,
+          "like_count": 25043,
+          "listed_count": 10,
+          "media_count": 583,
+          "tweet_count": 8061
+        },
+        "url": "https://t.co/20q0OtAeQd",
+        "username": "SalviaSWC",
+        "verified": false
+      }
+    ]
+  }
+}

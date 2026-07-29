@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2065356334787354683",
+    "created_at": "2026-06-12T09:05:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T10:05:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065359840990593051"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1186324831492423681",
+          "start": 0,
+          "username": "kelaier7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065359840990593051",
+    "in_reply_to_user_id": "1186324831492423681",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065359768949305752",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kelaier7 吸吗 好大哥"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2065356334787354683",
+        "created_at": "2026-06-12T09:05:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T10:05:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065359840990593051"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1186324831492423681",
+              "start": 0,
+              "username": "kelaier7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065359840990593051",
+        "in_reply_to_user_id": "1186324831492423681",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065359768949305752",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kelaier7 吸吗 好大哥"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1186324831492423681",
+        "conversation_id": "2065356334787354683",
+        "created_at": "2026-06-12T09:05:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T10:05:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065359768949305752"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1518404201168007168",
+              "start": 0,
+              "username": "godspeedyou50"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065359768949305752",
+        "in_reply_to_user_id": "1518404201168007168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065356334787354683",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@godspeedyou50 计划7/8去巴厘岛 ≧▽≦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2048720319872192919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1349,
+          "following_count": 334,
+          "like_count": 1137,
+          "listed_count": 1,
+          "media_count": 191,
+          "tweet_count": 2644
+        },
+        "username": "godspeedyou50",
+        "verified": false
+      },
+      {
+        "created_at": "2019-10-21T16:54:40.000Z",
+        "description": "我好像什么都不缺，又好像什么也没有",
+        "id": "1186324831492423681",
+        "location": "浙江",
+        "name": "kelaier",
+        "pinned_tweet_id": "2034742037640356123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060856110907797504/HaQV9Enn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 295,
+          "like_count": 6229,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 652
+        },
+        "username": "kelaier7",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "1984247251288674404",
+    "created_at": "2025-11-01T04:17:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-01T05:17:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984474862388461690"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1882936483662663680",
+          "start": 0,
+          "username": "jngyn298282"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984474862388461690",
+    "in_reply_to_user_id": "1882936483662663680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984474400742392230",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jngyn298282 我看拼多多那些了 老的了 谁知道呢 有机会吧 如果你们都有认知那一天我会好好想想的 卖树皮并没什么 但也没必要 根本没利润 而教喝汤就是教唆吸毒 要是有效果是挺好的 我期待你整一篇感想"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "1984247251288674404",
+        "created_at": "2025-11-01T04:17:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T05:17:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984474862388461690"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1882936483662663680",
+              "start": 0,
+              "username": "jngyn298282"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984474862388461690",
+        "in_reply_to_user_id": "1882936483662663680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984474400742392230",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jngyn298282 我看拼多多那些了 老的了 谁知道呢 有机会吧 如果你们都有认知那一天我会好好想想的 卖树皮并没什么 但也没必要 根本没利润 而教喝汤就是教唆吸毒 要是有效果是挺好的 我期待你整一篇感想"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882936483662663680",
+        "conversation_id": "1984247251288674404",
+        "created_at": "2025-11-01T04:15:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T05:15:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984474400742392230"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1518404201168007168",
+              "start": 0,
+              "username": "godspeedyou50"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984474400742392230",
+        "in_reply_to_user_id": "1518404201168007168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984426582958833906",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@godspeedyou50 新鲜的肯定是不好搞我这里见不到相思树"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "路人。and这段日子我愿意聊天，欢迎找我解惑，定期批量回fo或者私我",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1983757018830663844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983944337726787584/JcjyTY_u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 422,
+          "following_count": 262,
+          "like_count": 111,
+          "listed_count": 1,
+          "media_count": 51,
+          "tweet_count": 634
+        },
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-24T23:40:25.000Z",
+        "description": "我看着幸福的日子被我给摧毁后开心地闭上了眼",
+        "id": "1882936483662663680",
+        "name": "镜音",
+        "pinned_tweet_id": "1983521365727891517",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983881848775438338/SaevqnOR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 245,
+          "following_count": 153,
+          "like_count": 12245,
+          "listed_count": 0,
+          "media_count": 186,
+          "tweet_count": 1451
+        },
+        "username": "jngyn298282",
+        "verified": false
+      }
+    ]
+  }
+}

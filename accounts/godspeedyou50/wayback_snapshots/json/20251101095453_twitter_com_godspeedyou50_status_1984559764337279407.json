@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "1984547241978110456",
+    "created_at": "2025-11-01T09:54:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-01T10:54:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984559764337279407"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1659962043460354050",
+          "start": 0,
+          "username": "SalviaSWC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984559764337279407",
+    "in_reply_to_user_id": "1659962043460354050",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984547241978110456",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SalviaSWC 喂加巴就没那么多事了 骂得是鸡哥行为心境 其实猫本人并没发过言 鸡哥想让猫上劲 猫并不是很焦虑 但猫很爽了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "1984547241978110456",
+        "created_at": "2025-11-01T09:54:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T10:54:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984559764337279407"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1659962043460354050",
+              "start": 0,
+              "username": "SalviaSWC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984559764337279407",
+        "in_reply_to_user_id": "1659962043460354050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984547241978110456",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SalviaSWC 喂加巴就没那么多事了 骂得是鸡哥行为心境 其实猫本人并没发过言 鸡哥想让猫上劲 猫并不是很焦虑 但猫很爽了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "1984547241978110456",
+        "created_at": "2025-11-01T09:05:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T10:05:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984547241978110456"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Today FDA approved Bonqat (pregabalin oral solution) for the alleviation of acute anxiety and fear associated with transportation and veterinary visits in cats.",
+              "display_url": "fda.gov/animal-veterin…",
+              "end": 170,
+              "expanded_url": "https://www.fda.gov/animal-veterinary/cvm-updates/fda-approves-pregabalin-oral-solution-alleviating-anxiety-associated-transportation-and-veterinary",
+              "images": [
+                {
+                  "height": 675,
+                  "url": "https://pbs.twimg.com/news_img/1984547244469633024/Szrkrq5Y?format=png&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1984547244469633024/Szrkrq5Y?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 147,
+              "status": 200,
+              "title": "FDA Approves Pregabalin Oral Solution for Treating Anxiety in Cats",
+              "unwound_url": "https://www.fda.gov/animal-veterinary/cvm-updates/fda-approves-pregabalin-oral-solution-alleviating-anxiety-associated-transportation-and-veterinary",
+              "url": "https://t.co/IolKEqROT3"
+            },
+            {
+              "display_url": "x.com/yaowubaike/sta…",
+              "end": 194,
+              "expanded_url": "https://twitter.com/yaowubaike/status/1983037149458116771",
+              "start": 171,
+              "url": "https://t.co/TU2ATCdJLm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984547241978110456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 193,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983037149458116771",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这里帮Chicken有关喂猫普瑞巴林一事洗白一下🤗\n在美国，普瑞巴林被FDA授权用于治疗宠物猫的焦虑症，特别地，是用于治疗往返兽医诊所途中的急性焦虑症，剂量是5mg/kg，品牌名“Bonqat”\n所以如果Chicken的猫足够重，1t普瑞甚至接近治疗剂量，就算超剂量服用哈基米应该也没事\n来源:https://t.co/IolKEqROT3 https://t.co/TU2ATCdJLm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "路人。and这段日子我愿意聊天，欢迎找我解惑，定期批量回fo或者私我",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1983757018830663844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983944337726787584/JcjyTY_u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 425,
+          "following_count": 266,
+          "like_count": 113,
+          "listed_count": 1,
+          "media_count": 53,
+          "tweet_count": 657
+        },
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "#StandWithSpr1ngW1nd\n07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺丨\nSay Know to Drugs 💊丨\n会发各种东西丨欢迎任何人🌈丨互fo🉑🥰丨如果没回fo的话，请私信哦",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 20,
+                "start": 0,
+                "tag": "StandWithSpr1ngW1nd"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC",
+                "end": 23,
+                "expanded_url": "https://github.com/SalviaSWC",
+                "start": 0,
+                "url": "https://t.co/NJRjXJi1ON"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "Sᴀʟv1ᴀ～#鼠尾草",
+        "pinned_tweet_id": "1983831915678536138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983844815524581376/MlP6f7GJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1521,
+          "following_count": 628,
+          "like_count": 9723,
+          "listed_count": 7,
+          "media_count": 137,
+          "tweet_count": 3070
+        },
+        "url": "https://t.co/NJRjXJi1ON",
+        "username": "SalviaSWC",
+        "verified": false
+      }
+    ]
+  }
+}

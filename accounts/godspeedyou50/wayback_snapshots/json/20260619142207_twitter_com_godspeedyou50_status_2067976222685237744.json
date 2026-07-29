@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2048720319872192919",
+    "created_at": "2026-06-19T14:22:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T15:22:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067976222685237744"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2017934187907665920",
+          "start": 0,
+          "username": "ch8_we"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067976222685237744",
+    "in_reply_to_user_id": "2017934187907665920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067954007826702758",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ch8_we 嗯啊 但是mtf要从开始用雌化之后反转大运"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2048720319872192919",
+        "created_at": "2026-06-19T14:22:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T15:22:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067976222685237744"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2017934187907665920",
+              "start": 0,
+              "username": "ch8_we"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067976222685237744",
+        "in_reply_to_user_id": "2017934187907665920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067954007826702758",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ch8_we 嗯啊 但是mtf要从开始用雌化之后反转大运"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017934187907665920",
+        "conversation_id": "2048720319872192919",
+        "created_at": "2026-06-19T12:53:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T13:53:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067954007826702758"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1518404201168007168",
+              "start": 0,
+              "username": "godspeedyou50"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067954007826702758",
+        "in_reply_to_user_id": "1518404201168007168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048720319872192919",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@godspeedyou50 老师八字要性别和名字吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2048720319872192919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1376,
+          "following_count": 359,
+          "like_count": 1179,
+          "listed_count": 1,
+          "media_count": 195,
+          "tweet_count": 2751
+        },
+        "url": "",
+        "username": "godspeedyou50",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-01T12:13:58.000Z",
+        "description": "trans girl/小证含糖/半地下半家长党/hrt20250807/抑郁/焦虑/self hurt/od/08 09 07/精神状态不好的高二生",
+        "id": "2017934187907665920",
+        "location": "Baltimore, MD",
+        "name": "mikki_z🍥🏳‍⚧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046606014276124672/glEbB4q5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 193,
+          "like_count": 2444,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 422
+        },
+        "url": "",
+        "username": "ch8_we",
+        "verified": false
+      }
+    ]
+  }
+}

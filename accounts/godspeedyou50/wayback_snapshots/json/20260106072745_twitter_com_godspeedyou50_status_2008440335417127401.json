@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2008236078701179353",
+    "created_at": "2026-01-06T07:27:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-06T08:27:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008440335417127401"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1986452594206838785",
+          "start": 0,
+          "username": "Idontselldrug"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008440335417127401",
+    "in_reply_to_user_id": "1986452594206838785",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008366520905212038",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Idontselldrug vyvanse 不就是兴奋剂类 比利他林还高效？\n甚至有点像吃普瑞的感觉 借高利贷 停了就要还债 涣散几天像个傻逼 多巴胺递质不敏感后出现这情况"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2008236078701179353",
+        "created_at": "2026-01-06T07:27:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T08:27:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008440335417127401"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1986452594206838785",
+              "start": 0,
+              "username": "Idontselldrug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008440335417127401",
+        "in_reply_to_user_id": "1986452594206838785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008366520905212038",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Idontselldrug vyvanse 不就是兴奋剂类 比利他林还高效？\n甚至有点像吃普瑞的感觉 借高利贷 停了就要还债 涣散几天像个傻逼 多巴胺递质不敏感后出现这情况"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "2008236078701179353",
+        "created_at": "2026-01-06T02:34:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T03:34:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008366520905212038"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1518404201168007168",
+              "start": 0,
+              "username": "godspeedyou50"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008366520905212038",
+        "in_reply_to_user_id": "1518404201168007168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008345269952540802",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@godspeedyou50 你在说什么啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1994852955737264187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 654,
+          "following_count": 75,
+          "like_count": 366,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 1070
+        },
+        "username": "godspeedyou50",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1P0h8"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Alberta, Canada",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 749,
+          "following_count": 209,
+          "like_count": 682,
+          "listed_count": 0,
+          "media_count": 160,
+          "tweet_count": 1150
+        },
+        "url": "https://t.co/ZuiIe1P0h8",
+        "username": "Idontselldrug",
+        "verified": false
+      }
+    ]
+  }
+}

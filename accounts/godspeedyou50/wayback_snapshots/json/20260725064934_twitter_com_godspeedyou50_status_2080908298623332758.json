@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2080908166896971776",
+        "13_2080908166905348096",
+        "3_2080908166896984064",
+        "3_2080908166888636416"
+      ]
+    },
+    "author_id": "1518404201168007168",
+    "conversation_id": "2080908298623332758",
+    "created_at": "2026-07-25T06:49:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T07:49:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080908298623332758"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/kDNzgv8UbV",
+          "end": 42,
+          "expanded_url": "https://x.com/godspeedyou50/status/2080908298623332758/video/1",
+          "media_key": "13_2080908166896971776",
+          "start": 19,
+          "url": "https://t.co/kDNzgv8UbV"
+        },
+        {
+          "display_url": "pic.x.com/kDNzgv8UbV",
+          "end": 42,
+          "expanded_url": "https://x.com/godspeedyou50/status/2080908298623332758/video/1",
+          "media_key": "13_2080908166905348096",
+          "start": 19,
+          "url": "https://t.co/kDNzgv8UbV"
+        },
+        {
+          "display_url": "pic.x.com/kDNzgv8UbV",
+          "end": 42,
+          "expanded_url": "https://x.com/godspeedyou50/status/2080908298623332758/video/1",
+          "media_key": "3_2080908166896984064",
+          "start": 19,
+          "url": "https://t.co/kDNzgv8UbV"
+        },
+        {
+          "display_url": "pic.x.com/kDNzgv8UbV",
+          "end": 42,
+          "expanded_url": "https://x.com/godspeedyou50/status/2080908298623332758/video/1",
+          "media_key": "3_2080908166888636416",
+          "start": 19,
+          "url": "https://t.co/kDNzgv8UbV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080908298623332758",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "最近忘记分享生活了 活得好像恍惚之间 https://t.co/kDNzgv8UbV"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11933,
+        "height": 720,
+        "media_key": "13_2080908166896971776",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2080908166896971776/img/CUlVjgkExVpzeJw7.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080908166896971776/vid/avc1/480x270/jJQwA0FDqhdXo-fd.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080908166896971776/vid/avc1/640x360/El-38vVGcsLtXqVh.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080908166896971776/vid/avc1/1280x720/dbsnKikuuh17arKF.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2080908166896971776/pl/0IRi7DsV9eACfXTb.m3u8"
+          }
+        ],
+        "width": 1280
+      },
+      {
+        "duration_ms": 31000,
+        "height": 1920,
+        "media_key": "13_2080908166905348096",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2080908166905348096/img/g3Eq-eGNNMsO6E_g.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080908166905348096/vid/avc1/1080x1920/OWKviXQD-NsqH_Q-.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080908166905348096/vid/avc1/320x568/HpYVO7t3ujme3smt.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080908166905348096/vid/avc1/480x852/HedBLkUw8_rnjkiB.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080908166905348096/vid/avc1/720x1280/pmcmjFOPE2mxDOzw.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2080908166905348096/pl/z5OS9qpt2vrJwv5D.m3u8"
+          }
+        ],
+        "width": 1080
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2080908166896984064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HODe8-IaoAAdZGt.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2080908166888636416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HODe8-GbQAAhEWC.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2080908166896971776",
+            "13_2080908166905348096",
+            "3_2080908166896984064",
+            "3_2080908166888636416"
+          ]
+        },
+        "author_id": "1518404201168007168",
+        "conversation_id": "2080908298623332758",
+        "created_at": "2026-07-25T06:49:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T07:49:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080908298623332758"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kDNzgv8UbV",
+              "end": 42,
+              "expanded_url": "https://x.com/godspeedyou50/status/2080908298623332758/video/1",
+              "media_key": "13_2080908166896971776",
+              "start": 19,
+              "url": "https://t.co/kDNzgv8UbV"
+            },
+            {
+              "display_url": "pic.x.com/kDNzgv8UbV",
+              "end": 42,
+              "expanded_url": "https://x.com/godspeedyou50/status/2080908298623332758/video/1",
+              "media_key": "13_2080908166905348096",
+              "start": 19,
+              "url": "https://t.co/kDNzgv8UbV"
+            },
+            {
+              "display_url": "pic.x.com/kDNzgv8UbV",
+              "end": 42,
+              "expanded_url": "https://x.com/godspeedyou50/status/2080908298623332758/video/1",
+              "media_key": "3_2080908166896984064",
+              "start": 19,
+              "url": "https://t.co/kDNzgv8UbV"
+            },
+            {
+              "display_url": "pic.x.com/kDNzgv8UbV",
+              "end": 42,
+              "expanded_url": "https://x.com/godspeedyou50/status/2080908298623332758/video/1",
+              "media_key": "3_2080908166888636416",
+              "start": 19,
+              "url": "https://t.co/kDNzgv8UbV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080908298623332758",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近忘记分享生活了 活得好像恍惚之间 https://t.co/kDNzgv8UbV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个违背了大众良知od喝大酒的神棍。\n☯️算命后付不怕跑单｜代请符箓、祈福请私讯\n传统宗教现代哲学文化传播者，又称中式廉价心理医生。\n狐朋@Nonentity_xxx17 狗友@Jinggebiezhuaw",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 69,
+                "username": "Nonentity_xxx17"
+              },
+              {
+                "end": 103,
+                "start": 88,
+                "username": "Jinggebiezhuaw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/buyaogaowosorry",
+                "end": 23,
+                "expanded_url": "https://t.me/buyaogaowosorry",
+                "start": 0,
+                "url": "https://t.co/AdoFGQJT3r"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2069223594711011526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1740,
+          "following_count": 635,
+          "like_count": 1289,
+          "listed_count": 1,
+          "media_count": 214,
+          "tweet_count": 2927
+        },
+        "url": "https://t.co/AdoFGQJT3r",
+        "username": "godspeedyou50",
+        "verified": true
+      }
+    ]
+  }
+}

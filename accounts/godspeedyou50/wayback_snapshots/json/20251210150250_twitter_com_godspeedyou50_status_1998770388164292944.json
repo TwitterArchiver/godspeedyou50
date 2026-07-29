@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "1998769636264067443",
+    "created_at": "2025-12-10T15:02:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-10T16:02:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998770388164292944"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1998770388164292944",
+    "in_reply_to_user_id": "1518404201168007168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998769636264067443",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我喜欢看着你们这样 这能让我更觉得什么都是纸糊的 也能让我知道坏能坏到这地步😂 我们这群记录继续爆爆 整理一下 我谁都喷过 谢谢🙏"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "1998769636264067443",
+        "created_at": "2025-12-10T15:02:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T16:02:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998770388164292944"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1998770388164292944",
+        "in_reply_to_user_id": "1518404201168007168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998769636264067443",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我喜欢看着你们这样 这能让我更觉得什么都是纸糊的 也能让我知道坏能坏到这地步😂 我们这群记录继续爆爆 整理一下 我谁都喷过 谢谢🙏"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "1998769636264067443",
+        "created_at": "2025-12-10T14:59:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T15:59:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998769636264067443"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jingyin_8964/s…",
+              "end": 171,
+              "expanded_url": "https://twitter.com/jingyin_8964/status/1998768091023683650",
+              "start": 148,
+              "url": "https://t.co/qNro9KNB1A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998769636264067443",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998768091023683650",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我就等你这个呢 我正大光明喷可别捏造我视奸哈 谁先关注的谁不知道吗..\n我有什么好视奸你的 谁我都喷过我我谢谢你挂我呢？\n你真别把自己当盘菜了 真的 你顶多算是被当枪使还洋洋自得的傻种 更证实你是头猪了\n小伎俩耍在真心上我真不意外 你成为路边的时候我就不想惯着了 再来几条 把我骂急了我才会反击 https://t.co/qNro9KNB1A"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1994852955737264187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 682,
+          "following_count": 214,
+          "like_count": 361,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 977
+        },
+        "username": "godspeedyou50",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "1984450875671326945",
+    "created_at": "2025-11-01T02:42:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-01T03:42:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1984450875671326945"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/salviaswc/stat…",
+          "end": 78,
+          "expanded_url": "https://twitter.com/salviaswc/status/1984268863702495698",
+          "start": 55,
+          "url": "https://t.co/MRb8t0v2qH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984450875671326945",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984268863702495698",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我操你妈看到这笑死我了 解离就是最近想什么来什么啊 你他妈看那么多后藤一里头像 搁我也一样 我上劲真不敢看推 https://t.co/MRb8t0v2qH"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "1984450875671326945",
+        "created_at": "2025-11-01T02:42:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T03:42:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984450875671326945"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/salviaswc/stat…",
+              "end": 78,
+              "expanded_url": "https://twitter.com/salviaswc/status/1984268863702495698",
+              "start": 55,
+              "url": "https://t.co/MRb8t0v2qH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984450875671326945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984268863702495698",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我操你妈看到这笑死我了 解离就是最近想什么来什么啊 你他妈看那么多后藤一里头像 搁我也一样 我上劲真不敢看推 https://t.co/MRb8t0v2qH"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "1984243851754946971",
+        "created_at": "2025-10-31T14:38:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T15:38:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984268863702495698"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1984268863702495698",
+        "in_reply_to_user_id": "1659962043460354050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2103,
+          "like_count": 29,
+          "quote_count": 3,
+          "reply_count": 9,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984267966696092080",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "22:38 bad trip了，内幻看到spring风索命，给我从解离中吓醒了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "路人。and这段日子我愿意聊天，欢迎找我解惑，定期批量回fo或者私我",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1983757018830663844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983944337726787584/JcjyTY_u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 420,
+          "following_count": 259,
+          "like_count": 111,
+          "listed_count": 1,
+          "media_count": 50,
+          "tweet_count": 625
+        },
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "#StandWithSpr1ngW1nd\n07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺丨\nSay Know to Drugs 💊丨\n会发各种东西丨欢迎任何人🌈丨互fo🉑🥰丨如果没回fo的话，请私信哦",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 20,
+                "start": 0,
+                "tag": "StandWithSpr1ngW1nd"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC",
+                "end": 23,
+                "expanded_url": "https://github.com/SalviaSWC",
+                "start": 0,
+                "url": "https://t.co/NJRjXJi1ON"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "Sᴀʟv1ᴀ～#鼠尾草",
+        "pinned_tweet_id": "1983831915678536138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983844815524581376/MlP6f7GJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1514,
+          "following_count": 619,
+          "like_count": 9599,
+          "listed_count": 7,
+          "media_count": 137,
+          "tweet_count": 3044
+        },
+        "url": "https://t.co/NJRjXJi1ON",
+        "username": "SalviaSWC",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "1984525194820796663",
+    "created_at": "2025-11-01T17:23:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-01T18:23:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984672726079193512"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1829384019898978304",
+          "start": 0,
+          "username": "addkaiZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984672726079193512",
+    "in_reply_to_user_id": "1829384019898978304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984669963836428660",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@addkaiZ 确实是谈重要的事 所以大夫够意思了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "1984525194820796663",
+        "created_at": "2025-11-01T17:23:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T18:23:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984672726079193512"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1829384019898978304",
+              "start": 0,
+              "username": "addkaiZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984672726079193512",
+        "in_reply_to_user_id": "1829384019898978304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984669963836428660",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@addkaiZ 确实是谈重要的事 所以大夫够意思了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1829384019898978304",
+        "conversation_id": "1984525194820796663",
+        "created_at": "2025-11-01T17:12:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T18:12:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984669963836428660"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1518404201168007168",
+              "start": 0,
+              "username": "godspeedyou50"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984669963836428660",
+        "in_reply_to_user_id": "1518404201168007168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984525194820796663",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@godspeedyou50 紫航在我印象里纯纯宰客或者重要会面的时候才会去的饭店。（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "路人。and这段日子我愿意聊天，欢迎找我解惑，定期批量回fo或者私我",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1983757018830663844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983944337726787584/JcjyTY_u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 431,
+          "following_count": 266,
+          "like_count": 115,
+          "listed_count": 1,
+          "media_count": 57,
+          "tweet_count": 669
+        },
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-30T05:02:07.000Z",
+        "description": "07男 enfp 双子 東京留学中 回国时在大连 中文ok 日本語勉強中 English ok 🌈但成分复杂爱看抽象 无设福瑞控 欢迎私信，但请先阅读亮点内容了解我 🛰️🚪32",
+        "id": "1829384019898978304",
+        "location": "1.2km",
+        "name": "addkai",
+        "pinned_tweet_id": "1905335239582658562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932443715865616385/yd3BK0Ou_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4087,
+          "following_count": 1654,
+          "like_count": 19237,
+          "listed_count": 7,
+          "media_count": 318,
+          "tweet_count": 4068
+        },
+        "username": "addkaiZ",
+        "verified": true
+      }
+    ]
+  }
+}

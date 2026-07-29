@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2069285076261585143",
+    "created_at": "2026-06-23T05:19:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T06:19:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069289167230742811"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1662439435726905344",
+          "start": 0,
+          "username": "ShiroSkura"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069289167230742811",
+    "in_reply_to_user_id": "1662439435726905344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069285076261585143",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ShiroSkura 啥时候给你崩死我放鞭炮"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2069285076261585143",
+        "created_at": "2026-06-23T05:19:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T06:19:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069289167230742811"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1662439435726905344",
+              "start": 0,
+              "username": "ShiroSkura"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069289167230742811",
+        "in_reply_to_user_id": "1662439435726905344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069285076261585143",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ShiroSkura 啥时候给你崩死我放鞭炮"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662439435726905344",
+        "conversation_id": "2069285076261585143",
+        "created_at": "2026-06-23T05:03:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T06:03:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069285076261585143"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069285076261585143",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "外面开枪了我操，这个声音好大"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/buyaogaowosorry",
+                "end": 23,
+                "expanded_url": "https://t.me/buyaogaowosorry",
+                "start": 0,
+                "url": "https://t.co/AdoFGQJT3r"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2069223594711011526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1374,
+          "following_count": 363,
+          "like_count": 1188,
+          "listed_count": 1,
+          "media_count": 186,
+          "tweet_count": 2740
+        },
+        "url": "https://t.co/AdoFGQJT3r",
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-27T12:44:05.000Z",
+        "description": "17岁生活在Kennewick的天才美少女\n想知道我是谁？才不告诉你！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+kbiFvS7eC4k3Y…",
+                "end": 23,
+                "expanded_url": "https://t.me/+kbiFvS7eC4k3YzNl",
+                "start": 0,
+                "url": "https://t.co/BhUcaEgN6z"
+              }
+            ]
+          }
+        },
+        "id": "1662439435726905344",
+        "location": "Kennewick, WA",
+        "name": "Morikawa Ayako",
+        "pinned_tweet_id": "2050732326112448575",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067149046553116672/oFw5Xfeu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 897,
+          "following_count": 40,
+          "like_count": 11386,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 44
+        },
+        "url": "https://t.co/BhUcaEgN6z",
+        "username": "ShiroSkura",
+        "verified": true
+      }
+    ]
+  }
+}

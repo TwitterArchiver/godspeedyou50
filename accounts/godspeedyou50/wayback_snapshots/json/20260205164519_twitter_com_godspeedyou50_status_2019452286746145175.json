@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "1129090662622588930",
+          "name": "Psychology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1129090662622588930",
+          "name": "Psychology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for all fields of study, e.g., futurology, microbiology ",
+          "id": "164",
+          "name": "Fields of study"
+        },
+        "entity": {
+          "id": "1129090662622588930",
+          "name": "Psychology"
+        }
+      }
+    ],
+    "conversation_id": "2019452286746145175",
+    "created_at": "2026-02-05T16:45:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-05T17:45:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2019452286746145175"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2019452286746145175",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "我发现推上有些人的智力特别残缺，而且我还不确定他们是不是磕过药，一直自称研究心理学研究精神学研究各种学问。但是只要一跟他说话，立刻暴露了自己智力低下的气息。他们的武器通常是AI和各种美国论文的翻译。和他们对话就感受到一股特别自信且自卑的文盲气息，因为他们的武器通常是诡辩论。比如你说。比如拿这次的事儿来比较我转帖的对方，我说阿片中毒优先考虑纳洛酮，甚至纳洛酮绝对是绝对优先的第一实验性用药。因为用了纳洛酮并不耽误别的急救程序，他给我来一句，我说肾上腺素没用，纳洛酮才最有用。然后。我原文已经表述过，肾上腺素的程序也绝对合法合规，纳洛酮只是第一考虑用药而已。他又跟我俩聊上CPR了，可能因为用国际通用词很拽吧😂，对方指出，我在说什么人工呼吸什么救护车人工呼吸就已经彻底的胡言乱语了，因为这个事情上后面出现的事实往往没有第一真相真实有力，后来故事的编写程度也有待考究，那么在这一时间段站出来洗白的人我就不好多说了，我只是说这一类人真的蠢，蠢的只会故弄玄虚的误导并没有太多学识的oder"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我发现推上有些人的智力特别残缺，而且我还不确定他们是不是磕过药，一直自称研究心理学研究精神学研究各种学问。但是只要一跟他说话，立刻暴露了自己智力低下的气息。他们的武器通常是AI和各种美国论文的翻译。和他们对话就感受到一股特别自信且自卑的文盲气息，因为他们的武器通常是诡辩论。比如你说"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for all fields of study, e.g., futurology, microbiology ",
+              "id": "164",
+              "name": "Fields of study"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          }
+        ],
+        "conversation_id": "2019452286746145175",
+        "created_at": "2026-02-05T16:45:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T17:45:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019452286746145175"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2019452286746145175",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我发现推上有些人的智力特别残缺，而且我还不确定他们是不是磕过药，一直自称研究心理学研究精神学研究各种学问。但是只要一跟他说话，立刻暴露了自己智力低下的气息。他们的武器通常是AI和各种美国论文的翻译。和他们对话就感受到一股特别自信且自卑的文盲气息，因为他们的武器通常是诡辩论。比如你说。比如拿这次的事儿来比较我转帖的对方，我说阿片中毒优先考虑纳洛酮，甚至纳洛酮绝对是绝对优先的第一实验性用药。因为用了纳洛酮并不耽误别的急救程序，他给我来一句，我说肾上腺素没用，纳洛酮才最有用。然后。我原文已经表述过，肾上腺素的程序也绝对合法合规，纳洛酮只是第一考虑用药而已。他又跟我俩聊上CPR了，可能因为用国际通用词很拽吧😂，对方指出，我在说什么人工呼吸什么救护车人工呼吸就已经彻底的胡言乱语了，因为这个事情上后面出现的事实往往没有第一真相真实有力，后来故事的编写程度也有待考究，那么在这一时间段站出来洗白的人我就不好多说了，我只是说这一类人真的蠢，蠢的只会故弄玄虚的误导并没有太多学识的oder"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我发现推上有些人的智力特别残缺，而且我还不确定他们是不是磕过药，一直自称研究心理学研究精神学研究各种学问。但是只要一跟他说话，立刻暴露了自己智力低下的气息。他们的武器通常是AI和各种美国论文的翻译。和他们对话就感受到一股特别自信且自卑的文盲气息，因为他们的武器通常是诡辩论。比如你说"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。/@Jahseh14138/严重双相I型",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "Jahseh14138"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1994852955737264187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 718,
+          "following_count": 103,
+          "like_count": 404,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 1214
+        },
+        "username": "godspeedyou50",
+        "verified": true
+      }
+    ]
+  }
+}

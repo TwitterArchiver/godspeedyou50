@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "1992954234611040711",
+    "created_at": "2025-11-25T04:04:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T05:04:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993168837462966394"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1912109703133646848",
+          "start": 0,
+          "username": "jzm1919810"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993168837462966394",
+    "in_reply_to_user_id": "1912109703133646848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993155810785214746",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jzm1919810 我以为是蘑菇定位大全"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "1992954234611040711",
+        "created_at": "2025-11-25T04:04:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T05:04:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993168837462966394"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1912109703133646848",
+              "start": 0,
+              "username": "jzm1919810"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993168837462966394",
+        "in_reply_to_user_id": "1912109703133646848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993155810785214746",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jzm1919810 我以为是蘑菇定位大全"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912109703133646848",
+        "conversation_id": "1992954234611040711",
+        "created_at": "2025-11-25T03:12:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T04:12:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993155810785214746"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1518404201168007168",
+              "start": 0,
+              "username": "godspeedyou50"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Find local businesses, view maps and get driving directions in Google Maps.",
+              "display_url": "google.co.jp/maps/place/24%…",
+              "end": 45,
+              "expanded_url": "https://www.google.co.jp/maps/place/24%C2%B015'48.9%22N+97%C2%B048'03.6%22E/@24.2310326,97.7853469,12z",
+              "images": [
+                {
+                  "height": 900,
+                  "url": "https://pbs.twimg.com/news_img/1993155854275878912/ZAwnWv9G?format=png&name=orig",
+                  "width": 900
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1993155854275878912/ZAwnWv9G?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 22,
+              "status": 200,
+              "title": "24°15'48.9\"N 97°48'03.6\"E · 24.263583, 97.801000",
+              "unwound_url": "https://www.google.co.jp/maps/place/24%C2%B015'48.9%22N+97%C2%B048'03.6%22E/@24.2310326,97.7853469,12z",
+              "url": "https://t.co/4IJbrVwwoZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993155810785214746",
+        "in_reply_to_user_id": "1518404201168007168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993011885416022404",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@godspeedyou50 是指地图吗？\nhttps://t.co/4IJbrVwwoZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "路人。",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1983757018830663844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990279769297149952/3r34Cj2f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 646,
+          "following_count": 315,
+          "like_count": 331,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 941
+        },
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-15T11:44:19.000Z",
+        "description": "もしも願いが葉うなら 夜の空へとほうり投げて与えて\n\n请锁推且fo我的人一定让我回关，好吗？否则我的强迫症会受不了，只好取掉。谢谢。",
+        "id": "1912109703133646848",
+        "name": "Zemin Jiang",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 106,
+          "like_count": 87,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 490
+        },
+        "username": "jzm1919810",
+        "verified": false
+      }
+    ]
+  }
+}

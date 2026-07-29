@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2060918582486376794",
+    "created_at": "2026-05-31T02:57:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T03:57:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060918582486376794"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2060918582486376794",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "一睡醒第二天解离剂那股绝望的情感一股子喷涌出来，让我想起曾经每一天都挑战死亡线边缘的我。\n日益发肥了，慈眉善目了，吃完普瑞之后情绪上的反胃感消失了…\n你大爷的，想起来还要被清算呢，我这样的人今年为什么会体验这么多莫名的情愫，回到裸辞前，按部就班的工作，每周吸三次神秘草药。\n戒掉普瑞"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2060918582486376794",
+        "created_at": "2026-05-31T02:57:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T03:57:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060918582486376794"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060918582486376794",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一睡醒第二天解离剂那股绝望的情感一股子喷涌出来，让我想起曾经每一天都挑战死亡线边缘的我。\n日益发肥了，慈眉善目了，吃完普瑞之后情绪上的反胃感消失了…\n你大爷的，想起来还要被清算呢，我这样的人今年为什么会体验这么多莫名的情愫，回到裸辞前，按部就班的工作，每周吸三次神秘草药。\n戒掉普瑞"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2048720319872192919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1313,
+          "following_count": 315,
+          "like_count": 1113,
+          "listed_count": 0,
+          "media_count": 169,
+          "tweet_count": 2504
+        },
+        "username": "godspeedyou50",
+        "verified": false
+      }
+    ]
+  }
+}

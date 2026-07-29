@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2064012773970100481",
+    "created_at": "2026-06-09T15:47:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T16:47:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064373833415741509"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2057743680061255680",
+          "start": 0,
+          "username": "Koroshiiiiiii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064373833415741509",
+    "in_reply_to_user_id": "2057743680061255680",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064373647352209692",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Koroshiiiiiii 死鸭子嘴硬主要是一直犟嘴"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2064012773970100481",
+        "created_at": "2026-06-09T15:47:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T16:47:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064373833415741509"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2057743680061255680",
+              "start": 0,
+              "username": "Koroshiiiiiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064373833415741509",
+        "in_reply_to_user_id": "2057743680061255680",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064373647352209692",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Koroshiiiiiii 死鸭子嘴硬主要是一直犟嘴"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057743680061255680",
+        "conversation_id": "2064012773970100481",
+        "created_at": "2026-06-09T15:46:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T16:46:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064373647352209692"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1518404201168007168",
+              "start": 0,
+              "username": "godspeedyou50"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064373647352209692",
+        "in_reply_to_user_id": "1518404201168007168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064012773970100481",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@godspeedyou50 啊？？？可致幻剂不能解离啊...解离剂也不致幻🤔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2048720319872192919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1337,
+          "following_count": 312,
+          "like_count": 1129,
+          "listed_count": 1,
+          "media_count": 183,
+          "tweet_count": 2579
+        },
+        "username": "godspeedyou50",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-22T08:44:46.000Z",
+        "description": "可以叫小杀🦋同名\n退役Oder/不🔪🩸/致幻/日本語🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/二三涉/药理学习中/随缘互fo/但请不要问我物质渠道，也不出售任何物质，仅私信提问\n关于个人trip报告👇🏻\nhttps://t.co/AiSMfPiELF",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "kdocs.cn/l/cpRhZbk6H2bT…",
+                "end": 126,
+                "expanded_url": "https://www.kdocs.cn/l/cpRhZbk6H2bT?f=301",
+                "start": 103,
+                "url": "https://t.co/AiSMfPiELF"
+              }
+            ]
+          }
+        },
+        "id": "2057743680061255680",
+        "location": "✟升天✟",
+        "name": "山本殺し✟秽土四",
+        "pinned_tweet_id": "2057747022443389150",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057744621166628864/0Fz6K0Ld_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 436,
+          "following_count": 302,
+          "like_count": 1290,
+          "listed_count": 0,
+          "media_count": 93,
+          "tweet_count": 733
+        },
+        "username": "Koroshiiiiiii",
+        "verified": false
+      }
+    ]
+  }
+}

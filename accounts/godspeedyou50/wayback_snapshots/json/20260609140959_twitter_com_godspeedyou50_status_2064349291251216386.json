@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2064349291251216386",
+    "created_at": "2026-06-09T14:09:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T15:09:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064349291251216386"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mercyvxv/statu…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/mercyvxv/status/2064336355250061808",
+          "start": 16,
+          "url": "https://t.co/UfCIHWal5a"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064349291251216386",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064336355250061808",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我总被绑时长绝对超过300小时 https://t.co/UfCIHWal5a"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2064349291251216386",
+        "created_at": "2026-06-09T14:09:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T15:09:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064349291251216386"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mercyvxv/statu…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/mercyvxv/status/2064336355250061808",
+              "start": 16,
+              "url": "https://t.co/UfCIHWal5a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064349291251216386",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064336355250061808",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我总被绑时长绝对超过300小时 https://t.co/UfCIHWal5a"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063169843671793664",
+        "conversation_id": "2064336355250061808",
+        "created_at": "2026-06-09T13:18:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T14:18:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064336355250061808"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mchchc5216/sta…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/mchchc5216/status/2064319083709862394",
+              "start": 33,
+              "url": "https://t.co/sLiqfi4H2y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064336355250061808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 318,
+          "like_count": 11,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064319083709862394",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有多少人被这样绑过呢......我被绑过但连原因都被电忘了哈哈。 https://t.co/sLiqfi4H2y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2048720319872192919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1335,
+          "following_count": 311,
+          "like_count": 1129,
+          "listed_count": 1,
+          "media_count": 183,
+          "tweet_count": 2571
+        },
+        "username": "godspeedyou50",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-06T08:06:56.000Z",
+        "description": "我复活了。互fo私信 出普瑞dpt",
+        "id": "2063169843671793664",
+        "name": "Mercy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063171578217766912/yFJpjZ2G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 184,
+          "following_count": 165,
+          "like_count": 214,
+          "listed_count": 1,
+          "media_count": 2,
+          "tweet_count": 46
+        },
+        "username": "Mercyvxv",
+        "verified": false
+      }
+    ]
+  }
+}

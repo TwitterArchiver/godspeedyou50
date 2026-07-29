@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2055517129433325921",
+    "created_at": "2026-05-16T05:14:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T06:14:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055517129433325921"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/crystallize888…",
+          "end": 52,
+          "expanded_url": "https://twitter.com/crystallize888/status/2055468553969754395",
+          "start": 29,
+          "url": "https://t.co/3yMHVnWXLa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055517129433325921",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055468553969754395",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这是鸡哥转生的引流号 注意and小心 我发完这条要被b了 https://t.co/3yMHVnWXLa"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2055517129433325921",
+        "created_at": "2026-05-16T05:14:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T06:14:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055517129433325921"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/crystallize888…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/crystallize888/status/2055468553969754395",
+              "start": 29,
+              "url": "https://t.co/3yMHVnWXLa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055517129433325921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055468553969754395",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这是鸡哥转生的引流号 注意and小心 我发完这条要被b了 https://t.co/3yMHVnWXLa"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2052601714419658752",
+        "conversation_id": "2055468553969754395",
+        "created_at": "2026-05-16T02:01:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T03:01:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055468553969754395"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055468553969754395",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我之前把增生割下来\n放到油里面简单煎了一下吃掉了\n感觉有点脆脆的\n我真的想吃自己www"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。/欢迎提问/@OvooLOO3o/@salmon__sukiii",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 17,
+                "username": "OvooLOO3o"
+              },
+              {
+                "end": 43,
+                "start": 28,
+                "username": "salmon__sukiii"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jahseh79919",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jahseh79919",
+                "start": 0,
+                "url": "https://t.co/xaz6T7v19q"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2048720319872192919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1230,
+          "following_count": 270,
+          "like_count": 1044,
+          "listed_count": 0,
+          "media_count": 164,
+          "tweet_count": 2408
+        },
+        "url": "https://t.co/xaz6T7v19q",
+        "username": "godspeedyou50",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-08T04:09:58.000Z",
+        "description": "Offical X Acoount Of https://t.co/MkurdUpcAd\n#odtwt #shtwt #結晶化\n𝚜𝚑𝚎/𝚝𝚑𝚎𝚢♡ ⊹₊⟡⋆18𝚢𝚘♱ bmi 20,2\n☆real life anime main character\n⛧°⋆༺♱༻⋆°⛧",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 51,
+                "start": 45,
+                "tag": "odtwt"
+              },
+              {
+                "end": 58,
+                "start": 52,
+                "tag": "shtwt"
+              },
+              {
+                "end": 63,
+                "start": 59,
+                "tag": "結晶化"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "Crystallize.Club",
+                "end": 44,
+                "expanded_url": "http://Crystallize.Club",
+                "start": 21,
+                "url": "https://t.co/MkurdUpcAd"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "crystallize.club",
+                "end": 23,
+                "expanded_url": "http://crystallize.club",
+                "start": 0,
+                "url": "https://t.co/cIXzl6egXK"
+              }
+            ]
+          }
+        },
+        "id": "2052601714419658752",
+        "location": "Tai Wan",
+        "name": "結晶化 - Crystallize 精神物質結晶圈",
+        "pinned_tweet_id": "2054172285578453071",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054166877304197120/XhSr4TLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 44,
+          "like_count": 25,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 54
+        },
+        "url": "https://t.co/cIXzl6egXK",
+        "username": "Crystallize888",
+        "verified": true
+      }
+    ]
+  }
+}

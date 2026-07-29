@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2069788169491652734",
+    "created_at": "2026-06-29T08:21:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T09:21:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071509318198042775"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "852502314195623936",
+          "start": 0,
+          "username": "Gx999999"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071509318198042775",
+    "in_reply_to_user_id": "852502314195623936",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069788169491652734",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Gx999999 回一下"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2069788169491652734",
+        "created_at": "2026-06-29T08:21:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T09:21:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071509318198042775"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "852502314195623936",
+              "start": 0,
+              "username": "Gx999999"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071509318198042775",
+        "in_reply_to_user_id": "852502314195623936",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069788169491652734",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Gx999999 回一下"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "852502314195623936",
+        "conversation_id": "2069788169491652734",
+        "created_at": "2026-06-24T14:22:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T15:22:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069788169491652734"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069788169491652734",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 467,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "美股涨大A观望\n\n美股回调大A直接地板"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个违背了大众道德良知的神棍。\n☯️算命后付不怕跑单｜代请符箓、祈福请私讯\n传统宗教现代哲学文化传播者，又称中式廉价心理医生。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/buyaogaowosorry",
+                "end": 23,
+                "expanded_url": "https://t.me/buyaogaowosorry",
+                "start": 0,
+                "url": "https://t.co/AdoFGQJT3r"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2069223594711011526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1535,
+          "following_count": 507,
+          "like_count": 1263,
+          "listed_count": 1,
+          "media_count": 196,
+          "tweet_count": 2791
+        },
+        "url": "https://t.co/AdoFGQJT3r",
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2017-04-13T12:42:45.000Z",
+        "description": "Share thoughts & Make friends.\n互fo,看到必回关,最迟不超过24小时,真诚互换,诚信做人!!!\n每天会定时开始清理,单删必拉黑!!!",
+        "id": "852502314195623936",
+        "name": "X",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064351907645472768/ajQ4-QCP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2734,
+          "following_count": 2474,
+          "like_count": 102,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 107
+        },
+        "url": "",
+        "username": "Gx999999",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "1990710584552403183",
+    "created_at": "2025-11-21T02:28:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-21T03:28:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991695295584067601"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1637972200371224577",
+          "start": 0,
+          "username": "P0larstern"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991695295584067601",
+    "in_reply_to_user_id": "1637972200371224577",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991658829134852557",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@P0larstern 骗子"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "1990710584552403183",
+        "created_at": "2025-11-21T02:28:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T03:28:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991695295584067601"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1637972200371224577",
+              "start": 0,
+              "username": "P0larstern"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991695295584067601",
+        "in_reply_to_user_id": "1637972200371224577",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991658829134852557",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@P0larstern 骗子"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1637972200371224577",
+        "conversation_id": "1990710584552403183",
+        "created_at": "2025-11-21T00:04:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T01:04:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991658829134852557"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1518404201168007168",
+              "start": 0,
+              "username": "godspeedyou50"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991658829134852557",
+        "in_reply_to_user_id": "1518404201168007168",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990710584552403183",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@godspeedyou50 这人啥事啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "路人。and这段日子我愿意聊天，欢迎找我解惑，定期批量回fo或者私我",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1983757018830663844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990279769297149952/3r34Cj2f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 613,
+          "following_count": 301,
+          "like_count": 239,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 871
+        },
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2023-03-21T00:19:55.000Z",
+        "description": "前世@nenamais1 | 男的 | 可以叫我小天 | 互关寻回大挑战",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "nenamais1"
+              }
+            ]
+          }
+        },
+        "id": "1637972200371224577",
+        "name": "P0larstern 2.0",
+        "pinned_tweet_id": "1988210032106971468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988182912299302912/fH5qbSP3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 52,
+          "like_count": 406,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 212
+        },
+        "username": "P0larstern",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "1993364566823317859",
+    "created_at": "2025-11-25T17:02:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T18:02:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993364566823317859"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2405324646",
+          "start": 3,
+          "username": "alexavad"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993364566823317859",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993231692413518184",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @alexavad: 不要ob，孩子们。、不要因为虚假？的愉快感毁了自己的身体，、自己的生活；多想想自己的未来！想想父母的白发！，不要ob了！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "1993364566823317859",
+        "created_at": "2025-11-25T17:02:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T18:02:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993364566823317859"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2405324646",
+              "start": 3,
+              "username": "alexavad"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993364566823317859",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993231692413518184",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @alexavad: 不要ob，孩子们。、不要因为虚假？的愉快感毁了自己的身体，、自己的生活；多想想自己的未来！想想父母的白发！，不要ob了！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2405324646",
+        "conversation_id": "1993231692413518184",
+        "created_at": "2025-11-25T08:14:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T09:14:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993231692413518184"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1993231692413518184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 740,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "不要ob，孩子们。、不要因为虚假？的愉快感毁了自己的身体，、自己的生活；多想想自己的未来！想想父母的白发！，不要ob了！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "路人。",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1983757018830663844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990279769297149952/3r34Cj2f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 645,
+          "following_count": 315,
+          "like_count": 330,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 943
+        },
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2014-03-23T00:20:59.000Z",
+        "description": "何时归",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/ChuangChuangha…",
+                "end": 23,
+                "expanded_url": "https://t.me/ChuangChuanghajimi",
+                "start": 0,
+                "url": "https://t.co/dq6IelJn5p"
+              }
+            ]
+          }
+        },
+        "id": "2405324646",
+        "location": "桃源1.6.4",
+        "name": "пока-пока #战狼二",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984952574093750272/AuL9VWpe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 184,
+          "like_count": 1492,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 942
+        },
+        "url": "https://t.co/dq6IelJn5p",
+        "username": "alexavad",
+        "verified": false
+      }
+    ]
+  }
+}

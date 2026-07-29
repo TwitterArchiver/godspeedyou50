@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2001621004779733050",
+    "created_at": "2026-03-30T09:20:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T10:20:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038546946537988273"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1749232086840647680",
+          "start": 0,
+          "username": "llll926080"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038546946537988273",
+    "in_reply_to_user_id": "1749232086840647680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001621004779733050",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@llll926080 妈的骚逼"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8366,
+        "height": 960,
+        "media_key": "13_2001620949204885504",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2001620949204885504/img/9YGUMHhjCpeSDVAP.jpg",
+        "public_metrics": {
+          "view_count": 554
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2001620949204885504/vid/avc1/320x426/IhBFZJZOG_iYnmE0.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2001620949204885504/vid/avc1/480x640/6FHTcq7_I7yHsNe-.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2001620949204885504/vid/avc1/720x960/-g5QdFNnXncQQcNU.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2001620949204885504/pl/09H8xa6fjU1Ien5e.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2001621004779733050",
+        "created_at": "2026-03-30T09:20:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T10:20:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038546946537988273"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1749232086840647680",
+              "start": 0,
+              "username": "llll926080"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038546946537988273",
+        "in_reply_to_user_id": "1749232086840647680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001621004779733050",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@llll926080 妈的骚逼"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2001620949204885504"
+          ]
+        },
+        "author_id": "1749232086840647680",
+        "conversation_id": "2001621004779733050",
+        "created_at": "2025-12-18T11:50:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T12:50:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001621004779733050"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 48,
+              "start": 45,
+              "tag": "男娘"
+            },
+            {
+              "end": 52,
+              "start": 49,
+              "tag": "足控"
+            },
+            {
+              "end": 58,
+              "start": 53,
+              "tag": "feet"
+            },
+            {
+              "end": 66,
+              "start": 59,
+              "tag": "femboy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/77WmXEGnND",
+              "end": 90,
+              "expanded_url": "https://x.com/llll926080/status/2001621004779733050/video/1",
+              "media_key": "13_2001620949204885504",
+              "start": 67,
+              "url": "https://t.co/77WmXEGnND"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001621004779733050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 5091,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "@所有人 脱了袜子，五个脚趾分开，然后一脸嫌弃又带点玩味的表情，翻白眼，手比耶，拍照发我 #男娘 #足控 #feet #femboy https://t.co/77WmXEGnND"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。/双相I型/欢迎提问",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jahseh79919",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jahseh79919",
+                "start": 0,
+                "url": "https://t.co/xaz6T7v19q"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2029134307244294287",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 990,
+          "following_count": 196,
+          "like_count": 826,
+          "listed_count": 0,
+          "media_count": 122,
+          "tweet_count": 2019
+        },
+        "url": "https://t.co/xaz6T7v19q",
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-22T00:46:54.000Z",
+        "description": "pan/brat 可能是男娘（？🇨🇳🇨🇦175cm 53kg 17高二坐牢中… 中文/English welcome dm欢迎大家来找我聊天🥺od/自伤元素注意⚠️好友位🚪50CNY 后背隐藏能源：@fuckmylife8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 114,
+                "start": 99,
+                "username": "fuckmylife8964"
+              }
+            ]
+          }
+        },
+        "id": "1749232086840647680",
+        "location": "上海",
+        "name": "网友泉顺方",
+        "pinned_tweet_id": "2007236535901663406",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984325613352538112/-fZhgABW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1119,
+          "following_count": 184,
+          "like_count": 1785,
+          "listed_count": 1,
+          "media_count": 435,
+          "tweet_count": 2349
+        },
+        "username": "llll926080",
+        "verified": false
+      }
+    ]
+  }
+}

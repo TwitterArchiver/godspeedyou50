@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2034527623142121472"
+      ]
+    },
+    "author_id": "1518404201168007168",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Meditation",
+          "id": "918221163284676608",
+          "name": "Meditation"
+        }
+      }
+    ],
+    "conversation_id": "2034527634785477061",
+    "created_at": "2026-03-19T07:09:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T08:09:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2034527634785477061"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/iZcL709LbU",
+          "end": 73,
+          "expanded_url": "https://x.com/godspeedyou50/status/2034527634785477061/photo/1",
+          "media_key": "3_2034527623142121472",
+          "start": 50,
+          "url": "https://t.co/iZcL709LbU"
+        },
+        {
+          "display_url": "x.com/godspeedyou50/…",
+          "end": 97,
+          "expanded_url": "https://twitter.com/godspeedyou50/status/2034499522198671397",
+          "start": 74,
+          "url": "https://t.co/AWO2foOlSh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034527634785477061",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034499522198671397",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "欣快感≈dmt中高剂量\ntrip起效不是突然涌上来需要一定引导\n我觉得这属于冥想剂，所以不要做别的 https://t.co/iZcL709LbU https://t.co/AWO2foOlSh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2034527623142121472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDwYGAcbIAAKM9L.jpg",
+        "width": 945
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2034499190571888640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDv-PA3bcAAN5kF.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034527623142121472"
+          ]
+        },
+        "author_id": "1518404201168007168",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Meditation",
+              "id": "918221163284676608",
+              "name": "Meditation"
+            }
+          }
+        ],
+        "conversation_id": "2034527634785477061",
+        "created_at": "2026-03-19T07:09:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T08:09:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034527634785477061"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iZcL709LbU",
+              "end": 73,
+              "expanded_url": "https://x.com/godspeedyou50/status/2034527634785477061/photo/1",
+              "media_key": "3_2034527623142121472",
+              "start": 50,
+              "url": "https://t.co/iZcL709LbU"
+            },
+            {
+              "display_url": "x.com/godspeedyou50/…",
+              "end": 97,
+              "expanded_url": "https://twitter.com/godspeedyou50/status/2034499522198671397",
+              "start": 74,
+              "url": "https://t.co/AWO2foOlSh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034527634785477061",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034499522198671397",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "欣快感≈dmt中高剂量\ntrip起效不是突然涌上来需要一定引导\n我觉得这属于冥想剂，所以不要做别的 https://t.co/iZcL709LbU https://t.co/AWO2foOlSh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034499190571888640"
+          ]
+        },
+        "author_id": "1518404201168007168",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2034499522198671397",
+        "created_at": "2026-03-19T05:17:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T06:16:28.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034499224247861708",
+          "2034499522198671397"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 35,
+              "id": "1754774517594181632",
+              "start": 24,
+              "username": "ValenceLab"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3nWTOYIa5R",
+              "end": 59,
+              "expanded_url": "https://x.com/godspeedyou50/status/2034499522198671397/photo/1",
+              "media_key": "3_2034499190571888640",
+              "start": 36,
+              "url": "https://t.co/3nWTOYIa5R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034499522198671397",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 217,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不写感受了，如果我没批评就代表挺好，辣我鼻子\n@ValenceLab https://t.co/3nWTOYIa5R"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。/双相I型/欢迎提问",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jahseh79919",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jahseh79919",
+                "start": 0,
+                "url": "https://t.co/xaz6T7v19q"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2029134307244294287",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 920,
+          "following_count": 196,
+          "like_count": 655,
+          "listed_count": 1,
+          "media_count": 109,
+          "tweet_count": 1756
+        },
+        "url": "https://t.co/xaz6T7v19q",
+        "username": "godspeedyou50",
+        "verified": true
+      }
+    ]
+  }
+}

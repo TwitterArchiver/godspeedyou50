@@ -1,0 +1,362 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2028136212989702576",
+    "created_at": "2026-03-01T15:52:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-01T16:52:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2028136212989702576"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/godspeedyou50/…",
+          "end": 23,
+          "expanded_url": "https://x.com/godspeedyou50/status/2019051606101409797?s=46",
+          "start": 0,
+          "url": "https://t.co/x4QHQKLBdg"
+        },
+        {
+          "display_url": "x.com/y0zarashi/stat…",
+          "end": 152,
+          "expanded_url": "https://twitter.com/y0zarashi/status/2028079960490168486",
+          "start": 129,
+          "url": "https://t.co/NiOTiSq8Ad"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028136212989702576",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028079960490168486",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/x4QHQKLBdg\n上次是我注销7天确认前的一天大号解封一上来爱德华没了，这次致幻剂唐敏文鸡巴射箭给自己整死了，我做了一下午的噩梦，我服了，别再死了。\n难道还有复活的风险吗，不会吧，唐敏文从怒骂od狗到自己偷偷od高原切蛋 算了 https://t.co/NiOTiSq8Ad"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2028079565239967744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCUvno5bYAAA1mg.jpg",
+        "width": 581
+      },
+      {
+        "duration_ms": 8064,
+        "height": 480,
+        "media_key": "7_2028079569400745984",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2028079569400745984/pu/img/Ht8BkvQ1E7zD42bl.jpg",
+        "public_metrics": {
+          "view_count": 147
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2028079569400745984/pu/vid/avc1/604x270/NAC8uQLBofdlJQLf.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2028079569400745984/pu/vid/avc1/804x360/YSUoQpeWBTXzmFXp.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2028079569400745984/pu/vid/avc1/1074x480/uKMErdLrKTXV7Fdm.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2028079569400745984/pu/pl/JKS8macKMXCd_PoQ.m3u8"
+          }
+        ],
+        "width": 1074
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2028079570377990144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCUvn8CbYAAoWXQ.jpg",
+        "width": 884
+      },
+      {
+        "height": 1940,
+        "media_key": "3_2028079573246885888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCUvoGubQAAV_d0.jpg",
+        "width": 1856
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2028136212989702576",
+        "created_at": "2026-03-01T15:52:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T16:52:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028136212989702576"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/godspeedyou50/…",
+              "end": 23,
+              "expanded_url": "https://x.com/godspeedyou50/status/2019051606101409797?s=46",
+              "start": 0,
+              "url": "https://t.co/x4QHQKLBdg"
+            },
+            {
+              "display_url": "x.com/y0zarashi/stat…",
+              "end": 152,
+              "expanded_url": "https://twitter.com/y0zarashi/status/2028079960490168486",
+              "start": 129,
+              "url": "https://t.co/NiOTiSq8Ad"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028136212989702576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028079960490168486",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/x4QHQKLBdg\n上次是我注销7天确认前的一天大号解封一上来爱德华没了，这次致幻剂唐敏文鸡巴射箭给自己整死了，我做了一下午的噩梦，我服了，别再死了。\n难道还有复活的风险吗，不会吧，唐敏文从怒骂od狗到自己偷偷od高原切蛋 算了 https://t.co/NiOTiSq8Ad"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028079565239967744",
+            "7_2028079569400745984",
+            "3_2028079570377990144",
+            "3_2028079573246885888"
+          ]
+        },
+        "author_id": "1811690667720212480",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2028079960490168486",
+        "created_at": "2026-03-01T12:08:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T13:07:14.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028079612417519638",
+          "2028079960490168486"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 41,
+              "id": "2027031128738275328",
+              "start": 30,
+              "username": "NomtfYuwen"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ofXJq4qfI1",
+              "end": 149,
+              "expanded_url": "https://x.com/y0zarashi/status/2028079960490168486/video/1",
+              "media_key": "3_2028079565239967744",
+              "start": 126,
+              "url": "https://t.co/ofXJq4qfI1"
+            },
+            {
+              "display_url": "pic.x.com/ofXJq4qfI1",
+              "end": 149,
+              "expanded_url": "https://x.com/y0zarashi/status/2028079960490168486/video/1",
+              "media_key": "7_2028079569400745984",
+              "start": 126,
+              "url": "https://t.co/ofXJq4qfI1"
+            },
+            {
+              "display_url": "pic.x.com/ofXJq4qfI1",
+              "end": 149,
+              "expanded_url": "https://x.com/y0zarashi/status/2028079960490168486/video/1",
+              "media_key": "3_2028079570377990144",
+              "start": 126,
+              "url": "https://t.co/ofXJq4qfI1"
+            },
+            {
+              "display_url": "pic.x.com/ofXJq4qfI1",
+              "end": 149,
+              "expanded_url": "https://x.com/y0zarashi/status/2028079960490168486/video/1",
+              "media_key": "3_2028079573246885888",
+              "start": 126,
+              "url": "https://t.co/ofXJq4qfI1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028079960490168486",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 41,
+                "id": "2027031128738275328",
+                "start": 30,
+                "username": "NomtfYuwen"
+              }
+            ]
+          },
+          "text": "悲报：二零二六年山东澳洲人妖圈风云男同1王子---王烟洛  @NomtfYuwen \n去世了\n\n在2026年3月1日16：32分 由于亲妈要带他剃头，触及了防御性人格，我们的管理员王烟洛@唐毓文瞬间服用了 5400mg普瑞 1500mg安非他酮  。\n\n在高剂量普瑞巴林诱发的癫痫中，王烟洛体内的鲜血伴随着高剂量的安非他酮所产生的大量信誉导致原本就受损的海绵体内血压飙升，男性阴茎膨胀冲破了两颗缺失睾丸伤口处。\n原本只是两条神经的出血，但在凭借着阴囊体内高密度鲜血的高压指引，以及因为癫痫发作人体不自觉的将阴茎不断甩出。\n王烟洛体内的鲜血，就像散弹枪发射时火药处，像火焰爆炸般的血从两颗原本睾丸所在地的，如同射精般的喷出。\n只不过射的是敬业的反方向，而且不是一条是两条。\n\n再加上王烟洛此时正在处于呼吸抑制状态并没有任何对身体的控制权\n\n其实这也因为普瑞巴林的主要药效是治疗神经疼的主作用在作祟\n\n不过很遗憾在2026年3月1日王烟洛，在北京时间晚上7:13，因大量失血过多而死亡\n\n虽然这死法实在是奇异搞笑但还是死者为大。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 475,
+          "like_count": 14,
+          "quote_count": 4,
+          "reply_count": 11,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "悲报：二零二六年山东澳洲人妖圈风云男同1王子---王烟洛  @NomtfYuwen \n去世了\n\n在2026年3月1日16：32分 由于亲妈要带他剃头，触及了防御性人格，我们的管理员王烟洛@唐毓文瞬间服用了 5400mg普瑞 1500mg安非他酮  。 https://t.co/ofXJq4qfI1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。/@Jahseh14138/双相I型/欢迎提问",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "Jahseh14138"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jahseh79919",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jahseh79919",
+                "start": 0,
+                "url": "https://t.co/xaz6T7v19q"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1994852955737264187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 795,
+          "following_count": 154,
+          "like_count": 519,
+          "listed_count": 0,
+          "media_count": 98,
+          "tweet_count": 1507
+        },
+        "url": "https://t.co/xaz6T7v19q",
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-12T09:15:04.000Z",
+        "description": "文学会改变人的心性，轻易的影响一个人使他走火入魔做不了凡人，读完一定程度的世界文学，十几年就过去了，而这条路才刚开始，而且读书之后大部分会忘却需要重新复读，留下来的比例如同鲁迅说的“炼炭”，精神会被前人之精神改造，如果你有诗歌或宗教的天赋，会更加偏离常人，你的友人家人同辈都会跟你谈不到一块，也很难有女人适合你。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/y0zarashi",
+                "end": 23,
+                "expanded_url": "https://ngl.link/y0zarashi",
+                "start": 0,
+                "url": "https://t.co/YWqrMoB9vO"
+              }
+            ]
+          }
+        },
+        "id": "1811690667720212480",
+        "location": "olivia rodrigo",
+        "name": "CallumL1（老婆孩子我的命）",
+        "pinned_tweet_id": "2026884100011995161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026825430725177344/_x7vFJo7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 945,
+          "following_count": 190,
+          "like_count": 75,
+          "listed_count": 5,
+          "media_count": 424,
+          "tweet_count": 1361
+        },
+        "url": "https://t.co/YWqrMoB9vO",
+        "username": "y0zarashi",
+        "verified": true
+      }
+    ]
+  }
+}

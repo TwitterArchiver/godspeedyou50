@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2000682846436966864",
+    "created_at": "2026-05-12T00:40:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T01:40:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053998690264817929"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2405324646",
+          "start": 0,
+          "username": "alexavad"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053998690264817929",
+    "in_reply_to_user_id": "2405324646",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053952131368136993",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@alexavad 咱俩认识你就做挑战 我快入土了你做到第九天。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2000682846436966864",
+        "created_at": "2026-05-12T00:40:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T01:40:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053998690264817929"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2405324646",
+              "start": 0,
+              "username": "alexavad"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053998690264817929",
+        "in_reply_to_user_id": "2405324646",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053952131368136993",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@alexavad 咱俩认识你就做挑战 我快入土了你做到第九天。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2405324646",
+        "conversation_id": "2000682846436966864",
+        "created_at": "2026-05-11T21:35:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T22:35:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053952131368136993"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053952131368136993",
+        "in_reply_to_user_id": "2405324646",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000682846436966864",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "DAY9 好像没有喝到醉得闹出大动静的程度过，都是很平平无奇的经历，我讨厌耍酒疯的酒鬼所以不会让自己喝太多酒。有一次体验比较特别的是喝完感觉很温暖很开心，一直在傻笑，感觉身临其境地处在各种美好的回忆和幻想中"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。/欢迎提问/@OvooLOO3o/@salmon__sukiii",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 17,
+                "username": "OvooLOO3o"
+              },
+              {
+                "end": 43,
+                "start": 28,
+                "username": "salmon__sukiii"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jahseh79919",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jahseh79919",
+                "start": 0,
+                "url": "https://t.co/xaz6T7v19q"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2029134307244294287",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1221,
+          "following_count": 265,
+          "like_count": 1020,
+          "listed_count": 0,
+          "media_count": 164,
+          "tweet_count": 2376
+        },
+        "url": "https://t.co/xaz6T7v19q",
+        "username": "godspeedyou50",
+        "verified": false
+      },
+      {
+        "created_at": "2014-03-23T00:20:59.000Z",
+        "description": "何时归",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/ChuangChuangha…",
+                "end": 23,
+                "expanded_url": "https://t.me/ChuangChuanghajimi",
+                "start": 0,
+                "url": "https://t.co/dq6IelJUUX"
+              }
+            ]
+          }
+        },
+        "id": "2405324646",
+        "location": "桃源1.6.4",
+        "name": "пока-пока #战狼二",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042504294608617475/yz7OqWdA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 240,
+          "following_count": 259,
+          "like_count": 3573,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 1608
+        },
+        "url": "https://t.co/dq6IelJUUX",
+        "username": "alexavad",
+        "verified": true
+      }
+    ]
+  }
+}

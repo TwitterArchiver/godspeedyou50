@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2066952440545681563",
+    "created_at": "2026-06-16T18:33:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T19:33:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066952440545681563"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/maedarikuonly1…",
+          "end": 82,
+          "expanded_url": "https://twitter.com/maedarikuonly1/status/2066949448534725055",
+          "start": 59,
+          "url": "https://t.co/Q7gYotrK23"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066952440545681563",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066949448534725055",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我虽然没看过但我是支持的，老铁们记住手机是用来玩的，玩的时候把脑子扔掉，社媒和短视频不是用来所谓的思考的，那只是内耗 https://t.co/Q7gYotrK23"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2066952440545681563",
+        "created_at": "2026-06-16T18:33:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T19:33:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066952440545681563"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/maedarikuonly1…",
+              "end": 82,
+              "expanded_url": "https://twitter.com/maedarikuonly1/status/2066949448534725055",
+              "start": 59,
+              "url": "https://t.co/Q7gYotrK23"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066952440545681563",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066949448534725055",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我虽然没看过但我是支持的，老铁们记住手机是用来玩的，玩的时候把脑子扔掉，社媒和短视频不是用来所谓的思考的，那只是内耗 https://t.co/Q7gYotrK23"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1675444856288870401",
+        "conversation_id": "2066949448534725055",
+        "created_at": "2026-06-16T18:22:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T19:22:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066949448534725055"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066949448534725055",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我现在红果短剧成瘾，你们知道ai短剧出来之后有多好看吗，真人拍的那种我看着难受"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2048720319872192919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1360,
+          "following_count": 354,
+          "like_count": 1153,
+          "listed_count": 1,
+          "media_count": 189,
+          "tweet_count": 2667
+        },
+        "username": "godspeedyou50",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-02T10:02:43.000Z",
+        "description": "爱着沃尔玛塑料袋，备孕中。少管我是谁，认识我的肯定认得出来。想fo就fo，我不会无缘由取关任何人。最喜欢的运动是左脑揍右脑，右脑再打回来，谁也不吃亏。",
+        "id": "1675444856288870401",
+        "location": "Украина",
+        "name": "Она не хочет умирать🍀",
+        "pinned_tweet_id": "1982503111794250042",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986111679604903936/qclllEvE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 261,
+          "following_count": 224,
+          "like_count": 3205,
+          "listed_count": 0,
+          "media_count": 113,
+          "tweet_count": 1068
+        },
+        "username": "Maedarikuonly1",
+        "verified": false
+      }
+    ]
+  }
+}

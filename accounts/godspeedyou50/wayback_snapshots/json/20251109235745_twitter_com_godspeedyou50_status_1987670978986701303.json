@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1987670959927742464",
+        "3_1987670959881654272"
+      ]
+    },
+    "author_id": "1518404201168007168",
+    "conversation_id": "1987670978986701303",
+    "created_at": "2025-11-09T23:57:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-10T00:57:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1987670978986701303"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/2anvWqAg39",
+          "end": 35,
+          "expanded_url": "https://x.com/godspeedyou50/status/1987670978986701303/photo/1",
+          "media_key": "3_1987670959927742464",
+          "start": 12,
+          "url": "https://t.co/2anvWqAg39"
+        },
+        {
+          "display_url": "pic.x.com/2anvWqAg39",
+          "end": 35,
+          "expanded_url": "https://x.com/godspeedyou50/status/1987670978986701303/photo/1",
+          "media_key": "3_1987670959881654272",
+          "start": 12,
+          "url": "https://t.co/2anvWqAg39"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987670978986701303",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "爽是爽 但今天是呕吐局 https://t.co/2anvWqAg39"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1707,
+        "media_key": "3_1987670959927742464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5WgNPjaUAATvKj.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1987670959881654272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5WgNPYbEAA-vqF.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987670959927742464",
+            "3_1987670959881654272"
+          ]
+        },
+        "author_id": "1518404201168007168",
+        "conversation_id": "1987670978986701303",
+        "created_at": "2025-11-09T23:57:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T00:57:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987670978986701303"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2anvWqAg39",
+              "end": 35,
+              "expanded_url": "https://x.com/godspeedyou50/status/1987670978986701303/photo/1",
+              "media_key": "3_1987670959927742464",
+              "start": 12,
+              "url": "https://t.co/2anvWqAg39"
+            },
+            {
+              "display_url": "pic.x.com/2anvWqAg39",
+              "end": 35,
+              "expanded_url": "https://x.com/godspeedyou50/status/1987670978986701303/photo/1",
+              "media_key": "3_1987670959881654272",
+              "start": 12,
+              "url": "https://t.co/2anvWqAg39"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987670978986701303",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "爽是爽 但今天是呕吐局 https://t.co/2anvWqAg39"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "路人。and这段日子我愿意聊天，欢迎找我解惑，定期批量回fo或者私我",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1983757018830663844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984905090818523136/vVZ-D8dQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 464,
+          "following_count": 273,
+          "like_count": 130,
+          "listed_count": 1,
+          "media_count": 67,
+          "tweet_count": 728
+        },
+        "username": "godspeedyou50",
+        "verified": true
+      }
+    ]
+  }
+}

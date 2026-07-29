@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "1984808287523782796",
+    "created_at": "2025-11-02T07:55:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-02T08:55:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984892145086652658"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1920308340737126400",
+          "start": 0,
+          "username": "fusedjiii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984892145086652658",
+    "in_reply_to_user_id": "1920308340737126400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984808287523782796",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fusedjiii 这俩人我早给她们毕业了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1984808278183034880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4t0nPBawAAzQjj.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "1984808287523782796",
+        "created_at": "2025-11-02T07:55:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T08:55:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984892145086652658"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1920308340737126400",
+              "start": 0,
+              "username": "fusedjiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984892145086652658",
+        "in_reply_to_user_id": "1920308340737126400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984808287523782796",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fusedjiii 这俩人我早给她们毕业了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984808278183034880"
+          ]
+        },
+        "author_id": "1920308340737126400",
+        "conversation_id": "1984808287523782796",
+        "created_at": "2025-11-02T02:22:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T03:22:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984808287523782796"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/v4hGUwoN83",
+              "end": 45,
+              "expanded_url": "https://x.com/fusedjiii/status/1984808287523782796/photo/1",
+              "media_key": "3_1984808278183034880",
+              "start": 22,
+              "url": "https://t.co/v4hGUwoN83"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984808287523782796",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 828,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "I M外国人，No See得懂，Plz翻译 https://t.co/v4hGUwoN83"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "路人。and这段日子我愿意聊天，欢迎找我解惑，定期批量回fo或者私我",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1983757018830663844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983944337726787584/JcjyTY_u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 440,
+          "following_count": 267,
+          "like_count": 114,
+          "listed_count": 1,
+          "media_count": 58,
+          "tweet_count": 674
+        },
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-08T02:42:51.000Z",
+        "description": "我只想回口令，因为我喜欢钱。入门✉️私信。",
+        "id": "1920308340737126400",
+        "location": "世界中心",
+        "name": "裴裴小猫好吗",
+        "pinned_tweet_id": "1983598844303802493",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983908061254455296/EgQcdHrf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1806,
+          "following_count": 143,
+          "like_count": 298,
+          "listed_count": 3,
+          "media_count": 66,
+          "tweet_count": 935
+        },
+        "username": "fusedjiii",
+        "verified": false
+      }
+    ]
+  }
+}

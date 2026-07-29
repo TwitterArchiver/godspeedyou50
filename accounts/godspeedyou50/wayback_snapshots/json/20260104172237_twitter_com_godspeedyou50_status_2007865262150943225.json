@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2005888621371621663",
+    "created_at": "2026-01-04T17:22:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-04T18:22:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007865262150943225"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1988242011003228160",
+          "start": 0,
+          "username": "louooo3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007865262150943225",
+    "in_reply_to_user_id": "1988242011003228160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005900514018615515",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@louooo3 再次被普瑞击毙"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2005888621371621663",
+        "created_at": "2026-01-04T17:22:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T18:22:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007865262150943225"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1988242011003228160",
+              "start": 0,
+              "username": "louooo3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007865262150943225",
+        "in_reply_to_user_id": "1988242011003228160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005900514018615515",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@louooo3 再次被普瑞击毙"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988242011003228160",
+        "conversation_id": "2005888621371621663",
+        "created_at": "2025-12-30T07:15:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-30T08:15:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005900514018615515"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2005900514018615515",
+        "in_reply_to_user_id": "1988242011003228160",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005888621371621663",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "蒽不是小事是大事了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1994852955737264187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 655,
+          "following_count": 74,
+          "like_count": 367,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 1064
+        },
+        "username": "godspeedyou50",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-11T13:47:50.000Z",
+        "description": "",
+        "id": "1988242011003228160",
+        "name": "louooo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989008670831833089/7LSjSNx__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 66,
+          "like_count": 1442,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 251
+        },
+        "username": "louooo3",
+        "verified": false
+      }
+    ]
+  }
+}

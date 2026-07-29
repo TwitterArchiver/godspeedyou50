@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078935642244026368"
+      ]
+    },
+    "author_id": "1518404201168007168",
+    "conversation_id": "2078935647117877314",
+    "created_at": "2026-07-19T20:10:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T21:10:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078935647117877314"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 28,
+          "id": "1993150970705199108",
+          "start": 13,
+          "username": "Nana_naiiiiiii"
+        },
+        {
+          "end": 44,
+          "id": "1830934925769613334",
+          "start": 29,
+          "username": "Jinggebiezhuaw"
+        },
+        {
+          "end": 61,
+          "id": "1919465517829783552",
+          "start": 45,
+          "username": "Nonentity_xxx17"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/brW3JZ1VMd",
+          "end": 85,
+          "expanded_url": "https://x.com/godspeedyou50/status/2078935647117877314/photo/1",
+          "media_key": "3_2078935642244026368",
+          "start": 62,
+          "url": "https://t.co/brW3JZ1VMd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078935647117877314",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "有床不睡睡地上什么毛病？\n@Nana_naiiiiiii @Jinggebiezhuaw @Nonentity_xxx17 https://t.co/brW3JZ1VMd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2078935642244026368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNnc87LakAAVVuy.jpg",
+        "width": 1707
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078935642244026368"
+          ]
+        },
+        "author_id": "1518404201168007168",
+        "conversation_id": "2078935647117877314",
+        "created_at": "2026-07-19T20:10:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T21:10:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078935647117877314"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 28,
+              "id": "1993150970705199108",
+              "start": 13,
+              "username": "Nana_naiiiiiii"
+            },
+            {
+              "end": 44,
+              "id": "1830934925769613334",
+              "start": 29,
+              "username": "Jinggebiezhuaw"
+            },
+            {
+              "end": 61,
+              "id": "1919465517829783552",
+              "start": 45,
+              "username": "Nonentity_xxx17"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/brW3JZ1VMd",
+              "end": 85,
+              "expanded_url": "https://x.com/godspeedyou50/status/2078935647117877314/photo/1",
+              "media_key": "3_2078935642244026368",
+              "start": 62,
+              "url": "https://t.co/brW3JZ1VMd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078935647117877314",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有床不睡睡地上什么毛病？\n@Nana_naiiiiiii @Jinggebiezhuaw @Nonentity_xxx17 https://t.co/brW3JZ1VMd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个违背了大众良知od喝大酒的神棍。\n☯️算命后付不怕跑单｜代请符箓、祈福请私讯\n传统宗教现代哲学文化传播者，又称中式廉价心理医生。\n狐朋@Nonentity_xxx17 狗友@Jinggebiezhuaw",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 69,
+                "username": "Nonentity_xxx17"
+              },
+              {
+                "end": 103,
+                "start": 88,
+                "username": "Jinggebiezhuaw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/buyaogaowosorry",
+                "end": 23,
+                "expanded_url": "https://t.me/buyaogaowosorry",
+                "start": 0,
+                "url": "https://t.co/AdoFGQJT3r"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2069223594711011526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1708,
+          "following_count": 615,
+          "like_count": 1290,
+          "listed_count": 1,
+          "media_count": 210,
+          "tweet_count": 2914
+        },
+        "url": "https://t.co/AdoFGQJT3r",
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-25T02:55:07.000Z",
+        "description": "淡推\n我现在只想一直跟我的天使男孩待在一起然后直接退网",
+        "id": "1993150970705199108",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "naiiiiiiiiiiiiiii",
+        "pinned_tweet_id": "2077843519004352779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151610718240768/zNZFleGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1519,
+          "following_count": 321,
+          "like_count": 21935,
+          "listed_count": 2,
+          "media_count": 152,
+          "tweet_count": 1718
+        },
+        "url": "",
+        "username": "Nana_naiiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-03T11:45:04.000Z",
+        "description": "女，黑长直性恋，精神分裂确诊，导演系在读。非典型化学推，合法不列管策划药售卖/化学物质使用咨询💊。我的名字读作奥克萨娜 不是OK娑娜。\n闺蜜：@godspeedyou50、 @Nonentity_xxx17",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 71,
+                "username": "godspeedyou50"
+              },
+              {
+                "end": 103,
+                "start": 87,
+                "username": "Nonentity_xxx17"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Oksana_132435",
+                "end": 23,
+                "expanded_url": "https://t.me/Oksana_132435",
+                "start": 0,
+                "url": "https://t.co/Mj09WQFbLQ"
+              }
+            ]
+          }
+        },
+        "id": "1830934925769613334",
+        "location": "Tokyo-to, Japan",
+        "name": "Oksana💊",
+        "pinned_tweet_id": "2064158937000358141",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836467833401937920/1OZ_D_Qp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3413,
+          "following_count": 468,
+          "like_count": 1302,
+          "listed_count": 5,
+          "media_count": 200,
+          "tweet_count": 809
+        },
+        "url": "https://t.co/Mj09WQFbLQ",
+        "username": "Jinggebiezhuaw",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-05T18:53:44.000Z",
+        "description": "忍辱士 \n还阳十九 胜天一筹\n双相I型/低能量/欣赏躯体\n金童@godspeedyou50 玉女@Jinggebiezhuaw",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 31,
+                "username": "godspeedyou50"
+              },
+              {
+                "end": 63,
+                "start": 48,
+                "username": "Jinggebiezhuaw"
+              }
+            ]
+          }
+        },
+        "id": "1919465517829783552",
+        "location": "來世",
+        "name": "優.",
+        "pinned_tweet_id": "2064926614115504357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072470902613434368/bkDijVP5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 194,
+          "following_count": 97,
+          "like_count": 3653,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 601
+        },
+        "url": "",
+        "username": "Nonentity_xxx17",
+        "verified": false
+      }
+    ]
+  }
+}

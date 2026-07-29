@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2060278180448194965",
+    "created_at": "2026-05-29T08:35:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T09:35:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060278943585116648"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1611238295673114625",
+          "start": 0,
+          "username": "marinashitteru"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060278943585116648",
+    "in_reply_to_user_id": "1611238295673114625",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060278524431495556",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@marinashitteru 对"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2060278180448194965",
+        "created_at": "2026-05-29T08:35:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T09:35:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060278943585116648"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1611238295673114625",
+              "start": 0,
+              "username": "marinashitteru"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060278943585116648",
+        "in_reply_to_user_id": "1611238295673114625",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060278524431495556",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@marinashitteru 对"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1611238295673114625",
+        "conversation_id": "2060278180448194965",
+        "created_at": "2026-05-29T08:34:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T09:34:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060278524431495556"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1518404201168007168",
+              "start": 0,
+              "username": "godspeedyou50"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060278524431495556",
+        "in_reply_to_user_id": "1518404201168007168",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060278319900504095",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@godspeedyou50 呃呃呃呃加巴喷丁？！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2048720319872192919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1300,
+          "following_count": 307,
+          "like_count": 1106,
+          "listed_count": 0,
+          "media_count": 165,
+          "tweet_count": 2481
+        },
+        "username": "godspeedyou50",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-06T05:48:55.000Z",
+        "description": "kk/哭哭 头像本体丨sh/od负能量 备用里账@sealofKk 链接是匿名提问箱↓ 太久没发帖就是被制裁了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 24,
+                "username": "sealofKk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sealak",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sealak",
+                "start": 0,
+                "url": "https://t.co/rtmoBynCzZ"
+              }
+            ]
+          }
+        },
+        "id": "1611238295673114625",
+        "location": "垃圾话大王海豹",
+        "name": "总而言之我哥哥非常非常好",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043321958352486400/e4Wm8MC3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 213,
+          "following_count": 239,
+          "like_count": 6270,
+          "listed_count": 0,
+          "media_count": 134,
+          "tweet_count": 3655
+        },
+        "url": "https://t.co/rtmoBynCzZ",
+        "username": "marinashitteru",
+        "verified": false
+      }
+    ]
+  }
+}

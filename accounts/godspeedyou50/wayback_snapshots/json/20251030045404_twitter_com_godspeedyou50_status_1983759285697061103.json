@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "1983759285697061103",
+    "created_at": "2025-10-30T04:54:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-30T05:54:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1983759285697061103"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1983759285697061103",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "如果有人问我易理知识 无关宗教\n我觉得我还算个合格的老师 至少我回答你的问题了的话，你一下子会懂。\n这反而是我最擅长的东西\n在这里这点玩意其实就是爱好\n我的工作是类似老师一样的职业 只是带墙内娱乐主播的运营而已\n开过公司 黄了。\n今年开始偶尔失业就会去打游戏当陪玩赚钱 但那挺窝囊的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "1983759285697061103",
+        "created_at": "2025-10-30T04:54:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T05:54:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983759285697061103"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1983759285697061103",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果有人问我易理知识 无关宗教\n我觉得我还算个合格的老师 至少我回答你的问题了的话，你一下子会懂。\n这反而是我最擅长的东西\n在这里这点玩意其实就是爱好\n我的工作是类似老师一样的职业 只是带墙内娱乐主播的运营而已\n开过公司 黄了。\n今年开始偶尔失业就会去打游戏当陪玩赚钱 但那挺窝囊的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "路人。and这段日子我愿意聊天，欢迎找我解惑，定期批量回fo或者私我",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1983757018830663844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827690417619697665/4z5RgWOE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 399,
+          "following_count": 241,
+          "like_count": 97,
+          "listed_count": 1,
+          "media_count": 52,
+          "tweet_count": 583
+        },
+        "username": "godspeedyou50",
+        "verified": true
+      }
+    ]
+  }
+}

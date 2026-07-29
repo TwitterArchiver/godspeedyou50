@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "1984461879125983715",
+    "created_at": "2025-11-01T03:40:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-01T04:40:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984465425787470063"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1963867793776070656",
+          "start": 0,
+          "username": "drug_artist1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984465425787470063",
+    "in_reply_to_user_id": "1963867793776070656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984461879125983715",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@drug_artist1 所以你少玩点pce吧 你马上要犯病了 真不敢和你接触"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "1984461879125983715",
+        "created_at": "2025-11-01T03:40:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T04:40:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984465425787470063"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1963867793776070656",
+              "start": 0,
+              "username": "drug_artist1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984465425787470063",
+        "in_reply_to_user_id": "1963867793776070656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984461879125983715",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@drug_artist1 所以你少玩点pce吧 你马上要犯病了 真不敢和你接触"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1963867793776070656",
+        "conversation_id": "1984461879125983715",
+        "created_at": "2025-11-01T03:25:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T04:25:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984461879125983715"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1984461879125983715",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 51,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们说的都对 我帮不了他什么 我拿死人出来炒作 我特么就是一个o大的傻逼 \n“药圈最会炒作的人”\n“你什么都改变不了”\n你们说的都对 我就是个一直在滥用药物把自己封闭在家里整天不开床帘不见阳光的精神病毒虫，下水道的老鼠，多骂骂我吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "路人。and这段日子我愿意聊天，欢迎找我解惑，定期批量回fo或者私我",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1983757018830663844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983944337726787584/JcjyTY_u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 420,
+          "following_count": 261,
+          "like_count": 111,
+          "listed_count": 1,
+          "media_count": 50,
+          "tweet_count": 628
+        },
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-05T07:32:46.000Z",
+        "description": "药物百科wiki主｜投稿报告请私信我｜长发视觉系4i男娘｜售卖合法物质｜提问箱:https://t.co/ez10SQHDdD｜愿每一位药物滥用者都能脱离深渊｜提供药物咨询 ｜im crazy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/drug_artist",
+                "end": 63,
+                "expanded_url": "https://ngl.link/drug_artist",
+                "start": 40,
+                "url": "https://t.co/ez10SQHDdD"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/N4ZvRTnSIg"
+              }
+            ]
+          }
+        },
+        "id": "1963867793776070656",
+        "location": "Xanax天国12mg自治区",
+        "name": "沐雨",
+        "pinned_tweet_id": "1983475029259239573",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984290837677965312/pwoAuV9f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1355,
+          "following_count": 77,
+          "like_count": 395,
+          "listed_count": 2,
+          "media_count": 40,
+          "tweet_count": 452
+        },
+        "url": "https://t.co/N4ZvRTnSIg",
+        "username": "drug_artist1",
+        "verified": false
+      }
+    ]
+  }
+}

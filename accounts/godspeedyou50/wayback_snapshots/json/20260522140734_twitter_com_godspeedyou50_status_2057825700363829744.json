@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2057709305496055888",
+    "created_at": "2026-05-22T14:07:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T15:07:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057825700363829744"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2050073911635894272",
+          "start": 0,
+          "username": "Lomyral114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057825700363829744",
+    "in_reply_to_user_id": "2050073911635894272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057823533288542240",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lomyral114514 芬太尼能把人爽的折起来 因为质量参差不齐他们每次玩都是在赌"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2057709305496055888",
+        "created_at": "2026-05-22T14:07:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T15:07:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057825700363829744"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2050073911635894272",
+              "start": 0,
+              "username": "Lomyral114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057825700363829744",
+        "in_reply_to_user_id": "2050073911635894272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057823533288542240",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lomyral114514 芬太尼能把人爽的折起来 因为质量参差不齐他们每次玩都是在赌"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2050073911635894272",
+        "conversation_id": "2057709305496055888",
+        "created_at": "2026-05-22T13:58:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T14:58:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057823533288542240"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1518404201168007168",
+              "start": 0,
+              "username": "godspeedyou50"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057823533288542240",
+        "in_reply_to_user_id": "1518404201168007168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057709305496055888",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@godspeedyou50 国外有芬太尼凝胶的烫吸报告，据称体验不错。对耐受较低的人而言芬太尼透皮贴应该也能玩("
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2048720319872192919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1266,
+          "following_count": 292,
+          "like_count": 1068,
+          "listed_count": 0,
+          "media_count": 162,
+          "tweet_count": 2409
+        },
+        "username": "godspeedyou50",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-01T04:44:51.000Z",
+        "description": "enby，he/they，无浪漫倾向泛性恋。\nINTP/重抑中焦。\n碎碎念推。不键政，不吸毒，不贩卖任何东西，不提供任何付费服务。\n这里是三号机，互关寻回中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lomyral",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lomyral",
+                "start": 0,
+                "url": "https://t.co/nRrn3eYjVb"
+              }
+            ]
+          }
+        },
+        "id": "2050073911635894272",
+        "location": "The other side of paradise",
+        "name": "Lomyral 3.0(已老实)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050074118356434944/ebr8JW3N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 870,
+          "following_count": 492,
+          "like_count": 3605,
+          "listed_count": 2,
+          "media_count": 47,
+          "tweet_count": 1131
+        },
+        "url": "https://t.co/nRrn3eYjVb",
+        "username": "Lomyral114514",
+        "verified": false
+      }
+    ]
+  }
+}

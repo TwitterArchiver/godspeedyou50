@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "1993996987625296227",
+    "created_at": "2025-11-27T14:49:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T15:49:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994056064782696595"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1678171777409875968",
+          "start": 0,
+          "username": "420420420CTL"
+        },
+        {
+          "end": 26,
+          "id": "1906360034725961728",
+          "start": 14,
+          "username": "Xiaoyou_329"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994056064782696595",
+    "in_reply_to_user_id": "1678171777409875968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994046974656729117",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@420420420CTL @Xiaoyou_329 怎不回我？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "1993996987625296227",
+        "created_at": "2025-11-27T14:49:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T15:49:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994056064782696595"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1678171777409875968",
+              "start": 0,
+              "username": "420420420CTL"
+            },
+            {
+              "end": 26,
+              "id": "1906360034725961728",
+              "start": 14,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994056064782696595",
+        "in_reply_to_user_id": "1678171777409875968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994046974656729117",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@420420420CTL @Xiaoyou_329 怎不回我？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1678171777409875968",
+        "conversation_id": "1993996987625296227",
+        "created_at": "2025-11-27T14:13:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T15:13:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994046974656729117"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994046974656729117",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 687,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993996987625296227",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 比20g大麻的價格還貴！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "路人。",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1983757018830663844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990279769297149952/3r34Cj2f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 647,
+          "following_count": 313,
+          "like_count": 328,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 941
+        },
+        "username": "godspeedyou50",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-09T22:38:41.000Z",
+        "description": "支持亞洲大麻合法化，大麻除罪，正視醫療大麻用途，MTF🏳️‍⚧️🏳️‍🌈LGBTQ友好🧑‍🤝‍🧑👭只有x和谷歌電郵聯繫方式，會回私信💚可以任何平台擔保",
+        "id": "1678171777409875968",
+        "location": "Los Angeles, CA",
+        "name": "邦尼兔weed_420（大麻/電子煙）",
+        "pinned_tweet_id": "1981574129213198506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974827827179802624/vAqBFqmJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 300,
+          "following_count": 393,
+          "like_count": 132,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 420
+        },
+        "username": "420420420CTL",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜希望你像晴天一样明媚 偶尔是雨天也没关系 因为我会为你撑伞｜感谢关注 祝你天天开心o(^▽^)o",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1972663572028170544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556444183580672/gJXigQtD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7226,
+          "following_count": 156,
+          "like_count": 5169,
+          "listed_count": 4,
+          "media_count": 531,
+          "tweet_count": 4235
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      }
+    ]
+  }
+}

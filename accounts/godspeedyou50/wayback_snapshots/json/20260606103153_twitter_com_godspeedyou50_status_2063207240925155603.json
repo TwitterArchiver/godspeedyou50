@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2063207240925155603",
+    "created_at": "2026-06-06T10:31:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T11:31:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063207240925155603"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/r1k0xo33w/stat…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/r1k0xo33w/status/2063205342977388829",
+          "start": 4,
+          "url": "https://t.co/M4cmszdIKC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063207240925155603",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063205342977388829",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "李时珍 https://t.co/M4cmszdIKC"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2063207240925155603",
+        "created_at": "2026-06-06T10:31:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T11:31:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063207240925155603"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/r1k0xo33w/stat…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/r1k0xo33w/status/2063205342977388829",
+              "start": 4,
+              "url": "https://t.co/M4cmszdIKC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063207240925155603",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063205342977388829",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "李时珍 https://t.co/M4cmszdIKC"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026876224589701120",
+        "conversation_id": "2063205342977388829",
+        "created_at": "2026-06-06T10:24:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T11:24:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063205342977388829"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063205342977388829",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我得戒多久普瑞才能有药效 上次半个月都不行 至少得一个半月两个月吧 那到时候阿普劳拉成瘾咋整 我老实吃精神病药去？躁了又咋整？两家医院给我判的大概率双向II型 药又咋调 我是吃文拉法辛 还是吃西酞普兰 反正碳酸锂要吃 然后adhd就算了 贵死吃不起也 安眠曲唑酮好使吗🫠"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2048720319872192919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1317,
+          "following_count": 320,
+          "like_count": 1122,
+          "listed_count": 1,
+          "media_count": 175,
+          "tweet_count": 2520
+        },
+        "username": "godspeedyou50",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-26T04:25:31.000Z",
+        "description": "一直在找我是谁#颓废无能青年#混乱善良的孩子#",
+        "id": "2026876224589701120",
+        "location": "伽蓝洞",
+        "name": "鲤",
+        "pinned_tweet_id": "2035834585226019160",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038180445620453376/K2BlHK_U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 109,
+          "like_count": 865,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 950
+        },
+        "username": "R1k0xo33w",
+        "verified": true
+      }
+    ]
+  }
+}

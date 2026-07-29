@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048762876836605952",
+        "3_2048762876844994560"
+      ]
+    },
+    "author_id": "1518404201168007168",
+    "conversation_id": "2048762885598494891",
+    "created_at": "2026-04-27T13:55:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T14:55:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048762885598494891"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/JPjOta0mj5",
+          "end": 167,
+          "expanded_url": "https://x.com/godspeedyou50/status/2048762885598494891/photo/1",
+          "media_key": "3_2048762876836605952",
+          "start": 144,
+          "url": "https://t.co/JPjOta0mj5"
+        },
+        {
+          "display_url": "pic.x.com/JPjOta0mj5",
+          "end": 167,
+          "expanded_url": "https://x.com/godspeedyou50/status/2048762885598494891/photo/1",
+          "media_key": "3_2048762876844994560",
+          "start": 144,
+          "url": "https://t.co/JPjOta0mj5"
+        },
+        {
+          "display_url": "x.com/godspeedyou50/…",
+          "end": 191,
+          "expanded_url": "https://twitter.com/godspeedyou50/status/2048760260865970487",
+          "start": 168,
+          "url": "https://t.co/q6ymT9qdSv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048762885598494891",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048760260865970487",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "为了安全420以后我谨言慎行我不想分享之后怎么办，国规药房一周限购一次，电子处方现场视频问答审查以及需要拿着处方和病例。你怎么的你骑电动车给你爹那俩篮子货扫了，你一盒几块钱利润卖精二卖普瑞，完了处方无限用呗，别跟我聊什么医院能一次十盒，执业医师4.22培训开会内容知道是什么 当谁傻逼？ https://t.co/JPjOta0mj5 https://t.co/q6ymT9qdSv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1290,
+        "media_key": "3_2048762876836605952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG6q-07acAA69R7.jpg",
+        "width": 596
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2048762876844994560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG6q-09acAA4OWL.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2048760250908753920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG6ol-lbQAAMAuB.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2048760250950651904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG6ol-vakAAgyN0.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048762876836605952",
+            "3_2048762876844994560"
+          ]
+        },
+        "author_id": "1518404201168007168",
+        "conversation_id": "2048762885598494891",
+        "created_at": "2026-04-27T13:55:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T14:55:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048762885598494891"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JPjOta0mj5",
+              "end": 167,
+              "expanded_url": "https://x.com/godspeedyou50/status/2048762885598494891/photo/1",
+              "media_key": "3_2048762876836605952",
+              "start": 144,
+              "url": "https://t.co/JPjOta0mj5"
+            },
+            {
+              "display_url": "pic.x.com/JPjOta0mj5",
+              "end": 167,
+              "expanded_url": "https://x.com/godspeedyou50/status/2048762885598494891/photo/1",
+              "media_key": "3_2048762876844994560",
+              "start": 144,
+              "url": "https://t.co/JPjOta0mj5"
+            },
+            {
+              "display_url": "x.com/godspeedyou50/…",
+              "end": 191,
+              "expanded_url": "https://twitter.com/godspeedyou50/status/2048760260865970487",
+              "start": 168,
+              "url": "https://t.co/q6ymT9qdSv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048762885598494891",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048760260865970487",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "为了安全420以后我谨言慎行我不想分享之后怎么办，国规药房一周限购一次，电子处方现场视频问答审查以及需要拿着处方和病例。你怎么的你骑电动车给你爹那俩篮子货扫了，你一盒几块钱利润卖精二卖普瑞，完了处方无限用呗，别跟我聊什么医院能一次十盒，执业医师4.22培训开会内容知道是什么 当谁傻逼？ https://t.co/JPjOta0mj5 https://t.co/q6ymT9qdSv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048760250908753920",
+            "3_2048760250950651904"
+          ]
+        },
+        "author_id": "1518404201168007168",
+        "conversation_id": "2048760260865970487",
+        "created_at": "2026-04-27T13:44:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T14:44:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048760260865970487"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gB7bryKKpM",
+              "end": 41,
+              "expanded_url": "https://x.com/godspeedyou50/status/2048760260865970487/photo/1",
+              "media_key": "3_2048760250908753920",
+              "start": 18,
+              "url": "https://t.co/gB7bryKKpM"
+            },
+            {
+              "display_url": "pic.x.com/gB7bryKKpM",
+              "end": 41,
+              "expanded_url": "https://x.com/godspeedyou50/status/2048760260865970487/photo/1",
+              "media_key": "3_2048760250950651904",
+              "start": 18,
+              "url": "https://t.co/gB7bryKKpM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048760260865970487",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 70,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我日你妈行么sb 我今天必须喷死你 https://t.co/gB7bryKKpM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。/欢迎提问/@OvooLOO3o",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 17,
+                "username": "OvooLOO3o"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jahseh79919",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jahseh79919",
+                "start": 0,
+                "url": "https://t.co/xaz6T7v19q"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2029134307244294287",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1155,
+          "following_count": 255,
+          "like_count": 988,
+          "listed_count": 0,
+          "media_count": 155,
+          "tweet_count": 2305
+        },
+        "url": "https://t.co/xaz6T7v19q",
+        "username": "godspeedyou50",
+        "verified": false
+      }
+    ]
+  }
+}

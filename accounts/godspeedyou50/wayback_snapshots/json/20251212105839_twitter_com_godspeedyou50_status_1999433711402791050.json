@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "1999433711402791050",
+    "created_at": "2025-12-12T10:58:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-12T11:58:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1999433711402791050"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/edward_8964/st…",
+          "end": 54,
+          "expanded_url": "https://twitter.com/edward_8964/status/1999423143136682039",
+          "start": 31,
+          "url": "https://t.co/WfdBnGlMuQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999433711402791050",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999423143136682039",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "代后藤公告，爱德华及其党同伐异之辈集体炸号导致后藤永久封禁。 https://t.co/WfdBnGlMuQ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "1999433711402791050",
+        "created_at": "2025-12-12T10:58:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T11:58:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999433711402791050"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/edward_8964/st…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/edward_8964/status/1999423143136682039",
+              "start": 31,
+              "url": "https://t.co/WfdBnGlMuQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999433711402791050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999423143136682039",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "代后藤公告，爱德华及其党同伐异之辈集体炸号导致后藤永久封禁。 https://t.co/WfdBnGlMuQ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1911828872334831616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "Composer",
+              "id": "1156968167354142720",
+              "name": "Musical composition"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "1288826829634035714",
+              "name": "Backstage"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Composer",
+              "id": "1156968167354142720",
+              "name": "Musical composition"
+            }
+          }
+        ],
+        "conversation_id": "1999423143136682039",
+        "created_at": "2025-12-12T10:16:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T11:16:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999423143136682039"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/akinoyo_desu/s…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/akinoyo_desu/status/1999422443044442157",
+              "start": 20,
+              "url": "https://t.co/jrcq3ZQ0Q2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999423143136682039",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 106,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999422443044442157",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "对于其减害事业，我谨以个人名义表达尊敬 https://t.co/jrcq3ZQ0Q2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1999064457344147720",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 664,
+          "following_count": 63,
+          "like_count": 363,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 1045
+        },
+        "username": "godspeedyou50",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-14T17:08:26.000Z",
+        "description": "南湖之虎｜第4次转生｜ MTX ｜退役OIer｜OD｜重精神病｜ADHD｜右美沙芬 ｜freeODwiki参与者｜NEwiki维护员｜自由、梦想、进取｜不盈利方针中断",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "nonexistent.wiki",
+                "end": 23,
+                "expanded_url": "http://nonexistent.wiki",
+                "start": 0,
+                "url": "https://t.co/l3ALBiEbNl"
+              }
+            ]
+          }
+        },
+        "id": "1911828872334831616",
+        "location": "NE",
+        "name": "💊爱德华",
+        "pinned_tweet_id": "1994524465359982832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983915986710667264/18Wn7FvD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 749,
+          "following_count": 615,
+          "like_count": 6376,
+          "listed_count": 2,
+          "media_count": 272,
+          "tweet_count": 4167
+        },
+        "url": "https://t.co/l3ALBiEbNl",
+        "username": "Edward_8964",
+        "verified": true
+      }
+    ]
+  }
+}

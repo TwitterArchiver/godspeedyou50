@@ -1,0 +1,138 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1987670959927742464",
+        "3_1987670959881654272",
+        "3_1987678903973142528"
+      ]
+    },
+    "author_id": "1518404201168007168",
+    "conversation_id": "1987678913397723296",
+    "created_at": "2025-11-10T00:29:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-10T00:57:45.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1987670978986701303",
+      "1987678913397723296"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/LUJVHmWWis",
+          "end": 35,
+          "expanded_url": "https://x.com/godspeedyou50/status/1987678913397723296/photo/1",
+          "media_key": "3_1987670959927742464",
+          "start": 12,
+          "url": "https://t.co/LUJVHmWWis"
+        },
+        {
+          "display_url": "pic.x.com/LUJVHmWWis",
+          "end": 35,
+          "expanded_url": "https://x.com/godspeedyou50/status/1987678913397723296/photo/1",
+          "media_key": "3_1987670959881654272",
+          "start": 12,
+          "url": "https://t.co/LUJVHmWWis"
+        },
+        {
+          "display_url": "pic.x.com/LUJVHmWWis",
+          "end": 35,
+          "expanded_url": "https://x.com/godspeedyou50/status/1987678913397723296/photo/1",
+          "media_key": "3_1987678903973142528",
+          "start": 12,
+          "url": "https://t.co/LUJVHmWWis"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987678913397723296",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "爽是爽 但今天是呕吐局 https://t.co/LUJVHmWWis"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1987670978986701303].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1987670978986701303",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1987670978986701303"
+    },
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1987678913397723296].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1987678913397723296",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1987678913397723296"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1707,
+        "media_key": "3_1987670959927742464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5WgNPjaUAATvKj.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1987670959881654272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5WgNPYbEAA-vqF.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1707,
+        "media_key": "3_1987678903973142528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5WnbpbbYAA6_NJ.jpg",
+        "width": 1280
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "路人。and这段日子我愿意聊天，欢迎找我解惑，定期批量回fo或者私我",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1983757018830663844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984905090818523136/vVZ-D8dQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 464,
+          "following_count": 273,
+          "like_count": 130,
+          "listed_count": 1,
+          "media_count": 68,
+          "tweet_count": 729
+        },
+        "username": "godspeedyou50",
+        "verified": true
+      }
+    ]
+  }
+}

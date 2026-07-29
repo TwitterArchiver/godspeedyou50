@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "1983037149458116771",
+    "created_at": "2025-10-28T22:12:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-28T23:12:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983295733156721147"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1559571307066363904",
+          "start": 0,
+          "username": "puppetnan"
+        },
+        {
+          "end": 22,
+          "id": "1962425480612851712",
+          "start": 11,
+          "username": "yaowubaike"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983295733156721147",
+    "in_reply_to_user_id": "1559571307066363904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983295039427272850",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@puppetnan @yaowubaike 如果是微信药理群 那就是我们 有一例"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "1983037149458116771",
+        "created_at": "2025-10-28T22:12:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T23:12:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983295733156721147"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1559571307066363904",
+              "start": 0,
+              "username": "puppetnan"
+            },
+            {
+              "end": 22,
+              "id": "1962425480612851712",
+              "start": 11,
+              "username": "yaowubaike"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983295733156721147",
+        "in_reply_to_user_id": "1559571307066363904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983295039427272850",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@puppetnan @yaowubaike 如果是微信药理群 那就是我们 有一例"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1559571307066363904",
+        "conversation_id": "1983037149458116771",
+        "created_at": "2025-10-28T22:09:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T23:09:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983295039427272850"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1518404201168007168",
+              "start": 0,
+              "username": "godspeedyou50"
+            },
+            {
+              "end": 26,
+              "id": "1962425480612851712",
+              "start": 15,
+              "username": "yaowubaike"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983295039427272850",
+        "in_reply_to_user_id": "1518404201168007168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983152243424800988",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@godspeedyou50 @yaowubaike 不是其他藥圈，是藥圈裡面其他的人😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "路人。and这段日子我愿意聊天，欢迎找我解惑，定期批量回fo或者私我",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1982515322788942238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827690417619697665/4z5RgWOE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 385,
+          "following_count": 230,
+          "like_count": 83,
+          "listed_count": 1,
+          "media_count": 46,
+          "tweet_count": 527
+        },
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2022-08-16T16:03:01.000Z",
+        "description": "我是@Remipills 南烛呀！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "Remipills"
+              }
+            ]
+          }
+        },
+        "id": "1559571307066363904",
+        "name": "❄️",
+        "pinned_tweet_id": "1934440482723233957",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914965489790717952/IANYOpOs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 668,
+          "following_count": 94,
+          "like_count": 196,
+          "listed_count": 2,
+          "media_count": 19,
+          "tweet_count": 99
+        },
+        "username": "puppetnan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-01T08:02:36.000Z",
+        "description": "这里是药物百科官方账号 有报告欢迎私信投稿 | wiki主沐雨@drug_artist1 | 副wiki主小鸮:@Manglesuki｜提供免费药物咨询｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 31,
+                "username": "drug_artist1"
+              },
+              {
+                "end": 67,
+                "start": 56,
+                "username": "Manglesuki"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/05EG4MjwrN"
+              }
+            ]
+          }
+        },
+        "id": "1962425480612851712",
+        "location": "Xanax天国2mg市",
+        "name": "药物百科Mediwiki",
+        "pinned_tweet_id": "1975782494189601080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962426785532170240/hz3rO6fL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1290,
+          "following_count": 30,
+          "like_count": 194,
+          "listed_count": 4,
+          "media_count": 16,
+          "tweet_count": 128
+        },
+        "url": "https://t.co/05EG4MjwrN",
+        "username": "yaowubaike",
+        "verified": false
+      }
+    ]
+  }
+}

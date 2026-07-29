@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "1985272782020882756",
+    "created_at": "2025-11-03T11:22:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-03T12:22:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985306500982854005"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1799795163843436544",
+          "start": 0,
+          "username": "BeetiIsDog"
+        },
+        {
+          "end": 24,
+          "id": "1882936483662663680",
+          "start": 12,
+          "username": "jngyn298282"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985306500982854005",
+    "in_reply_to_user_id": "1799795163843436544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985299115115458699",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BeetiIsDog @jngyn298282 这人挺傻逼的 炸地铁 炒股亏10w 要和我研究贩卖人体器官"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "1985272782020882756",
+        "created_at": "2025-11-03T11:22:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T12:22:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985306500982854005"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1799795163843436544",
+              "start": 0,
+              "username": "BeetiIsDog"
+            },
+            {
+              "end": 24,
+              "id": "1882936483662663680",
+              "start": 12,
+              "username": "jngyn298282"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985306500982854005",
+        "in_reply_to_user_id": "1799795163843436544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985299115115458699",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BeetiIsDog @jngyn298282 这人挺傻逼的 炸地铁 炒股亏10w 要和我研究贩卖人体器官"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1799795163843436544",
+        "conversation_id": "1985272782020882756",
+        "created_at": "2025-11-03T10:52:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T11:52:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985299115115458699"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1518404201168007168",
+              "start": 0,
+              "username": "godspeedyou50"
+            },
+            {
+              "end": 27,
+              "id": "1882936483662663680",
+              "start": 15,
+              "username": "jngyn298282"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985299115115458699",
+        "in_reply_to_user_id": "1518404201168007168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985280458729595267",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@godspeedyou50 @jngyn298282 这人晚安磕多了吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "路人。and这段日子我愿意聊天，欢迎找我解惑，定期批量回fo或者私我",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1983757018830663844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984905090818523136/vVZ-D8dQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 445,
+          "following_count": 269,
+          "like_count": 116,
+          "listed_count": 1,
+          "media_count": 61,
+          "tweet_count": 698
+        },
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-09T13:26:33.000Z",
+        "description": "病み垢/demigirl/不知道藤井風的歌有多好听的人可以永别了。/这是一个只会发布转发碎碎念画作内容的无脑仓鼠人的账号，互fo请留言。不参与争论和吵架，多点关心多点爱 || 这是另一个我：@5_HTIsUsagi   我老大：@sysjf0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 95,
+                "username": "5_HTIsUsagi"
+              },
+              {
+                "end": 121,
+                "start": 114,
+                "username": "sysjf0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+vOQWVMQTr0Y2O…",
+                "end": 23,
+                "expanded_url": "https://t.me/+vOQWVMQTr0Y2OGI1",
+                "start": 0,
+                "url": "https://t.co/n7w34dGfVN"
+              }
+            ]
+          }
+        },
+        "id": "1799795163843436544",
+        "location": "≤ 1 km",
+        "name": "ビーチイ小犬 |๏ᆺ๏υ)",
+        "pinned_tweet_id": "1936770496970006587",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984412560318423040/hpni-GSO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 324,
+          "following_count": 647,
+          "like_count": 20451,
+          "listed_count": 3,
+          "media_count": 275,
+          "tweet_count": 4620
+        },
+        "url": "https://t.co/n7w34dGfVN",
+        "username": "BeetiIsDog",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-24T23:40:25.000Z",
+        "description": "我看着幸福的日子被我给摧毁后开心地闭上了眼",
+        "id": "1882936483662663680",
+        "name": "镜音",
+        "pinned_tweet_id": "1983521365727891517",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983881848775438338/SaevqnOR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 340,
+          "following_count": 161,
+          "like_count": 12588,
+          "listed_count": 0,
+          "media_count": 204,
+          "tweet_count": 1576
+        },
+        "username": "jngyn298282",
+        "verified": false
+      }
+    ]
+  }
+}

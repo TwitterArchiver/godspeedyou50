@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2040837751524999615",
+    "created_at": "2026-04-05T22:04:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T23:04:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040913431361097775"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1865088675668987904",
+          "start": 0,
+          "username": "TAkumi6937"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040913431361097775",
+    "in_reply_to_user_id": "1865088675668987904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040912255475413079",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TAkumi6937 对对对我就要这种答案 那么我该怎么做 大神 妈 爹 爸！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2040837751524999615",
+        "created_at": "2026-04-05T22:04:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T23:04:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040913431361097775"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1865088675668987904",
+              "start": 0,
+              "username": "TAkumi6937"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040913431361097775",
+        "in_reply_to_user_id": "1865088675668987904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040912255475413079",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TAkumi6937 对对对我就要这种答案 那么我该怎么做 大神 妈 爹 爸！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1865088675668987904",
+        "conversation_id": "2040837751524999615",
+        "created_at": "2026-04-05T21:59:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T22:59:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040912255475413079"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1518404201168007168",
+              "start": 0,
+              "username": "godspeedyou50"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040912255475413079",
+        "in_reply_to_user_id": "1518404201168007168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040837751524999615",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@godspeedyou50 宝宝你现在嗓子已经不好了再用g食道可能有出血的风险 入g了就没有自制力了 很容易上瘾对牙齿腐蚀极其严重 食道癌 电解质紊乱突发猝死 戒g堪比戒d了宝宝😿"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。/双相I型/欢迎提问",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jahseh79919",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jahseh79919",
+                "start": 0,
+                "url": "https://t.co/xaz6T7v19q"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2029134307244294287",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1018,
+          "following_count": 208,
+          "like_count": 861,
+          "listed_count": 0,
+          "media_count": 132,
+          "tweet_count": 2112
+        },
+        "url": "https://t.co/xaz6T7v19q",
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-06T17:40:05.000Z",
+        "description": "碎碎念日记ㅤ꒰՞ɞ̴̶̷̥⩊ɞ̴̶̷̥꒱֯♡ 不线下 分享些小xp 女孩子来找我互动呀！谢谢你们喜欢我.    ᕀ𓂋᜔˖ᗴ͜ꩰ(՞⸝⸝o̴̶̷̥᷅  ̫ o̴̶̷᷄⸝⸝՞) ꩰ͜ᗱ",
+        "id": "1865088675668987904",
+        "location": "🚪88",
+        "name": "miu叽",
+        "pinned_tweet_id": "2039297466533806180",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038282096641560576/mjAHJWq1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 437,
+          "following_count": 27,
+          "like_count": 194,
+          "listed_count": 2,
+          "media_count": 58,
+          "tweet_count": 196
+        },
+        "username": "TAkumi6937",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-06T17:40:05.000Z",
+        "description": "碎碎念日记ㅤ꒰՞ɞ̴̶̷̥⩊ɞ̴̶̷̥꒱֯♡ 不线下 分享些小xp 女孩子来找我互动呀！谢谢你们喜欢我.    ᕀ𓂋᜔˖ᗴ͜ꩰ(՞⸝⸝o̴̶̷̥᷅  ̫ o̴̶̷᷄⸝⸝՞) ꩰ͜ᗱ",
+        "id": "1865088675668987904",
+        "location": "🚪88",
+        "name": "miu叽",
+        "pinned_tweet_id": "2039297466533806180",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038282096641560576/mjAHJWq1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 437,
+          "following_count": 27,
+          "like_count": 194,
+          "listed_count": 2,
+          "media_count": 58,
+          "tweet_count": 196
+        },
+        "username": "TAkumi6937",
+        "verified": true
+      }
+    ]
+  }
+}

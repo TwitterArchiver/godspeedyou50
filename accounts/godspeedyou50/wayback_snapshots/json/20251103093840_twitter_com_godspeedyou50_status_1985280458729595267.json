@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "1985272782020882756",
+    "created_at": "2025-11-03T09:38:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-03T10:38:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985280458729595267"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1882936483662663680",
+          "start": 0,
+          "username": "jngyn298282"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985280458729595267",
+    "in_reply_to_user_id": "1882936483662663680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985272782020882756",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jngyn298282 谁也没说致死啊 顶多拉稀或者疯了呗 有病 这人不是炸地铁站那个吗\n选择进入一条未知的深渊是自己选的 中间会有告示牌和提示 但你要走过去谁也拦不住 仅此而已 这傻逼…."
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1612,
+        "media_key": "3_1985272778841542656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G40bEu0aUAAKBkR.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "1985272782020882756",
+        "created_at": "2025-11-03T09:38:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T10:38:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985280458729595267"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1882936483662663680",
+              "start": 0,
+              "username": "jngyn298282"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985280458729595267",
+        "in_reply_to_user_id": "1882936483662663680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985272782020882756",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jngyn298282 谁也没说致死啊 顶多拉稀或者疯了呗 有病 这人不是炸地铁站那个吗\n选择进入一条未知的深渊是自己选的 中间会有告示牌和提示 但你要走过去谁也拦不住 仅此而已 这傻逼…."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985272778841542656"
+          ]
+        },
+        "author_id": "1882936483662663680",
+        "conversation_id": "1985272782020882756",
+        "created_at": "2025-11-03T09:08:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T10:08:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985272782020882756"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1DOLXjFCDJ",
+              "end": 28,
+              "expanded_url": "https://x.com/jngyn298282/status/1985272782020882756/photo/1",
+              "media_key": "3_1985272778841542656",
+              "start": 5,
+              "url": "https://t.co/1DOLXjFCDJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985272782020882756",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 383,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "额何意味 https://t.co/1DOLXjFCDJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "路人。and这段日子我愿意聊天，欢迎找我解惑，定期批量回fo或者私我",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1983757018830663844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984905090818523136/vVZ-D8dQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 444,
+          "following_count": 269,
+          "like_count": 116,
+          "listed_count": 1,
+          "media_count": 61,
+          "tweet_count": 693
+        },
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-24T23:40:25.000Z",
+        "description": "我看着幸福的日子被我给摧毁后开心地闭上了眼",
+        "id": "1882936483662663680",
+        "name": "镜音",
+        "pinned_tweet_id": "1983521365727891517",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983881848775438338/SaevqnOR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 313,
+          "following_count": 160,
+          "like_count": 12561,
+          "listed_count": 0,
+          "media_count": 203,
+          "tweet_count": 1561
+        },
+        "username": "jngyn298282",
+        "verified": false
+      }
+    ]
+  }
+}

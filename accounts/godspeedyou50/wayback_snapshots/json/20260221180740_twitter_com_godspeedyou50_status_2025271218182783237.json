@@ -1,0 +1,367 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2025138892832174156",
+    "created_at": "2026-02-21T18:07:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T19:07:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025271218182783237"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1688892925646929920",
+          "start": 0,
+          "username": "oxxxX_x_Xxxxo"
+        },
+        {
+          "end": 23,
+          "id": "1739811571449434112",
+          "start": 15,
+          "username": "101101y"
+        },
+        {
+          "end": 33,
+          "id": "1360161759257104384",
+          "start": 24,
+          "username": "AspiLin0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025271218182783237",
+    "in_reply_to_user_id": "1688892925646929920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025236611714466275",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@oxxxX_x_Xxxxo @101101y @AspiLin0 牛逼关注了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3231,
+        "media_key": "3_2025236589123960837",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBsV8pjbgAUmRLc.png",
+        "width": 2232
+      },
+      {
+        "height": 3231,
+        "media_key": "3_2025236589115572228",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBsV8phbgAQly5Q.png",
+        "width": 2232
+      },
+      {
+        "height": 3231,
+        "media_key": "3_2025236589149032448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBsV8ppaEAAMrfP.png",
+        "width": 2232
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2025138892832174156",
+        "created_at": "2026-02-21T18:07:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T19:07:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025271218182783237"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1688892925646929920",
+              "start": 0,
+              "username": "oxxxX_x_Xxxxo"
+            },
+            {
+              "end": 23,
+              "id": "1739811571449434112",
+              "start": 15,
+              "username": "101101y"
+            },
+            {
+              "end": 33,
+              "id": "1360161759257104384",
+              "start": 24,
+              "username": "AspiLin0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025271218182783237",
+        "in_reply_to_user_id": "1688892925646929920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025236611714466275",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@oxxxX_x_Xxxxo @101101y @AspiLin0 牛逼关注了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025236589123960837",
+            "3_2025236589115572228",
+            "3_2025236589149032448"
+          ]
+        },
+        "author_id": "1688892925646929920",
+        "conversation_id": "2025138892832174156",
+        "created_at": "2026-02-21T15:50:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T16:50:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025236611714466275"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1739811571449434112",
+              "start": 0,
+              "username": "101101y"
+            },
+            {
+              "end": 18,
+              "id": "1360161759257104384",
+              "start": 9,
+              "username": "AspiLin0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AW4SK9bJP9",
+              "end": 48,
+              "expanded_url": "https://x.com/oxxxX_x_Xxxxo/status/2025236611714466275/photo/1",
+              "media_key": "3_2025236589123960837",
+              "start": 25,
+              "url": "https://t.co/AW4SK9bJP9"
+            },
+            {
+              "display_url": "pic.x.com/AW4SK9bJP9",
+              "end": 48,
+              "expanded_url": "https://x.com/oxxxX_x_Xxxxo/status/2025236611714466275/photo/1",
+              "media_key": "3_2025236589115572228",
+              "start": 25,
+              "url": "https://t.co/AW4SK9bJP9"
+            },
+            {
+              "display_url": "pic.x.com/AW4SK9bJP9",
+              "end": 48,
+              "expanded_url": "https://x.com/oxxxX_x_Xxxxo/status/2025236611714466275/photo/1",
+              "media_key": "3_2025236589149032448",
+              "start": 25,
+              "url": "https://t.co/AW4SK9bJP9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025236611714466275",
+        "in_reply_to_user_id": "1739811571449434112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025225866993906124",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@101101y @AspiLin0 教材都没图 https://t.co/AW4SK9bJP9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。/@Jahseh14138/双相I型/欢迎提问",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "Jahseh14138"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jahseh79919",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jahseh79919",
+                "start": 0,
+                "url": "https://t.co/xaz6T7v19q"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1994852955737264187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 746,
+          "following_count": 125,
+          "like_count": 437,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 1346
+        },
+        "url": "https://t.co/xaz6T7v19q",
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-08T12:40:44.000Z",
+        "description": "",
+        "id": "1688892925646929920",
+        "name": "花岗岩球形路障",
+        "pinned_tweet_id": "1889227364565200974",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002930971738607616/O_u3FuzA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 453,
+          "following_count": 1391,
+          "like_count": 72745,
+          "listed_count": 2,
+          "media_count": 2474,
+          "tweet_count": 25379
+        },
+        "username": "oxxxX_x_Xxxxo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-27T00:53:15.000Z",
+        "description": "ENTP-A/欢迎找我哦， 这里是喜欢海洋生物的身高191（随机变动），18cm的黑皮体育生会比较高频发推，直接私信就好，最后我不月抛、我不键政，我不混字母圈，不搞4i，我是直的，我没有宗教信仰，我不互看，旁边是ngl可以随便问 … 小号@meow1101111011（只过眼熟互关别乱发申请了🙏）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 119,
+                "username": "meow1101111011"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%87%9D%E5%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%87%9D%E5%87%9D",
+                "start": 0,
+                "url": "https://t.co/vDa6VJQYiF"
+              }
+            ]
+          }
+        },
+        "id": "1739811571449434112",
+        "location": "月球🚪114514",
+        "name": "猪猪侠｜姐姐同城超人强免费",
+        "pinned_tweet_id": "1955607707052073000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984102796531265539/gxjk18rb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1986,
+          "following_count": 1131,
+          "like_count": 33424,
+          "listed_count": 9,
+          "media_count": 1356,
+          "tweet_count": 8590
+        },
+        "url": "https://t.co/vDa6VJQYiF",
+        "username": "101101y",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "阿片，或许是一只狐狸/人的一生，不过是曲折复杂的自杀过程/哲学/精神分析/心理学/认知神经科学/生物学/物理学/分析哲学/不过懂得都不多（",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "2024074323133092264",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022861911461949440/MLZqqrVf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 602,
+          "following_count": 621,
+          "like_count": 17527,
+          "listed_count": 3,
+          "media_count": 335,
+          "tweet_count": 4192
+        },
+        "username": "AspiLin0",
+        "verified": true
+      }
+    ]
+  }
+}

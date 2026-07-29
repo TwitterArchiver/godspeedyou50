@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "1986341706225348880",
+    "created_at": "2025-11-06T09:18:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-06T10:18:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986362485633663295"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1961096175429521409",
+          "start": 0,
+          "username": "yiyi_nnnn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986362485633663295",
+    "in_reply_to_user_id": "1961096175429521409",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986343124139172160",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yiyi_nnnn 不然我要怎 本来也是为了这个刻意而刻意 又不是无意间显露什么 我就是特意的🤔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "1986341706225348880",
+        "created_at": "2025-11-06T09:18:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T10:18:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986362485633663295"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1961096175429521409",
+              "start": 0,
+              "username": "yiyi_nnnn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986362485633663295",
+        "in_reply_to_user_id": "1961096175429521409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986343124139172160",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yiyi_nnnn 不然我要怎 本来也是为了这个刻意而刻意 又不是无意间显露什么 我就是特意的🤔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1961096175429521409",
+        "conversation_id": "1986341706225348880",
+        "created_at": "2025-11-06T08:01:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T09:01:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986343124139172160"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1518404201168007168",
+              "start": 0,
+              "username": "godspeedyou50"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986343124139172160",
+        "in_reply_to_user_id": "1518404201168007168",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986341706225348880",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@godspeedyou50 好刻意"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "路人。and这段日子我愿意聊天，欢迎找我解惑，定期批量回fo或者私我",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1983757018830663844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984905090818523136/vVZ-D8dQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 457,
+          "following_count": 270,
+          "like_count": 135,
+          "listed_count": 1,
+          "media_count": 63,
+          "tweet_count": 706
+        },
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-28T15:59:10.000Z",
+        "description": "我的心里住着一只眼睛",
+        "id": "1961096175429521409",
+        "name": "yiyi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986291202195660805/-i7KqRFY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 32,
+          "like_count": 302,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 42
+        },
+        "username": "yiyi_nnnn",
+        "verified": false
+      }
+    ]
+  }
+}

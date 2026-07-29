@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2067151744250073242",
+    "created_at": "2026-06-17T07:49:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T08:49:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067152572625068253"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1943845647238803456",
+          "start": 0,
+          "username": "hiko_kawaii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067152572625068253",
+    "in_reply_to_user_id": "1943845647238803456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067151744250073242",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hiko_kawaii 可恶 叫瓦楞斯大人 再等等吧估计会有"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2067151744250073242",
+        "created_at": "2026-06-17T07:49:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T08:49:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067152572625068253"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943845647238803456",
+              "start": 0,
+              "username": "hiko_kawaii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067152572625068253",
+        "in_reply_to_user_id": "1943845647238803456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067151744250073242",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hiko_kawaii 可恶 叫瓦楞斯大人 再等等吧估计会有"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943845647238803456",
+        "conversation_id": "2067151744250073242",
+        "created_at": "2026-06-17T07:45:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T08:45:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067151744250073242"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067151744250073242",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "木不大哥哥你为什么不做心流了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2048720319872192919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1361,
+          "following_count": 354,
+          "like_count": 1156,
+          "listed_count": 1,
+          "media_count": 193,
+          "tweet_count": 2688
+        },
+        "username": "godspeedyou50",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-12T01:31:46.000Z",
+        "description": "私たちはみな肉でできている 、shtwt/odtwt/edtwt",
+        "id": "1943845647238803456",
+        "location": "Kanagawa-ken, Japan",
+        "name": "hiko",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960304515997126656/DB9GkPl8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 176,
+          "like_count": 221,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 74
+        },
+        "username": "hiko_kawaii",
+        "verified": false
+      }
+    ]
+  }
+}

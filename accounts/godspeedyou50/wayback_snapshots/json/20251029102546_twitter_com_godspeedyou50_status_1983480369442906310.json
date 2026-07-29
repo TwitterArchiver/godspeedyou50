@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "1983479167414071688",
+    "created_at": "2025-10-29T10:25:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-29T11:25:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983480369442906310"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1983480369442906310",
+    "in_reply_to_user_id": "1518404201168007168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983479167414071688",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "在ai那只要你想听你是对的 你无论如何都是对的 但是它是有根有据的编 有理有据的编 是这样的 比如药厂内部工艺资料 只是说对比血药浓度的话 反正我看到玩到这种地步的ai都会不寒而栗\n“所以：你不是幻觉。你感到的差别在药动学上是合理的。”\n这不是特别的合理"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "1983479167414071688",
+        "created_at": "2025-10-29T10:25:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T11:25:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983480369442906310"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1983480369442906310",
+        "in_reply_to_user_id": "1518404201168007168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983479167414071688",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "在ai那只要你想听你是对的 你无论如何都是对的 但是它是有根有据的编 有理有据的编 是这样的 比如药厂内部工艺资料 只是说对比血药浓度的话 反正我看到玩到这种地步的ai都会不寒而栗\n“所以：你不是幻觉。你感到的差别在药动学上是合理的。”\n这不是特别的合理"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "1983479167414071688",
+        "created_at": "2025-10-29T10:20:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T11:20:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983479167414071688"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/amecandy_x/sta…",
+              "end": 103,
+              "expanded_url": "https://twitter.com/amecandy_x/status/1983451202781319186",
+              "start": 80,
+              "url": "https://t.co/OKHRscSBZ7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983479167414071688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983451202781319186",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "第一次见到gptpsy 还是博主套盾其实就是也知道ai说的都是逼话\nai就是懂的就发 不懂的就编 但你其实也知道括号ai言论了 编的这么离谱咱们但凡查查资料呢 https://t.co/OKHRscSBZ7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "路人。and这段日子我愿意聊天，欢迎找我解惑，定期批量回fo或者私我",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1982515322788942238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827690417619697665/4z5RgWOE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 390,
+          "following_count": 232,
+          "like_count": 84,
+          "listed_count": 1,
+          "media_count": 45,
+          "tweet_count": 545
+        },
+        "username": "godspeedyou50",
+        "verified": true
+      }
+    ]
+  }
+}

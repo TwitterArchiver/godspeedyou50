@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "1996820292833104349",
+    "created_at": "2025-12-05T08:56:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-05T09:56:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996866217987203249"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1662439435726905344",
+          "start": 0,
+          "username": "d41d8cd98f0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996866217987203249",
+    "in_reply_to_user_id": "1662439435726905344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996820292833104349",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@d41d8cd98f0 你这个傻逼"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1996819993229705216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7YhNEjawAAp_RT.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1996819993221386240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7YhNEhb0AABnhO.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "1996820292833104349",
+        "created_at": "2025-12-05T08:56:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T09:56:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996866217987203249"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1662439435726905344",
+              "start": 0,
+              "username": "d41d8cd98f0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996866217987203249",
+        "in_reply_to_user_id": "1662439435726905344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996820292833104349",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@d41d8cd98f0 你这个傻逼"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996819993229705216",
+            "3_1996819993221386240"
+          ]
+        },
+        "author_id": "1662439435726905344",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1996820292833104349",
+        "created_at": "2025-12-05T05:53:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T06:52:43.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996820006743822764",
+          "1996820292833104349"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zX4g4ORjQo",
+              "end": 126,
+              "expanded_url": "https://x.com/d41d8cd98f0/status/1996820292833104349/photo/1",
+              "media_key": "3_1996819993229705216",
+              "start": 103,
+              "url": "https://t.co/zX4g4ORjQo"
+            },
+            {
+              "display_url": "pic.x.com/zX4g4ORjQo",
+              "end": 126,
+              "expanded_url": "https://x.com/d41d8cd98f0/status/1996820292833104349/photo/1",
+              "media_key": "3_1996819993221386240",
+              "start": 103,
+              "url": "https://t.co/zX4g4ORjQo"
+            },
+            {
+              "display_url": "x.com/manglesuki/sta…",
+              "end": 150,
+              "expanded_url": "https://twitter.com/manglesuki/status/1996632430036635741",
+              "start": 127,
+              "url": "https://t.co/zOBKuJd5ot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996820292833104349",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "从ICU出来的那一天\n沐雨说看到我也听说唱\n问我要不要和他一起听\n那时候我在疯狂的攻击他，看到这个邀请的时候我还有点错愕\n\n那一天我们聊了一晚上，然后我发现这小子除了卖药以外其实人也不坏，到底也还是个孩子\n\n他说他最喜欢的歌手是XXX，这下也好，到那边可以见到喜欢的歌手了，虽然我之前一直说他该死，但是说到底我只是希望他可以改一改自己的那些毛病，但我真的看到死讯的时候我还有点错愕\n\n那个前段时间还在和我一起听歌的人就这样死了，总感觉还是有点遗憾，有种他命不该绝的感觉\n\n生命的目的不是被治愈，而是变得完整。  \n死亡是通往完整的一部分\n现在他可以成为一个真正完整的人了\n\n   “人的生命是灵魂从出生地通往永恒之国的短暂一刻。  \n   人生最重大之事，莫过于意识到自己是宇宙进程的一部分。  \n   死亡不过是把我们从时间的限制中解放出来，使我们成为永恒的一部分。”  \n   ——荣格《回忆·梦·思考》\n\nRIP 沐雨 晚安吧\n希望你在那边有无穷无尽的Xanax可以吃\n也希望你做一个好梦\n\n即使你永远醒不过来…"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 876,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996632430036635741",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "从ICU出来的那一天\n沐雨说看到我也听说唱\n问我要不要和他一起听\n那时候我在疯狂的攻击他，看到这个邀请的时候我还有点错愕\n\n那一天我们聊了一晚上，然后我发现这小子除了卖药以外其实人也不坏，到底也还是个孩子 https://t.co/zX4g4ORjQo https://t.co/zOBKuJd5ot"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1994852955737264187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 693,
+          "following_count": 213,
+          "like_count": 361,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 982
+        },
+        "username": "godspeedyou50",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-27T12:44:05.000Z",
+        "description": "愛是在派出所你說你不認識我",
+        "id": "1662439435726905344",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "Mohanmmed",
+        "pinned_tweet_id": "1996598681894875333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994717962134327297/2KIp9H-T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 861,
+          "following_count": 97,
+          "like_count": 10451,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 1307
+        },
+        "username": "d41d8cd98f0",
+        "verified": true
+      }
+    ]
+  }
+}

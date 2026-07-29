@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2059631844849762333",
+    "created_at": "2026-05-28T04:02:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T05:02:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059847792500379895"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1866458229527764992",
+          "start": 0,
+          "username": "Citrus_amara"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059847792500379895",
+    "in_reply_to_user_id": "1866458229527764992",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059631844849762333",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Citrus_amara 啥叫阿片火了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2059631844849762333",
+        "created_at": "2026-05-28T04:02:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T05:02:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059847792500379895"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1866458229527764992",
+              "start": 0,
+              "username": "Citrus_amara"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059847792500379895",
+        "in_reply_to_user_id": "1866458229527764992",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059631844849762333",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Citrus_amara 啥叫阿片火了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "2059631844849762333",
+        "created_at": "2026-05-27T13:44:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T14:44:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059631844849762333"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059631844849762333",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3129,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么阿片突然火了啊？阿片有什么好玩的？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2048720319872192919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1294,
+          "following_count": 300,
+          "like_count": 1090,
+          "listed_count": 0,
+          "media_count": 165,
+          "tweet_count": 2448
+        },
+        "username": "godspeedyou50",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "π@Vacue138950\n主人@zqtlovekris99",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 1,
+                "username": "Vacue138950"
+              },
+              {
+                "end": 30,
+                "start": 16,
+                "username": "zqtlovekris99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/dk3VYjAAy3"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊8️⃣9️⃣6️⃣4️⃣",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041014657167802368/WOq5BhqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1334,
+          "following_count": 1087,
+          "like_count": 20245,
+          "listed_count": 5,
+          "media_count": 411,
+          "tweet_count": 11451
+        },
+        "url": "https://t.co/dk3VYjAAy3",
+        "username": "Citrus_amara",
+        "verified": false
+      }
+    ]
+  }
+}

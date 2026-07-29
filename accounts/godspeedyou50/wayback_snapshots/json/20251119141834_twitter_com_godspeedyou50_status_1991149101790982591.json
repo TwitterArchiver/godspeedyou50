@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "1991149101790982591",
+    "created_at": "2025-11-19T14:18:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-19T15:18:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1991149101790982591"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1991149101790982591",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "恭喜沐雨活了 我懒得说了 拉倒吧 恭喜哈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "1991149101790982591",
+        "created_at": "2025-11-19T14:18:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T15:18:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991149101790982591"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1991149101790982591",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "恭喜沐雨活了 我懒得说了 拉倒吧 恭喜哈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "路人。and这段日子我愿意聊天，欢迎找我解惑，定期批量回fo或者私我",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1983757018830663844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990279769297149952/3r34Cj2f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 578,
+          "following_count": 293,
+          "like_count": 226,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 816
+        },
+        "username": "godspeedyou50",
+        "verified": true
+      }
+    ]
+  }
+}

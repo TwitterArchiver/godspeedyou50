@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2047340510264926591",
+    "created_at": "2026-04-23T15:43:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T16:43:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047340510264926591"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/godspeedyou50/…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/godspeedyou50/status/1927162122149986571",
+          "start": 14,
+          "url": "https://t.co/Ny4cvYHLTa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047340510264926591",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1927162122149986571",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "哈哈哈哈操你大爷 老话重谈 https://t.co/Ny4cvYHLTa"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2047340510264926591",
+        "created_at": "2026-04-23T15:43:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T16:43:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047340510264926591"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/godspeedyou50/…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/godspeedyou50/status/1927162122149986571",
+              "start": 14,
+              "url": "https://t.co/Ny4cvYHLTa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047340510264926591",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927162122149986571",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哈哈哈哈操你大爷 老话重谈 https://t.co/Ny4cvYHLTa"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "1927162122149986571",
+        "created_at": "2025-05-27T00:37:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-27T01:37:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927162122149986571"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1927162122149986571",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 10578,
+          "like_count": 46,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我戒你妈普瑞了还戒普瑞，这么多年下来我戒明白啥了。大片没了吃多多，多多没了吃甘草，甘草没劲了，吃美莎和普瑞，中间还有小草莓小飞机地芬乱七八糟的，到最后吃点美金刚和烷胺再溜点啥脑子一坏，反而只是因为美莎变成复方实在太难吃，依旧普瑞嗷，不吃我根本没法干活，吃，吃的就是普瑞巴林。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。/双相I型/欢迎提问",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jahseh79919",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jahseh79919",
+                "start": 0,
+                "url": "https://t.co/xaz6T7v19q"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2029134307244294287",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1098,
+          "following_count": 232,
+          "like_count": 962,
+          "listed_count": 0,
+          "media_count": 144,
+          "tweet_count": 2267
+        },
+        "url": "https://t.co/xaz6T7v19q",
+        "username": "godspeedyou50",
+        "verified": false
+      }
+    ]
+  }
+}

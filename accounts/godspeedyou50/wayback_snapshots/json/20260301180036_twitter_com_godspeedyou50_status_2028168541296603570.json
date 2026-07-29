@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2028162090717045018",
+    "created_at": "2026-03-01T18:00:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-01T19:00:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028168541296603570"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1830585217868001280",
+          "start": 0,
+          "username": "likkopy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028168541296603570",
+    "in_reply_to_user_id": "1830585217868001280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028168226958446697",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@likkopy 我吃巴氯酚了，能陪两瓶啤的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2028162090717045018",
+        "created_at": "2026-03-01T18:00:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T19:00:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028168541296603570"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1830585217868001280",
+              "start": 0,
+              "username": "likkopy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028168541296603570",
+        "in_reply_to_user_id": "1830585217868001280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028168226958446697",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@likkopy 我吃巴氯酚了，能陪两瓶啤的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1830585217868001280",
+        "conversation_id": "2028162090717045018",
+        "created_at": "2026-03-01T17:59:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T18:59:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028168226958446697"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1518404201168007168",
+              "start": 0,
+              "username": "godspeedyou50"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028168226958446697",
+        "in_reply_to_user_id": "1518404201168007168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028162090717045018",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@godspeedyou50 🤔🤔一起喝酒怎么样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。/@Jahseh14138/双相I型/欢迎提问",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "Jahseh14138"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jahseh79919",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jahseh79919",
+                "start": 0,
+                "url": "https://t.co/xaz6T7v19q"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1994852955737264187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 798,
+          "following_count": 156,
+          "like_count": 526,
+          "listed_count": 0,
+          "media_count": 99,
+          "tweet_count": 1524
+        },
+        "url": "https://t.co/xaz6T7v19q",
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-02T12:36:02.000Z",
+        "description": "心不需要剑鞘",
+        "id": "1830585217868001280",
+        "name": "Likkopy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908868907961835520/M-oHBKQ9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 122,
+          "like_count": 876,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 73
+        },
+        "username": "likkopy",
+        "verified": false
+      }
+    ]
+  }
+}

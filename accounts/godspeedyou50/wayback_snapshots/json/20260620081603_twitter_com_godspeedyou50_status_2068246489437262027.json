@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2068246408977928192",
+        "3_2068246408956882944",
+        "3_2068246409003040768"
+      ]
+    },
+    "author_id": "1518404201168007168",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2068246489437262027",
+    "created_at": "2026-06-20T08:16:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T09:16:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068246489437262027"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/YDtzjnQ78W",
+          "end": 132,
+          "expanded_url": "https://x.com/godspeedyou50/status/2068246489437262027/video/1",
+          "media_key": "13_2068246408977928192",
+          "start": 109,
+          "url": "https://t.co/YDtzjnQ78W"
+        },
+        {
+          "display_url": "pic.x.com/YDtzjnQ78W",
+          "end": 132,
+          "expanded_url": "https://x.com/godspeedyou50/status/2068246489437262027/video/1",
+          "media_key": "3_2068246408956882944",
+          "start": 109,
+          "url": "https://t.co/YDtzjnQ78W"
+        },
+        {
+          "display_url": "pic.x.com/YDtzjnQ78W",
+          "end": 132,
+          "expanded_url": "https://x.com/godspeedyou50/status/2068246489437262027/video/1",
+          "media_key": "3_2068246409003040768",
+          "start": 109,
+          "url": "https://t.co/YDtzjnQ78W"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068246489437262027",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "翻到相册一张莫名其妙的超市照片，想起来那荒诞的一天，下楼买烟的时候电梯码解锁码是6666，我兄弟天天说撒旦撒旦的，我没当回事。\n但是超市是最邪门的地方，琳琅满目天特么都是蓝的，当时视力好到我感觉旺仔牛奶全部在对我笑。 https://t.co/YDtzjnQ78W"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6200,
+        "height": 720,
+        "media_key": "13_2068246408977928192",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2068246408977928192/img/oq8EOa4bkqG7kjED.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068246408977928192/vid/avc1/480x270/1G3i2ffAjpzE1FJQ.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068246408977928192/vid/avc1/640x360/oClkIa2WVW_u4wl_.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068246408977928192/vid/avc1/1280x720/Ye4xNDY8v-CYQSIW.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2068246408977928192/pl/B8f1jnteONEAfF7L.m3u8"
+          }
+        ],
+        "width": 1280
+      },
+      {
+        "height": 1919,
+        "media_key": "3_2068246408956882944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLPjJqHaMAAN9Ms.jpg",
+        "width": 1290
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2068246409003040768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLPjJqSagAAfVlx.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2068246408977928192",
+            "3_2068246408956882944",
+            "3_2068246409003040768"
+          ]
+        },
+        "author_id": "1518404201168007168",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2068246489437262027",
+        "created_at": "2026-06-20T08:16:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T09:16:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068246489437262027"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YDtzjnQ78W",
+              "end": 132,
+              "expanded_url": "https://x.com/godspeedyou50/status/2068246489437262027/video/1",
+              "media_key": "13_2068246408977928192",
+              "start": 109,
+              "url": "https://t.co/YDtzjnQ78W"
+            },
+            {
+              "display_url": "pic.x.com/YDtzjnQ78W",
+              "end": 132,
+              "expanded_url": "https://x.com/godspeedyou50/status/2068246489437262027/video/1",
+              "media_key": "3_2068246408956882944",
+              "start": 109,
+              "url": "https://t.co/YDtzjnQ78W"
+            },
+            {
+              "display_url": "pic.x.com/YDtzjnQ78W",
+              "end": 132,
+              "expanded_url": "https://x.com/godspeedyou50/status/2068246489437262027/video/1",
+              "media_key": "3_2068246409003040768",
+              "start": 109,
+              "url": "https://t.co/YDtzjnQ78W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068246489437262027",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "翻到相册一张莫名其妙的超市照片，想起来那荒诞的一天，下楼买烟的时候电梯码解锁码是6666，我兄弟天天说撒旦撒旦的，我没当回事。\n但是超市是最邪门的地方，琳琅满目天特么都是蓝的，当时视力好到我感觉旺仔牛奶全部在对我笑。 https://t.co/YDtzjnQ78W"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2048720319872192919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1376,
+          "following_count": 358,
+          "like_count": 1184,
+          "listed_count": 1,
+          "media_count": 197,
+          "tweet_count": 2765
+        },
+        "url": "",
+        "username": "godspeedyou50",
+        "verified": false
+      }
+    ]
+  }
+}

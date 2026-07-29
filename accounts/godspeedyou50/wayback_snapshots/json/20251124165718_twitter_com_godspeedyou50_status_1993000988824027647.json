@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "1992993932205281450",
+    "created_at": "2025-11-24T16:57:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-24T17:57:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993000988824027647"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1830934925769613334",
+          "start": 0,
+          "username": "Oksana666156854"
+        },
+        {
+          "end": 30,
+          "id": "1662439435726905344",
+          "start": 17,
+          "username": "moya_michaeI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993000988824027647",
+    "in_reply_to_user_id": "1830934925769613334",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992993932205281450",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Oksana666156854 @moya_michaeI 凭啥我就没码"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1992993923728539648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6iJag9aAAA4KP0.jpg",
+        "width": 944
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "1992993932205281450",
+        "created_at": "2025-11-24T16:57:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T17:57:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993000988824027647"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1830934925769613334",
+              "start": 0,
+              "username": "Oksana666156854"
+            },
+            {
+              "end": 30,
+              "id": "1662439435726905344",
+              "start": 17,
+              "username": "moya_michaeI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993000988824027647",
+        "in_reply_to_user_id": "1830934925769613334",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992993932205281450",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Oksana666156854 @moya_michaeI 凭啥我就没码"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992993923728539648"
+          ]
+        },
+        "author_id": "1830934925769613334",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1992993932205281450",
+        "created_at": "2025-11-24T16:29:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T17:29:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992993932205281450"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1518404201168007168",
+              "start": 0,
+              "username": "godspeedyou50"
+            },
+            {
+              "end": 28,
+              "id": "1662439435726905344",
+              "start": 15,
+              "username": "moya_michaeI"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ShJ7yrzrXw",
+              "end": 58,
+              "expanded_url": "https://x.com/Oksana666156854/status/1992993932205281450/photo/1",
+              "media_key": "3_1992993923728539648",
+              "start": 35,
+              "url": "https://t.co/ShJ7yrzrXw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992993932205281450",
+        "in_reply_to_user_id": "1518404201168007168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 54,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@godspeedyou50 @moya_michaeI 永远爱你们 https://t.co/ShJ7yrzrXw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "路人。",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1983757018830663844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990279769297149952/3r34Cj2f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 645,
+          "following_count": 315,
+          "like_count": 322,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 937
+        },
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-03T11:45:04.000Z",
+        "description": "女，长头发性恋，精神分裂确诊，导演系在读，精神意大利人，非典型支黑，非典型毒推，喜欢跟小男娘玩。 我的名字读作奥克萨娜 不是OK娑娜。【业务：策划药/促智药/病例处方】",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Oksana_132435",
+                "end": 23,
+                "expanded_url": "https://t.me/Oksana_132435",
+                "start": 0,
+                "url": "https://t.co/Mj09WQFbLQ"
+              }
+            ]
+          }
+        },
+        "id": "1830934925769613334",
+        "location": "Tokyo-to, Japan",
+        "name": "Oksana💊",
+        "pinned_tweet_id": "1991449358647325050",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836467833401937920/1OZ_D_Qp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1571,
+          "following_count": 388,
+          "like_count": 659,
+          "listed_count": 5,
+          "media_count": 164,
+          "tweet_count": 542
+        },
+        "url": "https://t.co/Mj09WQFbLQ",
+        "username": "Oksana666156854",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-27T12:44:05.000Z",
+        "description": "您好 我叫何本櫻 來自美國華盛頓特區 曾就讀於普林斯頓大學专攻医学 現居日本東京 從事十五年医药相關工作 現在是南島第一Dealer有什麼需要的可以聯繫我 感謝您的關注",
+        "id": "1662439435726905344",
+        "location": "東京 渋谷区",
+        "name": "南島魔女S4kura-Dealer2539號",
+        "pinned_tweet_id": "1992452870839627938",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983926637260660736/jix4stR1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 824,
+          "following_count": 100,
+          "like_count": 9267,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 1379
+        },
+        "username": "moya_michaeI",
+        "verified": true
+      }
+    ]
+  }
+}

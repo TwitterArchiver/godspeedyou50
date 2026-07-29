@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2071305277937442938",
+    "created_at": "2026-06-30T00:10:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T01:10:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071748119038226633"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1959504781053132800",
+          "start": 0,
+          "username": "Jun125315"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071748119038226633",
+    "in_reply_to_user_id": "1959504781053132800",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071745445991490041",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jun125315 啥芬尼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2071305277937442938",
+        "created_at": "2026-06-30T00:10:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T01:10:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071748119038226633"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1959504781053132800",
+              "start": 0,
+              "username": "Jun125315"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071748119038226633",
+        "in_reply_to_user_id": "1959504781053132800",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071745445991490041",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jun125315 啥芬尼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959504781053132800",
+        "conversation_id": "2071305277937442938",
+        "created_at": "2026-06-29T23:59:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T00:59:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071745445991490041"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1518404201168007168",
+              "start": 0,
+              "username": "godspeedyou50"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071745445991490041",
+        "in_reply_to_user_id": "1518404201168007168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071305277937442938",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@godspeedyou50 芬尼是吧？我猜对不对"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个违背了大众道德良知的神棍。\n☯️算命后付不怕跑单｜代请符箓、祈福请私讯\n传统宗教现代哲学文化传播者，又称中式廉价心理医生。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/buyaogaowosorry",
+                "end": 23,
+                "expanded_url": "https://t.me/buyaogaowosorry",
+                "start": 0,
+                "url": "https://t.co/AdoFGQJT3r"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2069223594711011526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1571,
+          "following_count": 546,
+          "like_count": 1264,
+          "listed_count": 1,
+          "media_count": 197,
+          "tweet_count": 2815
+        },
+        "url": "https://t.co/AdoFGQJT3r",
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-24T06:35:30.000Z",
+        "description": "",
+        "id": "1959504781053132800",
+        "location": "Hong Kong , China",
+        "name": "ne1iger",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046819325164826624/ITt5ihG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 17,
+          "like_count": 94,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 40
+        },
+        "url": "",
+        "username": "Jun125315",
+        "verified": true
+      }
+    ]
+  }
+}

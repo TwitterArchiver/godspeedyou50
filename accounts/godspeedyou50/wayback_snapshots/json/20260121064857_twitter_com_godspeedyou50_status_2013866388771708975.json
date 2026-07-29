@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2013866388771708975",
+    "created_at": "2026-01-21T06:48:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-21T07:48:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2013866388771708975"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/satireorcry1/s…",
+          "end": 51,
+          "expanded_url": "https://twitter.com/satireorcry1/status/2013778575569403995",
+          "start": 28,
+          "url": "https://t.co/NzfzAWoRDl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013866388771708975",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013778575569403995",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这小子怎么开始炒作了 蓝v到底怎么个分钱法啊 有点反感 https://t.co/NzfzAWoRDl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2013731794437230592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_I2ZdhXUAAh9M2.jpg",
+        "width": 698
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2013866388771708975",
+        "created_at": "2026-01-21T06:48:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T07:48:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013866388771708975"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/satireorcry1/s…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/satireorcry1/status/2013778575569403995",
+              "start": 28,
+              "url": "https://t.co/NzfzAWoRDl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013866388771708975",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013778575569403995",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这小子怎么开始炒作了 蓝v到底怎么个分钱法啊 有点反感 https://t.co/NzfzAWoRDl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2013731794437230592"
+          ]
+        },
+        "author_id": "1993455710274043905",
+        "conversation_id": "2013778575569403995",
+        "created_at": "2026-01-21T01:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T02:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013778575569403995"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eSlKPm21iR",
+              "end": 59,
+              "expanded_url": "https://x.com/satireorcry1/status/2013778575569403995/photo/1",
+              "media_key": "3_2013731794437230592",
+              "start": 36,
+              "url": "https://t.co/eSlKPm21iR"
+            },
+            {
+              "display_url": "x.com/satireorcry1/s…",
+              "end": 83,
+              "expanded_url": "https://twitter.com/satireorcry1/status/2013416185321144509",
+              "start": 60,
+              "url": "https://t.co/pTlMXxoB5w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013778575569403995",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 62,
+          "impression_count": 367752,
+          "like_count": 351,
+          "quote_count": 3,
+          "reply_count": 134,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013416185321144509",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "警察找到我的微信，要我去当地派出所一趟。\n我手欠，冲什么塔，全搞砸了！ https://t.co/eSlKPm21iR https://t.co/pTlMXxoB5w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1994852955737264187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 686,
+          "following_count": 92,
+          "like_count": 406,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 1141
+        },
+        "username": "godspeedyou50",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-25T23:04:21.000Z",
+        "description": "不好意思，我复活了",
+        "id": "1993455710274043905",
+        "location": "小池塘",
+        "name": "芙宁娜娜💙Furinana (王者归来版）",
+        "pinned_tweet_id": "2010517085915693556",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005923449881972736/kaKnegOz_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4265,
+          "following_count": 935,
+          "like_count": 2866,
+          "listed_count": 6,
+          "media_count": 208,
+          "tweet_count": 614
+        },
+        "username": "satireorcry1",
+        "verified": true
+      }
+    ]
+  }
+}

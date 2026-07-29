@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "1987153420940419299",
+    "created_at": "2025-11-08T13:41:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-08T14:41:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987153420940419299"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1920308340737126400",
+          "start": 3,
+          "username": "fusedjiii"
+        }
+      ],
+      "urls": [
+        {
+          "description": "裴裴小猫好吗’s Space · 0 listening · Where live audio conversations happen",
+          "display_url": "x.com/i/spaces/1BRJj…",
+          "end": 38,
+          "expanded_url": "https://x.com/i/spaces/1BRJjgEdOjpxw",
+          "images": [
+            {
+              "height": 630,
+              "url": "https://pbs.twimg.com/news_img/1987153304074526727/7DNkzGfD?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1987153304074526727/7DNkzGfD?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 15,
+          "status": 200,
+          "title": "Happening now: O点点滴滴",
+          "unwound_url": "https://twitter.com/i/spaces/1BRJjgEdOjpxw/peek",
+          "url": "https://t.co/lq1vpjPrnW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987153420940419299",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987153302702989659",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @fusedjiii: https://t.co/lq1vpjPrnW"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "1987153420940419299",
+        "created_at": "2025-11-08T13:41:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T14:41:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987153420940419299"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1920308340737126400",
+              "start": 3,
+              "username": "fusedjiii"
+            }
+          ],
+          "urls": [
+            {
+              "description": "裴裴小猫好吗’s Space · 0 listening · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1BRJj…",
+              "end": 38,
+              "expanded_url": "https://x.com/i/spaces/1BRJjgEdOjpxw",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/1987153304074526727/7DNkzGfD?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1987153304074526727/7DNkzGfD?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 15,
+              "status": 200,
+              "title": "Happening now: O点点滴滴",
+              "unwound_url": "https://twitter.com/i/spaces/1BRJjgEdOjpxw/peek",
+              "url": "https://t.co/lq1vpjPrnW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987153420940419299",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987153302702989659",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @fusedjiii: https://t.co/lq1vpjPrnW"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920308340737126400",
+        "conversation_id": "1987153302702989659",
+        "created_at": "2025-11-08T13:40:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T14:40:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987153302702989659"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "裴裴小猫好吗’s Space · 0 listening · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1BRJj…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/spaces/1BRJjgEdOjpxw",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/1987153304074526727/7DNkzGfD?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1987153304074526727/7DNkzGfD?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "Happening now: O点点滴滴",
+              "unwound_url": "https://twitter.com/i/spaces/1BRJjgEdOjpxw/peek",
+              "url": "https://t.co/lq1vpjPrnW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987153302702989659",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/lq1vpjPrnW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "路人。and这段日子我愿意聊天，欢迎找我解惑，定期批量回fo或者私我",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1983757018830663844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984905090818523136/vVZ-D8dQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 462,
+          "following_count": 270,
+          "like_count": 133,
+          "listed_count": 1,
+          "media_count": 64,
+          "tweet_count": 723
+        },
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-08T02:42:51.000Z",
+        "description": "入门✉️私信，给我小钱钱再说喜欢我好吗好耶",
+        "id": "1920308340737126400",
+        "location": "家",
+        "name": "裴裴小猫好吗",
+        "pinned_tweet_id": "1985925226824417303",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984902758353469440/8z6LfT-V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2311,
+          "following_count": 149,
+          "like_count": 326,
+          "listed_count": 4,
+          "media_count": 81,
+          "tweet_count": 1174
+        },
+        "username": "fusedjiii",
+        "verified": false
+      }
+    ]
+  }
+}

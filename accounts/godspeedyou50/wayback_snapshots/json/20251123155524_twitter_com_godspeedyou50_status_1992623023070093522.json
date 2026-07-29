@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1992623007668559872"
+      ]
+    },
+    "author_id": "1518404201168007168",
+    "conversation_id": "1992589088403448129",
+    "created_at": "2025-11-23T15:55:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T16:55:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992623023070093522"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1476198137589268480",
+          "start": 0,
+          "username": "N3kuv"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pj1PnfRvKC",
+          "end": 62,
+          "expanded_url": "https://x.com/godspeedyou50/status/1992623023070093522/photo/1",
+          "media_key": "3_1992623007668559872",
+          "start": 39,
+          "url": "https://t.co/pj1PnfRvKC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992623023070093522",
+    "in_reply_to_user_id": "1476198137589268480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992602971432239192",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@N3kuv 如果没有三年奥氮平服用史，我还是那个意气风发的少年而不是油腻逼 https://t.co/pj1PnfRvKC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1992623007668559872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6c4EW9a4AA9sSM.jpg",
+        "width": 944
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992623007668559872"
+          ]
+        },
+        "author_id": "1518404201168007168",
+        "conversation_id": "1992589088403448129",
+        "created_at": "2025-11-23T15:55:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T16:55:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992623023070093522"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1476198137589268480",
+              "start": 0,
+              "username": "N3kuv"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pj1PnfRvKC",
+              "end": 62,
+              "expanded_url": "https://x.com/godspeedyou50/status/1992623023070093522/photo/1",
+              "media_key": "3_1992623007668559872",
+              "start": 39,
+              "url": "https://t.co/pj1PnfRvKC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992623023070093522",
+        "in_reply_to_user_id": "1476198137589268480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992602971432239192",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@N3kuv 如果没有三年奥氮平服用史，我还是那个意气风发的少年而不是油腻逼 https://t.co/pj1PnfRvKC"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476198137589268480",
+        "conversation_id": "1992589088403448129",
+        "created_at": "2025-11-23T14:35:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T15:35:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992602971432239192"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1518404201168007168",
+              "start": 0,
+              "username": "godspeedyou50"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992602971432239192",
+        "in_reply_to_user_id": "1518404201168007168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992589088403448129",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@godspeedyou50 支持抖音小众逼o奥氮平"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "路人。and这段日子我愿意聊天，欢迎找我解惑，定期批量回fo或者私我",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1983757018830663844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990279769297149952/3r34Cj2f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 637,
+          "following_count": 311,
+          "like_count": 313,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 918
+        },
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2021-12-29T14:29:24.000Z",
+        "description": "不想参与网络纠纷",
+        "id": "1476198137589268480",
+        "name": "迪拉熊的吧唧（低浮上）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992177941099454464/TrZNvAHf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 185,
+          "like_count": 2521,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 480
+        },
+        "username": "N3kuv",
+        "verified": false
+      }
+    ]
+  }
+}

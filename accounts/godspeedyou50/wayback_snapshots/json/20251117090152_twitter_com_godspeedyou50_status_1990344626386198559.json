@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1990344613740310528",
+        "3_1990344613715181568"
+      ]
+    },
+    "author_id": "1518404201168007168",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1990344626386198559",
+    "created_at": "2025-11-17T09:01:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-17T10:01:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1990344626386198559"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/6beA2nouoY",
+          "end": 38,
+          "expanded_url": "https://x.com/godspeedyou50/status/1990344626386198559/photo/1",
+          "media_key": "3_1990344613740310528",
+          "start": 15,
+          "url": "https://t.co/6beA2nouoY"
+        },
+        {
+          "display_url": "pic.x.com/6beA2nouoY",
+          "end": 38,
+          "expanded_url": "https://x.com/godspeedyou50/status/1990344626386198559/photo/1",
+          "media_key": "3_1990344613715181568",
+          "start": 15,
+          "url": "https://t.co/6beA2nouoY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990344626386198559",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "东北人自己有苯巴比妥版脏药吃 https://t.co/6beA2nouoY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1990344613740310528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G58f4YKacAAcSKz.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1990344613715181568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G58f4YEbAAA1XkY.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990344613740310528",
+            "3_1990344613715181568"
+          ]
+        },
+        "author_id": "1518404201168007168",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1990344626386198559",
+        "created_at": "2025-11-17T09:01:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T10:01:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990344626386198559"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6beA2nouoY",
+              "end": 38,
+              "expanded_url": "https://x.com/godspeedyou50/status/1990344626386198559/photo/1",
+              "media_key": "3_1990344613740310528",
+              "start": 15,
+              "url": "https://t.co/6beA2nouoY"
+            },
+            {
+              "display_url": "pic.x.com/6beA2nouoY",
+              "end": 38,
+              "expanded_url": "https://x.com/godspeedyou50/status/1990344626386198559/photo/1",
+              "media_key": "3_1990344613715181568",
+              "start": 15,
+              "url": "https://t.co/6beA2nouoY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990344626386198559",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "东北人自己有苯巴比妥版脏药吃 https://t.co/6beA2nouoY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "路人。and这段日子我愿意聊天，欢迎找我解惑，定期批量回fo或者私我",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1983757018830663844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990279769297149952/3r34Cj2f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 562,
+          "following_count": 288,
+          "like_count": 203,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 800
+        },
+        "username": "godspeedyou50",
+        "verified": true
+      }
+    ]
+  }
+}

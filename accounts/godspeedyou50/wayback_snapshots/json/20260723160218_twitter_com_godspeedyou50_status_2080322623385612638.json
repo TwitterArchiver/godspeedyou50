@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2079744292525142406",
+    "created_at": "2026-07-23T16:02:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T17:02:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080322623385612638"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1944351426827735040",
+          "start": 0,
+          "username": "kiss_u_back"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080322623385612638",
+    "in_reply_to_user_id": "1944351426827735040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079744292525142406",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kiss_u_back 这是我最爱玩的新生也疯狂吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2079744284266500096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNy8aFdakAAOYjF.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2079744284253941761",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNy8aFaa8AEB7b0.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2079744292525142406",
+        "created_at": "2026-07-23T16:02:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T17:02:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080322623385612638"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1944351426827735040",
+              "start": 0,
+              "username": "kiss_u_back"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080322623385612638",
+        "in_reply_to_user_id": "1944351426827735040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079744292525142406",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kiss_u_back 这是我最爱玩的新生也疯狂吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079744284266500096",
+            "3_2079744284253941761"
+          ]
+        },
+        "author_id": "1944351426827735040",
+        "conversation_id": "2079744292525142406",
+        "created_at": "2026-07-22T01:44:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T02:44:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079744292525142406"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3bdIFc5nzF",
+              "end": 36,
+              "expanded_url": "https://x.com/kiss_u_back/status/2079744292525142406/photo/1",
+              "media_key": "3_2079744284266500096",
+              "start": 13,
+              "url": "https://t.co/3bdIFc5nzF"
+            },
+            {
+              "display_url": "pic.x.com/3bdIFc5nzF",
+              "end": 36,
+              "expanded_url": "https://x.com/kiss_u_back/status/2079744292525142406/photo/1",
+              "media_key": "3_2079744284253941761",
+              "start": 13,
+              "url": "https://t.co/3bdIFc5nzF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079744292525142406",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1076,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "嗯 本女子又在买黄油玩了 https://t.co/3bdIFc5nzF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个违背了大众良知od喝大酒的神棍。\n☯️算命后付不怕跑单｜代请符箓、祈福请私讯\n传统宗教现代哲学文化传播者，又称中式廉价心理医生。\n狐朋@Nonentity_xxx17 狗友@Jinggebiezhuaw",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 69,
+                "username": "Nonentity_xxx17"
+              },
+              {
+                "end": 103,
+                "start": 88,
+                "username": "Jinggebiezhuaw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/buyaogaowosorry",
+                "end": 23,
+                "expanded_url": "https://t.me/buyaogaowosorry",
+                "start": 0,
+                "url": "https://t.co/AdoFGQJT3r"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2069223594711011526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1728,
+          "following_count": 626,
+          "like_count": 1287,
+          "listed_count": 1,
+          "media_count": 211,
+          "tweet_count": 2917
+        },
+        "url": "https://t.co/AdoFGQJT3r",
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-13T11:01:50.000Z",
+        "description": "死在2025年3月28号\n已阳痿 勿骚扰\n请礼貌沟通 侮辱词见到就毕业🎓",
+        "id": "1944351426827735040",
+        "location": "火星",
+        "name": "我的泪口是心非",
+        "pinned_tweet_id": "1989765441888424290",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032342364212379650/Ir3K5fHP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1458,
+          "following_count": 206,
+          "like_count": 1723,
+          "listed_count": 3,
+          "media_count": 431,
+          "tweet_count": 1548
+        },
+        "url": "",
+        "username": "kiss_u_back",
+        "verified": false
+      }
+    ]
+  }
+}

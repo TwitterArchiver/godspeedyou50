@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1989186060337967105"
+      ]
+    },
+    "author_id": "1518404201168007168",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1989186074737049963",
+    "created_at": "2025-11-14T04:18:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-14T05:18:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1989186074737049963"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/vy08cgtO4U",
+          "end": 40,
+          "expanded_url": "https://x.com/godspeedyou50/status/1989186074737049963/photo/1",
+          "media_key": "3_1989186060337967105",
+          "start": 17,
+          "url": "https://t.co/vy08cgtO4U"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989186074737049963",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你觉得我很慈悲，那是因为你慈悲。 https://t.co/vy08cgtO4U"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 768,
+        "media_key": "3_1989186060337967105",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5sCLsaacAESj4N.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989186060337967105"
+          ]
+        },
+        "author_id": "1518404201168007168",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1989186074737049963",
+        "created_at": "2025-11-14T04:18:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T05:18:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989186074737049963"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vy08cgtO4U",
+              "end": 40,
+              "expanded_url": "https://x.com/godspeedyou50/status/1989186074737049963/photo/1",
+              "media_key": "3_1989186060337967105",
+              "start": 17,
+              "url": "https://t.co/vy08cgtO4U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989186074737049963",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你觉得我很慈悲，那是因为你慈悲。 https://t.co/vy08cgtO4U"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "路人。and这段日子我愿意聊天，欢迎找我解惑，定期批量回fo或者私我",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1983757018830663844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984905090818523136/vVZ-D8dQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 486,
+          "following_count": 279,
+          "like_count": 161,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 734
+        },
+        "username": "godspeedyou50",
+        "verified": true
+      }
+    ]
+  }
+}

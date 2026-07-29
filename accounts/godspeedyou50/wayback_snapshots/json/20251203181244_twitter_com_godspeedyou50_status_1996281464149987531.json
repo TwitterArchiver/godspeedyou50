@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "1996218839198306435",
+    "created_at": "2025-12-03T18:12:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-03T19:12:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996281464149987531"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1849043039496617984",
+          "start": 0,
+          "username": "Rinko_zero8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996281464149987531",
+    "in_reply_to_user_id": "1849043039496617984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996275802472874274",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rinko_zero8964 五套不离谱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "1996218839198306435",
+        "created_at": "2025-12-03T18:12:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T19:12:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996281464149987531"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1849043039496617984",
+              "start": 0,
+              "username": "Rinko_zero8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996281464149987531",
+        "in_reply_to_user_id": "1849043039496617984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996275802472874274",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rinko_zero8964 五套不离谱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "1996218839198306435",
+        "created_at": "2025-12-03T17:50:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T18:50:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996275802472874274"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1518404201168007168",
+              "start": 0,
+              "username": "godspeedyou50"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996275802472874274",
+        "in_reply_to_user_id": "1518404201168007168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996218839198306435",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@godspeedyou50 nb，比我跟梨两个人吃sns无套了还离谱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1994852955737264187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 683,
+          "following_count": 323,
+          "like_count": 359,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 973
+        },
+        "username": "godspeedyou50",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子｜🥺@NashiMoe233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "NashiMoe233"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1967335109767692560",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965923999197921280/V0d6smjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 390,
+          "following_count": 348,
+          "like_count": 5404,
+          "listed_count": 1,
+          "media_count": 92,
+          "tweet_count": 4921
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      }
+    ]
+  }
+}

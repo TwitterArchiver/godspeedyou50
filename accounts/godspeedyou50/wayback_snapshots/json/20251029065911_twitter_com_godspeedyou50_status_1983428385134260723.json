@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "1983163594067128573",
+    "created_at": "2025-10-29T06:59:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-29T07:59:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983428385134260723"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1920308340737126400",
+          "start": 0,
+          "username": "fusedjiii"
+        },
+        {
+          "end": 26,
+          "id": "1814654715369816064",
+          "start": 11,
+          "username": "RosaritaCisner"
+        },
+        {
+          "end": 39,
+          "id": "1911828872334831616",
+          "start": 27,
+          "username": "Edward_8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983428385134260723",
+    "in_reply_to_user_id": "1920308340737126400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983427977439567991",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fusedjiii @RosaritaCisner @Edward_8964 那太艰苦了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "1983163594067128573",
+        "created_at": "2025-10-29T06:59:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T07:59:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983428385134260723"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1920308340737126400",
+              "start": 0,
+              "username": "fusedjiii"
+            },
+            {
+              "end": 26,
+              "id": "1814654715369816064",
+              "start": 11,
+              "username": "RosaritaCisner"
+            },
+            {
+              "end": 39,
+              "id": "1911828872334831616",
+              "start": 27,
+              "username": "Edward_8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983428385134260723",
+        "in_reply_to_user_id": "1920308340737126400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983427977439567991",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fusedjiii @RosaritaCisner @Edward_8964 那太艰苦了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920308340737126400",
+        "conversation_id": "1983163594067128573",
+        "created_at": "2025-10-29T06:57:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T07:57:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983427977439567991"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1518404201168007168",
+              "start": 0,
+              "username": "godspeedyou50"
+            },
+            {
+              "end": 30,
+              "id": "1814654715369816064",
+              "start": 15,
+              "username": "RosaritaCisner"
+            },
+            {
+              "end": 43,
+              "id": "1911828872334831616",
+              "start": 31,
+              "username": "Edward_8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983427977439567991",
+        "in_reply_to_user_id": "1518404201168007168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983421547953238408",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@godspeedyou50 @RosaritaCisner @Edward_8964 年轻不懂事吃玉米片都被晶过，现在谨慎到恨不得住下水道"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "路人。and这段日子我愿意聊天，欢迎找我解惑，定期批量回fo或者私我",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1982515322788942238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827690417619697665/4z5RgWOE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 389,
+          "following_count": 232,
+          "like_count": 83,
+          "listed_count": 1,
+          "media_count": 45,
+          "tweet_count": 541
+        },
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-08T02:42:51.000Z",
+        "description": "我只想回口令，因为我喜欢钱。入门✉️私信，推广自辨。自残欧弟同类友好。",
+        "id": "1920308340737126400",
+        "location": "世界中心",
+        "name": "裴裴小猫好吗",
+        "pinned_tweet_id": "1983396864373469425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969384046397702171/wyn8NvzP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1484,
+          "following_count": 129,
+          "like_count": 220,
+          "listed_count": 3,
+          "media_count": 53,
+          "tweet_count": 797
+        },
+        "username": "fusedjiii",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-20T13:33:15.000Z",
+        "description": "",
+        "id": "1814654715369816064",
+        "name": "Yameii",
+        "pinned_tweet_id": "1975933751889989740",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980607185940840448/vXUeCjyv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 240,
+          "like_count": 1467,
+          "listed_count": 2,
+          "media_count": 33,
+          "tweet_count": 757
+        },
+        "username": "RosaritaCisner",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-14T17:08:26.000Z",
+        "description": "南湖之虎｜第4次转生 生理男｜退役OIer｜OD｜重精神病｜ADHD｜右美沙芬 ｜freeODwiki参与者｜NEwiki维护员｜自由、梦想、进取｜没有任何盈利",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "nonexistent.wiki",
+                "end": 23,
+                "expanded_url": "http://nonexistent.wiki",
+                "start": 0,
+                "url": "https://t.co/l3ALBiDDXN"
+              }
+            ]
+          }
+        },
+        "id": "1911828872334831616",
+        "location": "NE",
+        "name": "💊爱德华",
+        "pinned_tweet_id": "1980565827196973398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968709578079764480/7M5DfbwN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 651,
+          "following_count": 528,
+          "like_count": 4889,
+          "listed_count": 2,
+          "media_count": 188,
+          "tweet_count": 3065
+        },
+        "url": "https://t.co/l3ALBiDDXN",
+        "username": "Edward_8964",
+        "verified": false
+      }
+    ]
+  }
+}

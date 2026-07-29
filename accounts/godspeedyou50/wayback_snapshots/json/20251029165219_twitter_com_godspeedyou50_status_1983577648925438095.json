@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "1983567952910901688",
+    "created_at": "2025-10-29T16:52:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-29T17:52:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983577648925438095"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "576074543",
+          "start": 0,
+          "username": "IneedsomeDMT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983577648925438095",
+    "in_reply_to_user_id": "576074543",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983567952910901688",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IneedsomeDMT coca怎么能是镇静剂呢 那华尔街的或者出门打德州的玩它图啥啊 兴奋剂有很多类别 只是可卡因是天然的古柯碱 而病毒是合成的麻黄素提取物后期被再次提纯"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "1983567952910901688",
+        "created_at": "2025-10-29T16:52:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T17:52:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983577648925438095"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "576074543",
+              "start": 0,
+              "username": "IneedsomeDMT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983577648925438095",
+        "in_reply_to_user_id": "576074543",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983567952910901688",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IneedsomeDMT coca怎么能是镇静剂呢 那华尔街的或者出门打德州的玩它图啥啊 兴奋剂有很多类别 只是可卡因是天然的古柯碱 而病毒是合成的麻黄素提取物后期被再次提纯"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "576074543",
+        "conversation_id": "1983567952910901688",
+        "created_at": "2025-10-29T16:13:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T17:13:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983567952910901688"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/fxxkapexlegend…",
+              "end": 123,
+              "expanded_url": "https://twitter.com/fxxkapexlegend/status/1983344502913040418",
+              "start": 100,
+              "url": "https://t.co/FJyHqjdblj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983567952910901688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 50,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983344502913040418",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "要吸毒的话尽量别玩兴奋剂（如冰毒），镇静剂（如可卡因），这两个类别成瘾性最强，你染上了后不吸会疯掉。其次是解离剂，最后是致幻剂，生理依赖是最小的，很多研究也证明了这一点，很多方面的危害甚至比抽烟小。 https://t.co/FJyHqjdblj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "路人。and这段日子我愿意聊天，欢迎找我解惑，定期批量回fo或者私我",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1982515322788942238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827690417619697665/4z5RgWOE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 394,
+          "following_count": 234,
+          "like_count": 87,
+          "listed_count": 1,
+          "media_count": 50,
+          "tweet_count": 567
+        },
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2012-05-10T08:56:28.000Z",
+        "description": "想了解我的过去吗，往前翻翻吧，早安🍂🍂。 提供药物咨询",
+        "id": "576074543",
+        "location": "Baobao University",
+        "name": "右美沙芬",
+        "pinned_tweet_id": "1717211823777382444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1613440066768220161/zVJFKm8K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2468,
+          "following_count": 412,
+          "like_count": 6861,
+          "listed_count": 2,
+          "media_count": 220,
+          "tweet_count": 2759
+        },
+        "username": "IneedsomeDMT",
+        "verified": false
+      }
+    ]
+  }
+}

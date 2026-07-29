@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "1989192942142337203",
+    "created_at": "2025-11-15T07:36:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-15T08:36:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989598309485613124"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "81886104",
+          "start": 0,
+          "username": "Helowei"
+        },
+        {
+          "end": 25,
+          "id": "1531666721354010625",
+          "start": 9,
+          "username": "Cinnamoroll_Tea"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989598309485613124",
+    "in_reply_to_user_id": "81886104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989586170062471451",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Helowei @Cinnamoroll_Tea 亲试有用 别扯了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "1989192942142337203",
+        "created_at": "2025-11-15T07:36:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T08:36:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989598309485613124"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "81886104",
+              "start": 0,
+              "username": "Helowei"
+            },
+            {
+              "end": 25,
+              "id": "1531666721354010625",
+              "start": 9,
+              "username": "Cinnamoroll_Tea"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989598309485613124",
+        "in_reply_to_user_id": "81886104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989586170062471451",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Helowei @Cinnamoroll_Tea 亲试有用 别扯了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "81886104",
+        "conversation_id": "1989192942142337203",
+        "created_at": "2025-11-15T06:48:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T07:48:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989586170062471451"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1531666721354010625",
+              "start": 0,
+              "username": "Cinnamoroll_Tea"
+            },
+            {
+              "end": 31,
+              "id": "1518404201168007168",
+              "start": 17,
+              "username": "godspeedyou50"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989586170062471451",
+        "in_reply_to_user_id": "1531666721354010625",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989326124846129365",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cinnamoroll_Tea @godspeedyou50 亲试没啥用"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "路人。and这段日子我愿意聊天，欢迎找我解惑，定期批量回fo或者私我",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1983757018830663844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984905090818523136/vVZ-D8dQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 521,
+          "following_count": 283,
+          "like_count": 175,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 760
+        },
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2009-10-12T17:12:23.000Z",
+        "description": "熵昇资本\nIntegral-Entropy Capital\n\n曾经做农业土壤环境科研，现在做商品、证券及数字货币投资及量化交易。\n此外，对锂矿及相关产业也略知一二。\n\n探讨问题或批判都可以，但请不要在非事实、谎言甚至精神病式键政的基础上扯是非，那没有意义且立刻会被拉黑。\n\ngtrader.eth",
+        "id": "81886104",
+        "location": "Lanzhou.Hangzhou.Xinjiang.etc",
+        "name": "Helo Wei",
+        "pinned_tweet_id": "1967118174878659063",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1638376066371944449/TJ3GV4Qt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 964,
+          "following_count": 1840,
+          "like_count": 20017,
+          "listed_count": 7,
+          "media_count": 829,
+          "tweet_count": 3714
+        },
+        "username": "Helowei",
+        "verified": true
+      },
+      {
+        "created_at": "2022-05-31T15:59:46.000Z",
+        "description": "跟你们智人不太熟\n跟你们灵长类不太熟\n跟你们地球人不太熟\n跟你们碳基生命不太熟",
+        "id": "1531666721354010625",
+        "location": "国际空间站",
+        "name": "橙果酱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794250085246943232/yssJ4MmF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171,
+          "following_count": 183,
+          "like_count": 111173,
+          "listed_count": 3,
+          "media_count": 121,
+          "tweet_count": 5677
+        },
+        "username": "Cinnamoroll_Tea",
+        "verified": false
+      }
+    ]
+  }
+}

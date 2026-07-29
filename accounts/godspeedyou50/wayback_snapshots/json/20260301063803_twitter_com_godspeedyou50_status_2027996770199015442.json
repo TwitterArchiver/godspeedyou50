@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2027996676187992504",
+    "created_at": "2026-03-01T06:38:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-01T07:38:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027996770199015442"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2027996770199015442",
+    "in_reply_to_user_id": "1518404201168007168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027996676187992504",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "尽量别点当我没挂链接"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2027996676187992504",
+        "created_at": "2026-03-01T06:38:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T07:38:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027996770199015442"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2027996770199015442",
+        "in_reply_to_user_id": "1518404201168007168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027996676187992504",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "尽量别点当我没挂链接"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2027996676187992504",
+        "created_at": "2026-03-01T06:37:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T07:37:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027996676187992504"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/s_hyoscine/sta…",
+              "end": 23,
+              "expanded_url": "https://x.com/s_hyoscine/status/2027733885417869512?s=46",
+              "start": 0,
+              "url": "https://t.co/CO081DOFwB"
+            },
+            {
+              "display_url": "x.com/godspeedyou50/…",
+              "end": 73,
+              "expanded_url": "https://twitter.com/godspeedyou50/status/2011377633007907049",
+              "start": 50,
+              "url": "https://t.co/H7KgAnsoOL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027996676187992504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011377633007907049",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/CO081DOFwB\n活爹我错了…..我刚摆脱恐怖幻觉现在满脑子都是这个 https://t.co/H7KgAnsoOL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。/@Jahseh14138/双相I型/欢迎提问",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "Jahseh14138"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jahseh79919",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jahseh79919",
+                "start": 0,
+                "url": "https://t.co/xaz6T7v19q"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1994852955737264187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 792,
+          "following_count": 152,
+          "like_count": 517,
+          "listed_count": 0,
+          "media_count": 96,
+          "tweet_count": 1498
+        },
+        "url": "https://t.co/xaz6T7v19q",
+        "username": "godspeedyou50",
+        "verified": true
+      }
+    ]
+  }
+}

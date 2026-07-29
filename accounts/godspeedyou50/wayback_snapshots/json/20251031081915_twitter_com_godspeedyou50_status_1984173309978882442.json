@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "1984105807659855975",
+    "created_at": "2025-10-31T08:19:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-31T09:19:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984173309978882442"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1659962043460354050",
+          "start": 0,
+          "username": "SalviaSWC"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/godspeedyou50/…",
+          "end": 49,
+          "expanded_url": "https://x.com/godspeedyou50/status/1984128468658090125?s=46",
+          "start": 26,
+          "url": "https://t.co/KUW1DingR4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984173309978882442",
+    "in_reply_to_user_id": "1659962043460354050",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984128468658090125",
+        "type": "quoted"
+      },
+      {
+        "id": "1984105807659855975",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SalviaSWC 隐藏词刀片儿 刮脸盘刀片儿\n\nhttps://t.co/KUW1DingR4"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "1984105807659855975",
+        "created_at": "2025-10-31T08:19:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T09:19:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984173309978882442"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1659962043460354050",
+              "start": 0,
+              "username": "SalviaSWC"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/godspeedyou50/…",
+              "end": 49,
+              "expanded_url": "https://x.com/godspeedyou50/status/1984128468658090125?s=46",
+              "start": 26,
+              "url": "https://t.co/KUW1DingR4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984173309978882442",
+        "in_reply_to_user_id": "1659962043460354050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984128468658090125",
+            "type": "quoted"
+          },
+          {
+            "id": "1984105807659855975",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SalviaSWC 隐藏词刀片儿 刮脸盘刀片儿\n\nhttps://t.co/KUW1DingR4"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "1984128468658090125",
+        "created_at": "2025-10-31T05:21:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T06:21:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984128468658090125"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1984128468658090125",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 91,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今晚凑齐十大关键词将召唤o神赐你神力\n现可公开情报如下：\n树皮 麻黄碱 哮喘片 农药 锁门  剧烈变形"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "1984105805176565760"
+          ]
+        },
+        "author_id": "1659962043460354050",
+        "conversation_id": "1984105807659855975",
+        "created_at": "2025-10-31T03:51:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T04:51:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984105807659855975"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1984105807659855975",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1438,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "29.一名男子吸食某种毒品后，12分钟后有轻微恶心感，27分钟后视觉开始变形，28分钟后剧烈变形，在幻觉的作用下开始用刀割自己，不幸失血身亡。根据行为描述的特征，这名男子吸食的毒品最有可能是什么?\nA.DMT B.5-MeO-DMT C.4-HO-DMT D.4-AcO-DMT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "路人。and这段日子我愿意聊天，欢迎找我解惑，定期批量回fo或者私我",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1983757018830663844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983944337726787584/JcjyTY_u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 417,
+          "following_count": 257,
+          "like_count": 105,
+          "listed_count": 1,
+          "media_count": 54,
+          "tweet_count": 608
+        },
+        "username": "godspeedyou50",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "#StandWithSpr1ngW1nd\n07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺丨\nSay Know to Drugs 💊丨\n会发各种东西丨欢迎任何人🌈丨互fo🉑🥰丨如果没回fo的话，请私信哦",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 20,
+                "start": 0,
+                "tag": "StandWithSpr1ngW1nd"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC",
+                "end": 23,
+                "expanded_url": "https://github.com/SalviaSWC",
+                "start": 0,
+                "url": "https://t.co/NJRjXJi1ON"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "Sᴀʟv1ᴀ～#鼠尾草",
+        "pinned_tweet_id": "1983831915678536138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983844815524581376/MlP6f7GJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1493,
+          "following_count": 605,
+          "like_count": 9480,
+          "listed_count": 7,
+          "media_count": 135,
+          "tweet_count": 3010
+        },
+        "url": "https://t.co/NJRjXJi1ON",
+        "username": "SalviaSWC",
+        "verified": false
+      }
+    ]
+  }
+}

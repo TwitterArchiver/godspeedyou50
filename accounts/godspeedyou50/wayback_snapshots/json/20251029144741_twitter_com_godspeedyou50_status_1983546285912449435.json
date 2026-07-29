@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "1982780427720147383",
+    "created_at": "2025-10-29T14:47:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-29T15:47:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983546285912449435"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1643934829514493952",
+          "start": 0,
+          "username": "nmudm1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983546285912449435",
+    "in_reply_to_user_id": "1643934829514493952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983545945792086102",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nmudm1 我何必否 你一直问我能不能 我一直回答你 我问你能不能你也不说 我找他干啥啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "1982780427720147383",
+        "created_at": "2025-10-29T14:47:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T15:47:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983546285912449435"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1643934829514493952",
+              "start": 0,
+              "username": "nmudm1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983546285912449435",
+        "in_reply_to_user_id": "1643934829514493952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983545945792086102",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nmudm1 我何必否 你一直问我能不能 我一直回答你 我问你能不能你也不说 我找他干啥啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643934829514493952",
+        "conversation_id": "1982780427720147383",
+        "created_at": "2025-10-29T14:46:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T15:46:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983545945792086102"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1518404201168007168",
+              "start": 0,
+              "username": "godspeedyou50"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983545945792086102",
+        "in_reply_to_user_id": "1518404201168007168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983217695005769955",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@godspeedyou50 你可以找到他家去问他爸妈，，，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "路人。and这段日子我愿意聊天，欢迎找我解惑，定期批量回fo或者私我",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1982515322788942238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827690417619697665/4z5RgWOE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 391,
+          "following_count": 233,
+          "like_count": 84,
+          "listed_count": 1,
+          "media_count": 48,
+          "tweet_count": 556
+        },
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2023-04-06T11:13:08.000Z",
+        "description": "",
+        "id": "1643934829514493952",
+        "name": "nmud ml",
+        "pinned_tweet_id": "1979430003080314917",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969184112998301696/kdhVXAId_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 9,
+          "like_count": 14,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 45
+        },
+        "username": "nmudm1",
+        "verified": false
+      }
+    ]
+  }
+}

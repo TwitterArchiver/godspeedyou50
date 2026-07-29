@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2037546712202707409",
+    "created_at": "2026-03-27T15:14:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T16:14:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037548728438198317"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1989965282799226880",
+          "start": 0,
+          "username": "DQadopt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037548728438198317",
+    "in_reply_to_user_id": "1989965282799226880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037546712202707409",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DQadopt 妈 我饿 v52"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2037546712202707409",
+        "created_at": "2026-03-27T15:14:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T16:14:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037548728438198317"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1989965282799226880",
+              "start": 0,
+              "username": "DQadopt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037548728438198317",
+        "in_reply_to_user_id": "1989965282799226880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037546712202707409",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DQadopt 妈 我饿 v52"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2037546712202707409",
+        "created_at": "2026-03-27T15:06:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T16:06:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037546712202707409"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037546712202707409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不出意外今晚又要散财了，等私信回复，吗的，草，看不下去，看的好难过，我觉得我是一个非常矛盾的人，我通过看屠杀来告诉自己这才是你理想的世界，人之初性本恶，没有情感只有适者生存，然后我又看人间疾苦共情到散财流泪，每次我这样我都特别犯恶心，很难叙述这种情感\n散1000吧我这个月开销太大了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。/双相I型/欢迎提问",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jahseh79919",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jahseh79919",
+                "start": 0,
+                "url": "https://t.co/xaz6T7v19q"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2029134307244294287",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 987,
+          "following_count": 194,
+          "like_count": 787,
+          "listed_count": 0,
+          "media_count": 120,
+          "tweet_count": 1983
+        },
+        "url": "https://t.co/xaz6T7v19q",
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，本质是明恋日记和自残日记 🩸如果哪天我号没了，新号会叫查拉图斯特拉（三代目）⛰️此人远在人群之中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2031918558578643142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1493,
+          "following_count": 264,
+          "like_count": 2251,
+          "listed_count": 0,
+          "media_count": 278,
+          "tweet_count": 2503
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      }
+    ]
+  }
+}

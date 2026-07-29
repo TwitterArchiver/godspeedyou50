@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2022252082993267124",
+    "created_at": "2026-02-14T03:00:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-14T04:00:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022506147278917882"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2020519480972238848",
+          "start": 0,
+          "username": "c4lluml1"
+        },
+        {
+          "end": 23,
+          "id": "1563820304480100352",
+          "start": 10,
+          "username": "nishiki00300"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022506147278917882",
+    "in_reply_to_user_id": "2020519480972238848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022252082993267124",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@c4lluml1 @nishiki00300 不得不证明豪歌文采永远是在的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1285,
+        "media_key": "3_2022252079713251328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBB7jVmacAA4Fto.jpg",
+        "width": 1856
+      },
+      {
+        "height": 1197,
+        "media_key": "3_2022252079189016576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBB7jTpbQAAZQkv.jpg",
+        "width": 1722
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2022252082993267124",
+        "created_at": "2026-02-14T03:00:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T04:00:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022506147278917882"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2020519480972238848",
+              "start": 0,
+              "username": "c4lluml1"
+            },
+            {
+              "end": 23,
+              "id": "1563820304480100352",
+              "start": 10,
+              "username": "nishiki00300"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022506147278917882",
+        "in_reply_to_user_id": "2020519480972238848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022252082993267124",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@c4lluml1 @nishiki00300 不得不证明豪歌文采永远是在的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022252079713251328",
+            "3_2022252079189016576"
+          ]
+        },
+        "author_id": "2020519480972238848",
+        "conversation_id": "2022252082993267124",
+        "created_at": "2026-02-13T10:10:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T11:10:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022252082993267124"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kYMDeqkaCe",
+              "end": 78,
+              "expanded_url": "https://x.com/c4lluml1/status/2022252082993267124/photo/1",
+              "media_key": "3_2022252079713251328",
+              "start": 55,
+              "url": "https://t.co/kYMDeqkaCe"
+            },
+            {
+              "display_url": "pic.x.com/kYMDeqkaCe",
+              "end": 78,
+              "expanded_url": "https://x.com/c4lluml1/status/2022252082993267124/photo/1",
+              "media_key": "3_2022252079189016576",
+              "start": 55,
+              "url": "https://t.co/kYMDeqkaCe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022252082993267124",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 80,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "这里转载并且补充了，你想要了解的od圈爱德华（刘宣祯）生平的一切。\n感谢各位良心网友对待不法分子的嫉恶如仇。 https://t.co/kYMDeqkaCe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。/@Jahseh14138/双相I型",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "Jahseh14138"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1994852955737264187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 727,
+          "following_count": 117,
+          "like_count": 430,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 1289
+        },
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-08T15:26:38.000Z",
+        "description": "不可能在电视里摆上一个像Archie Bunker（美国70年代开播的电视剧《All in the Family》中的一个固执的对西班牙人、共产主义者、嬉皮士、同性恋、犹太人、女性解放运动者和波兰裔美国人抱有偏见的胖子）一样的角色。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/getoutforchina",
+                "end": 23,
+                "expanded_url": "https://t.me/getoutforchina",
+                "start": 0,
+                "url": "https://t.co/VRKfGLxQVz"
+              }
+            ]
+          }
+        },
+        "id": "2020519480972238848",
+        "location": "（富途牛牛受害者）",
+        "name": "富途牛牛.埃里克·希欧多尔·卡特曼",
+        "pinned_tweet_id": "2022252082993267124",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020915044498931716/YGKMNu_t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 38,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 161
+        },
+        "url": "https://t.co/VRKfGLxQVz",
+        "username": "c4lluml1",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-28T09:26:39.000Z",
+        "description": "虹ヶ咲大好き🛜｜コスプレ｜自撮り｜中文/日本語🆗～",
+        "id": "1563820304480100352",
+        "location": "宇宙",
+        "name": "ニシキ",
+        "pinned_tweet_id": "1848040913765015647",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1795724719075008513/qU1-f2TW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171,
+          "following_count": 431,
+          "like_count": 69,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 265
+        },
+        "username": "nishiki00300",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      }
+    ],
+    "conversation_id": "2025403420258267166",
+    "created_at": "2026-02-23T20:18:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T21:18:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026028855887278257"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1659962043460354050",
+          "start": 0,
+          "username": "SalviaSWC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026028855887278257",
+    "in_reply_to_user_id": "1518404201168007168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026027864198680904",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SalviaSWC 没有任何反驳od起源史的意思，就是突然想起嗑药文化这件事，真的也就是龙胆紫那会儿北京热心市民们就开始研究各种嬉皮士产业链了，可以了解了解贾宏声的最后一部电影《昨天》，让你能思考一下另一个年代当时的前沿精神和上个世纪的迷茫"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2025403420258267166",
+        "created_at": "2026-02-23T20:18:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T21:18:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026028855887278257"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1659962043460354050",
+              "start": 0,
+              "username": "SalviaSWC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026028855887278257",
+        "in_reply_to_user_id": "1518404201168007168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026027864198680904",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SalviaSWC 没有任何反驳od起源史的意思，就是突然想起嗑药文化这件事，真的也就是龙胆紫那会儿北京热心市民们就开始研究各种嬉皮士产业链了，可以了解了解贾宏声的最后一部电影《昨天》，让你能思考一下另一个年代当时的前沿精神和上个世纪的迷茫"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2025403420258267166",
+        "created_at": "2026-02-23T20:14:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T21:14:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026027864198680904"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1659962043460354050",
+              "start": 0,
+              "username": "SalviaSWC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026027864198680904",
+        "in_reply_to_user_id": "1659962043460354050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "oder们的出现我不知道 但是嗑药上劲儿确实真是北京地下圈和东北精神群体零几年就开始进化的了。\n右美沙芬我不清楚是什么时候流行，但可以确定以及肯定以及保证的说十年以上，我一个卖药的线下大哥因为列管判刑进去了，最早这个没被研究之被作为“别劲儿”的替代品，和如今的晚安一类地位。\n美沙这个词你可以在搜索引擎搜一下最早内容，搞不好可以追溯到天涯论坛，所以我们说的美沙美沙的，野猫上坟这个几把名字我到现在也没见过哪个蠢逼是这么叫的"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025403420258267166",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SalviaSWC oder们的出现我不知道 但是嗑药上劲儿确实真是北京地下圈和东北精神群体零几年就开始进化的了。\n右美沙芬我不清楚是什么时候流行，但可以确定以及肯定以及保证的说十年以上，我一个卖药的线下大哥因为列管判刑进去了，最早这个没被研究之被作为“别劲儿”的替代品，和如今的晚安一类地位。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。/@Jahseh14138/双相I型/欢迎提问",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "Jahseh14138"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jahseh79919",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jahseh79919",
+                "start": 0,
+                "url": "https://t.co/xaz6T7v19q"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1994852955737264187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 769,
+          "following_count": 132,
+          "like_count": 445,
+          "listed_count": 0,
+          "media_count": 90,
+          "tweet_count": 1366
+        },
+        "url": "https://t.co/xaz6T7v19q",
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07|上海|退役OIer|计算机💻|虚无主义者🥺|\n\n会发各种东西🎲|非必要不键政🏳️|不卖药🚫|欢迎任何人🌈|包容各种做法☮|互fo🉑哦🥰|没回fo的话，请私信我哦📬|\n\n脑婆:@DXM8964LXM\n\n丨OD知识开源化↓来FreeODwiki看看吧！|Say Know to Drugs 💊丨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 90,
+                "username": "DXM8964LXM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "https://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/20q0OtAeQd"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "pinned_tweet_id": "2025450228590190608",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567905659092992/cvZN-2cJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2800,
+          "following_count": 876,
+          "like_count": 19764,
+          "listed_count": 10,
+          "media_count": 306,
+          "tweet_count": 5672
+        },
+        "url": "https://t.co/20q0OtAeQd",
+        "username": "SalviaSWC",
+        "verified": false
+      }
+    ]
+  }
+}

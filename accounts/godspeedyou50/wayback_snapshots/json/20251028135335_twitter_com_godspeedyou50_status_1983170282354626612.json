@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "1983149928827527227",
+    "created_at": "2025-10-28T13:53:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-28T14:53:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983170282354626612"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1769324132955766784",
+          "start": 0,
+          "username": "REYORIu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983170282354626612",
+    "in_reply_to_user_id": "1769324132955766784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983170163152433605",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@REYORIu fine 我很羡慕好困的感觉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "1983149928827527227",
+        "created_at": "2025-10-28T13:53:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T14:53:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983170282354626612"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1769324132955766784",
+              "start": 0,
+              "username": "REYORIu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983170282354626612",
+        "in_reply_to_user_id": "1769324132955766784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983170163152433605",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@REYORIu fine 我很羡慕好困的感觉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1769324132955766784",
+        "conversation_id": "1983149928827527227",
+        "created_at": "2025-10-28T13:53:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T14:53:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983170163152433605"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1518404201168007168",
+              "start": 0,
+              "username": "godspeedyou50"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983170163152433605",
+        "in_reply_to_user_id": "1518404201168007168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983159280900702696",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@godspeedyou50 对呀现在就好困"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "路人。and这段日子我愿意聊天，欢迎找我解惑，定期批量回fo或者私我",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1982515322788942238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827690417619697665/4z5RgWOE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 372,
+          "following_count": 225,
+          "like_count": 84,
+          "listed_count": 1,
+          "media_count": 45,
+          "tweet_count": 507
+        },
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-17T11:25:29.000Z",
+        "description": "你站在我面前 我觉得隔了一个海洋 你恐水 而我不会游泳 你和我大概都有苦衷 所以最后无法成为我们",
+        "id": "1769324132955766784",
+        "name": "所有的眼泪来自你的馈赠",
+        "pinned_tweet_id": "1803475128816378039",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982977308924489728/qgeypFcS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 278,
+          "following_count": 171,
+          "like_count": 1129,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 619
+        },
+        "username": "REYORIu",
+        "verified": false
+      }
+    ]
+  }
+}

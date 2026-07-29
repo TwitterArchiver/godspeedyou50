@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2033610134824620078",
+    "created_at": "2026-03-16T18:23:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T19:23:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033610134824620078"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1518404201168007168",
+          "start": 3,
+          "username": "godspeedyou50"
+        },
+        {
+          "end": 28,
+          "id": "1540268150406537216",
+          "start": 19,
+          "username": "aabanypp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033610134824620078",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033456672186966266",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @godspeedyou50: @aabanypp 其实不会，活着也不痛苦，思想被禁锢又不是你真的痛苦，我不知道怎么让你们去理解这个道理，因为显得我很轻描淡写别人的悲痛。\n消除痛苦，首先停止喂养痛苦，我们很有可能只是在思想反刍"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2033610134824620078",
+        "created_at": "2026-03-16T18:23:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T19:23:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033610134824620078"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1518404201168007168",
+              "start": 3,
+              "username": "godspeedyou50"
+            },
+            {
+              "end": 28,
+              "id": "1540268150406537216",
+              "start": 19,
+              "username": "aabanypp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033610134824620078",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033456672186966266",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @godspeedyou50: @aabanypp 其实不会，活着也不痛苦，思想被禁锢又不是你真的痛苦，我不知道怎么让你们去理解这个道理，因为显得我很轻描淡写别人的悲痛。\n消除痛苦，首先停止喂养痛苦，我们很有可能只是在思想反刍"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2033439587151040525",
+        "created_at": "2026-03-16T08:13:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T09:13:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033456672186966266"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1540268150406537216",
+              "start": 0,
+              "username": "aabanypp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033456672186966266",
+        "in_reply_to_user_id": "1540268150406537216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033453111785005367",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aabanypp 其实不会，活着也不痛苦，思想被禁锢又不是你真的痛苦，我不知道怎么让你们去理解这个道理，因为显得我很轻描淡写别人的悲痛。\n消除痛苦，首先停止喂养痛苦，我们很有可能只是在思想反刍"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。/双相I型/欢迎提问",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jahseh79919",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jahseh79919",
+                "start": 0,
+                "url": "https://t.co/xaz6T7v19q"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2029134307244294287",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 892,
+          "following_count": 175,
+          "like_count": 625,
+          "listed_count": 1,
+          "media_count": 102,
+          "tweet_count": 1681
+        },
+        "url": "https://t.co/xaz6T7v19q",
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2022-06-24T09:38:50.000Z",
+        "description": "！",
+        "id": "1540268150406537216",
+        "name": "睡个好觉吧！",
+        "pinned_tweet_id": "2030956584017489978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000939898447257606/6w9it0AW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 19,
+          "like_count": 87,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 66
+        },
+        "username": "aabanypp",
+        "verified": false
+      }
+    ]
+  }
+}

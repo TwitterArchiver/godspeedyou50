@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2046045024371270128",
+    "created_at": "2026-04-21T16:46:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T17:46:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046631798395085208"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1955772685272621057",
+          "start": 0,
+          "username": "Grief555_"
+        },
+        {
+          "end": 26,
+          "id": "1411701388086812673",
+          "start": 11,
+          "username": "Thedeviloflusg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046631798395085208",
+    "in_reply_to_user_id": "1955772685272621057",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046630987573207385",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Grief555_ @Thedeviloflusg 那你操死这骚逼好不好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2046045024371270128",
+        "created_at": "2026-04-21T16:46:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T17:46:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046631798395085208"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1955772685272621057",
+              "start": 0,
+              "username": "Grief555_"
+            },
+            {
+              "end": 26,
+              "id": "1411701388086812673",
+              "start": 11,
+              "username": "Thedeviloflusg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046631798395085208",
+        "in_reply_to_user_id": "1955772685272621057",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046630987573207385",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Grief555_ @Thedeviloflusg 那你操死这骚逼好不好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955772685272621057",
+        "conversation_id": "2046045024371270128",
+        "created_at": "2026-04-21T16:43:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T17:43:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046630987573207385"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1411701388086812673",
+              "start": 0,
+              "username": "Thedeviloflusg"
+            },
+            {
+              "end": 30,
+              "id": "1518404201168007168",
+              "start": 16,
+              "username": "godspeedyou50"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046630987573207385",
+        "in_reply_to_user_id": "1411701388086812673",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046079161471779257",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Thedeviloflusg @godspeedyou50 还能在这看见你hh 抖音老刷到你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。/双相I型/欢迎提问",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jahseh79919",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jahseh79919",
+                "start": 0,
+                "url": "https://t.co/xaz6T7v19q"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2029134307244294287",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1080,
+          "following_count": 230,
+          "like_count": 953,
+          "listed_count": 0,
+          "media_count": 137,
+          "tweet_count": 2238
+        },
+        "url": "https://t.co/xaz6T7v19q",
+        "username": "godspeedyou50",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-13T23:25:29.000Z",
+        "description": "我是404\n业务 爸爸活 伤口定制 原味 图包 视频\n🚪88/128/188/520/1314不封顶",
+        "id": "1955772685272621057",
+        "location": " Tokyo  我想要门槛。",
+        "name": "爱总牵扯痛",
+        "pinned_tweet_id": "1972577824646242497",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972926463654682624/DCgUliOV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 253,
+          "following_count": 84,
+          "like_count": 223,
+          "listed_count": 2,
+          "media_count": 66,
+          "tweet_count": 134
+        },
+        "username": "Grief555_",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-04T15:00:31.000Z",
+        "description": "switch/非二元性别/🈶️🚪私聊我",
+        "id": "1411701388086812673",
+        "location": "🚪88",
+        "name": "桔梗",
+        "pinned_tweet_id": "1962412165006315642",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937588162618101760/kPYrLIOv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2649,
+          "following_count": 128,
+          "like_count": 12094,
+          "listed_count": 13,
+          "media_count": 330,
+          "tweet_count": 2413
+        },
+        "username": "Thedeviloflusg",
+        "verified": false
+      }
+    ]
+  }
+}

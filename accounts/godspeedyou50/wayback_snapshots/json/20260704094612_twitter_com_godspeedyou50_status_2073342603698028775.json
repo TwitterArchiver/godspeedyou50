@@ -1,0 +1,317 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2073289101751836682",
+    "created_at": "2026-07-04T09:46:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T10:46:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073342603698028775"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "68868234",
+          "start": 0,
+          "username": "Ne1lHeyw00d"
+        },
+        {
+          "end": 24,
+          "id": "1886054681635704832",
+          "start": 13,
+          "username": "Manglesuki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073342603698028775",
+    "in_reply_to_user_id": "68868234",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073289101751836682",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ne1lHeyw00d @Manglesuki 这谁啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 720,
+        "media_key": "3_2073289098580889600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMXNc02akAAdG8m.jpg",
+        "width": 613
+      },
+      {
+        "height": 717,
+        "media_key": "3_2073289099369496576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMXNc3ybwAA5G8i.jpg",
+        "width": 529
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2073289101751836682",
+        "created_at": "2026-07-04T09:46:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T10:46:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073342603698028775"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "68868234",
+              "start": 0,
+              "username": "Ne1lHeyw00d"
+            },
+            {
+              "end": 24,
+              "id": "1886054681635704832",
+              "start": 13,
+              "username": "Manglesuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073342603698028775",
+        "in_reply_to_user_id": "68868234",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073289101751836682",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ne1lHeyw00d @Manglesuki 这谁啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073289098580889600",
+            "3_2073289099369496576"
+          ]
+        },
+        "author_id": "68868234",
+        "conversation_id": "2073289101751836682",
+        "created_at": "2026-07-04T06:13:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T07:13:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073289101751836682"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 27,
+              "id": "1518404201168007168",
+              "start": 13,
+              "username": "godspeedyou50"
+            },
+            {
+              "end": 42,
+              "id": "1886054681635704832",
+              "start": 31,
+              "username": "Manglesuki"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6GbrMTFOUk",
+              "end": 66,
+              "expanded_url": "https://x.com/Ne1lHeyw00d/status/2073289101751836682/photo/1",
+              "media_key": "3_2073289098580889600",
+              "start": 43,
+              "url": "https://t.co/6GbrMTFOUk"
+            },
+            {
+              "display_url": "pic.x.com/6GbrMTFOUk",
+              "end": 66,
+              "expanded_url": "https://x.com/Ne1lHeyw00d/status/2073289101751836682/photo/1",
+              "media_key": "3_2073289099369496576",
+              "start": 43,
+              "url": "https://t.co/6GbrMTFOUk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073289101751836682",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "马鹏宇大头是不是开错了\n\n@godspeedyou50 \n\n @Manglesuki https://t.co/6GbrMTFOUk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个违背了大众道德良知的神棍。\n☯️算命后付不怕跑单｜代请符箓、祈福请私讯\n传统宗教现代哲学文化传播者，又称中式廉价心理医生。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/buyaogaowosorry",
+                "end": 23,
+                "expanded_url": "https://t.me/buyaogaowosorry",
+                "start": 0,
+                "url": "https://t.co/AdoFGQJT3r"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2069223594711011526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1597,
+          "following_count": 561,
+          "like_count": 1263,
+          "listed_count": 1,
+          "media_count": 198,
+          "tweet_count": 2832
+        },
+        "url": "https://t.co/AdoFGQJT3r",
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2009-08-26T01:46:00.000Z",
+        "description": "流浪汉族 接受付费咨询 药理学 用药咨询 用药建议 毒理学、药理学、精神疾病学相关研究  前工人吧吧主 结晶化捧杀者 键政荣誉证书获得者 有无犯罪记录 是 目前在海外研究伊博格草对人类大脑清空成瘾性的视线   \n攒钱起诉派出所中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/babycost",
+                "end": 23,
+                "expanded_url": "http://t.me/babycost",
+                "start": 0,
+                "url": "https://t.co/a0nGHzpVaD"
+              }
+            ]
+          }
+        },
+        "id": "68868234",
+        "location": "ip：外国",
+        "name": "The Red Devils（上访中）",
+        "pinned_tweet_id": "2062591615802474584",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070081285587152896/RvUcBq3X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 30,
+          "like_count": 22,
+          "listed_count": 0,
+          "media_count": 212,
+          "tweet_count": 533
+        },
+        "url": "https://t.co/a0nGHzpVaD",
+        "username": "Ne1lHeyw00d",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-02T14:11:02.000Z",
+        "description": "我是Onyxx/小鸮｜ENTP｜女生｜药物百科wiki主@yaowubaike｜双相BPD｜DJ/调酒师/王者代练/底层画画的/coser/🏍️凯越525X｜171cm/51kg｜请找我玩！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 28,
+                "username": "yaowubaike"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "https://yaowubaike.ca/",
+                "start": 0,
+                "url": "https://t.co/iv2t87QHvr"
+              }
+            ]
+          }
+        },
+        "id": "1886054681635704832",
+        "location": "Night city",
+        "name": "OnyxxOwl",
+        "pinned_tweet_id": "2024365569395642508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015477358627852288/p8pWpyfh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 708,
+          "following_count": 102,
+          "like_count": 519,
+          "listed_count": 0,
+          "media_count": 125,
+          "tweet_count": 479
+        },
+        "url": "https://t.co/iv2t87QHvr",
+        "username": "Manglesuki",
+        "verified": false
+      }
+    ]
+  }
+}

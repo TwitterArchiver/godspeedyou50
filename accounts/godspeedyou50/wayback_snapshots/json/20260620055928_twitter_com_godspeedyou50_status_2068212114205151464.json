@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2068191482184708213",
+    "created_at": "2026-06-20T05:59:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T06:59:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068212114205151464"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1978128183875514369",
+          "start": 0,
+          "username": "na_an31255"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068212114205151464",
+    "in_reply_to_user_id": "1978128183875514369",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068191482184708213",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@na_an31255 别读金刚经"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2068191482184708213",
+        "created_at": "2026-06-20T05:59:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T06:59:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068212114205151464"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1978128183875514369",
+              "start": 0,
+              "username": "na_an31255"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068212114205151464",
+        "in_reply_to_user_id": "1978128183875514369",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068191482184708213",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@na_an31255 别读金刚经"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1978128183875514369",
+        "conversation_id": "2068191482184708213",
+        "created_at": "2026-06-20T04:37:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T05:37:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068191482184708213"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068191482184708213",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一切有为法，该是你的就是你的，你活着的每时每刻都在获得，你获得了生命，获得了思想，获得了物质。而你不想要的也不会因为你的拒绝而离开。所以我不会去供奉跪拜任何鬼神，更不会许愿"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2048720319872192919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1376,
+          "following_count": 358,
+          "like_count": 1182,
+          "listed_count": 1,
+          "media_count": 195,
+          "tweet_count": 2760
+        },
+        "url": "",
+        "username": "godspeedyou50",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-14T15:58:15.000Z",
+        "description": "小草&我/精神不稳定性格有缺陷/无知 虚伪 贪婪 嫉妒 束缚 伤害/",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/an%E2%80%86na2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/an%E2%80%86na2",
+                "start": 0,
+                "url": "https://t.co/801rxjZEP7"
+              }
+            ]
+          }
+        },
+        "id": "1978128183875514369",
+        "location": "乌托邦",
+        "name": "电车驶过身体发出告别声",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992294900721946624/YU9ja8dB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 318,
+          "following_count": 175,
+          "like_count": 232,
+          "listed_count": 0,
+          "media_count": 144,
+          "tweet_count": 1093
+        },
+        "url": "https://t.co/801rxjZEP7",
+        "username": "na_an31255",
+        "verified": false
+      }
+    ]
+  }
+}

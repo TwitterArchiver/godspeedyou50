@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2068514576111657280",
+    "created_at": "2026-06-21T02:01:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T03:01:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068514576111657280"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "3022697779",
+          "start": 3,
+          "username": "RXdruglab"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068514576111657280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068285889185521723",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RXdruglab: 旧帖新发\n不建议摄入非法物质的人线下交友。设想，如果你已因吃白兔和右美沙芬被处理过两次，这次尿检后警察说你吗啡，右美沙芬和冰毒阳性，按照内部规定，多种多次，认定为成瘾严重，要送到戒毒所两年强戒，现在给你个机会，供五个吸毒的人，拘留就行，你招不招？如…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2068514576111657280",
+        "created_at": "2026-06-21T02:01:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T03:01:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068514576111657280"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "3022697779",
+              "start": 3,
+              "username": "RXdruglab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068514576111657280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068285889185521723",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @RXdruglab: 旧帖新发\n不建议摄入非法物质的人线下交友。设想，如果你已因吃白兔和右美沙芬被处理过两次，这次尿检后警察说你吗啡，右美沙芬和冰毒阳性，按照内部规定，多种多次，认定为成瘾严重，要送到戒毒所两年强戒，现在给你个机会，供五个吸毒的人，拘留就行，你招不招？如…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3022697779",
+        "conversation_id": "2068285889185521723",
+        "created_at": "2026-06-20T10:52:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T11:52:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068285889185521723"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068285889185521723",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 8548,
+          "like_count": 69,
+          "quote_count": 2,
+          "reply_count": 31,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "旧帖新发\n不建议摄入非法物质的人线下交友。设想，如果你已因吃白兔和右美沙芬被处理过两次，这次尿检后警察说你吗啡，右美沙芬和冰毒阳性，按照内部规定，多种多次，认定为成瘾严重，要送到戒毒所两年强戒，现在给你个机会，供五个吸毒的人，拘留就行，你招不招？如果你不招，你的那些朋友招不招？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2048720319872192919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1377,
+          "following_count": 361,
+          "like_count": 1189,
+          "listed_count": 1,
+          "media_count": 197,
+          "tweet_count": 2771
+        },
+        "url": "",
+        "username": "godspeedyou50",
+        "verified": false
+      },
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1917542345039569145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19515,
+          "following_count": 18,
+          "like_count": 24,
+          "listed_count": 23,
+          "media_count": 58,
+          "tweet_count": 1777
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false
+      }
+    ]
+  }
+}

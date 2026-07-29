@@ -1,0 +1,354 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "1983900381496406313",
+    "created_at": "2025-10-30T15:51:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-30T16:51:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983924757260038454"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1272405078683430913",
+          "start": 0,
+          "username": "PaitangOfficial"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/Fuzi78900/stat…",
+          "end": 40,
+          "expanded_url": "https://x.com/Fuzi78900/status/1983911500814414018",
+          "start": 17,
+          "url": "https://t.co/D4GLFMcIXf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983924757260038454",
+    "in_reply_to_user_id": "1272405078683430913",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983911500814414018",
+        "type": "quoted"
+      },
+      {
+        "id": "1983900381496406313",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PaitangOfficial https://t.co/D4GLFMcIXf"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12845,
+        "height": 1280,
+        "media_key": "13_1983911302033756160",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1983911302033756160/img/Io-9FAjnbtVPY7Rd.jpg",
+        "public_metrics": {
+          "view_count": 1
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1983911302033756160/vid/avc1/320x568/TxmEbOsMBDKKclEI.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1983911302033756160/vid/avc1/480x852/lWHGVBs5P9S_MhIM.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1983911302033756160/vid/avc1/720x1280/WnpXJjqStpjJXY8l.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1983911302033756160/pl/Uq9GOSjWB4JHbx_4.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "1983900381496406313",
+        "created_at": "2025-10-30T15:51:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T16:51:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983924757260038454"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1272405078683430913",
+              "start": 0,
+              "username": "PaitangOfficial"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/Fuzi78900/stat…",
+              "end": 40,
+              "expanded_url": "https://x.com/Fuzi78900/status/1983911500814414018",
+              "start": 17,
+              "url": "https://t.co/D4GLFMcIXf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983924757260038454",
+        "in_reply_to_user_id": "1272405078683430913",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983911500814414018",
+            "type": "quoted"
+          },
+          {
+            "id": "1983900381496406313",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PaitangOfficial https://t.co/D4GLFMcIXf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1983911302033756160"
+          ]
+        },
+        "author_id": "1766291650635255808",
+        "conversation_id": "1983911500814414018",
+        "created_at": "2025-10-30T14:58:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T15:58:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983911500814414018"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0ke13ePKtl",
+              "end": 31,
+              "expanded_url": "https://x.com/Fuzi78900/status/1983911500814414018/video/1",
+              "media_key": "13_1983911302033756160",
+              "start": 8,
+              "url": "https://t.co/0ke13ePKtl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983911500814414018",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今年的一小部分 https://t.co/0ke13ePKtl"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1272405078683430913",
+        "conversation_id": "1983900381496406313",
+        "created_at": "2025-10-30T14:14:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T15:14:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983900381496406313"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "☯️🧬無極 利他林和专注达’s Space · 0 listening · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1PlKQ…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/spaces/1PlKQOkYQVYJE",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/1983900423963762688/LGjYfOoS?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1983900423963762688/LGjYfOoS?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "Happening now: Spring风！集结！",
+              "unwound_url": "https://twitter.com/i/spaces/1PlKQOkYQVYJE/peek",
+              "url": "https://t.co/HNNahPCBdF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983900381496406313",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1094,
+          "like_count": 10,
+          "quote_count": 1,
+          "reply_count": 52,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/HNNahPCBdF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "路人。and这段日子我愿意聊天，欢迎找我解惑，定期批量回fo或者私我",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1983757018830663844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983898805037907968/yWWpDEO3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 411,
+          "following_count": 250,
+          "like_count": 99,
+          "listed_count": 2,
+          "media_count": 54,
+          "tweet_count": 597
+        },
+        "username": "godspeedyou50",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-15T05:46:41.000Z",
+        "description": "Biohacker/认知提升剂 （nootropics）X/ADHD 专注商品/推特第二大促智商 “本研究化合物仅供实验室研究使用，严禁用于人体和动物” \n\n客服 @paipaipaitang ⚠️TG客服已死 不要联系⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 82,
+                "username": "paipaipaitang"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/paitangcuzhi",
+                "end": 23,
+                "expanded_url": "https://t.me/paitangcuzhi",
+                "start": 0,
+                "url": "https://t.co/r6ojtqNEYk"
+              }
+            ]
+          }
+        },
+        "id": "1272405078683430913",
+        "location": "下ネタ〇 |病み垢|不登校|",
+        "name": "☯️🧬無極 利他林和专注达",
+        "pinned_tweet_id": "1969373866742202735",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983897328022122496/VDJn_uIN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9755,
+          "following_count": 541,
+          "like_count": 7821,
+          "listed_count": 27,
+          "media_count": 1622,
+          "tweet_count": 13547
+        },
+        "url": "https://t.co/r6ojtqNEYk",
+        "username": "PaitangOfficial",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-09T02:35:32.000Z",
+        "description": "🚪188",
+        "id": "1766291650635255808",
+        "name": "浮子",
+        "pinned_tweet_id": "1978658738241224732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918556042566205441/9_j51K0G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 369,
+          "following_count": 77,
+          "like_count": 351,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 149
+        },
+        "username": "Fuzi78900",
+        "verified": false
+      }
+    ]
+  }
+}

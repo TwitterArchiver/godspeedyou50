@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "1999187132900852130",
+    "created_at": "2025-12-11T18:38:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-11T19:38:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1999187132900852130"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/llll926080/sta…",
+          "end": 164,
+          "expanded_url": "https://twitter.com/llll926080/status/1999169513766473800",
+          "start": 141,
+          "url": "https://t.co/cjV5JxDSvS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999187132900852130",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999169513766473800",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "反正我什么都不知道 我没盒😂😂😂 我都没想叫你们出来帮我证明什么 我认了 我是下体占领脂肪脑的猥琐男 再没人骂我的时候我就锁推 不然我继续开皮对方\n但对于这个镜音 我骂人不是一天两天了 骂也是骂了 当面我又不是不敢 是我爹味太浓咯  主要还是被暗算 幕后真正的母狗还在捂嘴乐呢 🤦 https://t.co/cjV5JxDSvS"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "1999187132900852130",
+        "created_at": "2025-12-11T18:38:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T19:38:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999187132900852130"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/llll926080/sta…",
+              "end": 164,
+              "expanded_url": "https://twitter.com/llll926080/status/1999169513766473800",
+              "start": 141,
+              "url": "https://t.co/cjV5JxDSvS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999187132900852130",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999169513766473800",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "反正我什么都不知道 我没盒😂😂😂 我都没想叫你们出来帮我证明什么 我认了 我是下体占领脂肪脑的猥琐男 再没人骂我的时候我就锁推 不然我继续开皮对方\n但对于这个镜音 我骂人不是一天两天了 骂也是骂了 当面我又不是不敢 是我爹味太浓咯  主要还是被暗算 幕后真正的母狗还在捂嘴乐呢 🤦 https://t.co/cjV5JxDSvS"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749232086840647680",
+        "conversation_id": "1999169513766473800",
+        "created_at": "2025-12-11T17:28:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T18:28:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999169513766473800"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jingyin_8964/s…",
+              "end": 64,
+              "expanded_url": "https://twitter.com/jingyin_8964/status/1999125307329241125",
+              "start": 41,
+              "url": "https://t.co/r0f8lZtp2z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999169513766473800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 63,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999125307329241125",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这人好像有点搞不清状况，互联网上被骂不是很正常吗，玻璃心受不了挂人现在被炎上了吧 https://t.co/r0f8lZtp2z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1999064457344147720",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 666,
+          "following_count": 62,
+          "like_count": 363,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 1032
+        },
+        "username": "godspeedyou50",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-22T00:46:54.000Z",
+        "description": "pan/brat 可能是男娘（？🇨🇳🇨🇦175cm 53kg 17高二坐牢中… 中文/English welcome dm欢迎大家来找我聊天🥺od/自伤元素注意⚠️好友位🚪50CNY 后背隐藏能源：@fuckmylife8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 114,
+                "start": 99,
+                "username": "fuckmylife8964"
+              }
+            ]
+          }
+        },
+        "id": "1749232086840647680",
+        "location": "上海",
+        "name": "网友泉顺方",
+        "pinned_tweet_id": "1997879696113930667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984325613352538112/-fZhgABW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1065,
+          "following_count": 173,
+          "like_count": 1516,
+          "listed_count": 1,
+          "media_count": 400,
+          "tweet_count": 2041
+        },
+        "username": "llll926080",
+        "verified": false
+      }
+    ]
+  }
+}

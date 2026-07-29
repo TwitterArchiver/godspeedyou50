@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1991146994430349312",
+        "3_1991146994363219968"
+      ]
+    },
+    "author_id": "1518404201168007168",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1991147075195814248",
+    "created_at": "2025-11-19T14:10:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-19T15:10:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1991147075195814248"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/kl6CbHc8Q8",
+          "end": 42,
+          "expanded_url": "https://x.com/godspeedyou50/status/1991147075195814248/photo/1",
+          "media_key": "3_1991146994430349312",
+          "start": 19,
+          "url": "https://t.co/kl6CbHc8Q8"
+        },
+        {
+          "display_url": "pic.x.com/kl6CbHc8Q8",
+          "end": 42,
+          "expanded_url": "https://x.com/godspeedyou50/status/1991147075195814248/photo/1",
+          "media_key": "3_1991146994363219968",
+          "start": 19,
+          "url": "https://t.co/kl6CbHc8Q8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991147075195814248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "老挝咖啡和唇烟还有普瑞替扎思诺思跟性 https://t.co/kl6CbHc8Q8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1991146994430349312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6H5pFKbkAARaxH.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1991146994363219968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6H5pE6bQAADyUX.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1991146994430349312",
+            "3_1991146994363219968"
+          ]
+        },
+        "author_id": "1518404201168007168",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1991147075195814248",
+        "created_at": "2025-11-19T14:10:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T15:10:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991147075195814248"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kl6CbHc8Q8",
+              "end": 42,
+              "expanded_url": "https://x.com/godspeedyou50/status/1991147075195814248/photo/1",
+              "media_key": "3_1991146994430349312",
+              "start": 19,
+              "url": "https://t.co/kl6CbHc8Q8"
+            },
+            {
+              "display_url": "pic.x.com/kl6CbHc8Q8",
+              "end": 42,
+              "expanded_url": "https://x.com/godspeedyou50/status/1991147075195814248/photo/1",
+              "media_key": "3_1991146994363219968",
+              "start": 19,
+              "url": "https://t.co/kl6CbHc8Q8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991147075195814248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "老挝咖啡和唇烟还有普瑞替扎思诺思跟性 https://t.co/kl6CbHc8Q8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "路人。and这段日子我愿意聊天，欢迎找我解惑，定期批量回fo或者私我",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1983757018830663844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990279769297149952/3r34Cj2f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 578,
+          "following_count": 293,
+          "like_count": 226,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 815
+        },
+        "username": "godspeedyou50",
+        "verified": true
+      }
+    ]
+  }
+}

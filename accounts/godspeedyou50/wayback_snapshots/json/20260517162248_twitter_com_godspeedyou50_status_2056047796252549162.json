@@ -1,0 +1,121 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2056047796252549162",
+    "created_at": "2026-05-17T16:22:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T17:22:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056047796252549162"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2056047796252549162",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "天呢 原来2026年了 嗑药世界还是存在魔怔到不愿清醒的药小鬼吗 不是的 是我搞不清自己的定位了 心虚到虽然很纳闷但还是确实认真思考自己是不是真的说话不自觉的把自己太当回事了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2056047796252549162",
+        "created_at": "2026-05-17T16:22:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T17:22:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056047796252549162"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056047796252549162",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "天呢 原来2026年了 嗑药世界还是存在魔怔到不愿清醒的药小鬼吗 不是的 是我搞不清自己的定位了 心虚到虽然很纳闷但还是确实认真思考自己是不是真的说话不自觉的把自己太当回事了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。/欢迎提问/@OvooLOO3o/@salmon__sukiii",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 17,
+                "username": "OvooLOO3o"
+              },
+              {
+                "end": 43,
+                "start": 28,
+                "username": "salmon__sukiii"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jahseh79919",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jahseh79919",
+                "start": 0,
+                "url": "https://t.co/xaz6T7v19q"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2048720319872192919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1251,
+          "following_count": 275,
+          "like_count": 1048,
+          "listed_count": 0,
+          "media_count": 166,
+          "tweet_count": 2417
+        },
+        "url": "https://t.co/xaz6T7v19q",
+        "username": "godspeedyou50",
+        "verified": false
+      }
+    ]
+  }
+}

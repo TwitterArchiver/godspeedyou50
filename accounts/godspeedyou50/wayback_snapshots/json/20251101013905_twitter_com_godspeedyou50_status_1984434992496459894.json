@@ -1,0 +1,163 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1984434980576247810"
+      ]
+    },
+    "author_id": "1518404201168007168",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1984434992496459894",
+    "created_at": "2025-11-01T01:39:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-01T02:39:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1984434992496459894"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/QzWm7OlAME",
+          "end": 153,
+          "expanded_url": "https://x.com/godspeedyou50/status/1984434992496459894/photo/1",
+          "media_key": "3_1984434980576247810",
+          "start": 130,
+          "url": "https://t.co/QzWm7OlAME"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984434992496459894",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "如果喝汤真的变成流行风格了怎么办？\n我在考虑是继续砸饭碗那些摇身一变把别人辛苦当白鼠测试的策划物质直接偷走换皮包装成他妈逼那么贵的垃圾称为策划药的狗损药虫视觉系小屁孩，尤其是内些往墙内倒卖的。\n还是阻止你们直接跨阶段进入最危险的世界，dpt和DMT是两码事。\n但是我没说dpt，dpt大家都在用。\n我想让你们知道，你们在学死人，而我熬汤能熬明白或者说的查查我帖子的都知道我习惯性拿这个起灵了，在那之前没人看我，最近就是感觉影响到了很多人，如果不是我盲目自信，那你们甚至在学一名死人。\n我甚至不明白你们都哪整的，新鲜树皮真的不好弄啊….\n翻帖子翻到的，这还是我去年买的，还有这个湿度，至少拦不住那也要买现扒的啊无毒的可以不？"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "如果喝汤真的变成流行风格了怎么办？\n我在考虑是继续砸饭碗那些摇身一变把别人辛苦当白鼠测试的策划物质直接偷走换皮包装成他妈逼那么贵的垃圾称为策划药的狗损药虫视觉系小屁孩，尤其是内些往墙内倒卖的。\n还是阻止你们直接跨阶段进入最危险的世界，dpt和DMT是两码事。 https://t.co/QzWm7OlAME"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1984434980576247810",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4ohGdEbQAI63sp.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984434980576247810"
+          ]
+        },
+        "author_id": "1518404201168007168",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1984434992496459894",
+        "created_at": "2025-11-01T01:39:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T02:39:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984434992496459894"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QzWm7OlAME",
+              "end": 153,
+              "expanded_url": "https://x.com/godspeedyou50/status/1984434992496459894/photo/1",
+              "media_key": "3_1984434980576247810",
+              "start": 130,
+              "url": "https://t.co/QzWm7OlAME"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984434992496459894",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "如果喝汤真的变成流行风格了怎么办？\n我在考虑是继续砸饭碗那些摇身一变把别人辛苦当白鼠测试的策划物质直接偷走换皮包装成他妈逼那么贵的垃圾称为策划药的狗损药虫视觉系小屁孩，尤其是内些往墙内倒卖的。\n还是阻止你们直接跨阶段进入最危险的世界，dpt和DMT是两码事。\n但是我没说dpt，dpt大家都在用。\n我想让你们知道，你们在学死人，而我熬汤能熬明白或者说的查查我帖子的都知道我习惯性拿这个起灵了，在那之前没人看我，最近就是感觉影响到了很多人，如果不是我盲目自信，那你们甚至在学一名死人。\n我甚至不明白你们都哪整的，新鲜树皮真的不好弄啊….\n翻帖子翻到的，这还是我去年买的，还有这个湿度，至少拦不住那也要买现扒的啊无毒的可以不？"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果喝汤真的变成流行风格了怎么办？\n我在考虑是继续砸饭碗那些摇身一变把别人辛苦当白鼠测试的策划物质直接偷走换皮包装成他妈逼那么贵的垃圾称为策划药的狗损药虫视觉系小屁孩，尤其是内些往墙内倒卖的。\n还是阻止你们直接跨阶段进入最危险的世界，dpt和DMT是两码事。 https://t.co/QzWm7OlAME"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "路人。and这段日子我愿意聊天，欢迎找我解惑，定期批量回fo或者私我",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1983757018830663844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983944337726787584/JcjyTY_u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 419,
+          "following_count": 258,
+          "like_count": 107,
+          "listed_count": 1,
+          "media_count": 49,
+          "tweet_count": 610
+        },
+        "username": "godspeedyou50",
+        "verified": true
+      }
+    ]
+  }
+}

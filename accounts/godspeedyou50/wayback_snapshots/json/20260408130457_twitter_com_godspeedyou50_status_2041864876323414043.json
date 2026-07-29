@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2041842577755009066",
+    "created_at": "2026-04-08T13:04:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T14:04:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041864876323414043"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1638959586140098560",
+          "start": 0,
+          "username": "jiuyouforwhite"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041864876323414043",
+    "in_reply_to_user_id": "1638959586140098560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041842577755009066",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiuyouforwhite 并不理我- -"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1569,
+        "media_key": "3_2041842519101861894",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFYU8_Za8AYwG5f.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2041842577755009066",
+        "created_at": "2026-04-08T13:04:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T14:04:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041864876323414043"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1638959586140098560",
+              "start": 0,
+              "username": "jiuyouforwhite"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041864876323414043",
+        "in_reply_to_user_id": "1638959586140098560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041842577755009066",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiuyouforwhite 并不理我- -"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041842519101861894"
+          ]
+        },
+        "author_id": "1638959586140098560",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2041842577755009066",
+        "created_at": "2026-04-08T11:36:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T12:36:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041842577755009066"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MvHkwPxXSw",
+              "end": 134,
+              "expanded_url": "https://x.com/jiuyouforwhite/status/2041842577755009066/photo/1",
+              "media_key": "3_2041842519101861894",
+              "start": 111,
+              "url": "https://t.co/MvHkwPxXSw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041842577755009066",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 396,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "17班の致幻晚自习\n海报初定(感谢小白菜的创作)\n大家可以私我提前加入，要有tg\n接下来会开放1000fo抽奖，分两波，第一波是在x直接抽，第二波是在tg群里抽。可以同时参与\n最近忙问答帖可能要鸽一下，这里十七诚恳致歉。 https://t.co/MvHkwPxXSw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。/双相I型/欢迎提问",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jahseh79919",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jahseh79919",
+                "start": 0,
+                "url": "https://t.co/xaz6T7v19q"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2029134307244294287",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1023,
+          "following_count": 214,
+          "like_count": 874,
+          "listed_count": 0,
+          "media_count": 132,
+          "tweet_count": 2127
+        },
+        "url": "https://t.co/xaz6T7v19q",
+        "username": "godspeedyou50",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-23T17:43:19.000Z",
+        "description": "反胃or十七/无性别enby/哲思/内心探索/intp/od\n/回fo/免费药理知识帮助\n/Thrillingly pointless",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jiuyouforwhite",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jiuyouforwhite",
+                "start": 0,
+                "url": "https://t.co/70X6nkO8V4"
+              }
+            ]
+          }
+        },
+        "id": "1638959586140098560",
+        "location": "17班の致幻晚自习",
+        "name": "反胃的Sisyphus",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041570538485956609/QSk4pqeb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1043,
+          "following_count": 933,
+          "like_count": 2269,
+          "listed_count": 2,
+          "media_count": 191,
+          "tweet_count": 1341
+        },
+        "url": "https://t.co/70X6nkO8V4",
+        "username": "jiuyouforwhite",
+        "verified": false
+      }
+    ]
+  }
+}

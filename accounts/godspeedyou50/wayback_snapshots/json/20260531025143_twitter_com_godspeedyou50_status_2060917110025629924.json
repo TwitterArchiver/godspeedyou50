@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2060917110025629924",
+    "created_at": "2026-05-31T02:51:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T03:51:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060917110025629924"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/h_8lo5/status/…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/h_8lo5/status/2060725222941290721",
+          "start": 19,
+          "url": "https://t.co/m1Kppiok2o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060917110025629924",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060725222941290721",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "支持撸管去污名化 凭啥操逼就合法啊？ https://t.co/m1Kppiok2o"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 645,
+        "media_key": "3_2060725194910752768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJkqpYZaYAAaS37.jpg",
+        "width": 735
+      },
+      {
+        "height": 287,
+        "media_key": "3_2060725195032383489",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJkqpY2aUAE-sQO.jpg",
+        "width": 360
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2060917110025629924",
+        "created_at": "2026-05-31T02:51:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T03:51:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060917110025629924"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/h_8lo5/status/…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/h_8lo5/status/2060725222941290721",
+              "start": 19,
+              "url": "https://t.co/m1Kppiok2o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060917110025629924",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060725222941290721",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "支持撸管去污名化 凭啥操逼就合法啊？ https://t.co/m1Kppiok2o"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060725194910752768",
+            "3_2060725195032383489"
+          ]
+        },
+        "author_id": "1907480354371371008",
+        "conversation_id": "2060725222941290721",
+        "created_at": "2026-05-30T14:09:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T15:09:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060725222941290721"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8nRox6BwFN",
+              "end": 151,
+              "expanded_url": "https://x.com/h_8lo5/status/2060725222941290721/photo/1",
+              "media_key": "3_2060725194910752768",
+              "start": 128,
+              "url": "https://t.co/8nRox6BwFN"
+            },
+            {
+              "display_url": "pic.x.com/8nRox6BwFN",
+              "end": 151,
+              "expanded_url": "https://x.com/h_8lo5/status/2060725222941290721/photo/1",
+              "media_key": "3_2060725195032383489",
+              "start": 128,
+              "url": "https://t.co/8nRox6BwFN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060725222941290721",
+        "lang": "ar",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 631,
+          "impression_count": 1126511,
+          "like_count": 518,
+          "quote_count": 2,
+          "reply_count": 20,
+          "retweet_count": 47
+        },
+        "reply_settings": "everyone",
+        "text": "ماذا يحدث إذا توقفت عن الاستمناء لمدة عام كامل؟\n\nهذه هي التغييرات التي تحدث في دماغك وجسمك لمدة 12 شهرا:\n\n1. يصبح قضيبك أكثر... https://t.co/8nRox6BwFN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2048720319872192919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1313,
+          "following_count": 315,
+          "like_count": 1113,
+          "listed_count": 0,
+          "media_count": 169,
+          "tweet_count": 2503
+        },
+        "username": "godspeedyou50",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-02T17:09:10.000Z",
+        "description": "فوائد يومية تهمك 💡 | معلومات عامة، نصائح، وحقائق مفيدة 📚 | تابعنا وكن من محبي الفائدة 🤍 ⁩",
+        "id": "1907480354371371008",
+        "location": "المملكة العربية السعودية",
+        "name": "فــــوائـــــد",
+        "pinned_tweet_id": "1935706613119176952",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933880504689799168/0ghS2f7x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78415,
+          "following_count": 4,
+          "like_count": 4406,
+          "listed_count": 78,
+          "media_count": 1930,
+          "tweet_count": 4394
+        },
+        "username": "h_8lo5",
+        "verified": true
+      }
+    ]
+  }
+}

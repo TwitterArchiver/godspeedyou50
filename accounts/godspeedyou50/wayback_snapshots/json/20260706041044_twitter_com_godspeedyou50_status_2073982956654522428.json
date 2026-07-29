@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2073982956654522428",
+    "created_at": "2026-07-06T04:10:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T05:10:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073982956654522428"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/5oke_k29/statu…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/5oke_k29/status/2073736452744282354",
+          "start": 12,
+          "url": "https://t.co/huTJU9Xxk3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073982956654522428",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073736452744282354",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "棉花糖好像白嫖到了商单 https://t.co/huTJU9Xxk3"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 21633,
+        "height": 720,
+        "media_key": "13_2073736295600500736",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2073736295600500736/img/CsUtEjtod4b25TJY.jpg",
+        "public_metrics": {
+          "view_count": 223993
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073736295600500736/vid/avc1/480x270/yLHaDAMXima50MOM.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073736295600500736/vid/avc1/640x360/3NqKKCZ8DmKqSRM3.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073736295600500736/vid/avc1/1280x720/twos2oD5hXnUngfY.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2073736295600500736/pl/TtPSgXxjF48dtQUr.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2073982956654522428",
+        "created_at": "2026-07-06T04:10:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T05:10:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073982956654522428"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/5oke_k29/statu…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/5oke_k29/status/2073736452744282354",
+              "start": 12,
+              "url": "https://t.co/huTJU9Xxk3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073982956654522428",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073736452744282354",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "棉花糖好像白嫖到了商单 https://t.co/huTJU9Xxk3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2073736295600500736"
+          ]
+        },
+        "author_id": "1317689258052710400",
+        "conversation_id": "2073736452744282354",
+        "created_at": "2026-07-05T11:51:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T12:51:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073736452744282354"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gvBqxOGKXT",
+              "end": 60,
+              "expanded_url": "https://x.com/5oke_k29/status/2073736452744282354/video/1",
+              "media_key": "13_2073736295600500736",
+              "start": 37,
+              "url": "https://t.co/gvBqxOGKXT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073736452744282354",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 183,
+          "impression_count": 346231,
+          "like_count": 828,
+          "quote_count": 1,
+          "reply_count": 79,
+          "retweet_count": 30
+        },
+        "reply_settings": "everyone",
+        "text": "好吧我还是没忍住吸了棉花糖🥲妈的这个角度有点丑 每次吸完我都像最后那样。 https://t.co/gvBqxOGKXT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个违背了大众道德良知的神棍。\n☯️算命后付不怕跑单｜代请符箓、祈福请私讯\n传统宗教现代哲学文化传播者，又称中式廉价心理医生。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/buyaogaowosorry",
+                "end": 23,
+                "expanded_url": "https://t.me/buyaogaowosorry",
+                "start": 0,
+                "url": "https://t.co/AdoFGQJT3r"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2069223594711011526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1596,
+          "following_count": 565,
+          "like_count": 1264,
+          "listed_count": 1,
+          "media_count": 199,
+          "tweet_count": 2837
+        },
+        "url": "https://t.co/AdoFGQJT3r",
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2020-10-18T04:49:45.000Z",
+        "description": "傻逼别他妈烦我 恶心我你全家今晚就死 理解不了就屏蔽我滑走好吗？从始至终我都是瞎发而已..",
+        "id": "1317689258052710400",
+        "name": "穹",
+        "pinned_tweet_id": "1636710279810793472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682049945384407041/a7quSn3G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3747,
+          "following_count": 135,
+          "like_count": 940,
+          "listed_count": 7,
+          "media_count": 284,
+          "tweet_count": 2350
+        },
+        "url": "",
+        "username": "5oke_k29",
+        "verified": false
+      }
+    ]
+  }
+}

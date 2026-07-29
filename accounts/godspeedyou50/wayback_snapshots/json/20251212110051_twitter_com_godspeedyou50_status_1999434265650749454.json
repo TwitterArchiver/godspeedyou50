@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "1999433711402791050",
+    "created_at": "2025-12-12T11:00:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-12T12:00:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999434265650749454"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1999434265650749454",
+    "in_reply_to_user_id": "1518404201168007168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999433711402791050",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "枪响了，你看见是谁开的枪吗？\n我看不清，他站在道德制高点，他在阳光下。\n记住一件事 哪怕是整理资料 没有后藤 就没有这么多了解滥用体系的人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "1999433711402791050",
+        "created_at": "2025-12-12T11:00:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T12:00:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999434265650749454"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1999434265650749454",
+        "in_reply_to_user_id": "1518404201168007168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999433711402791050",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "枪响了，你看见是谁开的枪吗？\n我看不清，他站在道德制高点，他在阳光下。\n记住一件事 哪怕是整理资料 没有后藤 就没有这么多了解滥用体系的人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "1999433711402791050",
+        "created_at": "2025-12-12T10:58:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T11:58:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999433711402791050"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/edward_8964/st…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/edward_8964/status/1999423143136682039",
+              "start": 31,
+              "url": "https://t.co/WfdBnGlMuQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999433711402791050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999423143136682039",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "代后藤公告，爱德华及其党同伐异之辈集体炸号导致后藤永久封禁。 https://t.co/WfdBnGlMuQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1999064457344147720",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 664,
+          "following_count": 63,
+          "like_count": 363,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 1047
+        },
+        "username": "godspeedyou50",
+        "verified": false
+      }
+    ]
+  }
+}

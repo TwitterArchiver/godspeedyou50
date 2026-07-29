@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2038956515147628919",
+    "created_at": "2026-03-31T13:04:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T14:04:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038965748496994495"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1974276207496867842",
+          "start": 0,
+          "username": "DXMDusk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038965748496994495",
+    "in_reply_to_user_id": "1974276207496867842",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038965141707055542",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DXMDusk 如果你普瑞深度成瘾，在一定时间内只有加巴喷丁可以吃，你吃不"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2038956515147628919",
+        "created_at": "2026-03-31T13:04:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T14:04:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038965748496994495"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1974276207496867842",
+              "start": 0,
+              "username": "DXMDusk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038965748496994495",
+        "in_reply_to_user_id": "1974276207496867842",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038965141707055542",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DXMDusk 如果你普瑞深度成瘾，在一定时间内只有加巴喷丁可以吃，你吃不"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2038956515147628919",
+        "created_at": "2026-03-31T13:02:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T14:02:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038965141707055542"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1518404201168007168",
+              "start": 0,
+              "username": "godspeedyou50"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038965141707055542",
+        "in_reply_to_user_id": "1518404201168007168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038964723660845406",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@godspeedyou50 所以我看到这玩意直接绷不住了，这个送我我都不带吃的，更别说花钱买了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。/双相I型/欢迎提问",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jahseh79919",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jahseh79919",
+                "start": 0,
+                "url": "https://t.co/xaz6T7v19q"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2029134307244294287",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 991,
+          "following_count": 198,
+          "like_count": 838,
+          "listed_count": 0,
+          "media_count": 123,
+          "tweet_count": 2041
+        },
+        "url": "https://t.co/xaz6T7v19q",
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1966,
+          "following_count": 1084,
+          "like_count": 1960,
+          "listed_count": 3,
+          "media_count": 305,
+          "tweet_count": 1948
+        },
+        "username": "DXMDusk",
+        "verified": true
+      }
+    ]
+  }
+}

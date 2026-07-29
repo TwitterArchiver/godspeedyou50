@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "1994039968994615519",
+    "created_at": "2025-11-27T14:12:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T15:12:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994046745370935749"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1813313284990476288",
+          "start": 0,
+          "username": "Shureliya0224"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994046745370935749",
+    "in_reply_to_user_id": "1813313284990476288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994046072260579368",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Shureliya0224 可别想这么多了 一直都没事 单纯岔道"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "1994039968994615519",
+        "created_at": "2025-11-27T14:12:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T15:12:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994046745370935749"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1813313284990476288",
+              "start": 0,
+              "username": "Shureliya0224"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994046745370935749",
+        "in_reply_to_user_id": "1813313284990476288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994046072260579368",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shureliya0224 可别想这么多了 一直都没事 单纯岔道"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813313284990476288",
+        "conversation_id": "1994039968994615519",
+        "created_at": "2025-11-27T14:10:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T15:10:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994046072260579368"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1518404201168007168",
+              "start": 0,
+              "username": "godspeedyou50"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994046072260579368",
+        "in_reply_to_user_id": "1518404201168007168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994039968994615519",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@godspeedyou50 昨天还跟南岛魔女聊天呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "路人。",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1983757018830663844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990279769297149952/3r34Cj2f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 646,
+          "following_count": 311,
+          "like_count": 327,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 957
+        },
+        "username": "godspeedyou50",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-16T20:42:42.000Z",
+        "description": "毁灭倾向",
+        "id": "1813313284990476288",
+        "location": "丰饶之海",
+        "name": "Yukio_Mishima",
+        "pinned_tweet_id": "1993501906380243420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1813313669989896192/3hSVTlSa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 161,
+          "like_count": 1926,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 401
+        },
+        "username": "Shureliya0224",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2005932516130316736",
+    "created_at": "2025-12-30T09:25:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-30T10:25:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005933199235698746"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2005933199235698746",
+    "in_reply_to_user_id": "1518404201168007168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005932516130316736",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我从最初的惊恐濒死到现在类似李火旺一样穿越时空且平行宇宙一样在另一个诡异世界\n上次让我害怕的梦是那个世界流行自杀表演 一群人在舞台或直播表演自己有各种各样的死法和残肢断臂\n我真希望胆子小点少猎奇点 至少能吓醒或者失眠 每年三次的戒断期想想倒也好玩\n这次真戒了 以后闲来无事吃克列加巴林"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2005932516130316736",
+        "created_at": "2025-12-30T09:25:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-30T10:25:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005933199235698746"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2005933199235698746",
+        "in_reply_to_user_id": "1518404201168007168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005932516130316736",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我从最初的惊恐濒死到现在类似李火旺一样穿越时空且平行宇宙一样在另一个诡异世界\n上次让我害怕的梦是那个世界流行自杀表演 一群人在舞台或直播表演自己有各种各样的死法和残肢断臂\n我真希望胆子小点少猎奇点 至少能吓醒或者失眠 每年三次的戒断期想想倒也好玩\n这次真戒了 以后闲来无事吃克列加巴林"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2005932516130316736",
+        "created_at": "2025-12-30T09:22:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-30T10:22:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005932516130316736"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2005932516130316736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "近日来一小时醒一次 昨夜做梦梦到在床上被别人冲过来持刀把手砍断了 捂着手用被子防御然后像疯狗一样冲出家门\n老旧小区无时无刻都有人在跳楼摔得粉身碎骨且我的手痛觉很明显 一直在流血 中途清醒发现是手腕弯曲着被自己压得生疼 然后又掉回到梦里找医院\n这就是普瑞戒断期的噩梦效应"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1999064457344147720",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 659,
+          "following_count": 71,
+          "like_count": 372,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 1043
+        },
+        "username": "godspeedyou50",
+        "verified": false
+      }
+    ]
+  }
+}

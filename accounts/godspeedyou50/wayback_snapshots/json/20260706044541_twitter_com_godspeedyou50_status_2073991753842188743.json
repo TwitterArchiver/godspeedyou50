@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2073968897741803542",
+    "created_at": "2026-07-06T04:45:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T05:45:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073991753842188743"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1809233055196073984",
+          "start": 0,
+          "username": "Jy666992"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073991753842188743",
+    "in_reply_to_user_id": "1809233055196073984",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073986756354179550",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jy666992 秘方"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2073968897741803542",
+        "created_at": "2026-07-06T04:45:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T05:45:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073991753842188743"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1809233055196073984",
+              "start": 0,
+              "username": "Jy666992"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073991753842188743",
+        "in_reply_to_user_id": "1809233055196073984",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073986756354179550",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jy666992 秘方"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1809233055196073984",
+        "conversation_id": "2073968897741803542",
+        "created_at": "2026-07-06T04:25:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T05:25:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073986756354179550"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1518404201168007168",
+              "start": 0,
+              "username": "godspeedyou50"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073986756354179550",
+        "in_reply_to_user_id": "1518404201168007168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073968897741803542",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@godspeedyou50 这什么逻辑"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个违背了大众道德良知的神棍。\n☯️算命后付不怕跑单｜代请符箓、祈福请私讯\n传统宗教现代哲学文化传播者，又称中式廉价心理医生。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/buyaogaowosorry",
+                "end": 23,
+                "expanded_url": "https://t.me/buyaogaowosorry",
+                "start": 0,
+                "url": "https://t.co/AdoFGQJT3r"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2069223594711011526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1596,
+          "following_count": 553,
+          "like_count": 1264,
+          "listed_count": 1,
+          "media_count": 199,
+          "tweet_count": 2839
+        },
+        "url": "https://t.co/AdoFGQJT3r",
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-05T14:29:19.000Z",
+        "description": "光与水相遇 莲花自然生长\n时而像人时而像恶魔，暂时没找到解决方法\n谵妄剂美学爱好者/自毁倾向\n我其实一直在寻找我到底怎么活着（真实的）\n在泰上学（脑子不好总惹事感觉哪天就要被开除）",
+        "id": "1809233055196073984",
+        "name": "烨篮子",
+        "pinned_tweet_id": "2069854465931497694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065770842873905152/ira4UqJF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 362,
+          "following_count": 280,
+          "like_count": 1170,
+          "listed_count": 1,
+          "media_count": 193,
+          "tweet_count": 883
+        },
+        "url": "",
+        "username": "Jy666992",
+        "verified": false
+      }
+    ]
+  }
+}

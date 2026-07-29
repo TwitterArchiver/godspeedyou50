@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "1993942393910120948",
+    "created_at": "2025-11-27T12:04:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T13:04:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994014541030506506"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1912109703133646848",
+          "start": 0,
+          "username": "jzm1919810"
+        },
+        {
+          "end": 28,
+          "id": "1763381254035251200",
+          "start": 12,
+          "username": "yowamushi120720"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994014541030506506",
+    "in_reply_to_user_id": "1912109703133646848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993943161614553174",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jzm1919810 @yowamushi120720 他刚咽下met 哈哈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "1993942393910120948",
+        "created_at": "2025-11-27T12:04:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T13:04:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994014541030506506"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1912109703133646848",
+              "start": 0,
+              "username": "jzm1919810"
+            },
+            {
+              "end": 28,
+              "id": "1763381254035251200",
+              "start": 12,
+              "username": "yowamushi120720"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994014541030506506",
+        "in_reply_to_user_id": "1912109703133646848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993943161614553174",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jzm1919810 @yowamushi120720 他刚咽下met 哈哈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912109703133646848",
+        "conversation_id": "1993942393910120948",
+        "created_at": "2025-11-27T07:21:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T08:21:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993943161614553174"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1763381254035251200",
+              "start": 0,
+              "username": "yowamushi120720"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993943161614553174",
+        "in_reply_to_user_id": "1763381254035251200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 106,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993942393910120948",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yowamushi120720 是的，不知道他出了什么事。他挺懂化工原料，陨落是我们危化品与试剂社区的重大损失。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "路人。",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1983757018830663844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990279769297149952/3r34Cj2f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 645,
+          "following_count": 311,
+          "like_count": 326,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 952
+        },
+        "username": "godspeedyou50",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-15T11:44:19.000Z",
+        "description": "もしも願いが葉うなら 夜の空へとほうり投げて与えて\n\n请锁推且fo我的人一定让我回关，好吗？否则我的强迫症会受不了，只好取掉。谢谢。",
+        "id": "1912109703133646848",
+        "name": "Zemin Jiang",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 124,
+          "like_count": 114,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 586
+        },
+        "username": "jzm1919810",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-01T01:50:39.000Z",
+        "description": "若要通行，必须通过创口｜奋斗百年，我是禁毒宣传大使🤓️ （doge）｜社交问题见谅，如无意冒犯请多多包容不用当真｜互fo，没回私信踢我",
+        "id": "1763381254035251200",
+        "location": "掌声存在之地",
+        "name": "弱虫モンブラン#朝仓一",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953663774495584258/aLd1fosg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 265,
+          "following_count": 606,
+          "like_count": 36919,
+          "listed_count": 2,
+          "media_count": 121,
+          "tweet_count": 3181
+        },
+        "username": "yowamushi120720",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "1989533480238158023",
+    "created_at": "2025-11-16T09:31:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-16T10:31:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989989583048843669"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1911828872334831616",
+          "start": 0,
+          "username": "Edward_8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989989583048843669",
+    "in_reply_to_user_id": "1911828872334831616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989533480238158023",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Edward_8964 哈哈哈哈哈 卧槽了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1989533471388434432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5w-JrbbgAAEuqg.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "1989533480238158023",
+        "created_at": "2025-11-16T09:31:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T10:31:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989989583048843669"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1911828872334831616",
+              "start": 0,
+              "username": "Edward_8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989989583048843669",
+        "in_reply_to_user_id": "1911828872334831616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989533480238158023",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Edward_8964 哈哈哈哈哈 卧槽了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989533471388434432"
+          ]
+        },
+        "author_id": "1911828872334831616",
+        "conversation_id": "1989533480238158023",
+        "created_at": "2025-11-15T03:18:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T04:18:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989533480238158023"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/73NmxB0EE5",
+              "end": 53,
+              "expanded_url": "https://x.com/Edward_8964/status/1989533480238158023/photo/1",
+              "media_key": "3_1989533471388434432",
+              "start": 30,
+              "url": "https://t.co/73NmxB0EE5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989533480238158023",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 7858,
+          "like_count": 50,
+          "quote_count": 1,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "私人影院是为国为民开设的好地方，我们应当将这一政策维持下去 https://t.co/73NmxB0EE5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "路人。and这段日子我愿意聊天，欢迎找我解惑，定期批量回fo或者私我",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1983757018830663844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984905090818523136/vVZ-D8dQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 555,
+          "following_count": 284,
+          "like_count": 194,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 774
+        },
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-14T17:08:26.000Z",
+        "description": "南湖之虎｜第4次转生 生理男｜退役OIer｜OD｜重精神病｜ADHD｜右美沙芬 ｜freeODwiki参与者｜NEwiki维护员｜自由、梦想、进取｜没有任何盈利",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "nonexistent.wiki",
+                "end": 23,
+                "expanded_url": "http://nonexistent.wiki",
+                "start": 0,
+                "url": "https://t.co/l3ALBiDDXN"
+              }
+            ]
+          }
+        },
+        "id": "1911828872334831616",
+        "location": "NE",
+        "name": "💊爱德华",
+        "pinned_tweet_id": "1980238749427798365",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983915986710667264/18Wn7FvD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 667,
+          "following_count": 541,
+          "like_count": 5232,
+          "listed_count": 2,
+          "media_count": 218,
+          "tweet_count": 3398
+        },
+        "url": "https://t.co/l3ALBiDDXN",
+        "username": "Edward_8964",
+        "verified": false
+      }
+    ]
+  }
+}

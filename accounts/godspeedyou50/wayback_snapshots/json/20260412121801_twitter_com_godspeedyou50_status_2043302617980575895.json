@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2043214474375770401",
+    "created_at": "2026-04-12T12:18:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T13:18:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043302617980575895"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1903417613671415808",
+          "start": 0,
+          "username": "5t0nerH4mst3r"
+        },
+        {
+          "end": 22,
+          "id": "1817510819170783232",
+          "start": 15,
+          "username": "wsj256"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043302617980575895",
+    "in_reply_to_user_id": "1903417613671415808",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043302555737027006",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@5t0nerH4mst3r @wsj256 是的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2043214474375770401",
+        "created_at": "2026-04-12T12:18:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T13:18:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043302617980575895"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1903417613671415808",
+              "start": 0,
+              "username": "5t0nerH4mst3r"
+            },
+            {
+              "end": 22,
+              "id": "1817510819170783232",
+              "start": 15,
+              "username": "wsj256"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043302617980575895",
+        "in_reply_to_user_id": "1903417613671415808",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043302555737027006",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@5t0nerH4mst3r @wsj256 是的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903417613671415808",
+        "conversation_id": "2043214474375770401",
+        "created_at": "2026-04-12T12:17:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T13:17:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043302555737027006"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1817510819170783232",
+              "start": 0,
+              "username": "wsj256"
+            },
+            {
+              "end": 22,
+              "id": "1518404201168007168",
+              "start": 8,
+              "username": "godspeedyou50"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043302555737027006",
+        "in_reply_to_user_id": "1817510819170783232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043292445941833841",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wsj256 @godspeedyou50 指的是那种自己私下买卖的吧，正经去医院开的肯定没问题啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。/双相I型/欢迎提问",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jahseh79919",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jahseh79919",
+                "start": 0,
+                "url": "https://t.co/xaz6T7v19q"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2029134307244294287",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1033,
+          "following_count": 223,
+          "like_count": 901,
+          "listed_count": 0,
+          "media_count": 131,
+          "tweet_count": 2160
+        },
+        "url": "https://t.co/xaz6T7v19q",
+        "username": "godspeedyou50",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-22T12:05:10.000Z",
+        "description": "只是想要变得幸福 | 可能已存活千年 | 顺女/或许是双/泛 | 查成分回fo | 大概是戒药成功了| LGBTQ+全友好🏳️‍🌈 | 精神不安定已放弃治疗 | Satanist/Goth/Metalhead",
+        "id": "1903417613671415808",
+        "name": "外星之吸血鼠儿",
+        "pinned_tweet_id": "2031353330346373174",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026528085546512389/e5Yvw4fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 102,
+          "like_count": 8268,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 1845
+        },
+        "username": "5t0nerH4mst3r",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-28T10:42:20.000Z",
+        "description": "",
+        "id": "1817510819170783232",
+        "location": "距离你680m",
+        "name": "莉赛特",
+        "pinned_tweet_id": "2042024438431150488",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014344369885843456/mVqbjt6N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 23,
+          "like_count": 10350,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 347
+        },
+        "username": "wsj256",
+        "verified": false
+      }
+    ]
+  }
+}

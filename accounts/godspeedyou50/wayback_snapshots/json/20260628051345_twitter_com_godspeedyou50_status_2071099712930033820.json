@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071099704327467008",
+        "3_2071099704327458816"
+      ]
+    },
+    "author_id": "1518404201168007168",
+    "conversation_id": "2071099712930033820",
+    "created_at": "2026-06-28T05:13:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T06:13:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071099712930033820"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/kG6KksG8dJ",
+          "end": 38,
+          "expanded_url": "https://x.com/godspeedyou50/status/2071099712930033820/photo/1",
+          "media_key": "3_2071099704327467008",
+          "start": 15,
+          "url": "https://t.co/kG6KksG8dJ"
+        },
+        {
+          "display_url": "pic.x.com/kG6KksG8dJ",
+          "end": 38,
+          "expanded_url": "https://x.com/godspeedyou50/status/2071099712930033820/photo/1",
+          "media_key": "3_2071099704327458816",
+          "start": 15,
+          "url": "https://t.co/kG6KksG8dJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071099712930033820",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "奇怪的经验涌入大脑ing…. https://t.co/kG6KksG8dJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1450,
+        "media_key": "3_2071099704327467008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL4GNTra8AAtwjI.jpg",
+        "width": 1290
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2071099704327458816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL4GNTra0AA2CIH.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071099704327467008",
+            "3_2071099704327458816"
+          ]
+        },
+        "author_id": "1518404201168007168",
+        "conversation_id": "2071099712930033820",
+        "created_at": "2026-06-28T05:13:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T06:13:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071099712930033820"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kG6KksG8dJ",
+              "end": 38,
+              "expanded_url": "https://x.com/godspeedyou50/status/2071099712930033820/photo/1",
+              "media_key": "3_2071099704327467008",
+              "start": 15,
+              "url": "https://t.co/kG6KksG8dJ"
+            },
+            {
+              "display_url": "pic.x.com/kG6KksG8dJ",
+              "end": 38,
+              "expanded_url": "https://x.com/godspeedyou50/status/2071099712930033820/photo/1",
+              "media_key": "3_2071099704327458816",
+              "start": 15,
+              "url": "https://t.co/kG6KksG8dJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071099712930033820",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "奇怪的经验涌入大脑ing…. https://t.co/kG6KksG8dJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个违背了大众道德良知的神棍。\n☯️算命后付不怕跑单｜代请符箓、祈福请私讯\n传统宗教现代哲学文化传播者，又称中式廉价心理医生。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/buyaogaowosorry",
+                "end": 23,
+                "expanded_url": "https://t.me/buyaogaowosorry",
+                "start": 0,
+                "url": "https://t.co/AdoFGQJT3r"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2069223594711011526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1479,
+          "following_count": 473,
+          "like_count": 1242,
+          "listed_count": 1,
+          "media_count": 194,
+          "tweet_count": 2784
+        },
+        "url": "https://t.co/AdoFGQJT3r",
+        "username": "godspeedyou50",
+        "verified": true
+      }
+    ]
+  }
+}

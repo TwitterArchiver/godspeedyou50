@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2006395342997365177",
+    "created_at": "2025-12-31T16:01:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-31T17:01:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006395384890093761"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2006395384890093761",
+    "in_reply_to_user_id": "1518404201168007168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006395342997365177",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "进入准准准准准备阶段"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2006395329177149440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9gl6-qbYAAg6Zc.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2006395329210658816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9gl6-yasAAZwfl.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1240,
+        "media_key": "3_2006395329231699968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9gl6-3bwAAOZiz.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2006395329198084096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9gl6-va0AAcpLj.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2006395342997365177",
+        "created_at": "2025-12-31T16:01:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T17:01:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006395384890093761"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2006395384890093761",
+        "in_reply_to_user_id": "1518404201168007168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006395342997365177",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "进入准准准准准备阶段"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2006395329177149440",
+            "3_2006395329210658816",
+            "3_2006395329231699968",
+            "3_2006395329198084096"
+          ]
+        },
+        "author_id": "1518404201168007168",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2006395342997365177",
+        "created_at": "2025-12-31T16:01:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T17:01:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006395342997365177"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8Kw7FXQRAl",
+              "end": 42,
+              "expanded_url": "https://x.com/godspeedyou50/status/2006395342997365177/photo/1",
+              "media_key": "3_2006395329177149440",
+              "start": 19,
+              "url": "https://t.co/8Kw7FXQRAl"
+            },
+            {
+              "display_url": "pic.x.com/8Kw7FXQRAl",
+              "end": 42,
+              "expanded_url": "https://x.com/godspeedyou50/status/2006395342997365177/photo/1",
+              "media_key": "3_2006395329210658816",
+              "start": 19,
+              "url": "https://t.co/8Kw7FXQRAl"
+            },
+            {
+              "display_url": "pic.x.com/8Kw7FXQRAl",
+              "end": 42,
+              "expanded_url": "https://x.com/godspeedyou50/status/2006395342997365177/photo/1",
+              "media_key": "3_2006395329231699968",
+              "start": 19,
+              "url": "https://t.co/8Kw7FXQRAl"
+            },
+            {
+              "display_url": "pic.x.com/8Kw7FXQRAl",
+              "end": 42,
+              "expanded_url": "https://x.com/godspeedyou50/status/2006395342997365177/photo/1",
+              "media_key": "3_2006395329198084096",
+              "start": 19,
+              "url": "https://t.co/8Kw7FXQRAl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006395342997365177",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "是苦是甜 我已不再纠结 反正又是一年 https://t.co/8Kw7FXQRAl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1994852955737264187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 657,
+          "following_count": 75,
+          "like_count": 373,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 1052
+        },
+        "username": "godspeedyou50",
+        "verified": false
+      }
+    ]
+  }
+}

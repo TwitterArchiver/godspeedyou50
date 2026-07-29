@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2064349291251216386",
+    "created_at": "2026-06-09T17:28:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T18:28:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064399365733839304"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1496884627025571841",
+          "start": 0,
+          "username": "sheepicecream_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064399365733839304",
+    "in_reply_to_user_id": "1496884627025571841",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064398815847952676",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sheepicecream_ 当你精神病有很严重的攻击行为或自伤倾向严重时"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2064349291251216386",
+        "created_at": "2026-06-09T17:28:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T18:28:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064399365733839304"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1496884627025571841",
+              "start": 0,
+              "username": "sheepicecream_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064399365733839304",
+        "in_reply_to_user_id": "1496884627025571841",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064398815847952676",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sheepicecream_ 当你精神病有很严重的攻击行为或自伤倾向严重时"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1496884627025571841",
+        "conversation_id": "2064349291251216386",
+        "created_at": "2026-06-09T17:26:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T18:26:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064398815847952676"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1518404201168007168",
+              "start": 0,
+              "username": "godspeedyou50"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064398815847952676",
+        "in_reply_to_user_id": "1518404201168007168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064349291251216386",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@godspeedyou50 什么情况要被绑啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2048720319872192919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1337,
+          "following_count": 312,
+          "like_count": 1129,
+          "listed_count": 1,
+          "media_count": 184,
+          "tweet_count": 2587
+        },
+        "username": "godspeedyou50",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-24T16:28:09.000Z",
+        "description": "(›´ω`‹ )神のまにまに",
+        "id": "1496884627025571841",
+        "name": "小羊甜筒_",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020617780274638848/HicdPzdI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 224,
+          "like_count": 943,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 160
+        },
+        "username": "sheepicecream_",
+        "verified": false
+      }
+    ]
+  }
+}

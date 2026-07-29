@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2022252082993267124",
+    "created_at": "2026-02-14T11:12:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-14T12:12:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022630140354981989"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1926307161480568832",
+          "start": 0,
+          "username": "banzaixyg"
+        },
+        {
+          "end": 20,
+          "id": "2020519480972238848",
+          "start": 11,
+          "username": "c4lluml1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022630140354981989",
+    "in_reply_to_user_id": "1926307161480568832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022540283062460650",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@banzaixyg @c4lluml1 李君豪没法飞的再高了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2022252082993267124",
+        "created_at": "2026-02-14T11:12:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T12:12:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022630140354981989"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1926307161480568832",
+              "start": 0,
+              "username": "banzaixyg"
+            },
+            {
+              "end": 20,
+              "id": "2020519480972238848",
+              "start": 11,
+              "username": "c4lluml1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022630140354981989",
+        "in_reply_to_user_id": "1926307161480568832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022540283062460650",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@banzaixyg @c4lluml1 李君豪没法飞的再高了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1926307161480568832",
+        "conversation_id": "2022252082993267124",
+        "created_at": "2026-02-14T05:15:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T06:15:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022540283062460650"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2020519480972238848",
+              "start": 0,
+              "username": "c4lluml1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022540283062460650",
+        "in_reply_to_user_id": "2020519480972238848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 64,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022252082993267124",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@c4lluml1 你和爱德华是有什么恩怨？还是你也想全家户籍起飞？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。/@Jahseh14138/双相I型",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "Jahseh14138"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1994852955737264187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 732,
+          "following_count": 118,
+          "like_count": 430,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 1301
+        },
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-24T16:00:09.000Z",
+        "description": "我是天使/双性人/药物制剂专业/身高179/130/姐姐@rik0yuki 对象@NakaharaBulbel",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 28,
+                "username": "rik0yuki"
+              },
+              {
+                "end": 55,
+                "start": 40,
+                "username": "NakaharaBulbel"
+              }
+            ]
+          }
+        },
+        "id": "1926307161480568832",
+        "location": "所罗门遗迹",
+        "name": "小鱼干九世🍥💊(温水版)",
+        "pinned_tweet_id": "1962214153810227650",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004213219150454784/M5m2uykH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 811,
+          "following_count": 701,
+          "like_count": 7532,
+          "listed_count": 1,
+          "media_count": 152,
+          "tweet_count": 4105
+        },
+        "username": "banzaixyg",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-08T15:26:38.000Z",
+        "description": "不可能在电视里摆上一个像Archie Bunker（美国70年代开播的电视剧《All in the Family》中的一个固执的对西班牙人、共产主义者、嬉皮士、同性恋、犹太人、女性解放运动者和波兰裔美国人抱有偏见的胖子）一样的角色。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/getoutforchina",
+                "end": 23,
+                "expanded_url": "https://t.me/getoutforchina",
+                "start": 0,
+                "url": "https://t.co/VRKfGLxQVz"
+              }
+            ]
+          }
+        },
+        "id": "2020519480972238848",
+        "location": "（富途牛牛受害者）",
+        "name": "富途牛牛.埃里克·希欧多尔·卡特曼",
+        "pinned_tweet_id": "2022252082993267124",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020915044498931716/YGKMNu_t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 40,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 173
+        },
+        "url": "https://t.co/VRKfGLxQVz",
+        "username": "c4lluml1",
+        "verified": false
+      }
+    ]
+  }
+}

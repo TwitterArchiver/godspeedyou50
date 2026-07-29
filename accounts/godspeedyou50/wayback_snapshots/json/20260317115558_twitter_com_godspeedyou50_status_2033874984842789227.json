@@ -1,0 +1,342 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2033796826386862352",
+    "created_at": "2026-03-17T11:55:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-17T12:55:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033874984842789227"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1240545827333914624",
+          "start": 0,
+          "username": "Xiaoniu6161"
+        },
+        {
+          "end": 23,
+          "id": "1419204447490568195",
+          "start": 13,
+          "username": "xiazaibot"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033874984842789227",
+    "in_reply_to_user_id": "1240545827333914624",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033796826386862352",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xiaoniu6161 @xiazaibot"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 22248,
+        "height": 720,
+        "media_key": "13_2033796756463620100",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2033796756463620100/img/9q4GeWfLv0fwIdaX.jpg",
+        "public_metrics": {
+          "view_count": 69858
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2033796756463620100/vid/avc1/480x270/hZ_VZ5lQmE5jKA20.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2033796756463620100/vid/avc1/640x360/GU28ht8TCo1L3Bqi.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2033796756463620100/vid/avc1/1280x720/LrGf5IH_F3IpyQxd.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2033796756463620100/pl/yALZsVf8y0geOBz1.m3u8?v=ad8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2033796826386862352",
+        "created_at": "2026-03-17T11:55:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T12:55:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033874984842789227"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1240545827333914624",
+              "start": 0,
+              "username": "Xiaoniu6161"
+            },
+            {
+              "end": 23,
+              "id": "1419204447490568195",
+              "start": 13,
+              "username": "xiazaibot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033874984842789227",
+        "in_reply_to_user_id": "1240545827333914624",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033796826386862352",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoniu6161 @xiazaibot"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2033796756463620100"
+          ]
+        },
+        "author_id": "1240545827333914624",
+        "conversation_id": "2033796826386862352",
+        "created_at": "2026-03-17T06:45:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T07:45:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033796826386862352"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WbF277vuQk",
+              "end": 95,
+              "expanded_url": "https://x.com/Xiaoniu6161/status/2033796826386862352/video/1",
+              "media_key": "13_2033796756463620100",
+              "start": 72,
+              "url": "https://t.co/WbF277vuQk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033796826386862352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 60,
+          "impression_count": 138753,
+          "like_count": 474,
+          "quote_count": 1,
+          "reply_count": 33,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "一位戒毒15年的主播想要从街头解救一名吸毒者，帮助他重新开始生活。\n\n结果他们俩都彻底对芬太尼上瘾了。\n\n真的别干这种事情，送戒毒所吧😱😱😱😱 https://t.co/WbF277vuQk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。/双相I型/欢迎提问",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jahseh79919",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jahseh79919",
+                "start": 0,
+                "url": "https://t.co/xaz6T7v19q"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2029134307244294287",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 902,
+          "following_count": 181,
+          "like_count": 638,
+          "listed_count": 1,
+          "media_count": 104,
+          "tweet_count": 1701
+        },
+        "url": "https://t.co/xaz6T7v19q",
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2020-03-19T07:49:29.000Z",
+        "description": "预测市场群：https://t.co/ZKHf21DTKM\n币圈交流群：https://t.co/TU11hhS4xP\n美股交流群：https://t.co/pMSN66D3Dd\nTG 交易信号：https://t.co/oD1wI5RXXT",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/polymarket88",
+                "end": 29,
+                "expanded_url": "https://t.me/polymarket88",
+                "start": 6,
+                "url": "https://t.co/ZKHf21DTKM"
+              },
+              {
+                "display_url": "t.me/xiaoniu616",
+                "end": 59,
+                "expanded_url": "https://t.me/xiaoniu616",
+                "start": 36,
+                "url": "https://t.co/TU11hhS4xP"
+              },
+              {
+                "display_url": "t.me/xiaoniu8181",
+                "end": 89,
+                "expanded_url": "https://t.me/xiaoniu8181",
+                "start": 66,
+                "url": "https://t.co/pMSN66D3Dd"
+              },
+              {
+                "display_url": "t.me/niuxiong",
+                "end": 121,
+                "expanded_url": "https://t.me/niuxiong",
+                "start": 98,
+                "url": "https://t.co/oD1wI5RXXT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "partner.bitget.fit/bg/PBWQR6",
+                "end": 23,
+                "expanded_url": "https://partner.bitget.fit/bg/PBWQR6",
+                "start": 0,
+                "url": "https://t.co/7Iwd6IqEy8"
+              }
+            ]
+          }
+        },
+        "id": "1240545827333914624",
+        "location": "Bitget 美股 黄金外汇👉",
+        "name": "小牛 OTC",
+        "pinned_tweet_id": "1991399214539219264",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970869381488939008/BHPIOtLo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144341,
+          "following_count": 969,
+          "like_count": 3735,
+          "listed_count": 1375,
+          "media_count": 11701,
+          "tweet_count": 27169
+        },
+        "url": "https://t.co/7Iwd6IqEy8",
+        "username": "Xiaoniu6161",
+        "verified": true
+      },
+      {
+        "created_at": "2021-07-25T07:55:01.000Z",
+        "description": "我是不知疲倦的機器人，提到我的ID，我會3分鐘內給你下載鏈接。 Mention me in any tweet that contains a video and will get a reply with download link in a few minutes. Powered by @zuolatech",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 147,
+                "username": "zuolatech"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "down.zuo.la",
+                "end": 23,
+                "expanded_url": "https://down.zuo.la/",
+                "start": 0,
+                "url": "https://t.co/JS4a2tzPo4"
+              }
+            ]
+          }
+        },
+        "id": "1419204447490568195",
+        "location": "台灣🇹🇼",
+        "name": "下载视频机器人🤖",
+        "pinned_tweet_id": "1419345884379181061",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1420417959604854793/gASkl8FY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 207231,
+          "following_count": 21047,
+          "like_count": 4,
+          "listed_count": 201,
+          "media_count": 23,
+          "tweet_count": 376272
+        },
+        "url": "https://t.co/JS4a2tzPo4",
+        "username": "xiazaibot",
+        "verified": false
+      }
+    ]
+  }
+}

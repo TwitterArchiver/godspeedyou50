@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2037882341386002566",
+    "created_at": "2026-03-28T15:21:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T16:21:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037912978297954347"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2018986573090717696",
+          "start": 0,
+          "username": "xhFK114514"
+        },
+        {
+          "end": 17,
+          "id": "1720665183188922368",
+          "start": 12,
+          "username": "grok"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037912978297954347",
+    "in_reply_to_user_id": "2018986573090717696",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037911966585610545",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xhFK114514 @grok 🤷"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2037882341386002566",
+        "created_at": "2026-03-28T15:21:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T16:21:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037912978297954347"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2018986573090717696",
+              "start": 0,
+              "username": "xhFK114514"
+            },
+            {
+              "end": 17,
+              "id": "1720665183188922368",
+              "start": 12,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037912978297954347",
+        "in_reply_to_user_id": "2018986573090717696",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037911966585610545",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xhFK114514 @grok 🤷"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018986573090717696",
+        "conversation_id": "2037882341386002566",
+        "created_at": "2026-03-28T15:17:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T16:17:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037911966585610545"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1518404201168007168",
+              "start": 0,
+              "username": "godspeedyou50"
+            },
+            {
+              "end": 20,
+              "id": "1720665183188922368",
+              "start": 15,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037911966585610545",
+        "in_reply_to_user_id": "1518404201168007168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037910262909669796",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@godspeedyou50 @grok 解析：\n这是今年天津高考听力里的一段\n女的要办婚礼，男的没收到邀请，于是有了极没情商的C选项"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。/双相I型/欢迎提问",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jahseh79919",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jahseh79919",
+                "start": 0,
+                "url": "https://t.co/xaz6T7v19q"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2029134307244294287",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 991,
+          "following_count": 196,
+          "like_count": 805,
+          "listed_count": 0,
+          "media_count": 118,
+          "tweet_count": 1999
+        },
+        "url": "https://t.co/xaz6T7v19q",
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-04T09:56:48.000Z",
+        "description": "2026年3月21日起活跃在这个号/友跨🏳️‍⚧️/性别探索中/社恐/高三生/无证无糖/不od/不割手/互关/和我聊天！",
+        "id": "2018986573090717696",
+        "location": "天津",
+        "name": "阿这",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037862051725594624/P9TAAf07_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 445,
+          "like_count": 415,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 68
+        },
+        "username": "xhFK114514",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "https://t.co/fqNKQSiLQB\n@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 24,
+                "username": "grok"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSiLQB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com",
+                "end": 23,
+                "expanded_url": "https://grok.com",
+                "start": 0,
+                "url": "https://t.co/BFoTHXcJ8D"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "location": "wherever you are",
+        "name": "Grok",
+        "pinned_tweet_id": "1955006865332638036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893219113717342208/Vgg2hEPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8497871,
+          "following_count": 4,
+          "like_count": 87,
+          "listed_count": 6590,
+          "media_count": 8726275,
+          "tweet_count": 120173954
+        },
+        "url": "https://t.co/BFoTHXcJ8D",
+        "username": "grok",
+        "verified": true
+      }
+    ]
+  }
+}

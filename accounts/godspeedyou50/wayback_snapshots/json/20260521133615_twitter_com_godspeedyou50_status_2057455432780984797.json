@@ -1,0 +1,434 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057452547263393792",
+        "3_2057452547246522368",
+        "3_2057452547263352832"
+      ],
+      "media_source_tweet_id": [
+        "2057452553848455380",
+        "2057452553848455380",
+        "2057452553848455380"
+      ]
+    },
+    "author_id": "1518404201168007168",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2057455432780984797",
+    "created_at": "2026-05-21T13:36:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T14:36:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057455432780984797"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1830934925769613334",
+          "start": 3,
+          "username": "Jinggebiezhuaw"
+        },
+        {
+          "end": 43,
+          "id": "1919465517829783552",
+          "start": 33,
+          "username": "KviSin_17"
+        },
+        {
+          "end": 58,
+          "id": "1518404201168007168",
+          "start": 44,
+          "username": "godspeedyou50"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SqnQ3MBMe2",
+          "end": 82,
+          "expanded_url": "https://x.com/Jinggebiezhuaw/status/2057452553848455380/photo/1",
+          "media_key": "3_2057452547263393792",
+          "start": 59,
+          "url": "https://t.co/SqnQ3MBMe2"
+        },
+        {
+          "display_url": "pic.x.com/SqnQ3MBMe2",
+          "end": 82,
+          "expanded_url": "https://x.com/Jinggebiezhuaw/status/2057452553848455380/photo/1",
+          "media_key": "3_2057452547246522368",
+          "start": 59,
+          "url": "https://t.co/SqnQ3MBMe2"
+        },
+        {
+          "display_url": "pic.x.com/SqnQ3MBMe2",
+          "end": 82,
+          "expanded_url": "https://x.com/Jinggebiezhuaw/status/2057452553848455380/photo/1",
+          "media_key": "3_2057452547263352832",
+          "start": 59,
+          "url": "https://t.co/SqnQ3MBMe2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057455432780984797",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057452553848455380",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Jinggebiezhuaw: 我们三个有没有不神的时候。@KviSin_17 @godspeedyou50 https://t.co/SqnQ3MBMe2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2057452547263393792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI2KMN3bcAArivr.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2057452547246522368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI2KMNzaAAAOldZ.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2057452547263352832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI2KMN3a0AAxH90.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057452547263393792",
+            "3_2057452547246522368",
+            "3_2057452547263352832"
+          ],
+          "media_source_tweet_id": [
+            "2057452553848455380",
+            "2057452553848455380",
+            "2057452553848455380"
+          ]
+        },
+        "author_id": "1518404201168007168",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2057455432780984797",
+        "created_at": "2026-05-21T13:36:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T14:36:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057455432780984797"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1830934925769613334",
+              "start": 3,
+              "username": "Jinggebiezhuaw"
+            },
+            {
+              "end": 43,
+              "id": "1919465517829783552",
+              "start": 33,
+              "username": "KviSin_17"
+            },
+            {
+              "end": 58,
+              "id": "1518404201168007168",
+              "start": 44,
+              "username": "godspeedyou50"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SqnQ3MBMe2",
+              "end": 82,
+              "expanded_url": "https://x.com/Jinggebiezhuaw/status/2057452553848455380/photo/1",
+              "media_key": "3_2057452547263393792",
+              "start": 59,
+              "url": "https://t.co/SqnQ3MBMe2"
+            },
+            {
+              "display_url": "pic.x.com/SqnQ3MBMe2",
+              "end": 82,
+              "expanded_url": "https://x.com/Jinggebiezhuaw/status/2057452553848455380/photo/1",
+              "media_key": "3_2057452547246522368",
+              "start": 59,
+              "url": "https://t.co/SqnQ3MBMe2"
+            },
+            {
+              "display_url": "pic.x.com/SqnQ3MBMe2",
+              "end": 82,
+              "expanded_url": "https://x.com/Jinggebiezhuaw/status/2057452553848455380/photo/1",
+              "media_key": "3_2057452547263352832",
+              "start": 59,
+              "url": "https://t.co/SqnQ3MBMe2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057455432780984797",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057452553848455380",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Jinggebiezhuaw: 我们三个有没有不神的时候。@KviSin_17 @godspeedyou50 https://t.co/SqnQ3MBMe2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057452547263393792",
+            "3_2057452547246522368",
+            "3_2057452547263352832"
+          ]
+        },
+        "author_id": "1830934925769613334",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2057452553848455380",
+        "created_at": "2026-05-21T13:24:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T14:24:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057452553848455380"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 23,
+              "id": "1919465517829783552",
+              "start": 13,
+              "username": "KviSin_17"
+            },
+            {
+              "end": 38,
+              "id": "1518404201168007168",
+              "start": 24,
+              "username": "godspeedyou50"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SqnQ3MBMe2",
+              "end": 62,
+              "expanded_url": "https://x.com/Jinggebiezhuaw/status/2057452553848455380/photo/1",
+              "media_key": "3_2057452547263393792",
+              "start": 39,
+              "url": "https://t.co/SqnQ3MBMe2"
+            },
+            {
+              "display_url": "pic.x.com/SqnQ3MBMe2",
+              "end": 62,
+              "expanded_url": "https://x.com/Jinggebiezhuaw/status/2057452553848455380/photo/1",
+              "media_key": "3_2057452547246522368",
+              "start": 39,
+              "url": "https://t.co/SqnQ3MBMe2"
+            },
+            {
+              "display_url": "pic.x.com/SqnQ3MBMe2",
+              "end": 62,
+              "expanded_url": "https://x.com/Jinggebiezhuaw/status/2057452553848455380/photo/1",
+              "media_key": "3_2057452547263352832",
+              "start": 39,
+              "url": "https://t.co/SqnQ3MBMe2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057452553848455380",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我们三个有没有不神的时候。@KviSin_17 @godspeedyou50 https://t.co/SqnQ3MBMe2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2048720319872192919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1260,
+          "following_count": 293,
+          "like_count": 1062,
+          "listed_count": 0,
+          "media_count": 157,
+          "tweet_count": 2392
+        },
+        "username": "godspeedyou50",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-03T11:45:04.000Z",
+        "description": "女，长头发性恋，精神分裂确诊，导演系在读，精神意大利人，非典型支黑，非典型化学推，喜欢跟小男娘玩。 我的名字读作奥克萨娜 不是OK娑娜。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Oksana_132435",
+                "end": 23,
+                "expanded_url": "https://t.me/Oksana_132435",
+                "start": 0,
+                "url": "https://t.co/McxnWOqV5m"
+              }
+            ]
+          }
+        },
+        "id": "1830934925769613334",
+        "location": "Tokyo-to, Japan",
+        "name": "Oksana💊",
+        "pinned_tweet_id": "1991449358647325050",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836467833401937920/1OZ_D_Qp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2529,
+          "following_count": 408,
+          "like_count": 907,
+          "listed_count": 4,
+          "media_count": 198,
+          "tweet_count": 691
+        },
+        "url": "https://t.co/McxnWOqV5m",
+        "username": "Jinggebiezhuaw",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-05T18:53:44.000Z",
+        "description": "忍辱士\n双相I型/低能量/欣赏躯体\n有什么想问的就在⬇️\nhttps://t.co/rL1u13JJo2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ryuusuke65073",
+                "end": 52,
+                "expanded_url": "https://ngl.link/ryuusuke65073",
+                "start": 29,
+                "url": "https://t.co/rL1u13JJo2"
+              }
+            ]
+          }
+        },
+        "id": "1919465517829783552",
+        "name": "KviSinnnnn",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057145145183883264/W0Y-Ok86_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 19,
+          "like_count": 111,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 76
+        },
+        "username": "KviSin_17",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "1992557257834516749",
+    "created_at": "2025-11-23T11:34:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T12:34:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992557257834516749"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1505596113813876736",
+          "start": 3,
+          "username": "chrorine_17"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992557257834516749",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992535436829593691",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chrorine_17: 在某条时间线上，我可能在一次抢救中没挺下来"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "1992557257834516749",
+        "created_at": "2025-11-23T11:34:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T12:34:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992557257834516749"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1505596113813876736",
+              "start": 3,
+              "username": "chrorine_17"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992557257834516749",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992535436829593691",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @chrorine_17: 在某条时间线上，我可能在一次抢救中没挺下来"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1505596113813876736",
+        "conversation_id": "1992535436829593691",
+        "created_at": "2025-11-23T10:07:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T11:07:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992535436829593691"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1992535436829593691",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "在某条时间线上，我可能在一次抢救中没挺下来"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "路人。and这段日子我愿意聊天，欢迎找我解惑，定期批量回fo或者私我",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1983757018830663844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990279769297149952/3r34Cj2f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 635,
+          "following_count": 312,
+          "like_count": 311,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 932
+        },
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2022-03-20T17:24:36.000Z",
+        "description": "朝霞與晚霞都消失不見",
+        "id": "1505596113813876736",
+        "location": "Fiume",
+        "name": "chrorinEVE",
+        "pinned_tweet_id": "1935821900133154990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984829376392044544/-Bz5LJl5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 496,
+          "following_count": 235,
+          "like_count": 14134,
+          "listed_count": 8,
+          "media_count": 213,
+          "tweet_count": 5304
+        },
+        "username": "chrorine_17",
+        "verified": false
+      }
+    ]
+  }
+}

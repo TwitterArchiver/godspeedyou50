@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2071743751060389924",
+    "created_at": "2026-06-30T01:52:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T02:52:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071773845430915312"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1845280816395583489",
+          "start": 0,
+          "username": "OKX8881"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071773845430915312",
+    "in_reply_to_user_id": "1845280816395583489",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071743751060389924",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OKX8881 1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2071743736686542848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMBP87LXgAAwrpz.png",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2071743751060389924",
+        "created_at": "2026-06-30T01:52:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T02:52:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071773845430915312"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1845280816395583489",
+              "start": 0,
+              "username": "OKX8881"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071773845430915312",
+        "in_reply_to_user_id": "1845280816395583489",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071743751060389924",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OKX8881 1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071743736686542848"
+          ]
+        },
+        "author_id": "1845280816395583489",
+        "conversation_id": "2071743751060389924",
+        "created_at": "2026-06-29T23:52:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T00:52:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071743751060389924"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/euF1PPoskS",
+              "end": 160,
+              "expanded_url": "https://x.com/OKX8881/status/2071743751060389924/photo/1",
+              "media_key": "3_2071743736686542848",
+              "start": 137,
+              "url": "https://t.co/euF1PPoskS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071743751060389924",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 240,
+                "start": 235,
+                "tag": "蓝V互关"
+              },
+              {
+                "end": 246,
+                "start": 241,
+                "tag": "诚信社交"
+              },
+              {
+                "end": 250,
+                "start": 247,
+                "tag": "互粉"
+              },
+              {
+                "end": 256,
+                "start": 251,
+                "tag": "长期互关"
+              }
+            ]
+          },
+          "text": "互关两个字，真的不只是两个字。\n\n所以格外珍惜那些互关后没有取关的人。\n只要方向对，慢一点也没关系。\n取关只需要一秒钟，重新建立信任可能需要一年。\n慢慢来，不着急，好东西都值得等。\n诚信这件事，不用喊口号，做就对了。\n数字可以刷，人心不能刷。\n坚持这件事，有人在陪着你做。\n让我们一起把时间留给真诚的人。\n\n比起新增多少粉丝，我更珍惜一直都在的人。\n\n真正值得经营的，是人与人之间的信任。\n\n做一个值得被长期关注的人。\n互关不是一场游戏，它承载着信任。\n\n继续前行。\n\n#蓝V互关 #诚信社交 #互粉 #长期互关"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 80,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "互关两个字，真的不只是两个字。\n\n所以格外珍惜那些互关后没有取关的人。\n只要方向对，慢一点也没关系。\n取关只需要一秒钟，重新建立信任可能需要一年。\n慢慢来，不着急，好东西都值得等。\n诚信这件事，不用喊口号，做就对了。\n数字可以刷，人心不能刷。\n坚持这件事，有人在陪着你做。 https://t.co/euF1PPoskS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个违背了大众道德良知的神棍。\n☯️算命后付不怕跑单｜代请符箓、祈福请私讯\n传统宗教现代哲学文化传播者，又称中式廉价心理医生。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/buyaogaowosorry",
+                "end": 23,
+                "expanded_url": "https://t.me/buyaogaowosorry",
+                "start": 0,
+                "url": "https://t.co/AdoFGQJT3r"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2069223594711011526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1574,
+          "following_count": 546,
+          "like_count": 1264,
+          "listed_count": 1,
+          "media_count": 197,
+          "tweet_count": 2817
+        },
+        "url": "https://t.co/AdoFGQJT3r",
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-13T01:50:28.000Z",
+        "description": "一起互关吧",
+        "id": "1845280816395583489",
+        "name": "以太坊 小明",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015986080743370752/yX6cuipC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 346,
+          "following_count": 146,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 267
+        },
+        "url": "",
+        "username": "OKX8881",
+        "verified": true
+      }
+    ]
+  }
+}

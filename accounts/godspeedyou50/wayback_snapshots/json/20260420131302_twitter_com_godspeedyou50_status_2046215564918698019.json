@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2046215134943776977",
+    "created_at": "2026-04-20T13:13:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T14:13:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046215564918698019"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1804587925805596672",
+          "start": 0,
+          "username": "OverSpring_wiki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046215564918698019",
+    "in_reply_to_user_id": "1804587925805596672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046215134943776977",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OverSpring_wiki 还有支持杨朱理学的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2046215134943776977",
+        "created_at": "2026-04-20T13:13:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T14:13:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046215564918698019"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1804587925805596672",
+              "start": 0,
+              "username": "OverSpring_wiki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046215564918698019",
+        "in_reply_to_user_id": "1804587925805596672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046215134943776977",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OverSpring_wiki 还有支持杨朱理学的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804587925805596672",
+        "conversation_id": "2046215134943776977",
+        "created_at": "2026-04-20T13:11:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T14:11:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046215134943776977"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046215134943776977",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "可惜了杨朱学派，明明2000年前就有了中国施蒂纳，要是继续发展下去本该有中国梭罗、中国斯普纳、中国沃伦、中国蒲鲁东、中国乔治、中国杰伊诺克的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。/双相I型/欢迎提问",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jahseh79919",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jahseh79919",
+                "start": 0,
+                "url": "https://t.co/xaz6T7v19q"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2029134307244294287",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1064,
+          "following_count": 222,
+          "like_count": 949,
+          "listed_count": 0,
+          "media_count": 137,
+          "tweet_count": 2228
+        },
+        "url": "https://t.co/xaz6T7v19q",
+        "username": "godspeedyou50",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-22T18:51:15.000Z",
+        "description": "Friend of transhumanist Yamu (not herself)/Left-libertarian/Free market+UBI/Cultural liberty/Agorism/Open source/Agnostic atheist/Non-binary with any pronouns",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xuyamu.com",
+                "end": 23,
+                "expanded_url": "https://xuyamu.com/",
+                "start": 0,
+                "url": "https://t.co/9RfFlFZcqo"
+              }
+            ]
+          }
+        },
+        "id": "1804587925805596672",
+        "location": "Transhumanism Paradise",
+        "name": "OverSpring Wiki (AnH+/acc)🏴",
+        "pinned_tweet_id": "1989628357081010426",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006715684043317248/HW4v0b-l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4785,
+          "following_count": 935,
+          "like_count": 31628,
+          "listed_count": 11,
+          "media_count": 489,
+          "tweet_count": 7150
+        },
+        "url": "https://t.co/9RfFlFZcqo",
+        "username": "OverSpring_wiki",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2056707600151154718",
+    "created_at": "2026-05-19T12:04:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T13:04:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056707600151154718"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2056707600151154718",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我活在这个世界上最悲哀的不是没有倾听我的人，是我弄不懂，我搞不懂为什么人要妄想一些感同身受\n可是我得到了啊 我握不住 我躁狂了吗\n我祈求那魂灵 赐还我宁静的力量 对不起 我会一辈子抗在身上"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2056707600151154718",
+        "created_at": "2026-05-19T12:04:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T13:04:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056707600151154718"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056707600151154718",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我活在这个世界上最悲哀的不是没有倾听我的人，是我弄不懂，我搞不懂为什么人要妄想一些感同身受\n可是我得到了啊 我握不住 我躁狂了吗\n我祈求那魂灵 赐还我宁静的力量 对不起 我会一辈子抗在身上"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。/欢迎提问",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jahseh79919",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jahseh79919",
+                "start": 0,
+                "url": "https://t.co/xaz6T7v19q"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2048720319872192919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1257,
+          "following_count": 278,
+          "like_count": 1069,
+          "listed_count": 0,
+          "media_count": 167,
+          "tweet_count": 2426
+        },
+        "url": "https://t.co/xaz6T7v19q",
+        "username": "godspeedyou50",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "1983757018830663844",
+    "created_at": "2025-10-30T04:45:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-30T05:45:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1983757018830663844"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1983757018830663844",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "我重新编辑一下，因为最近我确实得收收味儿了。\n我本人没学历没文化哈，说的话属于力工嗑，和你们聊药相当于农民工点盘尖椒干豆腐开始讨论俄乌战争一样。\n因为我是个持证精神病人哈，没社保那种。所以我曾创下极度躁狂失去意识三针镇定剂都镇不住我的记录，完全捆绑状态下空手拆国束缚带，以及做过八次mect，最高五花大绑捆绑观察记录一周。\n我最近可能躁了点，又复活出来口吐狂言了\n所以过路的欢迎私聊唠嗑正常人的问题我都会回答\npopo大人我是好人所以就别来整我，不玩纸飞机。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我重新编辑一下，因为最近我确实得收收味儿了。\n我本人没学历没文化哈，说的话属于力工嗑，和你们聊药相当于农民工点盘尖椒干豆腐开始讨论俄乌战争一样。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "1983757018830663844",
+        "created_at": "2025-10-30T04:45:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T05:45:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983757018830663844"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1983757018830663844",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我重新编辑一下，因为最近我确实得收收味儿了。\n我本人没学历没文化哈，说的话属于力工嗑，和你们聊药相当于农民工点盘尖椒干豆腐开始讨论俄乌战争一样。\n因为我是个持证精神病人哈，没社保那种。所以我曾创下极度躁狂失去意识三针镇定剂都镇不住我的记录，完全捆绑状态下空手拆国束缚带，以及做过八次mect，最高五花大绑捆绑观察记录一周。\n我最近可能躁了点，又复活出来口吐狂言了\n所以过路的欢迎私聊唠嗑正常人的问题我都会回答\npopo大人我是好人所以就别来整我，不玩纸飞机。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我重新编辑一下，因为最近我确实得收收味儿了。\n我本人没学历没文化哈，说的话属于力工嗑，和你们聊药相当于农民工点盘尖椒干豆腐开始讨论俄乌战争一样。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "路人。and这段日子我愿意聊天，欢迎找我解惑，定期批量回fo或者私我",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1982515322788942238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827690417619697665/4z5RgWOE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 399,
+          "following_count": 237,
+          "like_count": 97,
+          "listed_count": 1,
+          "media_count": 52,
+          "tweet_count": 581
+        },
+        "username": "godspeedyou50",
+        "verified": true
+      }
+    ]
+  }
+}

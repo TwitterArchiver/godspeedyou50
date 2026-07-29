@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2035828002630893832",
+    "created_at": "2026-03-22T21:16:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-22T22:16:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035828002630893832"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1597468568290873344",
+          "start": 3,
+          "username": "jingzhny11"
+        },
+        {
+          "end": 27,
+          "id": "1754774517594181632",
+          "start": 16,
+          "username": "ValenceLab"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035828002630893832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035817583136686400",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jingzhny11: @ValenceLab 的新品评测喵！\n这也是窝第一次认真写产品评测喵🥺\n70kg/1t肌注\n个人认为**1t剂量下**相对温和，经典色胺幻觉，暂无明显坠机风险，欣快感与心境提升明显而持久，相比下外幻不明显，肌注约半小时起效、一至四小时幻觉明显、…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2035817312356614144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HECtDzKbQAA1amk.jpg",
+        "width": 844
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2035817312364965888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HECtDzMasAAsThN.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2035817312360767488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HECtDzLaoAAaPaa.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2035828002630893832",
+        "created_at": "2026-03-22T21:16:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T22:16:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035828002630893832"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1597468568290873344",
+              "start": 3,
+              "username": "jingzhny11"
+            },
+            {
+              "end": 27,
+              "id": "1754774517594181632",
+              "start": 16,
+              "username": "ValenceLab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035828002630893832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035817583136686400",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jingzhny11: @ValenceLab 的新品评测喵！\n这也是窝第一次认真写产品评测喵🥺\n70kg/1t肌注\n个人认为**1t剂量下**相对温和，经典色胺幻觉，暂无明显坠机风险，欣快感与心境提升明显而持久，相比下外幻不明显，肌注约半小时起效、一至四小时幻觉明显、…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035817312356614144",
+            "3_2035817312364965888",
+            "3_2035817312360767488"
+          ]
+        },
+        "author_id": "1597468568290873344",
+        "conversation_id": "2035817583136686400",
+        "created_at": "2026-03-22T20:35:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T21:35:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035817583136686400"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1754774517594181632",
+              "start": 0,
+              "username": "ValenceLab"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/t7DsXEX4AW",
+              "end": 178,
+              "expanded_url": "https://x.com/jingzhny11/status/2035817583136686400/photo/1",
+              "media_key": "3_2035817312356614144",
+              "start": 155,
+              "url": "https://t.co/t7DsXEX4AW"
+            },
+            {
+              "display_url": "pic.x.com/t7DsXEX4AW",
+              "end": 178,
+              "expanded_url": "https://x.com/jingzhny11/status/2035817583136686400/photo/1",
+              "media_key": "3_2035817312364965888",
+              "start": 155,
+              "url": "https://t.co/t7DsXEX4AW"
+            },
+            {
+              "display_url": "pic.x.com/t7DsXEX4AW",
+              "end": 178,
+              "expanded_url": "https://x.com/jingzhny11/status/2035817583136686400/photo/1",
+              "media_key": "3_2035817312360767488",
+              "start": 155,
+              "url": "https://t.co/t7DsXEX4AW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035817583136686400",
+        "in_reply_to_user_id": "1754774517594181632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "@ValenceLab 的新品评测喵！\n这也是窝第一次认真写产品评测喵🥺\n70kg/1t肌注\n个人认为**1t剂量下**相对温和，经典色胺幻觉，暂无明显坠机风险，欣快感与心境提升明显而持久，相比下外幻不明显，肌注约半小时起效、一至四小时幻觉明显、八小时仍有明显欣快感后效，肌注可避免胃肠道不适，原始记录附图🥵 https://t.co/t7DsXEX4AW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。/双相I型/欢迎提问",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jahseh79919",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jahseh79919",
+                "start": 0,
+                "url": "https://t.co/xaz6T7v19q"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2029134307244294287",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 959,
+          "following_count": 212,
+          "like_count": 700,
+          "listed_count": 1,
+          "media_count": 121,
+          "tweet_count": 1897
+        },
+        "url": "https://t.co/xaz6T7v19q",
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-29T05:53:13.000Z",
+        "description": "99年 \n🍥​2023/05/07 srs2025/07/31 一米九超大只\n左下的，混乱善良的，激跨的，支持精神活性物质的，ODer但水平很差的，想当黄推的，下海预备的\n感性条拉满的理想主义者ENFP\n希望一个没人再感到痛苦的世界/如果可以我希望爱、原谅与理解而不是恶、仇恨与歧视",
+        "id": "1597468568290873344",
+        "location": "谁人的繁星之梦",
+        "name": "愿望天使DesireAngel",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024462875855900673/BMWGdQhI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5019,
+          "following_count": 2014,
+          "like_count": 119197,
+          "listed_count": 21,
+          "media_count": 245,
+          "tweet_count": 17146
+        },
+        "username": "jingzhny11",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-06T07:50:34.000Z",
+        "description": "我只是一只野生瓦楞斯∥在深山模仿古猿的神秘露营爱好者⛺∥神厨小瓦楞斯∥频道链接↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/ValenceRC_cp",
+                "end": 23,
+                "expanded_url": "https://t.me/ValenceRC_cp",
+                "start": 0,
+                "url": "https://t.co/3X53fRNTwL"
+              }
+            ]
+          }
+        },
+        "id": "1754774517594181632",
+        "location": "本栖湖",
+        "name": "𝗩𝗮𝗹𝗲𝗻𝗰𝗲🆁🅲 瓦楞斯",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033925913575100419/x5z1bNHB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 104,
+          "like_count": 53,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 75
+        },
+        "url": "https://t.co/3X53fRNTwL",
+        "username": "ValenceLab",
+        "verified": false
+      }
+    ]
+  }
+}

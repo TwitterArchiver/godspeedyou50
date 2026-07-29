@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2026980120809107777",
+    "created_at": "2026-02-26T11:18:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T12:18:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026980120809107777"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1518404201168007168",
+          "start": 3,
+          "username": "godspeedyou50"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026980120809107777",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1900985279605047608",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @godspeedyou50: 我第一次嗑药，把它买回来直接吞下了，可惜，我并没有什么感觉，我以为也是幻觉，不会体会什么欣快感，我可能也没有空腹。说到这，我想说odwiki这种存在，其实是拯救了一小部分人，可能包括我，但我不赞扬它们，我说不出，我们无法判断一瞬间的价值，我…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2026980120809107777",
+        "created_at": "2026-02-26T11:18:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T12:18:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026980120809107777"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1518404201168007168",
+              "start": 3,
+              "username": "godspeedyou50"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026980120809107777",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1900985279605047608",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @godspeedyou50: 我第一次嗑药，把它买回来直接吞下了，可惜，我并没有什么感觉，我以为也是幻觉，不会体会什么欣快感，我可能也没有空腹。说到这，我想说odwiki这种存在，其实是拯救了一小部分人，可能包括我，但我不赞扬它们，我说不出，我们无法判断一瞬间的价值，我…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "1900985279605047608",
+        "created_at": "2025-03-15T18:59:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-15T19:59:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1900985279605047608"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1900985279605047608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1444,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我第一次嗑药，把它买回来直接吞下了，可惜，我并没有什么感觉，我以为也是幻觉，不会体会什么欣快感，我可能也没有空腹。说到这，我想说odwiki这种存在，其实是拯救了一小部分人，可能包括我，但我不赞扬它们，我说不出，我们无法判断一瞬间的价值，我预见了所有的悲伤，但我依旧愿意前往，太中二了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。/@Jahseh14138/双相I型/欢迎提问",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "Jahseh14138"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jahseh79919",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jahseh79919",
+                "start": 0,
+                "url": "https://t.co/xaz6T7v19q"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1994852955737264187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 777,
+          "following_count": 140,
+          "like_count": 484,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 1430
+        },
+        "url": "https://t.co/xaz6T7v19q",
+        "username": "godspeedyou50",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2069793601748685176",
+    "created_at": "2026-06-25T05:00:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T06:00:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070009137627562463"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2065149033379971072",
+          "start": 0,
+          "username": "Lomyral896444"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070009137627562463",
+    "in_reply_to_user_id": "2065149033379971072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069793601748685176",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lomyral896444 这玩意能烫吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2069793579317522432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLliS02a8AA3z4P.jpg",
+        "width": 477
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2069793601748685176",
+        "created_at": "2026-06-25T05:00:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T06:00:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070009137627562463"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2065149033379971072",
+              "start": 0,
+              "username": "Lomyral896444"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070009137627562463",
+        "in_reply_to_user_id": "2065149033379971072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069793601748685176",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lomyral896444 这玩意能烫吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069793579317522432"
+          ]
+        },
+        "author_id": "2065149033379971072",
+        "conversation_id": "2069793601748685176",
+        "created_at": "2026-06-24T14:43:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T15:43:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069793601748685176"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GLqemcCiav",
+              "end": 186,
+              "expanded_url": "https://x.com/Lomyral896444/status/2069793601748685176/photo/1",
+              "media_key": "3_2069793579317522432",
+              "start": 163,
+              "url": "https://t.co/GLqemcCiav"
+            },
+            {
+              "display_url": "x.com/Lomyral896444/…",
+              "end": 210,
+              "expanded_url": "https://twitter.com/Lomyral896444/status/2069713251349532771",
+              "start": 187,
+              "url": "https://t.co/wjtrfesH5L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069793601748685176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 1562,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069713251349532771",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "又小修了一下的NEP使用报告😋cas号：779974-89-9\n\n此物质与其他ndri与ndra交叉耐受，并且耐受迅速，不建议连续使用。不推荐iv、im任何stims。\n顺带着可以期待一下下周即将测评的5-mmpa🥹\n\n免责声明：合法物质，在专业医师指导下以治疗ADHD与性冷淡为目的合理医疗使用。无不良导向，无非法滥用行为 https://t.co/GLqemcCiav https://t.co/wjtrfesH5L"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/buyaogaowosorry",
+                "end": 23,
+                "expanded_url": "https://t.me/buyaogaowosorry",
+                "start": 0,
+                "url": "https://t.co/AdoFGQJT3r"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2069223594711011526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1382,
+          "following_count": 366,
+          "like_count": 1195,
+          "listed_count": 1,
+          "media_count": 187,
+          "tweet_count": 2755
+        },
+        "url": "https://t.co/AdoFGQJT3r",
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-11T19:09:32.000Z",
+        "description": "enby，he/they|\nINTP/重抑中焦|\n碎碎念推。不鉴证，不吸毒，不贩毒，不提供任何付费服务|\n这里是四号机，互关寻回中|三号机：@Lomyral114514|最爱的骚b❤️：@TheB17w153",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 70,
+                "username": "Lomyral114514"
+              },
+              {
+                "end": 104,
+                "start": 93,
+                "username": "TheB17w153"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lomyral",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lomyral",
+                "start": 0,
+                "url": "https://t.co/QwIZQw05Ms"
+              }
+            ]
+          }
+        },
+        "id": "2065149033379971072",
+        "name": "Lomyral 4.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065150134065954816/FdqO6LUP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 566,
+          "following_count": 407,
+          "like_count": 2743,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 652
+        },
+        "url": "https://t.co/QwIZQw05Ms",
+        "username": "Lomyral896444",
+        "verified": true
+      }
+    ]
+  }
+}

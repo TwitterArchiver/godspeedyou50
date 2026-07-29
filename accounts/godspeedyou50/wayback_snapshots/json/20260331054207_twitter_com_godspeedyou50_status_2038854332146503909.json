@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2037273476034359617",
+    "created_at": "2026-03-31T05:42:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T06:42:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038854332146503909"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1776627287934537728",
+          "start": 0,
+          "username": "NaiJin66998"
+        },
+        {
+          "end": 27,
+          "id": "1946240021696040961",
+          "start": 13,
+          "username": "Noverdose_DBD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038854332146503909",
+    "in_reply_to_user_id": "1776627287934537728",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038834695031660888",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NaiJin66998 @Noverdose_DBD 哈哈哈 那我不知道🤷‍♀️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2037273476034359617",
+        "created_at": "2026-03-31T05:42:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T06:42:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038854332146503909"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1776627287934537728",
+              "start": 0,
+              "username": "NaiJin66998"
+            },
+            {
+              "end": 27,
+              "id": "1946240021696040961",
+              "start": 13,
+              "username": "Noverdose_DBD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038854332146503909",
+        "in_reply_to_user_id": "1776627287934537728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038834695031660888",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NaiJin66998 @Noverdose_DBD 哈哈哈 那我不知道🤷‍♀️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776627287934537728",
+        "conversation_id": "2037273476034359617",
+        "created_at": "2026-03-31T04:24:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T05:24:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038834695031660888"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1518404201168007168",
+              "start": 0,
+              "username": "godspeedyou50"
+            },
+            {
+              "end": 29,
+              "id": "1946240021696040961",
+              "start": 15,
+              "username": "Noverdose_DBD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038834695031660888",
+        "in_reply_to_user_id": "1518404201168007168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037917130201632845",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@godspeedyou50 @Noverdose_DBD 我想问这大麻一点感觉为什么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。/双相I型/欢迎提问",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jahseh79919",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jahseh79919",
+                "start": 0,
+                "url": "https://t.co/xaz6T7v19q"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2029134307244294287",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 992,
+          "following_count": 198,
+          "like_count": 833,
+          "listed_count": 0,
+          "media_count": 123,
+          "tweet_count": 2031
+        },
+        "url": "https://t.co/xaz6T7v19q",
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-06T15:05:36.000Z",
+        "description": "看着你👁️喜欢的人 @ovocaize",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 10,
+                "username": "ovocaize"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rain23266",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rain23266",
+                "start": 0,
+                "url": "https://t.co/TIIJB87HIc"
+              }
+            ]
+          }
+        },
+        "id": "1776627287934537728",
+        "location": "🚪88/188/288/520/1314",
+        "name": "冬雪Rain",
+        "pinned_tweet_id": "2034215927651479956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931283273432657920/4nOsokdq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 876,
+          "following_count": 193,
+          "like_count": 614,
+          "listed_count": 1,
+          "media_count": 24,
+          "tweet_count": 473
+        },
+        "url": "https://t.co/TIIJB87HIc",
+        "username": "NaiJin66998",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-18T16:06:07.000Z",
+        "description": "💊🍥\n策划药\n薄荷糖，彩虹糖，飘飘糖，模拟ald-52\n物质：rush，类GHB,DBT,MiPT,苄达明\nhrt药物：泰补，土色，日雌\ntg客服https://t.co/N6cqoO848L\n客服服务时间8.00-11.00 14.00-00.00",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/liuxing2778",
+                "end": 96,
+                "expanded_url": "http://t.me/liuxing2778",
+                "start": 73,
+                "url": "https://t.co/N6cqoO848L"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/liuxing2778",
+                "end": 23,
+                "expanded_url": "http://t.me/liuxing2778",
+                "start": 0,
+                "url": "https://t.co/N6cqoO848L"
+              }
+            ]
+          }
+        },
+        "id": "1946240021696040961",
+        "location": "终之空",
+        "name": "超级后后后藤🚪40",
+        "pinned_tweet_id": "2035741819619942820",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984269351256473600/z_4Rg7td_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1380,
+          "following_count": 235,
+          "like_count": 887,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 731
+        },
+        "url": "https://t.co/N6cqoO848L",
+        "username": "Noverdose_DBD",
+        "verified": false
+      }
+    ]
+  }
+}

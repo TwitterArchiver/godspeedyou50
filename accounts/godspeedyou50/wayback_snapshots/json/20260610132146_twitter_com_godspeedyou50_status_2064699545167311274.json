@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2064699545167311274",
+    "created_at": "2026-06-10T13:21:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T14:21:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064699545167311274"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1698345259661418499",
+          "start": 3,
+          "username": "zyj156383"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064699545167311274",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064693501661679617",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zyj156383: ［公益药圈反诈］\n曾被下图账号骗取财物、支付宝收款人的名字后缀为“宇”的，请私信将你的转账凭证发给我 最好附带聊天记录 本人正在收集诈骗证据 即将启动报警维权程序追回 请受害者立刻私信我 证据收集截止至发帖后三日结束 此人户籍现居地均已获取 私信我…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2376,
+        "media_key": "3_2064692465815470081",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKdC28NbQAEMIFc.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2376,
+        "media_key": "3_2064692465828085760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKdC28QbwAAp2du.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2376,
+        "media_key": "3_2064692465848983552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKdC28VaoAAlE11.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2064699545167311274",
+        "created_at": "2026-06-10T13:21:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T14:21:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064699545167311274"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1698345259661418499",
+              "start": 3,
+              "username": "zyj156383"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064699545167311274",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064693501661679617",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zyj156383: ［公益药圈反诈］\n曾被下图账号骗取财物、支付宝收款人的名字后缀为“宇”的，请私信将你的转账凭证发给我 最好附带聊天记录 本人正在收集诈骗证据 即将启动报警维权程序追回 请受害者立刻私信我 证据收集截止至发帖后三日结束 此人户籍现居地均已获取 私信我…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064692465815470081",
+            "3_2064692465828085760",
+            "3_2064692465848983552"
+          ]
+        },
+        "author_id": "1698345259661418499",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2064693501661679617",
+        "created_at": "2026-06-10T12:57:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T13:57:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064693501661679617"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XyMxAUAMbJ",
+              "end": 152,
+              "expanded_url": "https://x.com/zyj156383/status/2064693501661679617/photo/1",
+              "media_key": "3_2064692465815470081",
+              "start": 129,
+              "url": "https://t.co/XyMxAUAMbJ"
+            },
+            {
+              "display_url": "pic.x.com/XyMxAUAMbJ",
+              "end": 152,
+              "expanded_url": "https://x.com/zyj156383/status/2064693501661679617/photo/1",
+              "media_key": "3_2064692465828085760",
+              "start": 129,
+              "url": "https://t.co/XyMxAUAMbJ"
+            },
+            {
+              "display_url": "pic.x.com/XyMxAUAMbJ",
+              "end": 152,
+              "expanded_url": "https://x.com/zyj156383/status/2064693501661679617/photo/1",
+              "media_key": "3_2064692465848983552",
+              "start": 129,
+              "url": "https://t.co/XyMxAUAMbJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064693501661679617",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 128,
+          "like_count": 3,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "［公益药圈反诈］\n曾被下图账号骗取财物、支付宝收款人的名字后缀为“宇”的，请私信将你的转账凭证发给我 最好附带聊天记录 本人正在收集诈骗证据 即将启动报警维权程序追回 请受害者立刻私信我 证据收集截止至发帖后三日结束 此人户籍现居地均已获取 私信我了解更多 https://t.co/XyMxAUAMbJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2048720319872192919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1336,
+          "following_count": 316,
+          "like_count": 1130,
+          "listed_count": 1,
+          "media_count": 187,
+          "tweet_count": 2599
+        },
+        "username": "godspeedyou50",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-03T14:41:16.000Z",
+        "description": "怕被晶？妄想害！法律的阴霾下该如何呼吸？\n敬请关注本账号 友好一切 前oder 提供免费法律/药理咨询 尤其od风险事项 减害/戒断也不在话下\nhttps://t.co/bSdjZJqBFw 期待抚平你的焦虑",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/odsaul",
+                "end": 95,
+                "expanded_url": "https://ngl.link/odsaul",
+                "start": 72,
+                "url": "https://t.co/bSdjZJqBFw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/odsaul",
+                "end": 23,
+                "expanded_url": "https://ngl.link/odsaul",
+                "start": 0,
+                "url": "https://t.co/bSdjZJqBFw"
+              }
+            ]
+          }
+        },
+        "id": "1698345259661418499",
+        "name": "八本华",
+        "pinned_tweet_id": "2060360180823728358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061738946804232192/Ao13zHDD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 328,
+          "following_count": 398,
+          "like_count": 1243,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 97
+        },
+        "url": "https://t.co/bSdjZJqBFw",
+        "username": "zyj156383",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,338 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2028790731733954717",
+    "created_at": "2026-03-03T11:12:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T12:12:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2028790731733954717"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/aledhsound/sta…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/aledhsound/status/2017573532839149922",
+          "start": 8,
+          "url": "https://t.co/QL2D0nyj0e"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028790731733954717",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017573532839149922",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这他妈什么玩意 https://t.co/QL2D0nyj0e"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 959,
+        "media_key": "3_2017573514442952704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G__ca_yb0AAWSBR.jpg",
+        "width": 1284
+      },
+      {
+        "height": 1659,
+        "media_key": "3_2017573516649107459",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G__cbIAbEAMjZSK.jpg",
+        "width": 1112
+      },
+      {
+        "height": 1661,
+        "media_key": "3_2017573517043372036",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G__cbJebEAQ5dGt.jpg",
+        "width": 1284
+      },
+      {
+        "height": 1668,
+        "media_key": "3_2017573516644884480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G__cbH_aoAAAJ_L.jpg",
+        "width": 1284
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2028790731733954717",
+        "created_at": "2026-03-03T11:12:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T12:12:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028790731733954717"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/aledhsound/sta…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/aledhsound/status/2017573532839149922",
+              "start": 8,
+              "url": "https://t.co/QL2D0nyj0e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028790731733954717",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017573532839149922",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这他妈什么玩意 https://t.co/QL2D0nyj0e"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017573514442952704",
+            "3_2017573516649107459",
+            "3_2017573517043372036",
+            "3_2017573516644884480"
+          ]
+        },
+        "author_id": "465590416",
+        "conversation_id": "2017573532839149922",
+        "created_at": "2026-01-31T12:19:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T13:19:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017573532839149922"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 63,
+              "start": 60,
+              "tag": "门槛"
+            },
+            {
+              "end": 67,
+              "start": 64,
+              "tag": "非绿"
+            },
+            {
+              "end": 71,
+              "start": 68,
+              "tag": "线下"
+            },
+            {
+              "end": 75,
+              "start": 72,
+              "tag": "女大"
+            },
+            {
+              "end": 79,
+              "start": 76,
+              "tag": "反差"
+            },
+            {
+              "end": 85,
+              "start": 80,
+              "tag": "金主爸爸"
+            },
+            {
+              "end": 90,
+              "start": 86,
+              "tag": "Cos"
+            },
+            {
+              "end": 95,
+              "start": 91,
+              "tag": "求包养"
+            },
+            {
+              "end": 99,
+              "start": 96,
+              "tag": "圆角"
+            },
+            {
+              "end": 105,
+              "start": 100,
+              "tag": "一日女友"
+            },
+            {
+              "end": 111,
+              "start": 106,
+              "tag": "电子女友"
+            },
+            {
+              "end": 117,
+              "start": 112,
+              "tag": "情绪价值"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mn5T9XElLO",
+              "end": 141,
+              "expanded_url": "https://x.com/aledhsound/status/2017573532839149922/photo/1",
+              "media_key": "3_2017573514442952704",
+              "start": 118,
+              "url": "https://t.co/mn5T9XElLO"
+            },
+            {
+              "display_url": "pic.x.com/mn5T9XElLO",
+              "end": 141,
+              "expanded_url": "https://x.com/aledhsound/status/2017573532839149922/photo/1",
+              "media_key": "3_2017573516649107459",
+              "start": 118,
+              "url": "https://t.co/mn5T9XElLO"
+            },
+            {
+              "display_url": "pic.x.com/mn5T9XElLO",
+              "end": 141,
+              "expanded_url": "https://x.com/aledhsound/status/2017573532839149922/photo/1",
+              "media_key": "3_2017573517043372036",
+              "start": 118,
+              "url": "https://t.co/mn5T9XElLO"
+            },
+            {
+              "display_url": "pic.x.com/mn5T9XElLO",
+              "end": 141,
+              "expanded_url": "https://x.com/aledhsound/status/2017573532839149922/photo/1",
+              "media_key": "3_2017573516644884480",
+              "start": 118,
+              "url": "https://t.co/mn5T9XElLO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017573532839149922",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 15169,
+          "like_count": 25,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 42
+        },
+        "reply_settings": "everyone",
+        "text": "这里是小怪兽哟～\n哥哥好呀！\n喜欢cos\n但是没钱买衣服啦😭\n来做门妹啦\n希望会有哥哥入门！\n欢迎宝贝找我互转互fo~\n#门槛 #非绿 #线下 #女大 #反差 #金主爸爸 #Cos #求包养 #圆角 #一日女友 #电子女友 #情绪价值 https://t.co/mn5T9XElLO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。/@Jahseh14138/双相I型/欢迎提问",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "Jahseh14138"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jahseh79919",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jahseh79919",
+                "start": 0,
+                "url": "https://t.co/xaz6T7v19q"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1994852955737264187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 812,
+          "following_count": 163,
+          "like_count": 527,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 1535
+        },
+        "url": "https://t.co/xaz6T7v19q",
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2012-01-16T14:36:15.000Z",
+        "description": "女大坐标20r 钱都用来买cos服啦！！！欢迎宝贝互转互fo～ 希望会有好多哥哥找我入门🥳",
+        "id": "465590416",
+        "name": "方便怪兽",
+        "pinned_tweet_id": "2017573532839149922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017572713670578180/6Wudgy_d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 32,
+          "like_count": 23,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 102
+        },
+        "username": "aledhsound",
+        "verified": false
+      }
+    ]
+  }
+}

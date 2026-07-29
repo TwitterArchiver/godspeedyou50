@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2019468530253811925",
+    "created_at": "2026-02-05T18:11:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-05T19:11:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019474012569821533"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1698001955422175232",
+          "start": 0,
+          "username": "d07207333210"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019474012569821533",
+    "in_reply_to_user_id": "1698001955422175232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019468530253811925",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@d07207333210 自己去看看你内权威论证是不是被你发的驴唇不对马嘴😂出丑到极致了，我聊阿片中毒是否瞒报你给我发心肺复苏的专业性。我聊阿片中毒用纳洛酮是实验性用药的大前提你聊要先打肾上腺素 别再买乖了 赶紧滚吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2019468530253811925",
+        "created_at": "2026-02-05T18:11:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T19:11:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019474012569821533"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1698001955422175232",
+              "start": 0,
+              "username": "d07207333210"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019474012569821533",
+        "in_reply_to_user_id": "1698001955422175232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019468530253811925",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@d07207333210 自己去看看你内权威论证是不是被你发的驴唇不对马嘴😂出丑到极致了，我聊阿片中毒是否瞒报你给我发心肺复苏的专业性。我聊阿片中毒用纳洛酮是实验性用药的大前提你聊要先打肾上腺素 别再买乖了 赶紧滚吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1698001955422175232",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for all fields of study, e.g., futurology, microbiology ",
+              "id": "164",
+              "name": "Fields of study"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          }
+        ],
+        "conversation_id": "2019468530253811925",
+        "created_at": "2026-02-05T17:49:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T18:49:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019468530253811925"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/godspeedyou50/…",
+              "end": 145,
+              "expanded_url": "https://twitter.com/godspeedyou50/status/2019452286746145175",
+              "start": 122,
+              "url": "https://t.co/V8rawaFHCV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019468530253811925",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019452286746145175",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "根据镜音只发送了肾上腺素的注射论证没打纳洛酮的不是你吗？一问就是纳洛酮必须比肾上腺素先打，但是没肾上腺素增加脑血流量/冠脉血流量等纳洛酮起效得等半天你心肌细胞脑细胞早死球一堆了，心脏骤停了直接先人工呼吸把心脏大脑救活再谈纳洛酮恢复自主呼吸的事 https://t.co/V8rawaFHCV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。/@Jahseh14138/严重双相I型",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "Jahseh14138"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1994852955737264187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 719,
+          "following_count": 103,
+          "like_count": 404,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 1215
+        },
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2023-09-02T15:56:46.000Z",
+        "description": "非二元/键政/哲学/日常话题",
+        "id": "1698001955422175232",
+        "name": "邓曦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002166994934902785/uqB2YuLd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 837,
+          "following_count": 875,
+          "like_count": 25034,
+          "listed_count": 4,
+          "media_count": 430,
+          "tweet_count": 4780
+        },
+        "username": "d07207333210",
+        "verified": false
+      }
+    ]
+  }
+}

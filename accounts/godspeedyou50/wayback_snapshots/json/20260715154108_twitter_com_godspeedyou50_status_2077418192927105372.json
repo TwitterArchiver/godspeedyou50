@@ -1,0 +1,408 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2077325968084238400",
+    "created_at": "2026-07-15T15:41:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T16:41:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077418192927105372"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2071867361481928704",
+          "start": 0,
+          "username": "XuchenWAmbn8cu"
+        },
+        {
+          "end": 28,
+          "id": "2014979760565456896",
+          "start": 16,
+          "username": "noahduck283"
+        },
+        {
+          "end": 44,
+          "id": "1830934925769613334",
+          "start": 29,
+          "username": "Jinggebiezhuaw"
+        },
+        {
+          "end": 57,
+          "id": "1926833599380115456",
+          "start": 45,
+          "username": "Oksana222RC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077418192927105372",
+    "in_reply_to_user_id": "2071867361481928704",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077330496342700346",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XuchenWAmbn8cu @noahduck283 @Jinggebiezhuaw @Oksana222RC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 335,
+        "media_key": "3_2077330481964572673",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNQpETKW4AEWmxR.png",
+        "width": 596
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2077325968084238400",
+        "created_at": "2026-07-15T15:41:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T16:41:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077418192927105372"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2071867361481928704",
+              "start": 0,
+              "username": "XuchenWAmbn8cu"
+            },
+            {
+              "end": 28,
+              "id": "2014979760565456896",
+              "start": 16,
+              "username": "noahduck283"
+            },
+            {
+              "end": 44,
+              "id": "1830934925769613334",
+              "start": 29,
+              "username": "Jinggebiezhuaw"
+            },
+            {
+              "end": 57,
+              "id": "1926833599380115456",
+              "start": 45,
+              "username": "Oksana222RC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077418192927105372",
+        "in_reply_to_user_id": "2071867361481928704",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077330496342700346",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XuchenWAmbn8cu @noahduck283 @Jinggebiezhuaw @Oksana222RC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077330481964572673"
+          ]
+        },
+        "author_id": "2071867361481928704",
+        "conversation_id": "2077325968084238400",
+        "created_at": "2026-07-15T09:52:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T10:52:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077330496342700346"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2014979760565456896",
+              "start": 0,
+              "username": "noahduck283"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Fbwb17CKL9",
+              "end": 43,
+              "expanded_url": "https://x.com/XuchenWAmbn8cu/status/2077330496342700346/photo/1",
+              "media_key": "3_2077330481964572673",
+              "start": 20,
+              "url": "https://t.co/Fbwb17CKL9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077330496342700346",
+        "in_reply_to_user_id": "2014979760565456896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6476,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077325968084238400",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@noahduck283 这是要反啊！ https://t.co/Fbwb17CKL9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个违背了大众良知od喝大酒的神棍。\n☯️算命后付不怕跑单｜代请符箓、祈福请私讯\n传统宗教现代哲学文化传播者，又称中式廉价心理医生。\n狐朋@Nonentity_xxx17 狗友@Jinggebiezhuaw",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 69,
+                "username": "Nonentity_xxx17"
+              },
+              {
+                "end": 103,
+                "start": 88,
+                "username": "Jinggebiezhuaw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/buyaogaowosorry",
+                "end": 23,
+                "expanded_url": "https://t.me/buyaogaowosorry",
+                "start": 0,
+                "url": "https://t.co/AdoFGQJT3r"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2069223594711011526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1678,
+          "following_count": 602,
+          "like_count": 1279,
+          "listed_count": 1,
+          "media_count": 209,
+          "tweet_count": 2896
+        },
+        "url": "https://t.co/AdoFGQJT3r",
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-30T08:07:01.000Z",
+        "description": "Curious enough to question everything.\nHuman enough to post random stuff.\nAI · Medicine · Psychology · Education · Life",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "…erw-field-notes.chatcgri.chatgpt.site",
+                "end": 23,
+                "expanded_url": "https://amberw-field-notes.chatcgri.chatgpt.site",
+                "start": 0,
+                "url": "https://t.co/Hj0QDsP352"
+              }
+            ]
+          }
+        },
+        "id": "2071867361481928704",
+        "location": "MacBook Air",
+        "name": "AmberW",
+        "pinned_tweet_id": "2077115972238938563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071977965944995840/doK3QpV1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 506,
+          "following_count": 827,
+          "like_count": 458,
+          "listed_count": 0,
+          "media_count": 135,
+          "tweet_count": 891
+        },
+        "url": "https://t.co/Hj0QDsP352",
+        "username": "XuchenWAmbn8cu",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-24T08:33:13.000Z",
+        "description": "🔥 AI最孝顺的儿子×龟男最严厉的父亲\n💗短推传递快乐，长文分享价值\n🏝️带你在信息的海洋找到陆地～\n🚢常互动都会回关/X陪跑社群⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lcn72qpspzgt.feishu.cn/wiki/LAdqwYYDb…",
+                "end": 23,
+                "expanded_url": "https://lcn72qpspzgt.feishu.cn/wiki/LAdqwYYDbi9s8NkkyJccbZXynyf?from=from_copylink",
+                "start": 0,
+                "url": "https://t.co/6N1e2zavG0"
+              }
+            ]
+          }
+        },
+        "id": "2014979760565456896",
+        "name": "诺鸭船长3",
+        "pinned_tweet_id": "2069570117445571061",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035372542819696640/v_5bHa9Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16892,
+          "following_count": 947,
+          "like_count": 9840,
+          "listed_count": 75,
+          "media_count": 1319,
+          "tweet_count": 14204
+        },
+        "url": "https://t.co/6N1e2zavG0",
+        "username": "noahduck283",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-03T11:45:04.000Z",
+        "description": "女，黑长直性恋，精神分裂确诊，导演系在读。非典型化学推，合法不列管策划药售卖/化学物质使用咨询💊。我的名字读作奥克萨娜 不是OK娑娜。\n闺蜜：@godspeedyou50、 @Nonentity_xxx17",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 71,
+                "username": "godspeedyou50"
+              },
+              {
+                "end": 103,
+                "start": 87,
+                "username": "Nonentity_xxx17"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Oksana_132435",
+                "end": 23,
+                "expanded_url": "https://t.me/Oksana_132435",
+                "start": 0,
+                "url": "https://t.co/Mj09WQFbLQ"
+              }
+            ]
+          }
+        },
+        "id": "1830934925769613334",
+        "location": "Tokyo-to, Japan",
+        "name": "Oksana💊",
+        "pinned_tweet_id": "2064158937000358141",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836467833401937920/1OZ_D_Qp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3366,
+          "following_count": 464,
+          "like_count": 1218,
+          "listed_count": 5,
+          "media_count": 195,
+          "tweet_count": 770
+        },
+        "url": "https://t.co/Mj09WQFbLQ",
+        "username": "Jinggebiezhuaw",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-26T02:51:52.000Z",
+        "description": "逃避追杀于是创立第二人格。\n大号：@jinggebiezhuaw",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 17,
+                "username": "jinggebiezhuaw"
+              }
+            ]
+          }
+        },
+        "id": "1926833599380115456",
+        "name": "Oksana的神秘实验室",
+        "pinned_tweet_id": "1975236330604089493",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057888157048406016/ecYmVfoo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 9,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 6
+        },
+        "url": "",
+        "username": "Oksana222RC",
+        "verified": false
+      }
+    ]
+  }
+}

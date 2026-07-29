@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2067891409638846601",
+    "created_at": "2026-06-20T01:35:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T02:35:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068145583542694111"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1916958202903547904",
+          "start": 0,
+          "username": "JennCorbet15217"
+        },
+        {
+          "end": 32,
+          "id": "1993150970705199108",
+          "start": 17,
+          "username": "Nana_naiiiiiii"
+        },
+        {
+          "end": 49,
+          "id": "1919465517829783552",
+          "start": 33,
+          "username": "Nonentity_xxx17"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068145583542694111",
+    "in_reply_to_user_id": "1916958202903547904",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068087513957425522",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JennCorbet15217 @Nana_naiiiiiii @Nonentity_xxx17 不太缺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2067891409638846601",
+        "created_at": "2026-06-20T01:35:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T02:35:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068145583542694111"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1916958202903547904",
+              "start": 0,
+              "username": "JennCorbet15217"
+            },
+            {
+              "end": 32,
+              "id": "1993150970705199108",
+              "start": 17,
+              "username": "Nana_naiiiiiii"
+            },
+            {
+              "end": 49,
+              "id": "1919465517829783552",
+              "start": 33,
+              "username": "Nonentity_xxx17"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068145583542694111",
+        "in_reply_to_user_id": "1916958202903547904",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068087513957425522",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JennCorbet15217 @Nana_naiiiiiii @Nonentity_xxx17 不太缺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1916958202903547904",
+        "conversation_id": "2067891409638846601",
+        "created_at": "2026-06-19T21:44:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T22:44:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068087513957425522"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1993150970705199108",
+              "start": 0,
+              "username": "Nana_naiiiiiii"
+            },
+            {
+              "end": 32,
+              "id": "1919465517829783552",
+              "start": 16,
+              "username": "Nonentity_xxx17"
+            },
+            {
+              "end": 47,
+              "id": "1518404201168007168",
+              "start": 33,
+              "username": "godspeedyou50"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068087513957425522",
+        "in_reply_to_user_id": "1993150970705199108",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067891409638846601",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nana_naiiiiiii @Nonentity_xxx17 @godspeedyou50 别这样了我们乖乖飞一点🍃不好吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2048720319872192919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1377,
+          "following_count": 358,
+          "like_count": 1182,
+          "listed_count": 1,
+          "media_count": 195,
+          "tweet_count": 2754
+        },
+        "url": "",
+        "username": "godspeedyou50",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-28T20:50:35.000Z",
+        "description": "卧槽尼玛我就是一个热爱音乐的孩子 非要这样对我吗",
+        "id": "1916958202903547904",
+        "name": "我不想说太多因为我口渴",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066238445463515136/wApPIUbL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 38,
+          "like_count": 10,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 85
+        },
+        "url": "",
+        "username": "JennCorbet15217",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-25T02:55:07.000Z",
+        "description": "奈奈\n戒割戒pr 愿早日过上健全b生活\n查成分回fo 小号@naiiiiiii_77",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 29,
+                "username": "naiiiiiii_77"
+              }
+            ]
+          }
+        },
+        "id": "1993150970705199108",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "naiiiiiiiiiiiiiii",
+        "pinned_tweet_id": "1996945640593789149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151610718240768/zNZFleGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1063,
+          "following_count": 291,
+          "like_count": 19064,
+          "listed_count": 1,
+          "media_count": 127,
+          "tweet_count": 1459
+        },
+        "url": "",
+        "username": "Nana_naiiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-05T18:53:44.000Z",
+        "description": "忍辱士 八字 算卦👉 @godspeedyou50\n双相I型/低能量/欣赏躯体\n有什么想问的就在⬇️\nhttps://t.co/rL1u13JJo2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 11,
+                "username": "godspeedyou50"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ryuusuke65073",
+                "end": 74,
+                "expanded_url": "https://ngl.link/ryuusuke65073",
+                "start": 51,
+                "url": "https://t.co/rL1u13JJo2"
+              }
+            ]
+          }
+        },
+        "id": "1919465517829783552",
+        "name": "Акадо.",
+        "pinned_tweet_id": "2064926614115504357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060502549808173057/nEyRiD3E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 79,
+          "like_count": 2468,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 528
+        },
+        "url": "",
+        "username": "Nonentity_xxx17",
+        "verified": false
+      }
+    ]
+  }
+}

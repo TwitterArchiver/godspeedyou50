@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2048766732840685764",
+    "created_at": "2026-04-27T14:14:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T15:14:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048767764089950319"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2048767764089950319",
+    "in_reply_to_user_id": "1518404201168007168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048766732840685764",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你趁机利用机会收割了戒断期难受的oder们，除此之外你骗不到药圈任何一个有脑之人，然后复述，我日你的亲妈、奶奶、姥姥、大姨、大姑、表妹、堂妹、小姨、小姑、表姐、堂姐"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2048766722367528960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG6ueqpboAALQem.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2048766732840685764",
+        "created_at": "2026-04-27T14:14:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T15:14:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048767764089950319"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048767764089950319",
+        "in_reply_to_user_id": "1518404201168007168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048766732840685764",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你趁机利用机会收割了戒断期难受的oder们，除此之外你骗不到药圈任何一个有脑之人，然后复述，我日你的亲妈、奶奶、姥姥、大姨、大姑、表妹、堂妹、小姨、小姑、表姐、堂姐"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048766722367528960"
+          ]
+        },
+        "author_id": "1518404201168007168",
+        "conversation_id": "2048766732840685764",
+        "created_at": "2026-04-27T14:10:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T15:10:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048766732840685764"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3Qk8B0dNWz",
+              "end": 105,
+              "expanded_url": "https://x.com/godspeedyou50/status/2048766732840685764/photo/1",
+              "media_key": "3_2048766722367528960",
+              "start": 82,
+              "url": "https://t.co/3Qk8B0dNWz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048766732840685764",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好了 懒得继续骂了 仗义执言 只是看到这傻逼挂我来自证 真恶心。\n现实微信0.00在网吧挂壁充网费然后又抽奖288现金，卖药群看你那发言还aa快递费真就矛盾得厉害 https://t.co/3Qk8B0dNWz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。/欢迎提问/@OvooLOO3o",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 17,
+                "username": "OvooLOO3o"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jahseh79919",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jahseh79919",
+                "start": 0,
+                "url": "https://t.co/xaz6T7v19q"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2029134307244294287",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1153,
+          "following_count": 254,
+          "like_count": 988,
+          "listed_count": 0,
+          "media_count": 158,
+          "tweet_count": 2309
+        },
+        "url": "https://t.co/xaz6T7v19q",
+        "username": "godspeedyou50",
+        "verified": false
+      }
+    ]
+  }
+}

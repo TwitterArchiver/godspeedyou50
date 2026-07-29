@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2043236744720769455",
+    "created_at": "2026-04-12T07:56:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T08:56:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043236744720769455"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/salviaswc/stat…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/salviaswc/status/2043224898026315866",
+          "start": 14,
+          "url": "https://t.co/rJVQrJBoCw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043236744720769455",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043224898026315866",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "枪杆子里出政权 支持鼠尾草 https://t.co/rJVQrJBoCw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1732,
+        "media_key": "3_2043220815978643456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFr6gbYXQAA0IBW.jpg",
+        "width": 1198
+      },
+      {
+        "height": 1676,
+        "media_key": "3_2043221155180642304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFr60LAbAAASir4.png",
+        "width": 1192
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2043236744720769455",
+        "created_at": "2026-04-12T07:56:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T08:56:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043236744720769455"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/salviaswc/stat…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/salviaswc/status/2043224898026315866",
+              "start": 14,
+              "url": "https://t.co/rJVQrJBoCw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043236744720769455",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043224898026315866",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "枪杆子里出政权 支持鼠尾草 https://t.co/rJVQrJBoCw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043220815978643456",
+            "3_2043221155180642304"
+          ]
+        },
+        "author_id": "1659962043460354050",
+        "conversation_id": "2043224898026315866",
+        "created_at": "2026-04-12T07:09:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T08:09:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043224898026315866"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UagwffMdqK",
+              "end": 111,
+              "expanded_url": "https://x.com/SalviaSWC/status/2043224898026315866/photo/1",
+              "media_key": "3_2043220815978643456",
+              "start": 88,
+              "url": "https://t.co/UagwffMdqK"
+            },
+            {
+              "display_url": "pic.x.com/UagwffMdqK",
+              "end": 111,
+              "expanded_url": "https://x.com/SalviaSWC/status/2043224898026315866/photo/1",
+              "media_key": "3_2043221155180642304",
+              "start": 88,
+              "url": "https://t.co/UagwffMdqK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043224898026315866",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 377,
+          "like_count": 22,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "鸡哥(即图中的“救赎百科”)企图假借药物交易的名义帮助执法部门钓鱼的行为已经被我们举报，且已经被X平台惩处。\n\n希望大家引以为戒，并劝诫仍有不轨之心的人及早收手吧，回头是岸！ https://t.co/UagwffMdqK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。/双相I型/欢迎提问",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jahseh79919",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jahseh79919",
+                "start": 0,
+                "url": "https://t.co/xaz6T7v19q"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2029134307244294287",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1030,
+          "following_count": 217,
+          "like_count": 892,
+          "listed_count": 0,
+          "media_count": 130,
+          "tweet_count": 2151
+        },
+        "url": "https://t.co/xaz6T7v19q",
+        "username": "godspeedyou50",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07|上海|退役OIer|计算机💻|\n\n非必要不键政🏳️|不卖药🚫|欢迎任何人🌈|包容各种做法☮|互fo🉑哦🥰|没回fo的话，请私信我哦📬|\n\n脑婆:@DXM8964LXM\n\n丨药物知识开源化💊|来FreeODwiki看看吧！|Say Know to Drugs 😼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 75,
+                "username": "DXM8964LXM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "https://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/20q0OtAMFL"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034583473692852224/nE4xPVUJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3705,
+          "following_count": 998,
+          "like_count": 22073,
+          "listed_count": 8,
+          "media_count": 418,
+          "tweet_count": 6736
+        },
+        "url": "https://t.co/20q0OtAMFL",
+        "username": "SalviaSWC",
+        "verified": false
+      }
+    ]
+  }
+}

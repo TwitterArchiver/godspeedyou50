@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "1992472615634764126",
+    "created_at": "2025-11-23T05:57:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T06:57:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1992472615634764126"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/alexavad/statu…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/alexavad/status/1992450718662594850",
+          "start": 18,
+          "url": "https://t.co/hWbA3SgRe0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992472615634764126",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992450718662594850",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "那你们觉得我呢 我已婚带俩娃 hh https://t.co/hWbA3SgRe0"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "1992472615634764126",
+        "created_at": "2025-11-23T05:57:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T06:57:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992472615634764126"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/alexavad/statu…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/alexavad/status/1992450718662594850",
+              "start": 18,
+              "url": "https://t.co/hWbA3SgRe0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992472615634764126",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992450718662594850",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "那你们觉得我呢 我已婚带俩娃 hh https://t.co/hWbA3SgRe0"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2405324646",
+        "conversation_id": "1992450718662594850",
+        "created_at": "2025-11-23T04:30:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T05:30:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992450718662594850"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/arrco_justin2/…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/arrco_justin2/status/1992386506292638124",
+              "start": 21,
+              "url": "https://t.co/UdPohntAMX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992450718662594850",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 46,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992386506292638124",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "抛开实际年龄，单看推特\n你们觉得我几岁？ https://t.co/UdPohntAMX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "路人。and这段日子我愿意聊天，欢迎找我解惑，定期批量回fo或者私我",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1983757018830663844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990279769297149952/3r34Cj2f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 637,
+          "following_count": 311,
+          "like_count": 297,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 927
+        },
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2014-03-23T00:20:59.000Z",
+        "description": "何时归",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/ChuangChuangha…",
+                "end": 23,
+                "expanded_url": "https://t.me/ChuangChuanghajimi",
+                "start": 0,
+                "url": "https://t.co/dq6IelJn5p"
+              }
+            ]
+          }
+        },
+        "id": "2405324646",
+        "location": "桃源1.6.4",
+        "name": "пока-пока #战狼二",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984952574093750272/AuL9VWpe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124,
+          "following_count": 171,
+          "like_count": 1228,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 866
+        },
+        "url": "https://t.co/dq6IelJn5p",
+        "username": "alexavad",
+        "verified": false
+      }
+    ]
+  }
+}

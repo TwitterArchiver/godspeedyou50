@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063727530125971456"
+      ]
+    },
+    "author_id": "1518404201168007168",
+    "conversation_id": "2063727543208042703",
+    "created_at": "2026-06-07T20:59:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T21:59:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063727543208042703"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/mGFt6kbwAR",
+          "end": 35,
+          "expanded_url": "https://x.com/godspeedyou50/status/2063727543208042703/photo/1",
+          "media_key": "3_2063727530125971456",
+          "start": 12,
+          "url": "https://t.co/mGFt6kbwAR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063727543208042703",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好吧 我承认人干不过酒 https://t.co/mGFt6kbwAR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2063727530125971456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKPVQSpaUAAg9oX.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063727530125971456"
+          ]
+        },
+        "author_id": "1518404201168007168",
+        "conversation_id": "2063727543208042703",
+        "created_at": "2026-06-07T20:59:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T21:59:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063727543208042703"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mGFt6kbwAR",
+              "end": 35,
+              "expanded_url": "https://x.com/godspeedyou50/status/2063727543208042703/photo/1",
+              "media_key": "3_2063727530125971456",
+              "start": 12,
+              "url": "https://t.co/mGFt6kbwAR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063727543208042703",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好吧 我承认人干不过酒 https://t.co/mGFt6kbwAR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2048720319872192919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1327,
+          "following_count": 306,
+          "like_count": 1128,
+          "listed_count": 1,
+          "media_count": 179,
+          "tweet_count": 2544
+        },
+        "username": "godspeedyou50",
+        "verified": false
+      }
+    ]
+  }
+}

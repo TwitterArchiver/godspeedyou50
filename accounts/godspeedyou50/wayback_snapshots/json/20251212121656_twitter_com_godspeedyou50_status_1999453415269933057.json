@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "1999453415269933057",
+    "created_at": "2025-12-12T12:16:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-12T13:16:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1999453415269933057"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/edward_8964/st…",
+          "end": 50,
+          "expanded_url": "https://twitter.com/edward_8964/status/1999448130472009919",
+          "start": 27,
+          "url": "https://t.co/digUTSmFE2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999453415269933057",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999448130472009919",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "老资历我以为说后藤呢 怎么是我呢？\n这我朋友 怎么了 https://t.co/digUTSmFE2"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "1999453415269933057",
+        "created_at": "2025-12-12T12:16:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T13:16:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999453415269933057"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/edward_8964/st…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/edward_8964/status/1999448130472009919",
+              "start": 27,
+              "url": "https://t.co/digUTSmFE2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999453415269933057",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999448130472009919",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "老资历我以为说后藤呢 怎么是我呢？\n这我朋友 怎么了 https://t.co/digUTSmFE2"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1911828872334831616",
+        "conversation_id": "1999448130472009919",
+        "created_at": "2025-12-12T11:55:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T12:55:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999448130472009919"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/llll926080/sta…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/llll926080/status/1999169513766473800",
+              "start": 29,
+              "url": "https://t.co/gAY2dYuk3z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999448130472009919",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 65,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999169513766473800",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你是老资历的朋友？\n不然我想不出来为什么你要为老资历辩护 https://t.co/gAY2dYuk3z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1999064457344147720",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 664,
+          "following_count": 63,
+          "like_count": 363,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 1057
+        },
+        "username": "godspeedyou50",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-14T17:08:26.000Z",
+        "description": "南湖之虎｜第4次转生｜ MTX ｜退役OIer｜OD｜重精神病｜ADHD｜右美沙芬 ｜freeODwiki参与者｜NEwiki维护员｜自由、梦想、进取｜不盈利方针中断",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "nonexistent.wiki",
+                "end": 23,
+                "expanded_url": "http://nonexistent.wiki",
+                "start": 0,
+                "url": "https://t.co/l3ALBiEbNl"
+              }
+            ]
+          }
+        },
+        "id": "1911828872334831616",
+        "location": "NE",
+        "name": "💊爱德华",
+        "pinned_tweet_id": "1994524465359982832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983915986710667264/18Wn7FvD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 750,
+          "following_count": 616,
+          "like_count": 6396,
+          "listed_count": 2,
+          "media_count": 272,
+          "tweet_count": 4190
+        },
+        "url": "https://t.co/l3ALBiEbNl",
+        "username": "Edward_8964",
+        "verified": true
+      }
+    ]
+  }
+}

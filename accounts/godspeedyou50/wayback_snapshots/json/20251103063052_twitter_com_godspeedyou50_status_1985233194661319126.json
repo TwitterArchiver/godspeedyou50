@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "1985219536564699604",
+    "created_at": "2025-11-03T06:30:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-03T07:30:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985233194661319126"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1476198137589268480",
+          "start": 0,
+          "username": "N3kuv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985233194661319126",
+    "in_reply_to_user_id": "1476198137589268480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985232961399328927",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@N3kuv 那种喷涌出来的感觉太爽了 而又要挑战憋住十分钟 我Hold不住"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "1985219536564699604",
+        "created_at": "2025-11-03T06:30:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T07:30:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985233194661319126"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1476198137589268480",
+              "start": 0,
+              "username": "N3kuv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985233194661319126",
+        "in_reply_to_user_id": "1476198137589268480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985232961399328927",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@N3kuv 那种喷涌出来的感觉太爽了 而又要挑战憋住十分钟 我Hold不住"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476198137589268480",
+        "conversation_id": "1985219536564699604",
+        "created_at": "2025-11-03T06:29:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T07:29:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985232961399328927"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1518404201168007168",
+              "start": 0,
+              "username": "godspeedyou50"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985232961399328927",
+        "in_reply_to_user_id": "1518404201168007168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985219536564699604",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@godspeedyou50 看完我也想用了，od开塞露中勿扰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "路人。and这段日子我愿意聊天，欢迎找我解惑，定期批量回fo或者私我",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1983757018830663844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984905090818523136/vVZ-D8dQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 443,
+          "following_count": 268,
+          "like_count": 116,
+          "listed_count": 1,
+          "media_count": 61,
+          "tweet_count": 689
+        },
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2021-12-29T14:29:24.000Z",
+        "description": "ODER/ADHD+BPD ASD待确诊/精神状态担忧/迪拉熊梦男/我会在极乐的世界永生 前世：@natsuioneko",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 48,
+                "username": "natsuioneko"
+              }
+            ]
+          }
+        },
+        "id": "1476198137589268480",
+        "name": "熊意味",
+        "pinned_tweet_id": "1740535472399740976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985196839134740480/-dMQ1BDn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 179,
+          "like_count": 2180,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 387
+        },
+        "username": "N3kuv",
+        "verified": false
+      }
+    ]
+  }
+}

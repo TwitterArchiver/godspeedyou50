@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "1990421895695434004",
+    "created_at": "2025-11-17T14:08:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-17T15:08:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1990421895695434004"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/spspsky/status…",
+          "end": 76,
+          "expanded_url": "https://twitter.com/spspsky/status/1990418827385999501",
+          "start": 53,
+          "url": "https://t.co/S4WCvXXKEM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990421895695434004",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990418827385999501",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "还是一句话 我不推任何药商 但如果非要买东西 这是最值得信赖的无风险无黑点药贩子 都去买 报我名随机优惠 https://t.co/S4WCvXXKEM"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "1990421895695434004",
+        "created_at": "2025-11-17T14:08:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T15:08:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990421895695434004"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/spspsky/status…",
+              "end": 76,
+              "expanded_url": "https://twitter.com/spspsky/status/1990418827385999501",
+              "start": 53,
+              "url": "https://t.co/S4WCvXXKEM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990421895695434004",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990418827385999501",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "还是一句话 我不推任何药商 但如果非要买东西 这是最值得信赖的无风险无黑点药贩子 都去买 报我名随机优惠 https://t.co/S4WCvXXKEM"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "971329071576596480",
+        "conversation_id": "1990418827385999501",
+        "created_at": "2025-11-17T13:56:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T14:56:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990418827385999501"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "If you have Telegram, you can contact @PsyLab91 right",
+              "display_url": "t.me/PsyLab91",
+              "end": 128,
+              "expanded_url": "https://t.me/PsyLab91",
+              "start": 105,
+              "status": 200,
+              "title": "Telegram: Contact @PsyLab91",
+              "unwound_url": "https://t.me/PsyLab91",
+              "url": "https://t.co/oW91IDgap6"
+            },
+            {
+              "description": "You can view and join @PsYLab10 right away.",
+              "display_url": "t.me/PsYLab10",
+              "end": 159,
+              "expanded_url": "https://t.me/PsYLab10",
+              "images": [
+                {
+                  "height": 320,
+                  "url": "https://pbs.twimg.com/news_img/1990416344269852672/9Brcr3GB?format=jpg&name=orig",
+                  "width": 320
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1990416344269852672/9Brcr3GB?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 136,
+              "status": 200,
+              "title": "PsYLab商品频道",
+              "unwound_url": "https://t.me/PsYLab10",
+              "url": "https://t.co/JpM3D91ym5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990418827385999501",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 58,
+          "like_count": 4,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "[通知]原PsychedelicProject现已更名PsYLab\n原策划药更新迭代中，暂支持批发，预计三天内恢复供货\n日本药业务不受影响，商品全面转移到商品频道\n欢迎加我们的交流群群内定期抽奖哦\nPL交流群：https://t.co/oW91IDgap6\nPL商品频道：https://t.co/JpM3D91ym5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "路人。and这段日子我愿意聊天，欢迎找我解惑，定期批量回fo或者私我",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1983757018830663844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990279769297149952/3r34Cj2f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 566,
+          "following_count": 292,
+          "like_count": 208,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 803
+        },
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2018-03-07T10:17:51.000Z",
+        "description": "PsYLab策划药批发/日本药物代购 长期招代理",
+        "id": "971329071576596480",
+        "name": "PsYLab",
+        "pinned_tweet_id": "1990418827385999501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990391766185582592/ue7-K5if_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1734,
+          "following_count": 1488,
+          "like_count": 1106,
+          "listed_count": 5,
+          "media_count": 7,
+          "tweet_count": 155
+        },
+        "username": "spspsky",
+        "verified": false
+      }
+    ]
+  }
+}

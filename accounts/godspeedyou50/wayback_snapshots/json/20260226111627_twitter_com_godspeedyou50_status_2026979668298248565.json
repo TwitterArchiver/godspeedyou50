@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2026979668298248565",
+    "created_at": "2026-02-26T11:16:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T12:16:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2026979668298248565"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/godspeedyou50/…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/godspeedyou50/status/1991418825817092157",
+          "start": 8,
+          "url": "https://t.co/8h03pzhFjL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026979668298248565",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991418825817092157",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你们别再战斗了 https://t.co/8h03pzhFjL"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2026979668298248565",
+        "created_at": "2026-02-26T11:16:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T12:16:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026979668298248565"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/godspeedyou50/…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/godspeedyou50/status/1991418825817092157",
+              "start": 8,
+              "url": "https://t.co/8h03pzhFjL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026979668298248565",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991418825817092157",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你们别再战斗了 https://t.co/8h03pzhFjL"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "1991418825817092157",
+        "created_at": "2025-11-20T08:10:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-20T09:10:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991418825817092157"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1991418825817092157",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "再说个秘密 整个网站其实花不了几个钱\n原创这一块甚至目前是鸡哥遥遥领先 但90%是个人崇拜味儿的垃圾内容，一部分翻译的不错\n要夸真夸夸最原版的内容整理者以及od指南吧\n哪里都有信息差，学会用reddit，ResearchChemicals,Bluelight,Drugs-Forum,Erowid，psywiki你也能成为所谓的大师，焚决给你了，你学的会吗，会用了以后你的道德底线把握得住吗，你真的成熟了吗？感谢整理者们和研究者们，但你们并不伟大也并不可怕，甚至最近的事情让我捂头发问到底你们还要弄出多少乐子"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 5299,
+          "like_count": 46,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "再说个秘密 整个网站其实花不了几个钱\n原创这一块甚至目前是鸡哥遥遥领先 但90%是个人崇拜味儿的垃圾内容，一部分翻译的不错\n要夸真夸夸最原版的内容整理者以及od指南吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。/@Jahseh14138/双相I型/欢迎提问",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "Jahseh14138"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jahseh79919",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jahseh79919",
+                "start": 0,
+                "url": "https://t.co/xaz6T7v19q"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1994852955737264187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 777,
+          "following_count": 140,
+          "like_count": 484,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 1427
+        },
+        "url": "https://t.co/xaz6T7v19q",
+        "username": "godspeedyou50",
+        "verified": true
+      }
+    ]
+  }
+}

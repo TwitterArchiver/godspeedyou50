@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "1983163594067128573",
+    "created_at": "2025-10-28T15:16:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-28T16:16:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983191051918815441"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1911828872334831616",
+          "start": 0,
+          "username": "Edward_8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983191051918815441",
+    "in_reply_to_user_id": "1911828872334831616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983163594067128573",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Edward_8964 今儿还看见一个100r一瓶的代购 我都笑懵了 说是规避po的风险"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "1983163594067128573",
+        "created_at": "2025-10-28T15:16:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T16:16:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983191051918815441"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1911828872334831616",
+              "start": 0,
+              "username": "Edward_8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983191051918815441",
+        "in_reply_to_user_id": "1911828872334831616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983163594067128573",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Edward_8964 今儿还看见一个100r一瓶的代购 我都笑懵了 说是规避po的风险"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1911828872334831616",
+        "conversation_id": "1983163594067128573",
+        "created_at": "2025-10-28T13:27:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T14:27:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983163594067128573"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1983163594067128573",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 102,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "中国大陆白兔bron 84t 一瓶已经降价到65cny了\n⏰od要和牢日差不多了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "路人。and这段日子我愿意聊天，欢迎找我解惑，定期批量回fo或者私我",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1982515322788942238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827690417619697665/4z5RgWOE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 376,
+          "following_count": 226,
+          "like_count": 83,
+          "listed_count": 1,
+          "media_count": 45,
+          "tweet_count": 518
+        },
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-14T17:08:26.000Z",
+        "description": "南湖之虎｜第4次转生 生理男｜退役OIer｜OD｜重精神病｜ADHD｜右美沙芬 ｜freeODwiki参与者｜NEwiki维护员｜自由、梦想、进取｜没有任何盈利",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "nonexistent.wiki",
+                "end": 23,
+                "expanded_url": "http://nonexistent.wiki",
+                "start": 0,
+                "url": "https://t.co/l3ALBiDDXN"
+              }
+            ]
+          }
+        },
+        "id": "1911828872334831616",
+        "location": "NE",
+        "name": "💊爱德华",
+        "pinned_tweet_id": "1980565827196973398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968709578079764480/7M5DfbwN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 650,
+          "following_count": 527,
+          "like_count": 4881,
+          "listed_count": 2,
+          "media_count": 187,
+          "tweet_count": 3059
+        },
+        "url": "https://t.co/l3ALBiDDXN",
+        "username": "Edward_8964",
+        "verified": false
+      }
+    ]
+  }
+}

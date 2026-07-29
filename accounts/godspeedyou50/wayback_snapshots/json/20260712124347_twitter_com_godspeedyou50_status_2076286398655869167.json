@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2076112984934625417",
+    "created_at": "2026-07-12T12:43:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T13:43:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076286398655869167"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1915037217623572480",
+          "start": 0,
+          "username": "gkwjtx350"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076286398655869167",
+    "in_reply_to_user_id": "1915037217623572480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076283294837326042",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gkwjtx350 图里的毒品你够强买得起"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2076112984934625417",
+        "created_at": "2026-07-12T12:43:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T13:43:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076286398655869167"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1915037217623572480",
+              "start": 0,
+              "username": "gkwjtx350"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076286398655869167",
+        "in_reply_to_user_id": "1915037217623572480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076283294837326042",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gkwjtx350 图里的毒品你够强买得起"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1915037217623572480",
+        "conversation_id": "2076112984934625417",
+        "created_at": "2026-07-12T12:31:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T13:31:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076283294837326042"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1518404201168007168",
+              "start": 0,
+              "username": "godspeedyou50"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076283294837326042",
+        "in_reply_to_user_id": "1518404201168007168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076112984934625417",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@godspeedyou50 我还没到这么落魄的地步"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个违背了大众良知od喝大酒的神棍。\n☯️算命后付不怕跑单｜代请符箓、祈福请私讯\n传统宗教现代哲学文化传播者，又称中式廉价心理医生。\n狐朋@Nonentity_xxx17 狗友@Jinggebiezhuaw",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 69,
+                "username": "Nonentity_xxx17"
+              },
+              {
+                "end": 103,
+                "start": 88,
+                "username": "Jinggebiezhuaw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/buyaogaowosorry",
+                "end": 23,
+                "expanded_url": "https://t.me/buyaogaowosorry",
+                "start": 0,
+                "url": "https://t.co/AdoFGQJT3r"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2069223594711011526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1658,
+          "following_count": 586,
+          "like_count": 1269,
+          "listed_count": 1,
+          "media_count": 204,
+          "tweet_count": 2860
+        },
+        "url": "https://t.co/AdoFGQJT3r",
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-23T13:37:21.000Z",
+        "description": "普通人😠😠😠我是来玩烂梗的",
+        "id": "1915037217623572480",
+        "name": "全世界最会吃碳水之人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064275303145619456/PLqvnHq8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 186,
+          "like_count": 1907,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 822
+        },
+        "url": "",
+        "username": "gkwjtx350",
+        "verified": false
+      }
+    ]
+  }
+}

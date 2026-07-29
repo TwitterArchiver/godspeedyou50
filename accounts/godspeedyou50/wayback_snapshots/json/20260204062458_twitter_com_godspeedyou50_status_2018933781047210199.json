@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2018933732728836096"
+      ]
+    },
+    "author_id": "1518404201168007168",
+    "conversation_id": "2018933781047210199",
+    "created_at": "2026-02-04T06:24:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-04T07:24:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2018933781047210199"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/CPfUlNMQgV",
+          "end": 30,
+          "expanded_url": "https://x.com/godspeedyou50/status/2018933781047210199/photo/1",
+          "media_key": "3_2018933732728836096",
+          "start": 7,
+          "url": "https://t.co/CPfUlNMQgV"
+        },
+        {
+          "display_url": "x.com/jcy19950601/st…",
+          "end": 54,
+          "expanded_url": "https://twitter.com/jcy19950601/status/2018674887825502634",
+          "start": 31,
+          "url": "https://t.co/PK6Fpwx4Ev"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018933781047210199",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018674887825502634",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "谢邀 刚复活 https://t.co/CPfUlNMQgV https://t.co/PK6Fpwx4Ev"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2018933732728836096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HASxiHxbEAA8-cg.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018933732728836096"
+          ]
+        },
+        "author_id": "1518404201168007168",
+        "conversation_id": "2018933781047210199",
+        "created_at": "2026-02-04T06:24:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T07:24:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018933781047210199"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CPfUlNMQgV",
+              "end": 30,
+              "expanded_url": "https://x.com/godspeedyou50/status/2018933781047210199/photo/1",
+              "media_key": "3_2018933732728836096",
+              "start": 7,
+              "url": "https://t.co/CPfUlNMQgV"
+            },
+            {
+              "display_url": "x.com/jcy19950601/st…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/jcy19950601/status/2018674887825502634",
+              "start": 31,
+              "url": "https://t.co/PK6Fpwx4Ev"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018933781047210199",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018674887825502634",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "谢邀 刚复活 https://t.co/CPfUlNMQgV https://t.co/PK6Fpwx4Ev"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1977492000493481984",
+        "conversation_id": "2018674887825502634",
+        "created_at": "2026-02-03T13:16:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T14:16:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018674887825502634"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2018674887825502634",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真的笑的绷不住，甚至给杰森干复活了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1994852955737264187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 708,
+          "following_count": 94,
+          "like_count": 399,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 1167
+        },
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-12T21:50:33.000Z",
+        "description": "一只鸟",
+        "id": "1977492000493481984",
+        "name": "云雀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011798009055477760/CjyIOJK7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 11,
+          "like_count": 284,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 255
+        },
+        "username": "jcy19950601",
+        "verified": false
+      }
+    ]
+  }
+}

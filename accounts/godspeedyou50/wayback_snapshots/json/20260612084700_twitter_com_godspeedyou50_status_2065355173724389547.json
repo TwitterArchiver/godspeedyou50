@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065355165876809728"
+      ]
+    },
+    "author_id": "1518404201168007168",
+    "conversation_id": "2065355173724389547",
+    "created_at": "2026-06-12T08:47:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T09:47:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065355173724389547"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/G84rdIIwal",
+          "end": 39,
+          "expanded_url": "https://x.com/godspeedyou50/status/2065355173724389547/photo/1",
+          "media_key": "3_2065355165876809728",
+          "start": 16,
+          "url": "https://t.co/G84rdIIwal"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065355173724389547",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "哥们你家挺魔啊空调都开250度 https://t.co/G84rdIIwal"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2065355165876809728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKmdlKUa8AAhlog.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065355165876809728"
+          ]
+        },
+        "author_id": "1518404201168007168",
+        "conversation_id": "2065355173724389547",
+        "created_at": "2026-06-12T08:47:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T09:47:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065355173724389547"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/G84rdIIwal",
+              "end": 39,
+              "expanded_url": "https://x.com/godspeedyou50/status/2065355173724389547/photo/1",
+              "media_key": "3_2065355165876809728",
+              "start": 16,
+              "url": "https://t.co/G84rdIIwal"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065355173724389547",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哥们你家挺魔啊空调都开250度 https://t.co/G84rdIIwal"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2048720319872192919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1348,
+          "following_count": 334,
+          "like_count": 1137,
+          "listed_count": 1,
+          "media_count": 191,
+          "tweet_count": 2641
+        },
+        "username": "godspeedyou50",
+        "verified": false
+      }
+    ]
+  }
+}

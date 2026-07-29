@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2069612113262436726",
+    "created_at": "2026-06-24T09:54:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T10:54:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069720697023459432"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1619698674917068801",
+          "start": 0,
+          "username": "InfiniteTritium"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069720697023459432",
+    "in_reply_to_user_id": "1619698674917068801",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069612113262436726",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@InfiniteTritium 盘给我看看"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2069612113262436726",
+        "created_at": "2026-06-24T09:54:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T10:54:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069720697023459432"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1619698674917068801",
+              "start": 0,
+              "username": "InfiniteTritium"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069720697023459432",
+        "in_reply_to_user_id": "1619698674917068801",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069612113262436726",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@InfiniteTritium 盘给我看看"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1619698674917068801",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2069612113262436726",
+        "created_at": "2026-06-24T02:42:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T03:42:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069612113262436726"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069612113262436726",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大不吉之年 茫然无助 什么时候26年能过去 什么好事都没发生 犯冲 半年下来精神状态身体健康下滑严重 学校和外面机构一堆烂眼子事解决了好几个月 紧赶着期末考试结课答辩一大早晨还接到家里老人过世的消息.. 烂事疾病白事全赶一块了…\n哪是26年呀\n索命来的属于是"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/buyaogaowosorry",
+                "end": 23,
+                "expanded_url": "https://t.me/buyaogaowosorry",
+                "start": 0,
+                "url": "https://t.co/AdoFGQJT3r"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2069223594711011526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1381,
+          "following_count": 365,
+          "like_count": 1194,
+          "listed_count": 1,
+          "media_count": 188,
+          "tweet_count": 2757
+        },
+        "url": "https://t.co/AdoFGQJT3r",
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-29T14:08:10.000Z",
+        "description": "UnrealEngine地编师（学 接 私）｜艺术｜形而上｜理想国｜棱镜｜身外的世界总是模糊的…\n我想休息一下 在一个只有我的世界里。\n匿↘️）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/infinite%20tri…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/infinite%20tritium",
+                "start": 0,
+                "url": "https://t.co/rFRsz41wvR"
+              }
+            ]
+          }
+        },
+        "id": "1619698674917068801",
+        "location": "NewMap",
+        "name": "mono氚",
+        "pinned_tweet_id": "2049368028752875769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916186524884078594/dGmyKGAr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 229,
+          "like_count": 904,
+          "listed_count": 0,
+          "media_count": 140,
+          "tweet_count": 957
+        },
+        "url": "https://t.co/rFRsz41wvR",
+        "username": "InfiniteTritium",
+        "verified": false
+      }
+    ]
+  }
+}

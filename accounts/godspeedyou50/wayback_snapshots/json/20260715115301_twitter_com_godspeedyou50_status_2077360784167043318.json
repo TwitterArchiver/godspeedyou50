@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2077360784167043318",
+    "created_at": "2026-07-15T11:53:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T12:53:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077360784167043318"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/uni1040663uni/…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/uni1040663uni/status/2077359435081769116",
+          "start": 11,
+          "url": "https://t.co/Z5wP5JaPvh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077360784167043318",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077359435081769116",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "接下来我会疯狂打广告 https://t.co/Z5wP5JaPvh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1754,
+        "media_key": "3_2077359428513533952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNRDZNdbkAArW5S.jpg",
+        "width": 1179
+      },
+      {
+        "height": 1878,
+        "media_key": "3_2077359428500914176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNRDZNabAAAMX8w.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2077360784167043318",
+        "created_at": "2026-07-15T11:53:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T12:53:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077360784167043318"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/uni1040663uni/…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/uni1040663uni/status/2077359435081769116",
+              "start": 11,
+              "url": "https://t.co/Z5wP5JaPvh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077360784167043318",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077359435081769116",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "接下来我会疯狂打广告 https://t.co/Z5wP5JaPvh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077359428513533952",
+            "3_2077359428500914176"
+          ]
+        },
+        "author_id": "1926833599380115456",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2077359435081769116",
+        "created_at": "2026-07-15T11:47:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T12:47:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077359435081769116"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 24,
+              "id": "1830934925769613334",
+              "start": 9,
+              "username": "Jinggebiezhuaw"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ncgwiB3iOc",
+              "end": 129,
+              "expanded_url": "https://x.com/Uni1040663Uni/status/2077359435081769116/photo/1",
+              "media_key": "3_2077359428513533952",
+              "start": 106,
+              "url": "https://t.co/ncgwiB3iOc"
+            },
+            {
+              "display_url": "pic.x.com/ncgwiB3iOc",
+              "end": 129,
+              "expanded_url": "https://x.com/Uni1040663Uni/status/2077359435081769116/photo/1",
+              "media_key": "3_2077359428500914176",
+              "start": 106,
+              "url": "https://t.co/ncgwiB3iOc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077359435081769116",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我是Oksana（@Jinggebiezhuaw ），为了躲避追杀创立了第二人格。以后售卖的物质介绍会发在这里，购买和药物咨询可以发这个号私信也可以直接给我大号发私信。我最近开工了，下面两个是最好玩的，欢迎购买 https://t.co/ncgwiB3iOc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个违背了大众良知od喝大酒的神棍。\n☯️算命后付不怕跑单｜代请符箓、祈福请私讯\n传统宗教现代哲学文化传播者，又称中式廉价心理医生。\n狐朋@Nonentity_xxx17 狗友@Jinggebiezhuaw",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 69,
+                "username": "Nonentity_xxx17"
+              },
+              {
+                "end": 103,
+                "start": 88,
+                "username": "Jinggebiezhuaw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/buyaogaowosorry",
+                "end": 23,
+                "expanded_url": "https://t.me/buyaogaowosorry",
+                "start": 0,
+                "url": "https://t.co/AdoFGQJT3r"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2069223594711011526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1675,
+          "following_count": 601,
+          "like_count": 1276,
+          "listed_count": 1,
+          "media_count": 208,
+          "tweet_count": 2888
+        },
+        "url": "https://t.co/AdoFGQJT3r",
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-26T02:51:52.000Z",
+        "description": "逃避追杀于是创立第二人格。\n大号：@jinggebiezhuaw",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 17,
+                "username": "jinggebiezhuaw"
+              }
+            ]
+          }
+        },
+        "id": "1926833599380115456",
+        "name": "Oksana的神秘实验室",
+        "pinned_tweet_id": "1975236330604089493",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057888157048406016/ecYmVfoo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 5,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 6
+        },
+        "url": "",
+        "username": "Uni1040663Uni",
+        "verified": false
+      }
+    ]
+  }
+}

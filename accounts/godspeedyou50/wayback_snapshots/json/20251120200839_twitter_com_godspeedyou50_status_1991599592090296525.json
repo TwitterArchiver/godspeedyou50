@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "1991585029529694701",
+    "created_at": "2025-11-20T20:08:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-20T21:08:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991599592090296525"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1798724969695977472",
+          "start": 0,
+          "username": "overdosewiki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991599592090296525",
+    "in_reply_to_user_id": "1798724969695977472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991585029529694701",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@overdosewiki 我一直说我学历低没文化 原来我特么烂大学都可以当高精尖了吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "1991585029529694701",
+        "created_at": "2025-11-20T20:08:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-20T21:08:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991599592090296525"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1798724969695977472",
+              "start": 0,
+              "username": "overdosewiki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991599592090296525",
+        "in_reply_to_user_id": "1798724969695977472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991585029529694701",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@overdosewiki 我一直说我学历低没文化 原来我特么烂大学都可以当高精尖了吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1798724969695977472",
+        "conversation_id": "1991585029529694701",
+        "created_at": "2025-11-20T19:10:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-20T20:10:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991585029529694701"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/momoko8964/sta…",
+              "end": 155,
+              "expanded_url": "https://twitter.com/momoko8964/status/1991460456716988594",
+              "start": 132,
+              "url": "https://t.co/NBHRBVxt2B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991585029529694701",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 273,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991460456716988594",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我来数几个。春风后藤都是高中生（一个读完前死了，一个还在读），efan Vack 诺喵 都是大学生（Vack似乎还是南医大的），叶药商至少有大学学历。六个，数这些就够了。\n\n你们这些印象多半来自 现在化百鸡百或者民间团体的一群蠢人。至少24上半年圈子都没这么弱智 https://t.co/NBHRBVxt2B"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "路人。and这段日子我愿意聊天，欢迎找我解惑，定期批量回fo或者私我",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1983757018830663844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990279769297149952/3r34Cj2f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 603,
+          "following_count": 301,
+          "like_count": 234,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 864
+        },
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-06T14:33:54.000Z",
+        "description": "网站已经被鸡哥的DDoS Bomber炸成筛子了，没有制空权飞不起来。\nhttps://t.co/1UhiZIz90O —— odwiki直属群。\nhttps://t.co/0rL89PcGcg —— 后藤直属频道 高原整活观景台。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/o_d_wiki",
+                "end": 59,
+                "expanded_url": "http://t.me/o_d_wiki",
+                "start": 36,
+                "url": "https://t.co/1UhiZIz90O"
+              },
+              {
+                "display_url": "t.me/HWA_FK1",
+                "end": 97,
+                "expanded_url": "http://t.me/HWA_FK1",
+                "start": 74,
+                "url": "https://t.co/0rL89PcGcg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.wiki",
+                "end": 23,
+                "expanded_url": "https://overdose.wiki",
+                "start": 0,
+                "url": "https://t.co/6fVCD4QQ92"
+              }
+            ]
+          }
+        },
+        "id": "1798724969695977472",
+        "location": "但愿世间人无病 何妨架上药生尘",
+        "name": "Overdosewiki",
+        "pinned_tweet_id": "1970498537562742884",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988123432157114368/v5c6Wjqz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3907,
+          "following_count": 11,
+          "like_count": 445,
+          "listed_count": 6,
+          "media_count": 130,
+          "tweet_count": 715
+        },
+        "url": "https://t.co/6fVCD4QQ92",
+        "username": "overdosewiki",
+        "verified": false
+      }
+    ]
+  }
+}

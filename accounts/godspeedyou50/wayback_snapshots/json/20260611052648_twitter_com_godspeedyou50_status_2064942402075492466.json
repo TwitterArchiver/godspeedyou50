@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2064942402075492466",
+    "created_at": "2026-06-11T05:26:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T06:26:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064942402075492466"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 50,
+          "id": "1754774517594181632",
+          "start": 39,
+          "username": "ValenceLab"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/godspeedyou50/…",
+          "end": 83,
+          "expanded_url": "https://twitter.com/godspeedyou50/status/2064936556784414728",
+          "start": 60,
+          "url": "https://t.co/JjmB1P6Ua6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064942402075492466",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064936556784414728",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "优良传统特色这股子盐酸的灼烧感我操了的\n永远塞屁眼子里辣屁眼子吸鼻子里辣鼻子\n@ValenceLab \n真把我当屠库了 https://t.co/JjmB1P6Ua6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2064936550501347328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKgg2ihacAA29lI.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2064942402075492466",
+        "created_at": "2026-06-11T05:26:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T06:26:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064942402075492466"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 50,
+              "id": "1754774517594181632",
+              "start": 39,
+              "username": "ValenceLab"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/godspeedyou50/…",
+              "end": 83,
+              "expanded_url": "https://twitter.com/godspeedyou50/status/2064936556784414728",
+              "start": 60,
+              "url": "https://t.co/JjmB1P6Ua6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064942402075492466",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064936556784414728",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "优良传统特色这股子盐酸的灼烧感我操了的\n永远塞屁眼子里辣屁眼子吸鼻子里辣鼻子\n@ValenceLab \n真把我当屠库了 https://t.co/JjmB1P6Ua6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064936550501347328"
+          ]
+        },
+        "author_id": "1518404201168007168",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2064936556784414728",
+        "created_at": "2026-06-11T05:03:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T06:03:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064936556784414728"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hKBRtkYBMV",
+              "end": 40,
+              "expanded_url": "https://x.com/godspeedyou50/status/2064936556784414728/photo/1",
+              "media_key": "3_2064936550501347328",
+              "start": 17,
+              "url": "https://t.co/hKBRtkYBMV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064936556784414728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 56,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "人善被人欺……\n吃点棉花糖压压吧 https://t.co/hKBRtkYBMV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2048720319872192919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1335,
+          "following_count": 318,
+          "like_count": 1131,
+          "listed_count": 1,
+          "media_count": 188,
+          "tweet_count": 2604
+        },
+        "username": "godspeedyou50",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-06T07:50:34.000Z",
+        "description": "我只是一只野生瓦楞斯∥在深山模仿古猿的神秘露营爱好者⛺∥神厨小瓦楞斯∥频道链接↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/ValenceRC_cp",
+                "end": 23,
+                "expanded_url": "https://t.me/ValenceRC_cp",
+                "start": 0,
+                "url": "https://t.co/3X53fRNTwL"
+              }
+            ]
+          }
+        },
+        "id": "1754774517594181632",
+        "location": "本栖湖",
+        "name": "𝗩𝗮𝗹𝗲𝗻𝗰𝗲🆁🅲 瓦楞斯",
+        "pinned_tweet_id": "2054393417166434678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033925913575100419/x5z1bNHB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 520,
+          "following_count": 183,
+          "like_count": 364,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 340
+        },
+        "url": "https://t.co/3X53fRNTwL",
+        "username": "ValenceLab",
+        "verified": false
+      }
+    ]
+  }
+}

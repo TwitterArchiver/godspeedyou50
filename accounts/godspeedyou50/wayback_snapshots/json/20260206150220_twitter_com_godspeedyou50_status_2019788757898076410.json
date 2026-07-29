@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2019524980124614852",
+    "created_at": "2026-02-06T15:02:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-06T16:02:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019788757898076410"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1976224313339777024",
+          "start": 0,
+          "username": "WinbornN94577"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019788757898076410",
+    "in_reply_to_user_id": "1976224313339777024",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019524980124614852",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WinbornN94577 给我一百工资我追着喷"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2019524980124614852",
+        "created_at": "2026-02-06T15:02:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T16:02:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019788757898076410"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1976224313339777024",
+              "start": 0,
+              "username": "WinbornN94577"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019788757898076410",
+        "in_reply_to_user_id": "1976224313339777024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019524980124614852",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WinbornN94577 给我一百工资我追着喷"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976224313339777024",
+        "conversation_id": "2019524980124614852",
+        "created_at": "2026-02-05T21:34:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T22:34:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019524980124614852"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/winbornn94577/…",
+              "end": 165,
+              "expanded_url": "https://twitter.com/winbornn94577/status/2019523220567929219",
+              "start": 142,
+              "url": "https://t.co/JVbxY1Cy2y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019524980124614852",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 463,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019523220567929219",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "说我除了地雷妹药圈的事什么都不会说了，请出示聊天记录，并且原来说这些是罪大恶极的吗，并且没跟你聊这些吧，是谁舔着脸找我玩呢？你可能没背刺朋友但是差不多了哦朋友一句别卖惨就急🙄大骂你“自闭症”？描述事实是骂人啊这样啊，闲聊说了句讨厌社交就是立人设啊，互联网就是生活又是怎么看出来的呢😚 https://t.co/JVbxY1Cy2y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。/@Jahseh14138/严重双相I型",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "Jahseh14138"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1994852955737264187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 719,
+          "following_count": 105,
+          "like_count": 407,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 1225
+        },
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-09T09:52:52.000Z",
+        "description": "🚪9999999999999999999999.99",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "Freeod.Wiki",
+                "end": 23,
+                "expanded_url": "http://Freeod.Wiki",
+                "start": 0,
+                "url": "https://t.co/00oa1doxAd"
+              }
+            ]
+          }
+        },
+        "id": "1976224313339777024",
+        "location": "🚪52",
+        "name": "屠荼徒堍兎",
+        "pinned_tweet_id": "2019506885804847305",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019070778399248384/k14HPoiZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 835,
+          "following_count": 90,
+          "like_count": 3151,
+          "listed_count": 2,
+          "media_count": 76,
+          "tweet_count": 1394
+        },
+        "url": "https://t.co/00oa1doxAd",
+        "username": "WinbornN94577",
+        "verified": false
+      }
+    ]
+  }
+}

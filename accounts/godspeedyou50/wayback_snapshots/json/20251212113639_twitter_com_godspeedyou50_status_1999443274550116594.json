@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "1999432541984657503",
+    "created_at": "2025-12-12T11:36:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-12T12:36:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999443274550116594"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1911828872334831616",
+          "start": 0,
+          "username": "Edward_8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999443274550116594",
+    "in_reply_to_user_id": "1911828872334831616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999442900908933618",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Edward_8964 不是实名制了吗已经？ 告诉你有啥用 就是实名制的啊 信息隔离啊 这不是发推骂我了吗都 我骂的那个人自己截的图"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "1999432541984657503",
+        "created_at": "2025-12-12T11:36:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T12:36:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999443274550116594"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1911828872334831616",
+              "start": 0,
+              "username": "Edward_8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999443274550116594",
+        "in_reply_to_user_id": "1911828872334831616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999442900908933618",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Edward_8964 不是实名制了吗已经？ 告诉你有啥用 就是实名制的啊 信息隔离啊 这不是发推骂我了吗都 我骂的那个人自己截的图"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1911828872334831616",
+        "conversation_id": "1999432541984657503",
+        "created_at": "2025-12-12T11:35:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T12:35:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999442900908933618"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1518404201168007168",
+              "start": 0,
+              "username": "godspeedyou50"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999442900908933618",
+        "in_reply_to_user_id": "1518404201168007168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999441121983021376",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@godspeedyou50 是谁背刺阁下的？若可告诉，请私信我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1999064457344147720",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 663,
+          "following_count": 62,
+          "like_count": 363,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 1052
+        },
+        "username": "godspeedyou50",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-14T17:08:26.000Z",
+        "description": "南湖之虎｜第4次转生｜ MTX ｜退役OIer｜OD｜重精神病｜ADHD｜右美沙芬 ｜freeODwiki参与者｜NEwiki维护员｜自由、梦想、进取｜不盈利方针中断",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "nonexistent.wiki",
+                "end": 23,
+                "expanded_url": "http://nonexistent.wiki",
+                "start": 0,
+                "url": "https://t.co/l3ALBiEbNl"
+              }
+            ]
+          }
+        },
+        "id": "1911828872334831616",
+        "location": "NE",
+        "name": "💊爱德华",
+        "pinned_tweet_id": "1994524465359982832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983915986710667264/18Wn7FvD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 749,
+          "following_count": 615,
+          "like_count": 6384,
+          "listed_count": 2,
+          "media_count": 272,
+          "tweet_count": 4176
+        },
+        "url": "https://t.co/l3ALBiEbNl",
+        "username": "Edward_8964",
+        "verified": true
+      }
+    ]
+  }
+}

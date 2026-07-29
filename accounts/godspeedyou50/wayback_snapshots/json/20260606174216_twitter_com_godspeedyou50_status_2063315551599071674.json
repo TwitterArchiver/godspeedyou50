@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2063300336597754097",
+    "created_at": "2026-06-06T17:42:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T18:42:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063315551599071674"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1534344658033180672",
+          "start": 0,
+          "username": "_tom0e_x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063315551599071674",
+    "in_reply_to_user_id": "1534344658033180672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063307098058903671",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_tom0e_x 很温柔 我正在结束"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2063300336597754097",
+        "created_at": "2026-06-06T17:42:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T18:42:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063315551599071674"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1534344658033180672",
+              "start": 0,
+              "username": "_tom0e_x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063315551599071674",
+        "in_reply_to_user_id": "1534344658033180672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063307098058903671",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_tom0e_x 很温柔 我正在结束"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1534344658033180672",
+        "conversation_id": "2063300336597754097",
+        "created_at": "2026-06-06T17:08:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T18:08:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063307098058903671"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1518404201168007168",
+              "start": 0,
+              "username": "godspeedyou50"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063307098058903671",
+        "in_reply_to_user_id": "1518404201168007168",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063306440794857514",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@godspeedyou50 type shi stay safe in the sea of opium bro"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2048720319872192919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1319,
+          "following_count": 300,
+          "like_count": 1126,
+          "listed_count": 1,
+          "media_count": 175,
+          "tweet_count": 2534
+        },
+        "username": "godspeedyou50",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-08T01:20:56.000Z",
+        "description": "私はサラ/ともえ黒人と日本人のハーフです♥︎\nNonbinary ✨ my lil sis @artsyushi 🫶🏽🩵\n私は本来よりも多く睡眠をとっています\n重度のうつ病 | BPD | BPD II | 自殺念慮 | SH",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 46,
+                "username": "artsyushi"
+              }
+            ]
+          }
+        },
+        "id": "1534344658033180672",
+        "location": "Somewhere In Nyc",
+        "name": "Sara 🖤/ともえ✨",
+        "pinned_tweet_id": "2043807024966676506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060367911307370500/PODa8D-z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 182,
+          "following_count": 123,
+          "like_count": 36089,
+          "listed_count": 1,
+          "media_count": 279,
+          "tweet_count": 2189
+        },
+        "username": "_tom0e_x",
+        "verified": false
+      }
+    ]
+  }
+}

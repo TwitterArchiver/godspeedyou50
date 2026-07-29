@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063186669764022273"
+      ]
+    },
+    "author_id": "1518404201168007168",
+    "conversation_id": "2063186676219044250",
+    "created_at": "2026-06-06T09:10:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T10:10:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063186676219044250"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/faqiEsojrr",
+          "end": 49,
+          "expanded_url": "https://x.com/godspeedyou50/status/2063186676219044250/photo/1",
+          "media_key": "3_2063186669764022273",
+          "start": 26,
+          "url": "https://t.co/faqiEsojrr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063186676219044250",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "没事吃点甜品呗（治疗用药我浑身疼我有病有蚂蚁在爬） https://t.co/faqiEsojrr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2063186669764022273",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKHpWEybEAEFK42.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063186669764022273"
+          ]
+        },
+        "author_id": "1518404201168007168",
+        "conversation_id": "2063186676219044250",
+        "created_at": "2026-06-06T09:10:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T10:10:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063186676219044250"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/faqiEsojrr",
+              "end": 49,
+              "expanded_url": "https://x.com/godspeedyou50/status/2063186676219044250/photo/1",
+              "media_key": "3_2063186669764022273",
+              "start": 26,
+              "url": "https://t.co/faqiEsojrr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063186676219044250",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "没事吃点甜品呗（治疗用药我浑身疼我有病有蚂蚁在爬） https://t.co/faqiEsojrr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2048720319872192919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1317,
+          "following_count": 319,
+          "like_count": 1122,
+          "listed_count": 1,
+          "media_count": 175,
+          "tweet_count": 2518
+        },
+        "username": "godspeedyou50",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "1989998186069708874",
+    "created_at": "2025-11-16T11:06:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-16T12:06:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990013486722912519"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1646888949481361408",
+          "start": 0,
+          "username": "liangzaizai20"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990013486722912519",
+    "in_reply_to_user_id": "1646888949481361408",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990013099311857915",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liangzaizai20 我扣你女朋友操你行不行"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "1989998186069708874",
+        "created_at": "2025-11-16T11:06:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T12:06:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990013486722912519"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1646888949481361408",
+              "start": 0,
+              "username": "liangzaizai20"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990013486722912519",
+        "in_reply_to_user_id": "1646888949481361408",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990013099311857915",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liangzaizai20 我扣你女朋友操你行不行"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1646888949481361408",
+        "conversation_id": "1989998186069708874",
+        "created_at": "2025-11-16T11:04:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T12:04:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990013099311857915"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1518404201168007168",
+              "start": 0,
+              "username": "godspeedyou50"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990013099311857915",
+        "in_reply_to_user_id": "1518404201168007168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990012896865382523",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@godspeedyou50 超哪边"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "路人。and这段日子我愿意聊天，欢迎找我解惑，定期批量回fo或者私我",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1983757018830663844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984905090818523136/vVZ-D8dQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 555,
+          "following_count": 284,
+          "like_count": 196,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 778
+        },
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2023-04-14T14:51:49.000Z",
+        "description": "我是很坏的人/门槛88 tg https://t.co/zhZYkoa5aE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/DripDripping2",
+                "end": 38,
+                "expanded_url": "https://t.me/DripDripping2",
+                "start": 15,
+                "url": "https://t.co/zhZYkoa5aE"
+              }
+            ]
+          }
+        },
+        "id": "1646888949481361408",
+        "name": "冷",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918712386774507520/5RkJiMvB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 228,
+          "following_count": 67,
+          "like_count": 42,
+          "listed_count": 2,
+          "media_count": 70,
+          "tweet_count": 127
+        },
+        "username": "liangzaizai20",
+        "verified": false
+      }
+    ]
+  }
+}

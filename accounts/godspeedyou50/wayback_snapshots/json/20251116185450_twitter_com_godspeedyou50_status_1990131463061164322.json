@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "1989961878144258229",
+    "created_at": "2025-11-16T18:54:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-16T19:54:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990131463061164322"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1852065031007199232",
+          "start": 0,
+          "username": "fei49553"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990131463061164322",
+    "in_reply_to_user_id": "1852065031007199232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990131031781834928",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fei49553 那像你这种生殖器长在脖子上的傻篮子呢？\n你哥没必要和你比财力哈🤭 自己被笑话了自己会删呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "1989961878144258229",
+        "created_at": "2025-11-16T18:54:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T19:54:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990131463061164322"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1852065031007199232",
+              "start": 0,
+              "username": "fei49553"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990131463061164322",
+        "in_reply_to_user_id": "1852065031007199232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990131031781834928",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fei49553 那像你这种生殖器长在脖子上的傻篮子呢？\n你哥没必要和你比财力哈🤭 自己被笑话了自己会删呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852065031007199232",
+        "conversation_id": "1989961878144258229",
+        "created_at": "2025-11-16T18:53:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T19:53:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990131031781834928"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1518404201168007168",
+              "start": 0,
+              "username": "godspeedyou50"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990131031781834928",
+        "in_reply_to_user_id": "1518404201168007168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990130166178500699",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@godspeedyou50 一般这种人都是父母没能力，自己也没能力的哈哈哈，连骂人都不会"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "路人。and这段日子我愿意聊天，欢迎找我解惑，定期批量回fo或者私我",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1983757018830663844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984905090818523136/vVZ-D8dQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 555,
+          "following_count": 286,
+          "like_count": 200,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 787
+        },
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-31T19:08:21.000Z",
+        "description": "",
+        "id": "1852065031007199232",
+        "name": "Feet N Socks 👣🧦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852869646976012288/t4nz0Mfv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 162,
+          "like_count": 30,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 522
+        },
+        "username": "fei49553",
+        "verified": false
+      }
+    ]
+  }
+}

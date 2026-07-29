@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "1991802952231866694",
+    "created_at": "2025-11-21T09:37:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-21T10:37:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991803207904088251"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1830934925769613334",
+          "start": 0,
+          "username": "Oksana666156854"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991803207904088251",
+    "in_reply_to_user_id": "1830934925769613334",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991802952231866694",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Oksana666156854 你不搭理我了呗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1991802940697542656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6ROOLbbAAAkPzL.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "1991802952231866694",
+        "created_at": "2025-11-21T09:37:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T10:37:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991803207904088251"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1830934925769613334",
+              "start": 0,
+              "username": "Oksana666156854"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991803207904088251",
+        "in_reply_to_user_id": "1830934925769613334",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991802952231866694",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Oksana666156854 你不搭理我了呗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1991802940697542656"
+          ]
+        },
+        "author_id": "1830934925769613334",
+        "conversation_id": "1991802952231866694",
+        "created_at": "2025-11-21T09:36:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T10:36:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991802952231866694"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wDPcmX0ejj",
+              "end": 40,
+              "expanded_url": "https://x.com/Oksana666156854/status/1991802952231866694/photo/1",
+              "media_key": "3_1991802940697542656",
+              "start": 17,
+              "url": "https://t.co/wDPcmX0ejj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991802952231866694",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我身体恢复好了，陆陆续续都发货了 https://t.co/wDPcmX0ejj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "路人。and这段日子我愿意聊天，欢迎找我解惑，定期批量回fo或者私我",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1983757018830663844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990279769297149952/3r34Cj2f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 617,
+          "following_count": 306,
+          "like_count": 256,
+          "listed_count": 1,
+          "media_count": 71,
+          "tweet_count": 888
+        },
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-03T11:45:04.000Z",
+        "description": "女，长头发性恋，精神分裂确诊，导演系在读，精神意大利人，非典型支黑，非典型毒推，喜欢跟小男娘玩。 我的名字读作奥克萨娜 不是OK娑娜。【业务：策划药/促智药/病例处方】",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Oksana_132435",
+                "end": 23,
+                "expanded_url": "https://t.me/Oksana_132435",
+                "start": 0,
+                "url": "https://t.co/Mj09WQFbLQ"
+              }
+            ]
+          }
+        },
+        "id": "1830934925769613334",
+        "location": "Tokyo-to, Japan",
+        "name": "Oksana💊",
+        "pinned_tweet_id": "1991449358647325050",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836467833401937920/1OZ_D_Qp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1523,
+          "following_count": 384,
+          "like_count": 646,
+          "listed_count": 5,
+          "media_count": 162,
+          "tweet_count": 532
+        },
+        "url": "https://t.co/Mj09WQFbLQ",
+        "username": "Oksana666156854",
+        "verified": false
+      }
+    ]
+  }
+}

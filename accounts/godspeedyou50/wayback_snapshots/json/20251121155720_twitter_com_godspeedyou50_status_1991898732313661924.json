@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "1991769630860537901",
+    "created_at": "2025-11-21T15:57:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-21T16:57:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991898732313661924"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1764302536746352640",
+          "start": 0,
+          "username": "mittor10"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991898732313661924",
+    "in_reply_to_user_id": "1764302536746352640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991896865399603579",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mittor10 我做娱乐的 不是一个赛道"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "1991769630860537901",
+        "created_at": "2025-11-21T15:57:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T16:57:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991898732313661924"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1764302536746352640",
+              "start": 0,
+              "username": "mittor10"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991898732313661924",
+        "in_reply_to_user_id": "1764302536746352640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991896865399603579",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mittor10 我做娱乐的 不是一个赛道"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1764302536746352640",
+        "conversation_id": "1991769630860537901",
+        "created_at": "2025-11-21T15:49:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T16:49:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991896865399603579"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1518404201168007168",
+              "start": 0,
+              "username": "godspeedyou50"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991896865399603579",
+        "in_reply_to_user_id": "1518404201168007168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991769630860537901",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@godspeedyou50 招运营么🌚我7月卖了1300w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "路人。and这段日子我愿意聊天，欢迎找我解惑，定期批量回fo或者私我",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1983757018830663844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990279769297149952/3r34Cj2f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 621,
+          "following_count": 308,
+          "like_count": 263,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 904
+        },
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-03T14:51:34.000Z",
+        "description": "日日口吐鲜血",
+        "id": "1764302536746352640",
+        "name": "asklozz",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1772452576321208320/nNySChdE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 59,
+          "like_count": 104,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 24
+        },
+        "username": "mittor10",
+        "verified": false
+      }
+    ]
+  }
+}

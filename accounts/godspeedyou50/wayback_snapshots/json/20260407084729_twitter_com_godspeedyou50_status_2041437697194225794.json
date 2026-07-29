@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2040837751524999615",
+    "created_at": "2026-04-07T08:47:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T09:47:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041437697194225794"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1782247418353926145",
+          "start": 0,
+          "username": "saaaki1_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041437697194225794",
+    "in_reply_to_user_id": "1782247418353926145",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041387915759300694",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@saaaki1_ 我没那个瘾…."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2040837751524999615",
+        "created_at": "2026-04-07T08:47:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T09:47:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041437697194225794"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1782247418353926145",
+              "start": 0,
+              "username": "saaaki1_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041437697194225794",
+        "in_reply_to_user_id": "1782247418353926145",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041387915759300694",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@saaaki1_ 我没那个瘾…."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782247418353926145",
+        "conversation_id": "2040837751524999615",
+        "created_at": "2026-04-07T05:29:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T06:29:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041387915759300694"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1518404201168007168",
+              "start": 0,
+              "username": "godspeedyou50"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041387915759300694",
+        "in_reply_to_user_id": "1518404201168007168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040837751524999615",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@godspeedyou50 管要在微店买 一般网店买不到 催吐的话就尽量在进食的时候多吃滑的东西润一润 比如雪糕酸奶 祝早日戒掉催吐🖤"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。/双相I型/欢迎提问",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jahseh79919",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jahseh79919",
+                "start": 0,
+                "url": "https://t.co/xaz6T7v19q"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2029134307244294287",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1029,
+          "following_count": 212,
+          "like_count": 866,
+          "listed_count": 0,
+          "media_count": 130,
+          "tweet_count": 2114
+        },
+        "url": "https://t.co/xaz6T7v19q",
+        "username": "godspeedyou50",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-22T03:18:13.000Z",
+        "description": "叫我言言/saki 欢迎匿名提问",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sakxxx_w0e",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sakxxx_w0e",
+                "start": 0,
+                "url": "https://t.co/BzSfgR3PFy"
+              }
+            ]
+          }
+        },
+        "id": "1782247418353926145",
+        "name": "kikiller",
+        "pinned_tweet_id": "1848758585909727572",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966741918119079936/TkCTCvVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2263,
+          "following_count": 434,
+          "like_count": 16234,
+          "listed_count": 5,
+          "media_count": 330,
+          "tweet_count": 9503
+        },
+        "url": "https://t.co/BzSfgR3PFy",
+        "username": "saaaki1_",
+        "verified": false
+      }
+    ]
+  }
+}

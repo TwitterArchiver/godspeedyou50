@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "1992064238580556158",
+    "created_at": "2025-11-22T04:15:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-22T05:15:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992084559698219206"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1607388730914140160",
+          "start": 0,
+          "username": "popcat1234566"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992084559698219206",
+    "in_reply_to_user_id": "1607388730914140160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992064238580556158",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@popcat1234566 这本来就是错的 只有更好的 而那都仅仅只是幻想"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "1992064238580556158",
+        "created_at": "2025-11-22T04:15:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T05:15:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992084559698219206"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1607388730914140160",
+              "start": 0,
+              "username": "popcat1234566"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992084559698219206",
+        "in_reply_to_user_id": "1607388730914140160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992064238580556158",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@popcat1234566 这本来就是错的 只有更好的 而那都仅仅只是幻想"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1607388730914140160",
+        "conversation_id": "1992064238580556158",
+        "created_at": "2025-11-22T02:54:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T03:54:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992064238580556158"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1992064238580556158",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "说实话，现在wiki圈（独创词）越来越像党争了，不仅是因为某个人傻逼，而是因为站的立场不同就互相撕逼。\nO圈被wiki引领了这么多年，还没有走出一条正确的道路。以后怎么办，只有天知道。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "路人。and这段日子我愿意聊天，欢迎找我解惑，定期批量回fo或者私我",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1983757018830663844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990279769297149952/3r34Cj2f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 630,
+          "following_count": 308,
+          "like_count": 273,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 917
+        },
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-26T14:52:00.000Z",
+        "description": "被嫉妒吞噬的人\n\nN2O/笑气 3.25r低价批发\n承接suki遗愿 我可能不卖致幻剂了",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/popcat1234566",
+                "end": 23,
+                "expanded_url": "https://ngl.link/popcat1234566",
+                "start": 0,
+                "url": "https://t.co/vYlpd7wOlq"
+              }
+            ]
+          }
+        },
+        "id": "1607388730914140160",
+        "name": "popcat1234566",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984553337262653442/phttdV1C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 890,
+          "following_count": 652,
+          "like_count": 36322,
+          "listed_count": 0,
+          "media_count": 364,
+          "tweet_count": 2008
+        },
+        "url": "https://t.co/vYlpd7wOlq",
+        "username": "popcat1234566",
+        "verified": false
+      }
+    ]
+  }
+}

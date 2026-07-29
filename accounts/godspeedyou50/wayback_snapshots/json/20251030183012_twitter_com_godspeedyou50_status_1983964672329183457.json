@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1983964661327536128"
+      ]
+    },
+    "author_id": "1518404201168007168",
+    "conversation_id": "1983964672329183457",
+    "created_at": "2025-10-30T18:30:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-30T19:30:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1983964672329183457"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/0VV2kAhFCq",
+          "end": 43,
+          "expanded_url": "https://x.com/godspeedyou50/status/1983964672329183457/photo/1",
+          "media_key": "3_1983964661327536128",
+          "start": 20,
+          "url": "https://t.co/0VV2kAhFCq"
+        },
+        {
+          "display_url": "x.com/fusedjiii/stat…",
+          "end": 67,
+          "expanded_url": "https://twitter.com/fusedjiii/status/1983863849045692541",
+          "start": 44,
+          "url": "https://t.co/287dFTqKoe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983964672329183457",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983863849045692541",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我就这样引用一下吧，回复有的时候怕删帖 https://t.co/0VV2kAhFCq https://t.co/287dFTqKoe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1983964661327536128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4h1WRVbIAARJlu.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983964661327536128"
+          ]
+        },
+        "author_id": "1518404201168007168",
+        "conversation_id": "1983964672329183457",
+        "created_at": "2025-10-30T18:30:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T19:30:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983964672329183457"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0VV2kAhFCq",
+              "end": 43,
+              "expanded_url": "https://x.com/godspeedyou50/status/1983964672329183457/photo/1",
+              "media_key": "3_1983964661327536128",
+              "start": 20,
+              "url": "https://t.co/0VV2kAhFCq"
+            },
+            {
+              "display_url": "x.com/fusedjiii/stat…",
+              "end": 67,
+              "expanded_url": "https://twitter.com/fusedjiii/status/1983863849045692541",
+              "start": 44,
+              "url": "https://t.co/287dFTqKoe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983964672329183457",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983863849045692541",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我就这样引用一下吧，回复有的时候怕删帖 https://t.co/0VV2kAhFCq https://t.co/287dFTqKoe"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920308340737126400",
+        "conversation_id": "1983863849045692541",
+        "created_at": "2025-10-30T11:49:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T12:49:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983863849045692541"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/feng771215/sta…",
+              "end": 71,
+              "expanded_url": "https://twitter.com/feng771215/status/1983772463491391646",
+              "start": 48,
+              "url": "https://t.co/Ym1in5Gxdf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983863849045692541",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 883,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983772463491391646",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "皮肤上有伤疤就是顾影自怜不漂亮，纹身美术是正当途径就可以，划这么几下太没劲。什么二极管互搏…… https://t.co/Ym1in5Gxdf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "路人。and这段日子我愿意聊天，欢迎找我解惑，定期批量回fo或者私我",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1983757018830663844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983944337726787584/JcjyTY_u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 412,
+          "following_count": 254,
+          "like_count": 105,
+          "listed_count": 1,
+          "media_count": 52,
+          "tweet_count": 594
+        },
+        "username": "godspeedyou50",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-08T02:42:51.000Z",
+        "description": "我只想回口令，因为我喜欢钱。入门✉️私信，推广自辨。自残欧弟同类友好。",
+        "id": "1920308340737126400",
+        "location": "世界中心",
+        "name": "裴裴小猫好吗",
+        "pinned_tweet_id": "1983854667512865221",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983908061254455296/EgQcdHrf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1691,
+          "following_count": 141,
+          "like_count": 237,
+          "listed_count": 3,
+          "media_count": 59,
+          "tweet_count": 834
+        },
+        "username": "fusedjiii",
+        "verified": false
+      }
+    ]
+  }
+}

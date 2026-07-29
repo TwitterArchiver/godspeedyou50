@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "1991585029529694701",
+    "created_at": "2025-11-21T12:07:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-21T13:07:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991840894706991490"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1849043039496617984",
+          "start": 0,
+          "username": "Rinko_zero8964"
+        },
+        {
+          "end": 29,
+          "id": "1798724969695977472",
+          "start": 16,
+          "username": "overdosewiki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991840894706991490",
+    "in_reply_to_user_id": "1849043039496617984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991830569618227429",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rinko_zero8964 @overdosewiki 我还活着"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "1991585029529694701",
+        "created_at": "2025-11-21T12:07:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T13:07:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991840894706991490"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1849043039496617984",
+              "start": 0,
+              "username": "Rinko_zero8964"
+            },
+            {
+              "end": 29,
+              "id": "1798724969695977472",
+              "start": 16,
+              "username": "overdosewiki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991840894706991490",
+        "in_reply_to_user_id": "1849043039496617984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991830569618227429",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rinko_zero8964 @overdosewiki 我还活着"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "1991585029529694701",
+        "created_at": "2025-11-21T11:26:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T12:26:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991830569618227429"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1518404201168007168",
+              "start": 0,
+              "username": "godspeedyou50"
+            },
+            {
+              "end": 28,
+              "id": "1798724969695977472",
+              "start": 15,
+              "username": "overdosewiki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991830569618227429",
+        "in_reply_to_user_id": "1518404201168007168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991599592090296525",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@godspeedyou50 @overdosewiki 低龄化严重所以没学历，根本原因是老的都o死了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "路人。and这段日子我愿意聊天，欢迎找我解惑，定期批量回fo或者私我",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1983757018830663844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990279769297149952/3r34Cj2f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 617,
+          "following_count": 306,
+          "like_count": 259,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 893
+        },
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子｜🥺@NashiMoe233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "NashiMoe233"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1967335109767692560",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965923999197921280/V0d6smjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 352,
+          "following_count": 322,
+          "like_count": 4526,
+          "listed_count": 1,
+          "media_count": 89,
+          "tweet_count": 4531
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-06T14:33:54.000Z",
+        "description": "网站已经被鸡哥的DDoS Bomber炸成筛子了，没有制空权飞不起来。\nhttps://t.co/1UhiZIz90O —— odwiki直属群。\nhttps://t.co/0rL89PcGcg —— 后藤直属频道 高原整活观景台。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/o_d_wiki",
+                "end": 59,
+                "expanded_url": "http://t.me/o_d_wiki",
+                "start": 36,
+                "url": "https://t.co/1UhiZIz90O"
+              },
+              {
+                "display_url": "t.me/HWA_FK1",
+                "end": 97,
+                "expanded_url": "http://t.me/HWA_FK1",
+                "start": 74,
+                "url": "https://t.co/0rL89PcGcg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.wiki",
+                "end": 23,
+                "expanded_url": "https://overdose.wiki",
+                "start": 0,
+                "url": "https://t.co/6fVCD4QQ92"
+              }
+            ]
+          }
+        },
+        "id": "1798724969695977472",
+        "location": "但愿世间人无病 何妨架上药生尘",
+        "name": "Overdosewiki",
+        "pinned_tweet_id": "1970498537562742884",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988123432157114368/v5c6Wjqz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3912,
+          "following_count": 11,
+          "like_count": 446,
+          "listed_count": 6,
+          "media_count": 130,
+          "tweet_count": 718
+        },
+        "url": "https://t.co/6fVCD4QQ92",
+        "username": "overdosewiki",
+        "verified": false
+      }
+    ]
+  }
+}

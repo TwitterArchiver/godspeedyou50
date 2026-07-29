@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "1988858663977586975",
+    "created_at": "2025-11-13T07:49:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-13T08:49:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988876945270988975"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "971329071576596480",
+          "start": 0,
+          "username": "spspsky"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988876945270988975",
+    "in_reply_to_user_id": "971329071576596480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988862080385011993",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@spspsky 瞎说呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "1988858663977586975",
+        "created_at": "2025-11-13T07:49:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T08:49:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988876945270988975"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "971329071576596480",
+              "start": 0,
+              "username": "spspsky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988876945270988975",
+        "in_reply_to_user_id": "971329071576596480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988862080385011993",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@spspsky 瞎说呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "971329071576596480",
+        "conversation_id": "1988858663977586975",
+        "created_at": "2025-11-13T06:50:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T07:50:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988862080385011993"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1518404201168007168",
+              "start": 0,
+              "username": "godspeedyou50"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988862080385011993",
+        "in_reply_to_user_id": "1518404201168007168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988858663977586975",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@godspeedyou50 发生什么了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "路人。and这段日子我愿意聊天，欢迎找我解惑，定期批量回fo或者私我",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1983757018830663844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984905090818523136/vVZ-D8dQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 482,
+          "following_count": 279,
+          "like_count": 136,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 725
+        },
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2018-03-07T10:17:51.000Z",
+        "description": "策划药直发/日本药代购 TG联系：https://t.co/VPwsJSF1kW\n我们致力于给广大ODer提供价格低廉且稳定的服务",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/zsy10791522",
+                "end": 40,
+                "expanded_url": "https://t.me/zsy10791522",
+                "start": 17,
+                "url": "https://t.co/VPwsJSF1kW"
+              }
+            ]
+          }
+        },
+        "id": "971329071576596480",
+        "name": "PsyCheDelicProject",
+        "pinned_tweet_id": "1988106368432435563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983915356100902912/vYtczVCZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1723,
+          "following_count": 2053,
+          "like_count": 1073,
+          "listed_count": 5,
+          "media_count": 14,
+          "tweet_count": 166
+        },
+        "username": "spspsky",
+        "verified": false
+      }
+    ]
+  }
+}

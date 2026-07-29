@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2036460909162536998",
+    "created_at": "2026-03-24T15:15:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T16:15:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036461910875640014"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1886385501130866688",
+          "start": 0,
+          "username": "Lomyral"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036461910875640014",
+    "in_reply_to_user_id": "1886385501130866688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036460909162536998",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lomyral 这个药实际上 就是个体验卡 一辈子吃一次然后扔了就行了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2036460909162536998",
+        "created_at": "2026-03-24T15:15:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T16:15:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036461910875640014"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1886385501130866688",
+              "start": 0,
+              "username": "Lomyral"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036461910875640014",
+        "in_reply_to_user_id": "1886385501130866688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036460909162536998",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lomyral 这个药实际上 就是个体验卡 一辈子吃一次然后扔了就行了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886385501130866688",
+        "conversation_id": "2036460909162536998",
+        "created_at": "2026-03-24T15:11:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T16:11:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036460909162536998"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036460909162536998",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我会尽量在喝delsym之前把噻萘普汀的服用报告整理出来……缺点是药效非常短暂，急匆匆地来了然后悄咪咪地溜了，此外和经典阿片类相比，这个的欣快感比较平，有些缺乏深度。与咖啡因和尼古丁联用的体验非常棒，除了爽我不知道该如何形容这个感觉，个人认为再优化一下可以做白兔的便宜替代"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。/双相I型/欢迎提问",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jahseh79919",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jahseh79919",
+                "start": 0,
+                "url": "https://t.co/xaz6T7v19q"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2029134307244294287",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 972,
+          "following_count": 187,
+          "like_count": 731,
+          "listed_count": 0,
+          "media_count": 119,
+          "tweet_count": 1922
+        },
+        "url": "https://t.co/xaz6T7v19q",
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-03T12:05:49.000Z",
+        "description": "enby,he/they.泛性恋.除了碎碎念就没别的了.不贩卖任何东西.互fo私信，会查成分选拒.我不吸毒，别钓了",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lomyral",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lomyral",
+                "start": 0,
+                "url": "https://t.co/TsibFHazM8"
+              }
+            ]
+          }
+        },
+        "id": "1886385501130866688",
+        "location": "医院药房",
+        "name": "Lomyral",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888630778453729280/vZIfPLyg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 402,
+          "following_count": 421,
+          "like_count": 32797,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 3401
+        },
+        "url": "https://t.co/TsibFHazM8",
+        "username": "Lomyral",
+        "verified": false
+      }
+    ]
+  }
+}

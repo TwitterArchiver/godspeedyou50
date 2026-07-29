@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "1984461879125983715",
+    "created_at": "2025-11-01T03:44:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-01T04:44:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984466431053087184"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1963867793776070656",
+          "start": 0,
+          "username": "drug_artist1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984466431053087184",
+    "in_reply_to_user_id": "1963867793776070656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984465943591014691",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@drug_artist1 但是你下不来 我说的是好话 你要吃一段时间奥氮平了 要不然你就永远死成这样了 正常点吧 没有wiki刷了 你要是也乱七八糟的真没好了 算了 你够呛 够呛能停 玩吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "1984461879125983715",
+        "created_at": "2025-11-01T03:44:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T04:44:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984466431053087184"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1963867793776070656",
+              "start": 0,
+              "username": "drug_artist1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984466431053087184",
+        "in_reply_to_user_id": "1963867793776070656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984465943591014691",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@drug_artist1 但是你下不来 我说的是好话 你要吃一段时间奥氮平了 要不然你就永远死成这样了 正常点吧 没有wiki刷了 你要是也乱七八糟的真没好了 算了 你够呛 够呛能停 玩吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1963867793776070656",
+        "conversation_id": "1984461879125983715",
+        "created_at": "2025-11-01T03:42:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T04:42:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984465943591014691"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1518404201168007168",
+              "start": 0,
+              "username": "godspeedyou50"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984465943591014691",
+        "in_reply_to_user_id": "1518404201168007168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984465425787470063",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@godspeedyou50 我已经很少玩月尘了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "路人。and这段日子我愿意聊天，欢迎找我解惑，定期批量回fo或者私我",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1983757018830663844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983944337726787584/JcjyTY_u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 420,
+          "following_count": 261,
+          "like_count": 111,
+          "listed_count": 1,
+          "media_count": 51,
+          "tweet_count": 630
+        },
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-05T07:32:46.000Z",
+        "description": "药物百科wiki主｜投稿报告请私信我｜长发视觉系4i男娘｜售卖合法物质｜提问箱:https://t.co/ez10SQHDdD｜愿每一位药物滥用者都能脱离深渊｜提供药物咨询 ｜im crazy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/drug_artist",
+                "end": 63,
+                "expanded_url": "https://ngl.link/drug_artist",
+                "start": 40,
+                "url": "https://t.co/ez10SQHDdD"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/N4ZvRTnSIg"
+              }
+            ]
+          }
+        },
+        "id": "1963867793776070656",
+        "location": "Xanax天国12mg自治区",
+        "name": "沐雨",
+        "pinned_tweet_id": "1983475029259239573",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984290837677965312/pwoAuV9f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1355,
+          "following_count": 77,
+          "like_count": 395,
+          "listed_count": 2,
+          "media_count": 40,
+          "tweet_count": 453
+        },
+        "url": "https://t.co/N4ZvRTnSIg",
+        "username": "drug_artist1",
+        "verified": false
+      }
+    ]
+  }
+}

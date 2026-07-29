@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "1983709388151136641",
+    "created_at": "2025-10-30T03:54:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-30T04:54:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983744410639855749"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1830934925769613334",
+          "start": 0,
+          "username": "Oksana666156854"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983744410639855749",
+    "in_reply_to_user_id": "1830934925769613334",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983709388151136641",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Oksana666156854 这不内恨天黑帝的撸管男吗 前两天喷来着 撸两小时没硬起来那个"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "1983709388151136641",
+        "created_at": "2025-10-30T03:54:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T04:54:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983744410639855749"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1830934925769613334",
+              "start": 0,
+              "username": "Oksana666156854"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983744410639855749",
+        "in_reply_to_user_id": "1830934925769613334",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983709388151136641",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Oksana666156854 这不内恨天黑帝的撸管男吗 前两天喷来着 撸两小时没硬起来那个"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1830934925769613334",
+        "conversation_id": "1983709388151136641",
+        "created_at": "2025-10-30T01:35:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T02:35:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983709388151136641"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zh099848385331…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/zh0998483853317/status/1973108658079932934",
+              "start": 18,
+              "url": "https://t.co/w6FKYNlK7Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983709388151136641",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 116,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973108658079932934",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "所有人来看这个人主页笑得老娘肚肚痛 https://t.co/w6FKYNlK7Y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "路人。and这段日子我愿意聊天，欢迎找我解惑，定期批量回fo或者私我",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1982515322788942238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827690417619697665/4z5RgWOE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 399,
+          "following_count": 236,
+          "like_count": 97,
+          "listed_count": 1,
+          "media_count": 50,
+          "tweet_count": 578
+        },
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-03T11:45:04.000Z",
+        "description": "女，长头发性恋，精神分裂确诊，导演系在读，精神🇮🇹意大利人，非典型支黑，什么药都往嘴里塞的非典型毒推，喜欢跟小男娘玩。v有🚪，具体金额在你态度。",
+        "id": "1830934925769613334",
+        "name": "Oksana666",
+        "pinned_tweet_id": "1919767387769077977",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836467833401937920/1OZ_D_Qp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1067,
+          "following_count": 354,
+          "like_count": 581,
+          "listed_count": 4,
+          "media_count": 144,
+          "tweet_count": 457
+        },
+        "username": "Oksana666156854",
+        "verified": false
+      }
+    ]
+  }
+}

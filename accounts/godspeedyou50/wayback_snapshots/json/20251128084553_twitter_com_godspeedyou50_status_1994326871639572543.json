@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "1994325134963036363",
+    "created_at": "2025-11-28T08:45:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-28T09:45:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994326871639572543"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1882936483662663680",
+          "start": 0,
+          "username": "jngyn298282"
+        },
+        {
+          "end": 29,
+          "id": "1272405078683430913",
+          "start": 13,
+          "username": "PaitangOfficial"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994326871639572543",
+    "in_reply_to_user_id": "1882936483662663680",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994326054841012573",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jngyn298282 @PaitangOfficial 嗯"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "1994325134963036363",
+        "created_at": "2025-11-28T08:45:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T09:45:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994326871639572543"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1882936483662663680",
+              "start": 0,
+              "username": "jngyn298282"
+            },
+            {
+              "end": 29,
+              "id": "1272405078683430913",
+              "start": 13,
+              "username": "PaitangOfficial"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994326871639572543",
+        "in_reply_to_user_id": "1882936483662663680",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994326054841012573",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jngyn298282 @PaitangOfficial 嗯"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882936483662663680",
+        "conversation_id": "1994325134963036363",
+        "created_at": "2025-11-28T08:42:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T09:42:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994326054841012573"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1518404201168007168",
+              "start": 0,
+              "username": "godspeedyou50"
+            },
+            {
+              "end": 31,
+              "id": "1272405078683430913",
+              "start": 15,
+              "username": "PaitangOfficial"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994326054841012573",
+        "in_reply_to_user_id": "1518404201168007168",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994325134963036363",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@godspeedyou50 @PaitangOfficial iso吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "路人。",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1983757018830663844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990279769297149952/3r34Cj2f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 657,
+          "following_count": 321,
+          "like_count": 340,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 952
+        },
+        "username": "godspeedyou50",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-24T23:40:25.000Z",
+        "description": "我看着幸福的日子被我给摧毁后开心地闭上了眼/\n \n口粮：@420420420CTL/\n\n接受药圈新闻投稿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 28,
+                "username": "420420420CTL"
+              }
+            ]
+          }
+        },
+        "id": "1882936483662663680",
+        "location": "🚪88/188/388/520",
+        "name": "镜音",
+        "pinned_tweet_id": "1992943700444688618",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983881848775438338/SaevqnOR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1164,
+          "following_count": 196,
+          "like_count": 16149,
+          "listed_count": 1,
+          "media_count": 254,
+          "tweet_count": 2458
+        },
+        "username": "jngyn298282",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-15T05:46:41.000Z",
+        "description": "Biohacker/认知提升剂 （nootropics）X/ADHD 专注商品/推特第二大促智商 “本研究化合物仅供实验室研究使用，严禁用于人体和动物” \n\n客服 @paipaipaitang ⚠️TG客服已死 不要联系⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 82,
+                "username": "paipaipaitang"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/paitangcuzhi",
+                "end": 23,
+                "expanded_url": "https://t.me/paitangcuzhi",
+                "start": 0,
+                "url": "https://t.co/r6ojtqNEYk"
+              }
+            ]
+          }
+        },
+        "id": "1272405078683430913",
+        "location": "下ネタ〇 |病み垢|不登校|",
+        "name": "☯️🧬無極 利他林和专注达",
+        "pinned_tweet_id": "1903330051837530420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985270408904376320/SHUUETVl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10054,
+          "following_count": 544,
+          "like_count": 8305,
+          "listed_count": 26,
+          "media_count": 1665,
+          "tweet_count": 13960
+        },
+        "url": "https://t.co/r6ojtqNEYk",
+        "username": "PaitangOfficial",
+        "verified": false
+      }
+    ]
+  }
+}

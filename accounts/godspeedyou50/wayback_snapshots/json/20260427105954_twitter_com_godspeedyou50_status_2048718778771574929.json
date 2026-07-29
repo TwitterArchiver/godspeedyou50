@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2048718778771574929",
+    "created_at": "2026-04-27T10:59:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T11:59:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048718778771574929"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1553077962257272834",
+          "start": 3,
+          "username": "showmeurbeauty3"
+        },
+        {
+          "end": 35,
+          "id": "1518404201168007168",
+          "start": 21,
+          "username": "godspeedyou50"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048718778771574929",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048706275312320882",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @showmeurbeauty3: @godspeedyou50 每日药理大学习就靠电子瓦斯楞了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2048718778771574929",
+        "created_at": "2026-04-27T10:59:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T11:59:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048718778771574929"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1553077962257272834",
+              "start": 3,
+              "username": "showmeurbeauty3"
+            },
+            {
+              "end": 35,
+              "id": "1518404201168007168",
+              "start": 21,
+              "username": "godspeedyou50"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048718778771574929",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048706275312320882",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @showmeurbeauty3: @godspeedyou50 每日药理大学习就靠电子瓦斯楞了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1553077962257272834",
+        "conversation_id": "2048479587877970118",
+        "created_at": "2026-04-27T10:10:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T11:10:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048706275312320882"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1518404201168007168",
+              "start": 0,
+              "username": "godspeedyou50"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048706275312320882",
+        "in_reply_to_user_id": "1518404201168007168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048479587877970118",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@godspeedyou50 每日药理大学习就靠电子瓦斯楞了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。/欢迎提问/@OvooLOO3o",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 17,
+                "username": "OvooLOO3o"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jahseh79919",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jahseh79919",
+                "start": 0,
+                "url": "https://t.co/xaz6T7v19q"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2029134307244294287",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1152,
+          "following_count": 251,
+          "like_count": 986,
+          "listed_count": 0,
+          "media_count": 150,
+          "tweet_count": 2298
+        },
+        "url": "https://t.co/xaz6T7v19q",
+        "username": "godspeedyou50",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-29T18:00:26.000Z",
+        "description": "白骨终将化为沙土，\n却生生不息。",
+        "id": "1553077962257272834",
+        "name": "houmra",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036246482471497728/fXYxvuqr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 445,
+          "like_count": 553,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 64
+        },
+        "username": "showmeurbeauty3",
+        "verified": false
+      }
+    ]
+  }
+}

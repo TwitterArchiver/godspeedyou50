@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2018615545894146048"
+      ]
+    },
+    "author_id": "1518404201168007168",
+    "conversation_id": "2018617900509323385",
+    "created_at": "2026-02-03T09:29:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-03T10:29:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2018617900509323385"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/aT7pmibtDo",
+          "end": 23,
+          "expanded_url": "https://x.com/godspeedyou50/status/2018617900509323385/video/1",
+          "media_key": "13_2018615545894146048",
+          "start": 0,
+          "url": "https://t.co/aT7pmibtDo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018617900509323385",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/aT7pmibtDo"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 333033,
+        "height": 960,
+        "media_key": "13_2018615545894146048",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2018615545894146048/img/uF5F3_ORRxUCZLqr.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2018615545894146048/vid/avc1/320x564/nzxiOjnmRbAodp-Q.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2018615545894146048/vid/avc1/480x846/TKL49I8sqKaozjtd.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2018615545894146048/vid/avc1/544x960/IqkyiS5SXsnPmDO7.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2018615545894146048/pl/G9nn7CXV1A3NnNt4.m3u8"
+          }
+        ],
+        "width": 544
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2018615545894146048"
+          ]
+        },
+        "author_id": "1518404201168007168",
+        "conversation_id": "2018617900509323385",
+        "created_at": "2026-02-03T09:29:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T10:29:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018617900509323385"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aT7pmibtDo",
+              "end": 23,
+              "expanded_url": "https://x.com/godspeedyou50/status/2018617900509323385/video/1",
+              "media_key": "13_2018615545894146048",
+              "start": 0,
+              "url": "https://t.co/aT7pmibtDo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018617900509323385",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/aT7pmibtDo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1994852955737264187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 696,
+          "following_count": 94,
+          "like_count": 399,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 1157
+        },
+        "username": "godspeedyou50",
+        "verified": true
+      }
+    ]
+  }
+}

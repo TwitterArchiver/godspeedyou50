@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1985232728493813760"
+      ]
+    },
+    "author_id": "1518404201168007168",
+    "conversation_id": "1984912950046687428",
+    "created_at": "2025-11-03T06:29:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-03T07:29:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985232790196220156"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1561334508212723713",
+          "start": 0,
+          "username": "VVV8964"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AULMpkRkDs",
+          "end": 48,
+          "expanded_url": "https://x.com/godspeedyou50/status/1985232790196220156/video/1",
+          "media_key": "13_1985232728493813760",
+          "start": 25,
+          "url": "https://t.co/AULMpkRkDs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985232790196220156",
+    "in_reply_to_user_id": "1561334508212723713",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985231336605733206",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@VVV8964 哈哈哈 我偶像 冰毒王子才子哥 https://t.co/AULMpkRkDs"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15033,
+        "height": 1920,
+        "media_key": "13_1985232728493813760",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1985232728493813760/img/jsVZTulWuLK9hI_b.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1985232728493813760/vid/avc1/1080x1920/KtrTXH_32wvfW99o.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1985232728493813760/vid/avc1/480x852/3MPUfLmMCIHIMjlm.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1985232728493813760/vid/avc1/320x568/tHucw_7zcKL3t2EJ.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1985232728493813760/vid/avc1/720x1280/5sxuyLhRJdAu1SaE.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1985232728493813760/pl/3G6fdBMVMjSWHpFN.m3u8"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1985232728493813760"
+          ]
+        },
+        "author_id": "1518404201168007168",
+        "conversation_id": "1984912950046687428",
+        "created_at": "2025-11-03T06:29:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T07:29:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985232790196220156"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1561334508212723713",
+              "start": 0,
+              "username": "VVV8964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AULMpkRkDs",
+              "end": 48,
+              "expanded_url": "https://x.com/godspeedyou50/status/1985232790196220156/video/1",
+              "media_key": "13_1985232728493813760",
+              "start": 25,
+              "url": "https://t.co/AULMpkRkDs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985232790196220156",
+        "in_reply_to_user_id": "1561334508212723713",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985231336605733206",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VVV8964 哈哈哈 我偶像 冰毒王子才子哥 https://t.co/AULMpkRkDs"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1984912950046687428",
+        "created_at": "2025-11-03T06:23:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T07:23:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985231336605733206"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1518404201168007168",
+              "start": 0,
+              "username": "godspeedyou50"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985231336605733206",
+        "in_reply_to_user_id": "1518404201168007168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984912950046687428",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@godspeedyou50 这是你吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "路人。and这段日子我愿意聊天，欢迎找我解惑，定期批量回fo或者私我",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1983757018830663844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984905090818523136/vVZ-D8dQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 443,
+          "following_count": 268,
+          "like_count": 116,
+          "listed_count": 1,
+          "media_count": 61,
+          "tweet_count": 687
+        },
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "我是加拿大人，不要找我买毒品\n\n埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZ3Lh"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Edmonton, Alberta",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958781180276613121/M2eTIqFU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1690,
+          "following_count": 357,
+          "like_count": 3785,
+          "listed_count": 9,
+          "media_count": 398,
+          "tweet_count": 5021
+        },
+        "url": "https://t.co/tuzURhZ3Lh",
+        "username": "VVV8964",
+        "verified": false
+      }
+    ]
+  }
+}
