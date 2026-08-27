@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2083533004379726050",
+    "created_at": "2026-08-01T19:32:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T20:32:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083637112096821631"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2026321384042004480",
+          "start": 0,
+          "username": "jiu79171"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083637112096821631",
+    "in_reply_to_user_id": "2026321384042004480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083613193545605555",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiu79171 可以泡你吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2083533004379726050",
+        "created_at": "2026-08-01T19:32:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T20:32:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083637112096821631"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2026321384042004480",
+              "start": 0,
+              "username": "jiu79171"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083637112096821631",
+        "in_reply_to_user_id": "2026321384042004480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083613193545605555",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiu79171 可以泡你吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026321384042004480",
+        "conversation_id": "2083533004379726050",
+        "created_at": "2026-08-01T17:57:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T18:57:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083613193545605555"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1518404201168007168",
+              "start": 0,
+              "username": "godspeedyou50"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083613193545605555",
+        "in_reply_to_user_id": "1518404201168007168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083533004379726050",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@godspeedyou50 你走了我时间什么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个违背了大众良知od喝大酒的神棍。\n☯️算命后付不怕跑单｜代请符箓、祈福请私讯\n传统宗教现代哲学文化传播者，又称中式廉价心理医生。\n魔界入口💊🎫@Pharmakon14138狐朋@Nonentity_xxx17",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 73,
+                "username": "Pharmakon14138"
+              },
+              {
+                "end": 106,
+                "start": 90,
+                "username": "Nonentity_xxx17"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/buyaogaowosorry",
+                "end": 23,
+                "expanded_url": "https://t.me/buyaogaowosorry",
+                "start": 0,
+                "url": "https://t.co/AdoFGQJldT"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2069223594711011526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1783,
+          "following_count": 643,
+          "like_count": 1300,
+          "listed_count": 1,
+          "media_count": 219,
+          "tweet_count": 2998
+        },
+        "url": "https://t.co/AdoFGQJldT",
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-24T15:40:52.000Z",
+        "description": "二号机@buzhidao2738\n可以叫我不知道｜割o一体机，但都不频繁，已被现生绑架状态🩸💊\n支持互fo｜聊天大欢迎｜形象切换频繁之人⛓️\n无固定人设，可以把我当成刚从棺材里爬出来的千年老干尸⚰️｜至于性别和性取向嘛…其实我是水母，我不需要考虑这些🪼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 3,
+                "username": "buzhidao2738"
+              }
+            ]
+          }
+        },
+        "id": "2026321384042004480",
+        "name": "不知道",
+        "pinned_tweet_id": "2041766291791569150",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026321804248444928/fooAhUCi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 15,
+          "like_count": 106,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 214
+        },
+        "url": "",
+        "username": "jiu79171",
+        "verified": false
+      }
+    ]
+  }
+}

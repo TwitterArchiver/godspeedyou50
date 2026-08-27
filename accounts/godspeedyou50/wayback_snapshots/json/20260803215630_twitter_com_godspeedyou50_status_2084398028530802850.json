@@ -1,0 +1,163 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2084397895537815689",
+    "created_at": "2026-08-03T21:56:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T22:56:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084398028530802850"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2084398028530802850",
+    "in_reply_to_user_id": "1518404201168007168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084397895537815689",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "既往生命里 只哭给爹妈看过 今年落泪无数"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2084397895537815689",
+        "created_at": "2026-08-03T21:56:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T22:56:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084398028530802850"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084398028530802850",
+        "in_reply_to_user_id": "1518404201168007168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084397895537815689",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "既往生命里 只哭给爹妈看过 今年落泪无数"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2084397895537815689",
+        "created_at": "2026-08-03T21:55:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T22:55:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084397895537815689"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084397895537815689",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "朋友和我说哭是不可耻的 戏谑的猫哭耗子但其实若无其事的收割利益的人爹死妈逼烂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个违背了大众良知od喝大酒的神棍。\n☯️算命后付不怕跑单｜代请符箓、祈福请私讯\n传统宗教现代哲学文化传播者，又称中式廉价心理医生。\n魔界入口💊🎫@Pharmakon14138",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 73,
+                "username": "Pharmakon14138"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/buyaogaowosorry",
+                "end": 23,
+                "expanded_url": "https://t.me/buyaogaowosorry",
+                "start": 0,
+                "url": "https://t.co/AdoFGQJldT"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2069223594711011526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1797,
+          "following_count": 648,
+          "like_count": 1306,
+          "listed_count": 1,
+          "media_count": 221,
+          "tweet_count": 3010
+        },
+        "url": "https://t.co/AdoFGQJldT",
+        "username": "godspeedyou50",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2087713593139864014",
+    "created_at": "2026-08-13T02:02:44.000Z",
+    "display_text_range": [
+      10,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T03:02:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087721483271614952"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1647166814890385410",
+          "start": 0,
+          "username": "Sorrko77"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087721483271614952",
+    "in_reply_to_user_id": "1647166814890385410",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087719804639854680",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sorrko77 知识获取快 整理思绪提词记录"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2087713593139864014",
+        "created_at": "2026-08-13T02:02:44.000Z",
+        "display_text_range": [
+          10,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T03:02:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087721483271614952"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1647166814890385410",
+              "start": 0,
+              "username": "Sorrko77"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087721483271614952",
+        "in_reply_to_user_id": "1647166814890385410",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087719804639854680",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sorrko77 知识获取快 整理思绪提词记录"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647166814890385410",
+        "conversation_id": "2087713593139864014",
+        "created_at": "2026-08-13T01:56:04.000Z",
+        "display_text_range": [
+          15,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T02:56:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087719804639854680"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1518404201168007168",
+              "start": 0,
+              "username": "godspeedyou50"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087719804639854680",
+        "in_reply_to_user_id": "1518404201168007168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087719150248726538",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@godspeedyou50 因为美国豆包赋予了情绪价值吗😆"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个违背了大众良知od喝大酒的神棍。\n☯️算命后付不怕跑单｜代请符箓、祈福请私讯\n传统宗教现代哲学文化传播者，又称中式廉价心理医生。\n魔界入口💊🎫@Pharmakon14138",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 73,
+                "username": "Pharmakon14138"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/buyaogaowosorry",
+                "end": 23,
+                "expanded_url": "https://t.me/buyaogaowosorry",
+                "start": 0,
+                "url": "https://t.co/AdoFGQJldT"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087721483271614952",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2069223594711011526",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1518404201168007168/1777353629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1792,
+          "following_count": 659,
+          "like_count": 1329,
+          "listed_count": 1,
+          "media_count": 214,
+          "tweet_count": 3016
+        },
+        "url": "https://t.co/AdoFGQJldT",
+        "username": "godspeedyou50",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-04-15T09:15:55.000Z",
+        "description": "自由才是妳的主旋律🪽",
+        "id": "1647166814890385410",
+        "is_identity_verified": false,
+        "location": "火星",
+        "most_recent_tweet_id": "2087720579642363910",
+        "name": "雲深不醒熊",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1647166814890385410/1785690128",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083961507923345408/V5H-gGcn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 704,
+          "following_count": 842,
+          "like_count": 383,
+          "listed_count": 2,
+          "media_count": 131,
+          "tweet_count": 478
+        },
+        "url": "",
+        "username": "Sorrko77",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

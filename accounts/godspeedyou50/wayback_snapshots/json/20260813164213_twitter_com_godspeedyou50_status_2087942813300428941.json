@@ -1,0 +1,372 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2087942804731465731"
+      ]
+    },
+    "author_id": "1518404201168007168",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business"
+        }
+      }
+    ],
+    "conversation_id": "2087942813300428941",
+    "created_at": "2026-08-13T16:42:13.000Z",
+    "display_text_range": [
+      0,
+      4
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T17:42:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087942813300428941"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/1jMNpFoXpb",
+          "end": 28,
+          "expanded_url": "https://x.com/godspeedyou50/status/2087942813300428941/photo/1",
+          "media_key": "3_2087942804731465731",
+          "start": 5,
+          "url": "https://t.co/1jMNpFoXpb"
+        },
+        {
+          "display_url": "x.com/kugi55/status/…",
+          "end": 52,
+          "expanded_url": "https://twitter.com/kugi55/status/2087798318055501959",
+          "start": 29,
+          "url": "https://t.co/m1zMpcjHAQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087942813300428941",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2087942804731465731"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087798318055501959",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "最怕药娘 https://t.co/1jMNpFoXpb https://t.co/m1zMpcjHAQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2087942804731465731",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPnc6yNaEAMRHtq.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2087798313290735616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPlZgRpaoAAnpCt.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2087798312955244544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPlZgQZbcAAOkVx.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087942804731465731"
+          ]
+        },
+        "author_id": "1518404201168007168",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          }
+        ],
+        "conversation_id": "2087942813300428941",
+        "created_at": "2026-08-13T16:42:13.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T17:42:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087942813300428941"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1jMNpFoXpb",
+              "end": 28,
+              "expanded_url": "https://x.com/godspeedyou50/status/2087942813300428941/photo/1",
+              "media_key": "3_2087942804731465731",
+              "start": 5,
+              "url": "https://t.co/1jMNpFoXpb"
+            },
+            {
+              "display_url": "x.com/kugi55/status/…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/kugi55/status/2087798318055501959",
+              "start": 29,
+              "url": "https://t.co/m1zMpcjHAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087942813300428941",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2087942804731465731"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087798318055501959",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "最怕药娘 https://t.co/1jMNpFoXpb https://t.co/m1zMpcjHAQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087798313290735616",
+            "3_2087798312955244544"
+          ]
+        },
+        "author_id": "1366340658563149827",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          }
+        ],
+        "conversation_id": "2087798318055501959",
+        "created_at": "2026-08-13T07:08:03.000Z",
+        "display_text_range": [
+          0,
+          80
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T08:08:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087798318055501959"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/B4H7B6Nybq",
+              "end": 104,
+              "expanded_url": "https://x.com/kugi55/status/2087798318055501959/photo/1",
+              "media_key": "3_2087798313290735616",
+              "start": 81,
+              "url": "https://t.co/B4H7B6Nybq"
+            },
+            {
+              "display_url": "pic.x.com/B4H7B6Nybq",
+              "end": 104,
+              "expanded_url": "https://x.com/kugi55/status/2087798318055501959/photo/1",
+              "media_key": "3_2087798312955244544",
+              "start": 81,
+              "url": "https://t.co/B4H7B6Nybq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087798318055501959",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087798313290735616"
+          },
+          {
+            "media_key": "3_2087798312955244544"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 33,
+          "impression_count": 39196,
+          "like_count": 188,
+          "quote_count": 11,
+          "reply_count": 91,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "我们mtf是这样的\nod 贩毒 紫砂次数两位数依旧不死 跟警察表演中华功夫 自残 聚众斗殴 卖淫 极端自恋 隔空打舞萌\n请远离任何MTF 不要相信任何海量个例！ https://t.co/B4H7B6Nybq"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个违背了大众良知od喝大酒的神棍。\n☯️算命后付不怕跑单｜代请符箓、祈福请私讯\n传统宗教现代哲学文化传播者，又称中式廉价心理医生。\n魔界入口💊🎫@Pharmakon14138",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 73,
+                "username": "Pharmakon14138"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/buyaogaowosorry",
+                "end": 23,
+                "expanded_url": "https://t.me/buyaogaowosorry",
+                "start": 0,
+                "url": "https://t.co/AdoFGQJldT"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087942813300428941",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2069223594711011526",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1518404201168007168/1777353629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1788,
+          "following_count": 658,
+          "like_count": 1327,
+          "listed_count": 1,
+          "media_count": 215,
+          "tweet_count": 3017
+        },
+        "url": "https://t.co/AdoFGQJldT",
+        "username": "godspeedyou50",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-03-01T10:53:01.000Z",
+        "description": "04年/mtf/173.6cm56.5kg/ip:kr/hrt:2022.10.26/ 已停药 摸鱼减肥喵 常驻韩国 假期回国玩 目前摸鱼减肥 留发中ing 胸围36A/80A vrc：kugi55",
+        "id": "1366340658563149827",
+        "is_identity_verified": true,
+        "location": "Gyeonggi-do, Republic of Korea",
+        "most_recent_tweet_id": "2087941384150061134",
+        "name": "@kugi55🏳️‍⚧️🇰🇷",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1366340658563149827/1671667172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985525846225104896/KZ4cBosK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1053,
+          "following_count": 957,
+          "like_count": 50123,
+          "listed_count": 7,
+          "media_count": 1512,
+          "tweet_count": 16667
+        },
+        "url": "",
+        "username": "kugi55",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

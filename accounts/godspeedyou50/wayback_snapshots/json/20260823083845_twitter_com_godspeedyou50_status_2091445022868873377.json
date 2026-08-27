@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2090787908072710644",
+    "created_at": "2026-08-23T08:38:45.000Z",
+    "display_text_range": [
+      10,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T09:38:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091445022868873377"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2012875546343211008",
+          "start": 0,
+          "username": "do_piong"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091445022868873377",
+    "in_reply_to_user_id": "2012875546343211008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090787908072710644",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@do_piong 真漂亮"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2090787900464287745",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQP4hJvb0AEjk_U.jpg",
+        "width": 1538
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2090787900472569858",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQP4hJxaMAIpw-C.jpg",
+        "width": 1538
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2090787908072710644",
+        "created_at": "2026-08-23T08:38:45.000Z",
+        "display_text_range": [
+          10,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T09:38:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091445022868873377"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012875546343211008",
+              "start": 0,
+              "username": "do_piong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091445022868873377",
+        "in_reply_to_user_id": "2012875546343211008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090787908072710644",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@do_piong 真漂亮"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090787900464287745",
+            "3_2090787900472569858"
+          ]
+        },
+        "author_id": "2012875546343211008",
+        "conversation_id": "2090787908072710644",
+        "created_at": "2026-08-21T13:07:36.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T14:07:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090787908072710644"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 3,
+              "tag": "hebi"
+            },
+            {
+              "end": 12,
+              "start": 9,
+              "tag": "헤비"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/J3sEOMQG1n",
+              "end": 36,
+              "expanded_url": "https://x.com/do_piong/status/2090787908072710644/photo/1",
+              "media_key": "3_2090787900464287745",
+              "start": 13,
+              "url": "https://t.co/J3sEOMQG1n"
+            },
+            {
+              "display_url": "pic.x.com/J3sEOMQG1n",
+              "end": 36,
+              "expanded_url": "https://x.com/do_piong/status/2090787908072710644/photo/1",
+              "media_key": "3_2090787900472569858",
+              "start": 13,
+              "url": "https://t.co/J3sEOMQG1n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090787908072710644",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2090787900464287745"
+          },
+          {
+            "media_key": "3_2090787900472569858"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 3886,
+          "like_count": 154,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "🤍💜 #hebi #헤비 https://t.co/J3sEOMQG1n"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个违背了大众良知od喝大酒的神棍。\n☯️算命后付不怕跑单｜代请符箓、祈福请私讯\n传统宗教现代哲学文化传播者，又称中式廉价心理医生。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/buyaogaowosorry",
+                "end": 23,
+                "expanded_url": "https://t.me/buyaogaowosorry",
+                "start": 0,
+                "url": "https://t.co/AdoFGQJldT"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091445022868873377",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2069223594711011526",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1518404201168007168/1777353629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1842,
+          "following_count": 661,
+          "like_count": 1339,
+          "listed_count": 1,
+          "media_count": 218,
+          "tweet_count": 3038
+        },
+        "url": "https://t.co/AdoFGQJldT",
+        "username": "godspeedyou50",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-18T13:11:51.000Z",
+        "description": "KR l cosㅣ수도권ㅣ정트:@Jenki_001\n사진리턴:tyuo04008@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "Jenki_001"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "spin-spin.com/do_piong",
+                "end": 23,
+                "expanded_url": "https://spin-spin.com/do_piong",
+                "start": 0,
+                "url": "https://t.co/GnyQWupFdD"
+              }
+            ]
+          }
+        },
+        "id": "2012875546343211008",
+        "is_identity_verified": false,
+        "location": "붕괴3rd",
+        "most_recent_tweet_id": "2091426660684112277",
+        "name": "도피쨘",
+        "pinned_tweet_id": "2090367548189819083",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2012875546343211008/1787291910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089752681665744896/IeyKbqE0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 716,
+          "following_count": 543,
+          "like_count": 29292,
+          "listed_count": 12,
+          "media_count": 283,
+          "tweet_count": 3309
+        },
+        "url": "https://t.co/GnyQWupFdD",
+        "username": "do_piong",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

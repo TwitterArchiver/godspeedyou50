@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2091438969565347978",
+    "created_at": "2026-08-23T08:19:56.000Z",
+    "display_text_range": [
+      10,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T09:19:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091440290230133136"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1317689258052710400",
+          "start": 0,
+          "username": "5oke_k29"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091440290230133136",
+    "in_reply_to_user_id": "1317689258052710400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091438969565347978",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@5oke_k29 来打游戏"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2091438956714094593",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQZIpnRbcAE-7Gf.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2091438969565347978",
+        "created_at": "2026-08-23T08:19:56.000Z",
+        "display_text_range": [
+          10,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T09:19:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091440290230133136"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1317689258052710400",
+              "start": 0,
+              "username": "5oke_k29"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091440290230133136",
+        "in_reply_to_user_id": "1317689258052710400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091438969565347978",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@5oke_k29 来打游戏"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091438956714094593"
+          ]
+        },
+        "author_id": "1317689258052710400",
+        "conversation_id": "2091438969565347978",
+        "created_at": "2026-08-23T08:14:42.000Z",
+        "display_text_range": [
+          0,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T09:14:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091438969565347978"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7n6gbLwQvV",
+              "end": 33,
+              "expanded_url": "https://x.com/5oke_k29/status/2091438969565347978/photo/1",
+              "media_key": "3_2091438956714094593",
+              "start": 10,
+              "url": "https://t.co/7n6gbLwQvV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091438969565347978",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2091438956714094593"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "？我该从哪里开始收 https://t.co/7n6gbLwQvV"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个违背了大众良知od喝大酒的神棍。\n☯️算命后付不怕跑单｜代请符箓、祈福请私讯\n传统宗教现代哲学文化传播者，又称中式廉价心理医生。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/buyaogaowosorry",
+                "end": 23,
+                "expanded_url": "https://t.me/buyaogaowosorry",
+                "start": 0,
+                "url": "https://t.co/AdoFGQJldT"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091440290230133136",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2069223594711011526",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1518404201168007168/1777353629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1842,
+          "following_count": 661,
+          "like_count": 1337,
+          "listed_count": 1,
+          "media_count": 218,
+          "tweet_count": 3034
+        },
+        "url": "https://t.co/AdoFGQJldT",
+        "username": "godspeedyou50",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-10-18T04:49:45.000Z",
+        "description": "傻逼别烦 都是过检的合法上头策划 \n我的另一个@5koPainful\n交流群：https://t.co/VgEHi6jhgo\n反馈频道：https://t.co/HXYpyZjKv2\n商品发布频道(本频道)：https://t.co/vlJyULWCg4",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 23,
+                "username": "5koPainful"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+TBySRMOZqn4wM…",
+                "end": 62,
+                "expanded_url": "https://t.me/+TBySRMOZqn4wM2Vk",
+                "start": 39,
+                "url": "https://t.co/VgEHi6jhgo"
+              },
+              {
+                "display_url": "t.me/LemonRCFeedBack",
+                "end": 91,
+                "expanded_url": "https://t.me/LemonRCFeedBack",
+                "start": 68,
+                "url": "https://t.co/HXYpyZjKv2"
+              },
+              {
+                "display_url": "t.me/SparrowLemonade",
+                "end": 127,
+                "expanded_url": "https://t.me/SparrowLemonade",
+                "start": 104,
+                "url": "https://t.co/vlJyULWCg4"
+              }
+            ]
+          }
+        },
+        "id": "1317689258052710400",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091439355336565189",
+        "name": "穹",
+        "pinned_tweet_id": "1636710279810793472",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1317689258052710400/1673097042",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682049945384407041/a7quSn3G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7173,
+          "following_count": 166,
+          "like_count": 1045,
+          "listed_count": 13,
+          "media_count": 390,
+          "tweet_count": 3533
+        },
+        "url": "",
+        "username": "5oke_k29",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

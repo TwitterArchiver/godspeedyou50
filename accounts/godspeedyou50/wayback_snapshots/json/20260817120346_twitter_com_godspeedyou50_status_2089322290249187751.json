@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2089313087468028074",
+    "created_at": "2026-08-17T12:03:46.000Z",
+    "display_text_range": [
+      17,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-17T13:03:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089322290249187751"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1619698674917068801",
+          "start": 0,
+          "username": "InfiniteTritium"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089322290249187751",
+    "in_reply_to_user_id": "1619698674917068801",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089313087468028074",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@InfiniteTritium 法马康"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2089313071764574209",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP67K0sbkAEZQ07.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2089313087468028074",
+        "created_at": "2026-08-17T12:03:46.000Z",
+        "display_text_range": [
+          17,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T13:03:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089322290249187751"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1619698674917068801",
+              "start": 0,
+              "username": "InfiniteTritium"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089322290249187751",
+        "in_reply_to_user_id": "1619698674917068801",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089313087468028074",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@InfiniteTritium 法马康"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089313071764574209"
+          ]
+        },
+        "author_id": "1619698674917068801",
+        "conversation_id": "2089313087468028074",
+        "created_at": "2026-08-17T11:27:12.000Z",
+        "display_text_range": [
+          0,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T12:27:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089313087468028074"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EoPzFSzsIC",
+              "end": 52,
+              "expanded_url": "https://x.com/InfiniteTritium/status/2089313087468028074/photo/1",
+              "media_key": "3_2089313071764574209",
+              "start": 29,
+              "url": "https://t.co/EoPzFSzsIC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089313087468028074",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089313071764574209"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看起来像神话中的某个果实 人类既渴望又害怕离开这个世界. https://t.co/EoPzFSzsIC"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个违背了大众良知od喝大酒的神棍。\n☯️算命后付不怕跑单｜代请符箓、祈福请私讯\n传统宗教现代哲学文化传播者，又称中式廉价心理医生。\n魔界入口💊🎫@Pharmakon14138",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 73,
+                "username": "Pharmakon14138"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/buyaogaowosorry",
+                "end": 23,
+                "expanded_url": "https://t.me/buyaogaowosorry",
+                "start": 0,
+                "url": "https://t.co/AdoFGQJldT"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089322290249187751",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2069223594711011526",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1518404201168007168/1777353629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1794,
+          "following_count": 655,
+          "like_count": 1337,
+          "listed_count": 1,
+          "media_count": 216,
+          "tweet_count": 3017
+        },
+        "url": "https://t.co/AdoFGQJldT",
+        "username": "godspeedyou50",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-01-29T14:08:10.000Z",
+        "description": "UnrealEngine地编兼特效师（学 接 私）｜艺术｜形而上｜理想国｜棱镜｜身外的世界总是模糊的…\n匿↘️）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/infinite%20tri…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/infinite%20tritium",
+                "start": 0,
+                "url": "https://t.co/rFRsz40YGj"
+              }
+            ]
+          }
+        },
+        "id": "1619698674917068801",
+        "is_identity_verified": false,
+        "location": "NewMap",
+        "most_recent_tweet_id": "2089313087468028074",
+        "name": "Triton H.",
+        "pinned_tweet_id": "2049368028752875769",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1619698674917068801/1763338291",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916186524884078594/dGmyKGAr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 239,
+          "like_count": 937,
+          "listed_count": 0,
+          "media_count": 174,
+          "tweet_count": 1153
+        },
+        "url": "https://t.co/rFRsz40YGj",
+        "username": "InfiniteTritium",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

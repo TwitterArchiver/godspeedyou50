@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2084013097359155394",
+    "created_at": "2026-08-03T07:19:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T08:19:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084177246705840604"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1916974498903166978",
+          "start": 0,
+          "username": "Jack114514233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084177246705840604",
+    "in_reply_to_user_id": "1916974498903166978",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084127122298470598",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jack114514233 呵呵 小心晚上做噩梦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2084013097359155394",
+        "created_at": "2026-08-03T07:19:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T08:19:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084177246705840604"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1916974498903166978",
+              "start": 0,
+              "username": "Jack114514233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084177246705840604",
+        "in_reply_to_user_id": "1916974498903166978",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084127122298470598",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jack114514233 呵呵 小心晚上做噩梦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1916974498903166978",
+        "conversation_id": "2084013097359155394",
+        "created_at": "2026-08-03T04:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T05:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084127122298470598"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1518404201168007168",
+              "start": 0,
+              "username": "godspeedyou50"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084127122298470598",
+        "in_reply_to_user_id": "1518404201168007168",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 65,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084013097359155394",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@godspeedyou50 被反噬喽"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个违背了大众良知od喝大酒的神棍。\n☯️算命后付不怕跑单｜代请符箓、祈福请私讯\n传统宗教现代哲学文化传播者，又称中式廉价心理医生。\n魔界入口💊🎫@Pharmakon14138",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 73,
+                "username": "Pharmakon14138"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/buyaogaowosorry",
+                "end": 23,
+                "expanded_url": "https://t.me/buyaogaowosorry",
+                "start": 0,
+                "url": "https://t.co/AdoFGQJldT"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2069223594711011526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1793,
+          "following_count": 646,
+          "like_count": 1306,
+          "listed_count": 1,
+          "media_count": 219,
+          "tweet_count": 3007
+        },
+        "url": "https://t.co/AdoFGQJldT",
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-28T21:55:19.000Z",
+        "description": "现代极乐主义者、地雷系主义支持者\n精神药物科普：https://t.co/BeprZt3OWA",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "jile.bid",
+                "end": 47,
+                "expanded_url": "https://jile.bid/",
+                "start": 24,
+                "url": "https://t.co/BeprZt3OWA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "jile.bid",
+                "end": 23,
+                "expanded_url": "https://jile.bid/",
+                "start": 0,
+                "url": "https://t.co/BeprZt3h72"
+              }
+            ]
+          }
+        },
+        "id": "1916974498903166978",
+        "name": "Jack",
+        "pinned_tweet_id": "2078738716508737549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078082221064482816/MgKCJyTJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 810,
+          "following_count": 815,
+          "like_count": 622,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 499
+        },
+        "url": "https://t.co/BeprZt3h72",
+        "username": "Jack114514233",
+        "verified": false
+      }
+    ]
+  }
+}

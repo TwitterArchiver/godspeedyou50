@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2091433203219513494",
+    "created_at": "2026-08-23T08:24:47.000Z",
+    "display_text_range": [
+      17,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T09:24:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091441509866643883"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1619698674917068801",
+          "start": 0,
+          "username": "InfiniteTritium"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091441509866643883",
+    "in_reply_to_user_id": "1619698674917068801",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091433203219513494",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@InfiniteTritium 酒是最好的毒品"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2091433203219513494",
+        "created_at": "2026-08-23T08:24:47.000Z",
+        "display_text_range": [
+          17,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T09:24:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091441509866643883"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1619698674917068801",
+              "start": 0,
+              "username": "InfiniteTritium"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091441509866643883",
+        "in_reply_to_user_id": "1619698674917068801",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091433203219513494",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@InfiniteTritium 酒是最好的毒品"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1619698674917068801",
+        "conversation_id": "2091433203219513494",
+        "created_at": "2026-08-23T07:51:47.000Z",
+        "display_text_range": [
+          0,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T08:51:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091433203219513494"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2091433203219513494",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "什么时候开始的 自从发现💊这个新大陆之后 再喝酒就会想yue 果然人都是喜新厌旧🫤"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个违背了大众良知od喝大酒的神棍。\n☯️算命后付不怕跑单｜代请符箓、祈福请私讯\n传统宗教现代哲学文化传播者，又称中式廉价心理医生。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/buyaogaowosorry",
+                "end": 23,
+                "expanded_url": "https://t.me/buyaogaowosorry",
+                "start": 0,
+                "url": "https://t.co/AdoFGQJldT"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091441509866643883",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2069223594711011526",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1518404201168007168/1777353629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1842,
+          "following_count": 661,
+          "like_count": 1337,
+          "listed_count": 1,
+          "media_count": 218,
+          "tweet_count": 3037
+        },
+        "url": "https://t.co/AdoFGQJldT",
+        "username": "godspeedyou50",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-01-29T14:08:10.000Z",
+        "description": "UnrealEngine地编兼特效师（学 接 私）｜艺术｜形而上｜理想国｜棱镜｜身外的世界总是模糊的…\n匿↘️）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/infinite%20tri…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/infinite%20tritium",
+                "start": 0,
+                "url": "https://t.co/rFRsz40YGj"
+              }
+            ]
+          }
+        },
+        "id": "1619698674917068801",
+        "is_identity_verified": false,
+        "location": "NewMap",
+        "most_recent_tweet_id": "2091433203219513494",
+        "name": "Triton H.",
+        "pinned_tweet_id": "2049368028752875769",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1619698674917068801/1763338291",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916186524884078594/dGmyKGAr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 238,
+          "like_count": 930,
+          "listed_count": 0,
+          "media_count": 178,
+          "tweet_count": 1175
+        },
+        "url": "https://t.co/rFRsz40YGj",
+        "username": "InfiniteTritium",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

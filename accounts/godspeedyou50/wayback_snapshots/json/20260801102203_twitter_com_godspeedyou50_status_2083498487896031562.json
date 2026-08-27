@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2083498487896031562",
+    "created_at": "2026-08-01T10:22:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T11:22:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083498487896031562"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1448522081524609024",
+          "start": 3,
+          "username": "huozhemeta"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083498487896031562",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083451680461652219",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @huozhemeta: 心念一转，世界就变了\n\n最近读王阳明，有一个很深的感触。\n\n他说：君子慎独，不欺暗室。意思是，独处时也要注意自己的言行——不是在别人面前做样子，而是因为从头到尾，面对的都只有你自己一个人。\n\n这个道理，初听像是在讲修养。但往深了想，其实说的是一个…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1674,
+        "media_key": "3_2083451660672831489",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOnoPy0aEAETbAc.jpg",
+        "width": 3280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2083498487896031562",
+        "created_at": "2026-08-01T10:22:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T11:22:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083498487896031562"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1448522081524609024",
+              "start": 3,
+              "username": "huozhemeta"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083498487896031562",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083451680461652219",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @huozhemeta: 心念一转，世界就变了\n\n最近读王阳明，有一个很深的感触。\n\n他说：君子慎独，不欺暗室。意思是，独处时也要注意自己的言行——不是在别人面前做样子，而是因为从头到尾，面对的都只有你自己一个人。\n\n这个道理，初听像是在讲修养。但往深了想，其实说的是一个…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083451660672831489"
+          ]
+        },
+        "author_id": "1448522081524609024",
+        "conversation_id": "2083451680461652219",
+        "created_at": "2026-08-01T07:16:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T08:16:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083451680461652219"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aUfn0ujhYB",
+              "end": 168,
+              "expanded_url": "https://x.com/huozhemeta/status/2083451680461652219/photo/1",
+              "media_key": "3_2083451660672831489",
+              "start": 145,
+              "url": "https://t.co/aUfn0ujhYB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083451680461652219",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "心念一转，世界就变了\n\n最近读王阳明，有一个很深的感触。\n\n他说：君子慎独，不欺暗室。意思是，独处时也要注意自己的言行——不是在别人面前做样子，而是因为从头到尾，面对的都只有你自己一个人。\n\n这个道理，初听像是在讲修养。但往深了想，其实说的是一个更大的事：这个世界，从来都是你内心的投射。\n\n你的心就像一个投影仪。\n\n你走过的路、看过的花、经过的云、遇见的每一张脸，都只是那块幕布。你的心产生什么样的念头，投影在上面，就呈现出什么样的画面。\n\n你觉得生活里有好多烦恼。可一旦你生了病，所有的烦恼都不在了，你只剩一个烦恼——身体。那些烦恼是突然消失了吗？它们真的存在过吗？\n\n它们只是你心的投射而已。那个开关，在你手里。你想关，随时可以关。\n\n你改变一个念头，所有东西都会跟着变。就像电影里的灰尘，顷刻之间散尽，什么都不剩。\n\n王阳明科举落选，朋友安慰他：别因为落选而羞耻。\n\n他说了一句让人心里一震的话：我如果因为落选而产生羞耻心，那才叫真正的羞耻。\n\n你看，事情本身从来没有好坏——是你对它的反应，赋予了它好坏。你用什么起心动念，什么就是问题的关键。\n\n《eat pray love》里有句话让我记了很久：我们总说水滴汇入大海，但你有没有想过，其实是大海融入了水滴？\n\n同样的，我们总说人是宇宙的一部分，可你有没有想过——宇宙就在我们心里。佛经里也讲，我们要找的那个如来，就在我们自己身体里。我们就是它。修行的目的，就是找到你自己的那颗本心。\n\n所以我说，这个世界是属于真正的唯心主义者的。\n\n你越唯心，越接近幸福。当你被情绪裹挟、消耗的时候，闭上眼睛告诉自己：今天我不投射那个画面了。\n\n想象一切都是美好的。获得的东西都是适合我的，丢掉的都是不适合我的。你这么想的时候，事情真的会往那个方向走。\n\n硅谷投资人纳瓦尔说过一句话：快乐是一种选择。我出门的时候告诉自己，我今天选择快乐。心念一起，投射到世界里的所有东西——都会是来让我快乐的。\n\n就这么简单。\n\n吸引力法则也好，显化也好，量子力学也好，说到底都指向同一件事：你的心发出什么样的震动，就会投射出什么样的景象。\n\n什么是真？什么是假？\n\n你的心投射出什么，什么就是真。你不想看到什么，什么就是假。心经里说“无挂碍故，无有恐怖，远离颠倒梦想”——当你不再执着于那些挂碍，情绪就不会起伏，内耗也就不再纠缠你。\n\n你想要什么样的命，就会有什么样的命。你想要什么样的运，就会有什么样的运。你想要什么样的一生，就会有什么样的一生。\n\n你想看到什么样的世界，就会看到什么样的世界。世界因你心念转动的那一刻，一切都已经在了。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 384,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "心念一转，世界就变了\n\n最近读王阳明，有一个很深的感触。\n\n他说：君子慎独，不欺暗室。意思是，独处时也要注意自己的言行——不是在别人面前做样子，而是因为从头到尾，面对的都只有你自己一个人。\n\n这个道理，初听像是在讲修养。但往深了想，其实说的是一个更大的事：这个世界，从来都是你内心的投射。 https://t.co/aUfn0ujhYB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个违背了大众良知od喝大酒的神棍。\n☯️算命后付不怕跑单｜代请符箓、祈福请私讯\n传统宗教现代哲学文化传播者，又称中式廉价心理医生。\n魔界频道入口法马康@Pharmakon14138\n狐朋@Nonentity_xxx17 狗友@Jinggebiezhuaw",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 76,
+                "username": "Pharmakon14138"
+              },
+              {
+                "end": 110,
+                "start": 94,
+                "username": "Nonentity_xxx17"
+              },
+              {
+                "end": 128,
+                "start": 113,
+                "username": "Jinggebiezhuaw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/buyaogaowosorry",
+                "end": 23,
+                "expanded_url": "https://t.me/buyaogaowosorry",
+                "start": 0,
+                "url": "https://t.co/AdoFGQJT3r"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2069223594711011526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1777,
+          "following_count": 641,
+          "like_count": 1299,
+          "listed_count": 1,
+          "media_count": 220,
+          "tweet_count": 2990
+        },
+        "url": "https://t.co/AdoFGQJT3r",
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2021-10-14T05:33:08.000Z",
+        "description": "情感｜Web3｜男生成长\n不贩卖焦虑，只输出解法",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xmoneyex.com",
+                "end": 23,
+                "expanded_url": "http://www.xmoneyex.com",
+                "start": 0,
+                "url": "https://t.co/A9s9SYB3YV"
+              }
+            ]
+          }
+        },
+        "id": "1448522081524609024",
+        "location": "好钱包认准Bitget wallet邀请码Web4web3",
+        "name": "我踏马而来",
+        "pinned_tweet_id": "2010058489679536600",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952773102729084929/kfZuuB0z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28474,
+          "following_count": 4074,
+          "like_count": 10012,
+          "listed_count": 50,
+          "media_count": 1130,
+          "tweet_count": 8425
+        },
+        "url": "https://t.co/A9s9SYB3YV",
+        "username": "huozhemeta",
+        "verified": true
+      }
+    ]
+  }
+}

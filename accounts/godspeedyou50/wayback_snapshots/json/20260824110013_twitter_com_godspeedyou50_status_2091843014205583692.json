@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2091843014205583692",
+    "created_at": "2026-08-24T11:00:13.000Z",
+    "display_text_range": [
+      0,
+      7
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-24T12:00:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2091843014205583692"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lvovl3/status/…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/lvovl3/status/2091554937075601588",
+          "start": 8,
+          "url": "https://t.co/i1hvEd15JO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091843014205583692",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091554937075601588",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你是男的女的？ https://t.co/i1hvEd15JO"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2091843014205583692",
+        "created_at": "2026-08-24T11:00:13.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T12:00:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091843014205583692"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lvovl3/status/…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/lvovl3/status/2091554937075601588",
+              "start": 8,
+              "url": "https://t.co/i1hvEd15JO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091843014205583692",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091554937075601588",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你是男的女的？ https://t.co/i1hvEd15JO"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1994724283176947712",
+        "conversation_id": "2091554937075601588",
+        "created_at": "2026-08-23T15:55:30.000Z",
+        "display_text_range": [
+          0,
+          99
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T16:55:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091554937075601588"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2091554937075601588",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1054,
+          "like_count": 25,
+          "quote_count": 1,
+          "reply_count": 16,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不理解乱伦这个概念\n\n你们不要骂我 我一直被父亲猥亵到16岁\n我觉得对妈妈产生性欲很正常啊！\n妈妈……妈妈……我只是爱妈妈的全部而已！\n\n还有就是 这个话题貌似很敏感\n你们不要骂我……(ó﹏ò｡)"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个违背了大众良知od喝大酒的神棍。\n☯️算命后付不怕跑单｜代请符箓、祈福请私讯\n传统宗教现代哲学文化传播者，又称中式廉价心理医生。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/buyaogaowosorry",
+                "end": 23,
+                "expanded_url": "https://t.me/buyaogaowosorry",
+                "start": 0,
+                "url": "https://t.co/AdoFGQJldT"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091843014205583692",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2069223594711011526",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1518404201168007168/1777353629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1847,
+          "following_count": 664,
+          "like_count": 1346,
+          "listed_count": 1,
+          "media_count": 218,
+          "tweet_count": 3044
+        },
+        "url": "https://t.co/AdoFGQJldT",
+        "username": "godspeedyou50",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-29T11:05:37.000Z",
+        "description": "22岁AUDHD 双相 精神分裂 ed 滥用止痛药 同类回fo\n模仿人类失败者/全世界最恨homework之人/not alien\n人生是被恐惧追赶着逃跑 身体对我太刻薄我要逃跑\n请祝福我快些死掉吧！@luciawannadone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 100,
+                "username": "luciawannadone"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zabuu.site/user/detail/19…",
+                "end": 23,
+                "expanded_url": "https://zabuu.site/user/detail/1994724283176947712",
+                "start": 0,
+                "url": "https://t.co/y3THJjpTGV"
+              }
+            ]
+          }
+        },
+        "id": "1994724283176947712",
+        "is_identity_verified": false,
+        "location": "蓝名是备用号  链接是提问箱",
+        "most_recent_tweet_id": "2091814661435908336",
+        "name": "只是想不存在",
+        "pinned_tweet_id": "2089315896909336775",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1994724283176947712/1784616875",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079459942181007360/74nzgbYS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 268,
+          "following_count": 552,
+          "like_count": 5215,
+          "listed_count": 0,
+          "media_count": 504,
+          "tweet_count": 5716
+        },
+        "url": "https://t.co/y3THJjpTGV",
+        "username": "lvovl3",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

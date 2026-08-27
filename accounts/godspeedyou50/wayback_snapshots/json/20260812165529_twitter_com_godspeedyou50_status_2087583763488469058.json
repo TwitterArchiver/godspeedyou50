@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2087489376150560771",
+    "created_at": "2026-08-12T16:55:29.000Z",
+    "display_text_range": [
+      13,
+      41
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T17:55:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087583763488469058"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2029908828125548546",
+          "start": 0,
+          "username": "bui_tu46916"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087583763488469058",
+    "in_reply_to_user_id": "2029908828125548546",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087489376150560771",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bui_tu46916 这事去年，千年，大前年，包括清明万圣鬼节 都有人一直在干"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2087489376150560771",
+        "created_at": "2026-08-12T16:55:29.000Z",
+        "display_text_range": [
+          13,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T17:55:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087583763488469058"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2029908828125548546",
+              "start": 0,
+              "username": "bui_tu46916"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087583763488469058",
+        "in_reply_to_user_id": "2029908828125548546",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087489376150560771",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bui_tu46916 这事去年，千年，大前年，包括清明万圣鬼节 都有人一直在干"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029908828125548546",
+        "conversation_id": "2087489376150560771",
+        "created_at": "2026-08-12T10:40:25.000Z",
+        "display_text_range": [
+          0,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T11:40:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087489376150560771"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2087489376150560771",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 198,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你说能不能搞个春风祭搓点节目出来"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个违背了大众良知od喝大酒的神棍。\n☯️算命后付不怕跑单｜代请符箓、祈福请私讯\n传统宗教现代哲学文化传播者，又称中式廉价心理医生。\n魔界入口💊🎫@Pharmakon14138",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 73,
+                "username": "Pharmakon14138"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/buyaogaowosorry",
+                "end": 23,
+                "expanded_url": "https://t.me/buyaogaowosorry",
+                "start": 0,
+                "url": "https://t.co/AdoFGQJldT"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087583763488469058",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2069223594711011526",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1518404201168007168/1777353629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1792,
+          "following_count": 660,
+          "like_count": 1329,
+          "listed_count": 1,
+          "media_count": 214,
+          "tweet_count": 3014
+        },
+        "url": "https://t.co/AdoFGQJldT",
+        "username": "godspeedyou50",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-06T13:16:07.000Z",
+        "description": "OD警告⚠ 情绪阴晴不定 看情况回fo 晶哥滚",
+        "id": "2029908828125548546",
+        "is_identity_verified": false,
+        "location": "右美沙芬小道",
+        "most_recent_tweet_id": "2087583092957684118",
+        "name": "Exp cat",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2029908828125548546/1784444352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078736394483294208/1-oskrGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 442,
+          "following_count": 331,
+          "like_count": 401,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 1093
+        },
+        "url": "",
+        "username": "bui_tu46916",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

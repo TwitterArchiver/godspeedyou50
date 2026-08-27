@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2084217222625677764",
+    "created_at": "2026-08-03T09:58:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T10:58:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084217222625677764"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/innocentb1tch_…",
+          "end": 60,
+          "expanded_url": "https://twitter.com/innocentb1tch_/status/2083578273154351206",
+          "start": 37,
+          "url": "https://t.co/KsYizWJCCi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084217222625677764",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083578273154351206",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我今晚就诚心祈祷祝你没日没夜感冒拉稀，巴巴麻麻折寿20年 折不了拿你的换 https://t.co/KsYizWJCCi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2083578263851413505",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOpbZEaWsAEh-LX.jpg",
+        "width": 864
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2084217222625677764",
+        "created_at": "2026-08-03T09:58:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T10:58:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084217222625677764"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/innocentb1tch_…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/innocentb1tch_/status/2083578273154351206",
+              "start": 37,
+              "url": "https://t.co/KsYizWJCCi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084217222625677764",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083578273154351206",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我今晚就诚心祈祷祝你没日没夜感冒拉稀，巴巴麻麻折寿20年 折不了拿你的换 https://t.co/KsYizWJCCi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083578263851413505"
+          ]
+        },
+        "author_id": "1491134477162008576",
+        "conversation_id": "2083578273154351206",
+        "created_at": "2026-08-01T15:39:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T16:39:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083578273154351206"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/i9vm5eCtfp",
+              "end": 23,
+              "expanded_url": "https://x.com/InnocentB1tch_/status/2083578273154351206/photo/1",
+              "media_key": "3_2083578263851413505",
+              "start": 0,
+              "url": "https://t.co/i9vm5eCtfp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083578273154351206",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 16437,
+          "like_count": 498,
+          "quote_count": 3,
+          "reply_count": 64,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/i9vm5eCtfp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个违背了大众良知od喝大酒的神棍。\n☯️算命后付不怕跑单｜代请符箓、祈福请私讯\n传统宗教现代哲学文化传播者，又称中式廉价心理医生。\n魔界入口💊🎫@Pharmakon14138",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 73,
+                "username": "Pharmakon14138"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/buyaogaowosorry",
+                "end": 23,
+                "expanded_url": "https://t.me/buyaogaowosorry",
+                "start": 0,
+                "url": "https://t.co/AdoFGQJldT"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2069223594711011526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1793,
+          "following_count": 646,
+          "like_count": 1306,
+          "listed_count": 1,
+          "media_count": 219,
+          "tweet_count": 3008
+        },
+        "url": "https://t.co/AdoFGQJldT",
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2022-02-08T19:39:15.000Z",
+        "description": "想你真的太痛甚至超过一把刀",
+        "id": "1491134477162008576",
+        "name": "你们都是我的杯子",
+        "pinned_tweet_id": "2065131670140043570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073854250128384000/Q_04-h1K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3524,
+          "following_count": 22,
+          "like_count": 4508,
+          "listed_count": 6,
+          "media_count": 124,
+          "tweet_count": 1065
+        },
+        "url": "",
+        "username": "InnocentB1tch_",
+        "verified": false
+      }
+    ]
+  }
+}

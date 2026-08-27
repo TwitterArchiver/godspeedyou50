@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2090363566390133158",
+    "created_at": "2026-08-20T09:03:08.000Z",
+    "display_text_range": [
+      13,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T10:03:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090363998466400434"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2042656099858550785",
+          "start": 0,
+          "username": "FrankLeo888"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090363998466400434",
+    "in_reply_to_user_id": "2042656099858550785",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090363566390133158",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FrankLeo888 想交换都得排队 值了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2090363556713902080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQJ2lGFasAA-r_f.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2090363556697190400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQJ2lGBbsAAFHbg.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2090363566390133158",
+        "created_at": "2026-08-20T09:03:08.000Z",
+        "display_text_range": [
+          13,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T10:03:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090363998466400434"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2042656099858550785",
+              "start": 0,
+              "username": "FrankLeo888"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090363998466400434",
+        "in_reply_to_user_id": "2042656099858550785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090363566390133158",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FrankLeo888 想交换都得排队 值了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090363556713902080",
+            "3_2090363556697190400"
+          ]
+        },
+        "author_id": "2042656099858550785",
+        "conversation_id": "2090363566390133158",
+        "created_at": "2026-08-20T09:01:25.000Z",
+        "display_text_range": [
+          0,
+          80
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T10:01:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090363566390133158"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gKBFNNFXMY",
+              "end": 104,
+              "expanded_url": "https://x.com/FrankLeo888/status/2090363566390133158/photo/1",
+              "media_key": "3_2090363556713902080",
+              "start": 81,
+              "url": "https://t.co/gKBFNNFXMY"
+            },
+            {
+              "display_url": "pic.x.com/gKBFNNFXMY",
+              "end": 104,
+              "expanded_url": "https://x.com/FrankLeo888/status/2090363566390133158/photo/1",
+              "media_key": "3_2090363556697190400",
+              "start": 81,
+              "url": "https://t.co/gKBFNNFXMY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090363566390133158",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090363556713902080"
+          },
+          {
+            "media_key": "3_2090363556697190400"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "许家印的传奇一生：\n\n年轻时一路狂飙，登顶首富，挥金如土，极致享受。\n\n如今，无期徒刑。从人生巅峰到阶下囚，中间只隔了几年。\n\n如果可以，有人愿和他交换人生吗？ https://t.co/gKBFNNFXMY"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个违背了大众良知od喝大酒的神棍。\n☯️算命后付不怕跑单｜代请符箓、祈福请私讯\n传统宗教现代哲学文化传播者，又称中式廉价心理医生。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/buyaogaowosorry",
+                "end": 23,
+                "expanded_url": "https://t.me/buyaogaowosorry",
+                "start": 0,
+                "url": "https://t.co/AdoFGQJldT"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090363998466400434",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2069223594711011526",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1518404201168007168/1777353629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1797,
+          "following_count": 655,
+          "like_count": 1340,
+          "listed_count": 1,
+          "media_count": 216,
+          "tweet_count": 3021
+        },
+        "url": "https://t.co/AdoFGQJldT",
+        "username": "godspeedyou50",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-10T17:29:39.000Z",
+        "description": "前面板行业螺丝钉｜业余程序员｜业余CPA｜兼职PMP｜美股investor（偏爱半导体和TSLA）｜摄影爱好者（学习中）｜英语重新学习者（目前B1）",
+        "id": "2042656099858550785",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2090363644265845220",
+        "name": "Frank Leo|6000",
+        "pinned_tweet_id": "2073721326012141800",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2042656099858550785/1782357555",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069037883214950400/fbD6zaPl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6603,
+          "following_count": 6408,
+          "like_count": 12261,
+          "listed_count": 3,
+          "media_count": 152,
+          "tweet_count": 8933
+        },
+        "url": "",
+        "username": "FrankLeo888",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

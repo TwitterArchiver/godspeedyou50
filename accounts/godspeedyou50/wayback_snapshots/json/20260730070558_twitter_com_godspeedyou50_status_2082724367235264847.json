@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082723794230394880"
+      ],
+      "media_source_tweet_id": [
+        "2082723804426780722"
+      ]
+    },
+    "author_id": "1518404201168007168",
+    "conversation_id": "2082724367235264847",
+    "created_at": "2026-07-30T07:05:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T08:05:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082724367235264847"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1919465517829783552",
+          "start": 3,
+          "username": "Nonentity_xxx17"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/yIIA67sRr4",
+          "end": 117,
+          "expanded_url": "https://x.com/Nonentity_xxx17/status/2082723804426780722/photo/1",
+          "media_key": "3_2082723794230394880",
+          "start": 94,
+          "url": "https://t.co/yIIA67sRr4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082724367235264847",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082723804426780722",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Nonentity_xxx17: Oksana被封号了，你们如果有什么事情找她，或者她还没给单号的东西，就先来找我问，不知道能不能解封，解封之前所有需要找她的事情直接来问我就好。 https://t.co/yIIA67sRr4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2082723794230394880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOdSQZBbQAA0qjn.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082723794230394880"
+          ]
+        },
+        "author_id": "1919465517829783552",
+        "conversation_id": "2082723804426780722",
+        "created_at": "2026-07-30T07:03:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T08:03:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082723804426780722"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yIIA67sRr4",
+              "end": 96,
+              "expanded_url": "https://x.com/Nonentity_xxx17/status/2082723804426780722/photo/1",
+              "media_key": "3_2082723794230394880",
+              "start": 73,
+              "url": "https://t.co/yIIA67sRr4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082723804426780722",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "Oksana被封号了，你们如果有什么事情找她，或者她还没给单号的东西，就先来找我问，不知道能不能解封，解封之前所有需要找她的事情直接来问我就好。 https://t.co/yIIA67sRr4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082723794230394880"
+          ],
+          "media_source_tweet_id": [
+            "2082723804426780722"
+          ]
+        },
+        "author_id": "1518404201168007168",
+        "conversation_id": "2082724367235264847",
+        "created_at": "2026-07-30T07:05:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T08:05:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082724367235264847"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1919465517829783552",
+              "start": 3,
+              "username": "Nonentity_xxx17"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yIIA67sRr4",
+              "end": 117,
+              "expanded_url": "https://x.com/Nonentity_xxx17/status/2082723804426780722/photo/1",
+              "media_key": "3_2082723794230394880",
+              "start": 94,
+              "url": "https://t.co/yIIA67sRr4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082724367235264847",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082723804426780722",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Nonentity_xxx17: Oksana被封号了，你们如果有什么事情找她，或者她还没给单号的东西，就先来找我问，不知道能不能解封，解封之前所有需要找她的事情直接来问我就好。 https://t.co/yIIA67sRr4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个违背了大众良知od喝大酒的神棍。\n☯️算命后付不怕跑单｜代请符箓、祈福请私讯\n传统宗教现代哲学文化传播者，又称中式廉价心理医生。\n魔界频道入口法马康@Pharmakon14138\n狐朋@Nonentity_xxx17 狗友@Jinggebiezhuaw",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 76,
+                "username": "Pharmakon14138"
+              },
+              {
+                "end": 110,
+                "start": 94,
+                "username": "Nonentity_xxx17"
+              },
+              {
+                "end": 128,
+                "start": 113,
+                "username": "Jinggebiezhuaw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/buyaogaowosorry",
+                "end": 23,
+                "expanded_url": "https://t.me/buyaogaowosorry",
+                "start": 0,
+                "url": "https://t.co/AdoFGQJT3r"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2069223594711011526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1765,
+          "following_count": 642,
+          "like_count": 1297,
+          "listed_count": 1,
+          "media_count": 217,
+          "tweet_count": 2980
+        },
+        "url": "https://t.co/AdoFGQJT3r",
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-05T18:53:44.000Z",
+        "description": "忍辱士 还阳十九\n双相I型/低能量/欣赏躯体/皮囊无罪\n金童@godspeedyou50 玉女@Jinggebiezhuaw",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 30,
+                "username": "godspeedyou50"
+              },
+              {
+                "end": 62,
+                "start": 47,
+                "username": "Jinggebiezhuaw"
+              }
+            ]
+          }
+        },
+        "id": "1919465517829783552",
+        "location": "來世",
+        "name": "優.",
+        "pinned_tweet_id": "2064926614115504357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081007903071490048/e7lN9ZAr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 216,
+          "following_count": 94,
+          "like_count": 3953,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 620
+        },
+        "url": "",
+        "username": "Nonentity_xxx17",
+        "verified": false
+      }
+    ]
+  }
+}

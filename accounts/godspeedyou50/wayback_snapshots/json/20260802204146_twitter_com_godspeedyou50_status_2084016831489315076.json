@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2083978524394963214",
+    "created_at": "2026-08-02T20:41:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T21:41:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084016831489315076"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1276148275175755776",
+          "start": 0,
+          "username": "Haokuno_0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084016831489315076",
+    "in_reply_to_user_id": "1276148275175755776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083978524394963214",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Haokuno_0 我请求呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2083978524394963214",
+        "created_at": "2026-08-02T20:41:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T21:41:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084016831489315076"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1276148275175755776",
+              "start": 0,
+              "username": "Haokuno_0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084016831489315076",
+        "in_reply_to_user_id": "1276148275175755776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083978524394963214",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Haokuno_0 我请求呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1276148275175755776",
+        "conversation_id": "2083978524394963214",
+        "created_at": "2026-08-02T18:09:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T19:09:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083978524394963214"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "潇潇’s Space · 0 listening · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1lJQR…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/spaces/1lJQRRbVPmYxE",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2083978525552627712/7l-w3yVp?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2083978525552627712/7l-w3yVp?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "Happening now: 呃呃",
+              "unwound_url": "https://twitter.com/i/spaces/1lJQRRbVPmYxE/peek",
+              "url": "https://t.co/9WecZPcCxd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083978524394963214",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 175,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/9WecZPcCxd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个违背了大众良知od喝大酒的神棍。\n☯️算命后付不怕跑单｜代请符箓、祈福请私讯\n传统宗教现代哲学文化传播者，又称中式廉价心理医生。\n魔界入口💊🎫@Pharmakon14138",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 73,
+                "username": "Pharmakon14138"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/buyaogaowosorry",
+                "end": 23,
+                "expanded_url": "https://t.me/buyaogaowosorry",
+                "start": 0,
+                "url": "https://t.co/AdoFGQJldT"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2069223594711011526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1792,
+          "following_count": 646,
+          "like_count": 1305,
+          "listed_count": 1,
+          "media_count": 219,
+          "tweet_count": 3002
+        },
+        "url": "https://t.co/AdoFGQJldT",
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2020-06-25T13:40:45.000Z",
+        "description": "07 ENFP-T\n@Yeyuxiao_0\nfo你就是对你感兴趣",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 10,
+                "username": "Yeyuxiao_0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "steamcommunity.com/id/Yeyuxiaoxiao",
+                "end": 23,
+                "expanded_url": "https://steamcommunity.com/id/Yeyuxiaoxiao",
+                "start": 0,
+                "url": "https://t.co/d0TPy59UeT"
+              }
+            ]
+          }
+        },
+        "id": "1276148275175755776",
+        "location": "日记本",
+        "name": "潇潇",
+        "pinned_tweet_id": "2034294107699302775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065429984706256897/ba0I-yOn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 218,
+          "following_count": 119,
+          "like_count": 1311,
+          "listed_count": 0,
+          "media_count": 134,
+          "tweet_count": 1622
+        },
+        "url": "https://t.co/d0TPy59UeT",
+        "username": "Haokuno_0",
+        "verified": false
+      }
+    ]
+  }
+}

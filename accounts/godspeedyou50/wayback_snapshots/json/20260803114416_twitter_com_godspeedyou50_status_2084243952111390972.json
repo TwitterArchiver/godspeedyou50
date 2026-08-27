@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2084243952111390972",
+    "created_at": "2026-08-03T11:44:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T12:44:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084243952111390972"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1491134477162008576",
+          "start": 3,
+          "username": "InnocentB1tch_"
+        },
+        {
+          "end": 31,
+          "id": "1619814110102683648",
+          "start": 20,
+          "username": "xiaodu0413"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084243952111390972",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082564382672703984",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @InnocentB1tch_: @xiaodu0413 我这辈子就是被青年音毁了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2084243952111390972",
+        "created_at": "2026-08-03T11:44:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T12:44:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084243952111390972"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1491134477162008576",
+              "start": 3,
+              "username": "InnocentB1tch_"
+            },
+            {
+              "end": 31,
+              "id": "1619814110102683648",
+              "start": 20,
+              "username": "xiaodu0413"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084243952111390972",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082564382672703984",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @InnocentB1tch_: @xiaodu0413 我这辈子就是被青年音毁了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1491134477162008576",
+        "conversation_id": "2082454741557383328",
+        "created_at": "2026-07-29T20:30:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T21:30:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082564382672703984"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1619814110102683648",
+              "start": 0,
+              "username": "xiaodu0413"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082564382672703984",
+        "in_reply_to_user_id": "1619814110102683648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 690,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082454741557383328",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaodu0413 我这辈子就是被青年音毁了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个违背了大众良知od喝大酒的神棍。\n☯️算命后付不怕跑单｜代请符箓、祈福请私讯\n传统宗教现代哲学文化传播者，又称中式廉价心理医生。\n魔界入口💊🎫@Pharmakon14138",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 73,
+                "username": "Pharmakon14138"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/buyaogaowosorry",
+                "end": 23,
+                "expanded_url": "https://t.me/buyaogaowosorry",
+                "start": 0,
+                "url": "https://t.co/AdoFGQJldT"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2069223594711011526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1795,
+          "following_count": 646,
+          "like_count": 1306,
+          "listed_count": 1,
+          "media_count": 219,
+          "tweet_count": 3009
+        },
+        "url": "https://t.co/AdoFGQJldT",
+        "username": "godspeedyou50",
+        "verified": true
+      },
+      {
+        "created_at": "2022-02-08T19:39:15.000Z",
+        "description": "想你真的太痛甚至超过一把刀",
+        "id": "1491134477162008576",
+        "name": "你们都是我的杯子",
+        "pinned_tweet_id": "2065131670140043570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073854250128384000/Q_04-h1K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3528,
+          "following_count": 22,
+          "like_count": 4510,
+          "listed_count": 6,
+          "media_count": 124,
+          "tweet_count": 1074
+        },
+        "url": "",
+        "username": "InnocentB1tch_",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-29T21:45:57.000Z",
+        "description": "🚪288",
+        "id": "1619814110102683648",
+        "name": "小度ovo",
+        "pinned_tweet_id": "1903093337923657986",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1620620404888047617/3YxJiGY1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58806,
+          "following_count": 4749,
+          "like_count": 26994,
+          "listed_count": 99,
+          "media_count": 502,
+          "tweet_count": 882
+        },
+        "url": "",
+        "username": "xiaodu0413",
+        "verified": false
+      }
+    ]
+  }
+}
