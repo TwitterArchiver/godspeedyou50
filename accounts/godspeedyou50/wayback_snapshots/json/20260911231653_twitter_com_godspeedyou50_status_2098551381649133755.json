@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2098455896372474187",
+    "created_at": "2026-09-11T23:16:53.000Z",
+    "display_text_range": [
+      14,
+      64
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T00:16:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098551381649133755"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1488754158647738369",
+          "start": 0,
+          "username": "mingquan0326"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098551381649133755",
+    "in_reply_to_user_id": "1488754158647738369",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098546105726144564",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mingquan0326 你也不看看你出现的时间 大姐\n比如现在 我又要睡了 上午见吧 你找我我都是要睡觉了 不是睡了 哈哈哈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2098455896372474187",
+        "created_at": "2026-09-11T23:16:53.000Z",
+        "display_text_range": [
+          14,
+          64
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T00:16:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098551381649133755"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1488754158647738369",
+              "start": 0,
+              "username": "mingquan0326"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098551381649133755",
+        "in_reply_to_user_id": "1488754158647738369",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098546105726144564",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mingquan0326 你也不看看你出现的时间 大姐\n比如现在 我又要睡了 上午见吧 你找我我都是要睡觉了 不是睡了 哈哈哈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1488754158647738369",
+        "conversation_id": "2098455896372474187",
+        "created_at": "2026-09-11T22:55:55.000Z",
+        "display_text_range": [
+          15,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T23:55:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098546105726144564"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1518404201168007168",
+              "start": 0,
+              "username": "godspeedyou50"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098546105726144564",
+        "in_reply_to_user_id": "1518404201168007168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098455896372474187",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@godspeedyou50 😭每天都没怎么睡觉吗，我一找你你就要睡觉了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个违背了大众良知od喝大酒的神棍。\n☯️算命后付不怕跑单｜代请符箓、祈福请私讯\n传统宗教现代哲学文化传播者，又称中式廉价心理医生。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/godspeedyoupr",
+                "end": 23,
+                "expanded_url": "https://t.me/godspeedyoupr",
+                "start": 0,
+                "url": "https://t.co/3vanSMgOi4"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098551381649133755",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2096142160496328763",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1518404201168007168/1777353629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1998,
+          "following_count": 707,
+          "like_count": 1404,
+          "listed_count": 1,
+          "media_count": 230,
+          "tweet_count": 3192
+        },
+        "url": "https://t.co/3vanSMgOi4",
+        "username": "godspeedyou50",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-02-02T06:00:44.000Z",
+        "description": "双向情感障碍/od/自残/穿孔/电吉他\n小狗@LoveHsiii",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 22,
+                "username": "LoveHsiii"
+              }
+            ]
+          }
+        },
+        "id": "1488754158647738369",
+        "is_identity_verified": false,
+        "location": "🚪88/188/288/520",
+        "most_recent_tweet_id": "2098546105726144564",
+        "name": "小飒",
+        "pinned_tweet_id": "2096896400382361869",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1488754158647738369/1780744041",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069987997697921024/bh8tLu3n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 968,
+          "following_count": 534,
+          "like_count": 1441,
+          "listed_count": 2,
+          "media_count": 79,
+          "tweet_count": 1362
+        },
+        "url": "",
+        "username": "mingquan0326",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

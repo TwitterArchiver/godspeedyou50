@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2098949555459088384"
+      ]
+    },
+    "author_id": "1518404201168007168",
+    "conversation_id": "2098949568515977669",
+    "created_at": "2026-09-13T01:39:08.000Z",
+    "display_text_range": [
+      0,
+      100
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-13T02:39:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2098949568515977669"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/yqSHZf0CaH",
+          "end": 124,
+          "expanded_url": "https://x.com/godspeedyou50/status/2098949568515977669/photo/1",
+          "media_key": "3_2098949555459088384",
+          "start": 101,
+          "url": "https://t.co/yqSHZf0CaH"
+        },
+        {
+          "display_url": "x.com/liyfn130024/st…",
+          "end": 148,
+          "expanded_url": "https://twitter.com/liyfn130024/status/2092878549711757440",
+          "start": 125,
+          "url": "https://t.co/0uz2IDv9fZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098949568515977669",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2098949555459088384"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092878549711757440",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "看到这些我就释怀了，小猫我还以为是药娘呢才会那样跟我讲话。\n这么久了，内幕里吃的瓜我倒是不敢搬出来在他活着的时候一样，原来是这样….我判断题永远满分。\n就记住了千错万错永远一句话，家暴女人的，全该死。 https://t.co/yqSHZf0CaH https://t.co/0uz2IDv9fZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2000,
+        "media_key": "3_2098949555459088384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSD3f_6aYAA6BlN.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098949555459088384"
+          ]
+        },
+        "author_id": "1518404201168007168",
+        "conversation_id": "2098949568515977669",
+        "created_at": "2026-09-13T01:39:08.000Z",
+        "display_text_range": [
+          0,
+          100
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T02:39:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098949568515977669"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yqSHZf0CaH",
+              "end": 124,
+              "expanded_url": "https://x.com/godspeedyou50/status/2098949568515977669/photo/1",
+              "media_key": "3_2098949555459088384",
+              "start": 101,
+              "url": "https://t.co/yqSHZf0CaH"
+            },
+            {
+              "display_url": "x.com/liyfn130024/st…",
+              "end": 148,
+              "expanded_url": "https://twitter.com/liyfn130024/status/2092878549711757440",
+              "start": 125,
+              "url": "https://t.co/0uz2IDv9fZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098949568515977669",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098949555459088384"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092878549711757440",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "看到这些我就释怀了，小猫我还以为是药娘呢才会那样跟我讲话。\n这么久了，内幕里吃的瓜我倒是不敢搬出来在他活着的时候一样，原来是这样….我判断题永远满分。\n就记住了千错万错永远一句话，家暴女人的，全该死。 https://t.co/yqSHZf0CaH https://t.co/0uz2IDv9fZ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022874915012333568",
+        "conversation_id": "2092878549711757440",
+        "created_at": "2026-08-27T07:35:04.000Z",
+        "display_text_range": [
+          0,
+          143
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T08:35:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092878549711757440"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2092878549711757440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 5614,
+          "like_count": 19,
+          "quote_count": 5,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近哦 发生了很糟糕的事 mercy啊dpt badtrip把我家暴了 打得很重 我没在混o圈 也没有写瓜条的兴致 发这条也只是声明过错人不是我 我们确实有过真实的感情 但有些事还是太糟糕了以至于无法继续 当时我已经下机了 他逼着我一遍一遍的说不要使用认知以外的物质 确实 要敬畏物质呢"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个违背了大众良知od喝大酒的神棍。\n☯️算命后付不怕跑单｜代请符箓、祈福请私讯\n传统宗教现代哲学文化传播者，又称中式廉价心理医生。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/godspeedyoupr",
+                "end": 23,
+                "expanded_url": "https://t.me/godspeedyoupr",
+                "start": 0,
+                "url": "https://t.co/3vanSMgOi4"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098949568515977669",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2096142160496328763",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1518404201168007168/1777353629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2002,
+          "following_count": 707,
+          "like_count": 1418,
+          "listed_count": 1,
+          "media_count": 232,
+          "tweet_count": 3205
+        },
+        "url": "https://t.co/3vanSMgOi4",
+        "username": "godspeedyou50",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-15T03:25:57.000Z",
+        "description": "不要再醒来了",
+        "id": "2022874915012333568",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098829953324433599",
+        "name": "#dpt不好体验分享",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2022874915012333568/1785722185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022890661759062020/OwSmsAtH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 215,
+          "following_count": 137,
+          "like_count": 435,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 278
+        },
+        "url": "",
+        "username": "liyfn130024",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

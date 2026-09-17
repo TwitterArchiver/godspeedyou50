@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2098950463278473686",
+    "created_at": "2026-09-13T07:40:52.000Z",
+    "display_text_range": [
+      10,
+      151
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-13T08:40:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099040603359400235"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2096172013996089344",
+          "start": 0,
+          "username": "Mintink4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099040603359400235",
+    "in_reply_to_user_id": "2096172013996089344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098950463278473686",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mintink4 思维奔逸 我以前这问题特别严重 我的幻觉基本上全部都是各种的鬼脸，我会强迫自己冒出鬼脸的时候，大脑自动发出指令“有没有更吓人的鬼？有没有更吓人的鬼？”不断重复，直到我被吓得惊恐不敢睡觉，然后所以依赖普瑞巴林，这样基本上没有入睡的这个时间，或者说大多数时和我选择听故事会睡觉或者播客。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2098950463278473686",
+        "created_at": "2026-09-13T07:40:52.000Z",
+        "display_text_range": [
+          10,
+          151
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T08:40:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099040603359400235"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2096172013996089344",
+              "start": 0,
+              "username": "Mintink4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099040603359400235",
+        "in_reply_to_user_id": "2096172013996089344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098950463278473686",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mintink4 思维奔逸 我以前这问题特别严重 我的幻觉基本上全部都是各种的鬼脸，我会强迫自己冒出鬼脸的时候，大脑自动发出指令“有没有更吓人的鬼？有没有更吓人的鬼？”不断重复，直到我被吓得惊恐不敢睡觉，然后所以依赖普瑞巴林，这样基本上没有入睡的这个时间，或者说大多数时和我选择听故事会睡觉或者播客。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2096172013996089344",
+        "conversation_id": "2098950463278473686",
+        "created_at": "2026-09-13T01:42:41.000Z",
+        "display_text_range": [
+          0,
+          104
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T02:42:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098950463278473686"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2098950463278473686",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 456,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我小憩出现的第三次幻觉（这些我知道是幻觉）\n\n我依旧在床上动弹不得 睁眼面前横着一把武士刀放在架子上\n\n我闭眼 准备接受痛苦 \n\n我不相信我会醒不来\n\n我发誓这三个幻觉都是真的\n\n面对恐惧的最好方法就是直视他"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个违背了大众良知od喝大酒的神棍。\n☯️算命后付不怕跑单｜代请符箓、祈福请私讯\n传统宗教现代哲学文化传播者，又称中式廉价心理医生。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/godspeedyoupr",
+                "end": 23,
+                "expanded_url": "https://t.me/godspeedyoupr",
+                "start": 0,
+                "url": "https://t.co/3vanSMgOi4"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099040603359400235",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2096142160496328763",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1518404201168007168/1777353629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2008,
+          "following_count": 712,
+          "like_count": 1439,
+          "listed_count": 1,
+          "media_count": 234,
+          "tweet_count": 3235
+        },
+        "url": "https://t.co/3vanSMgOi4",
+        "username": "godspeedyou50",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-05T09:43:32.000Z",
+        "description": "166cm/41kg/前世@Mintink3 个人频道https://t.co/7Nto1YSCMk❤️互fo请私我 我想寻回好友们 感谢",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 13,
+                "username": "Mintink3"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+GWs1Kp_yEDAyY…",
+                "end": 50,
+                "expanded_url": "https://t.me/+GWs1Kp_yEDAyYzc9",
+                "start": 27,
+                "url": "https://t.co/7Nto1YSCMk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+GWs1Kp_yEDAyY…",
+                "end": 23,
+                "expanded_url": "https://t.me/+GWs1Kp_yEDAyYzc9",
+                "start": 0,
+                "url": "https://t.co/7Nto1YSCMk"
+              }
+            ]
+          }
+        },
+        "id": "2096172013996089344",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099032357122756756",
+        "name": "Beatrice二世",
+        "pinned_tweet_id": "2097412785592557783",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2096172013996089344/1788601626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096173219044896768/yaMgdXAb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1015,
+          "following_count": 397,
+          "like_count": 1380,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 221
+        },
+        "url": "https://t.co/7Nto1YSCMk",
+        "username": "Mintink4",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

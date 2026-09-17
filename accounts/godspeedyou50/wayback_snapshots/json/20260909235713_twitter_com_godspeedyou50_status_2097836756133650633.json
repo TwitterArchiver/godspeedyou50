@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2097836745605988352"
+      ]
+    },
+    "author_id": "1518404201168007168",
+    "conversation_id": "2097836756133650633",
+    "created_at": "2026-09-09T23:57:13.000Z",
+    "display_text_range": [
+      0,
+      30
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T00:57:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2097836756133650633"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/f9CzvWdRGR",
+          "end": 54,
+          "expanded_url": "https://x.com/godspeedyou50/status/2097836756133650633/photo/1",
+          "media_key": "3_2097836745605988352",
+          "start": 31,
+          "url": "https://t.co/f9CzvWdRGR"
+        },
+        {
+          "display_url": "x.com/liyfn130024/st…",
+          "end": 78,
+          "expanded_url": "https://twitter.com/liyfn130024/status/2097698655448998057",
+          "start": 55,
+          "url": "https://t.co/wKD4FKl5Dz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097836756133650633",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2097836745605988352"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097698655448998057",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这小猫挣扎了这么久 终于找到了类似不痛苦的方法了吧maybe https://t.co/f9CzvWdRGR https://t.co/wKD4FKl5Dz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1653,
+        "media_key": "3_2097836745605988352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR0DZ8KbQAAVos0.jpg",
+        "width": 1290
+      },
+      {
+        "height": 932,
+        "media_key": "3_2097698640932593664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRyFzMKbYAAIzhm.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097836745605988352"
+          ]
+        },
+        "author_id": "1518404201168007168",
+        "conversation_id": "2097836756133650633",
+        "created_at": "2026-09-09T23:57:13.000Z",
+        "display_text_range": [
+          0,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T00:57:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097836756133650633"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/f9CzvWdRGR",
+              "end": 54,
+              "expanded_url": "https://x.com/godspeedyou50/status/2097836756133650633/photo/1",
+              "media_key": "3_2097836745605988352",
+              "start": 31,
+              "url": "https://t.co/f9CzvWdRGR"
+            },
+            {
+              "display_url": "x.com/liyfn130024/st…",
+              "end": 78,
+              "expanded_url": "https://twitter.com/liyfn130024/status/2097698655448998057",
+              "start": 55,
+              "url": "https://t.co/wKD4FKl5Dz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097836756133650633",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097836745605988352"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097698655448998057",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这小猫挣扎了这么久 终于找到了类似不痛苦的方法了吧maybe https://t.co/f9CzvWdRGR https://t.co/wKD4FKl5Dz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097698640932593664"
+          ]
+        },
+        "author_id": "2022874915012333568",
+        "conversation_id": "2097698655448998057",
+        "created_at": "2026-09-09T14:48:27.000Z",
+        "display_text_range": [
+          0,
+          110
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T15:48:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097698655448998057"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2DupHyaJUJ",
+              "end": 134,
+              "expanded_url": "https://x.com/liyfn130024/status/2097698655448998057/photo/1",
+              "media_key": "3_2097698640932593664",
+              "start": 111,
+              "url": "https://t.co/2DupHyaJUJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097698655448998057",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097698640932593664"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 11005,
+          "like_count": 140,
+          "quote_count": 26,
+          "reply_count": 56,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "讣告：\nMercy 又名小猫 真实姓名于逸铭\n已于昨天去世，原因是赛奈普汀1g过量，抢救不及时去世。\n你辛苦了小宝宝，来到这个世界。\n会飞升幸福的天堂的，等我。\n我很痛苦，很痛苦，彻底的崩溃了，3天后我会去参加他的葬礼。 https://t.co/2DupHyaJUJ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个违背了大众良知od喝大酒的神棍。\n☯️算命后付不怕跑单｜代请符箓、祈福请私讯\n传统宗教现代哲学文化传播者，又称中式廉价心理医生。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/godspeedyoupr",
+                "end": 23,
+                "expanded_url": "https://t.me/godspeedyoupr",
+                "start": 0,
+                "url": "https://t.co/3vanSMgOi4"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097836756133650633",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2096142160496328763",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1518404201168007168/1777353629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1962,
+          "following_count": 701,
+          "like_count": 1390,
+          "listed_count": 1,
+          "media_count": 231,
+          "tweet_count": 3165
+        },
+        "url": "https://t.co/3vanSMgOi4",
+        "username": "godspeedyou50",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-15T03:25:57.000Z",
+        "description": "不要再醒来了",
+        "id": "2022874915012333568",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097814943538233459",
+        "name": "#dpt不好体验分享",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2022874915012333568/1785722185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022890661759062020/OwSmsAtH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 84,
+          "like_count": 382,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 252
+        },
+        "url": "",
+        "username": "liyfn130024",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

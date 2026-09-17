@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2093655947726238047",
+    "created_at": "2026-08-29T11:33:32.000Z",
+    "display_text_range": [
+      9,
+      40
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-29T12:33:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093663338475778391"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1752437729235984384",
+          "start": 0,
+          "username": "Sanevy_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093663338475778391",
+    "in_reply_to_user_id": "1752437729235984384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093655947726238047",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sanevy_ 80t普瑞的话去icu多余了 这点钱够我吸毒三年 但是依然心疼"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1919,
+        "media_key": "3_2093655928868675584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ4o-YIboAAPKB1.jpg",
+        "width": 1440
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2093655928881229824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ4o-YLbMAAcV8x.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2093655947726238047",
+        "created_at": "2026-08-29T11:33:32.000Z",
+        "display_text_range": [
+          9,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T12:33:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093663338475778391"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1752437729235984384",
+              "start": 0,
+              "username": "Sanevy_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093663338475778391",
+        "in_reply_to_user_id": "1752437729235984384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093655947726238047",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sanevy_ 80t普瑞的话去icu多余了 这点钱够我吸毒三年 但是依然心疼"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093655928868675584",
+            "3_2093655928881229824"
+          ]
+        },
+        "author_id": "1752437729235984384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2093655947726238047",
+        "created_at": "2026-08-29T11:04:10.000Z",
+        "display_text_range": [
+          0,
+          76
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T12:04:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093655947726238047"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tJZDUVn3QP",
+              "end": 100,
+              "expanded_url": "https://x.com/Sanevy_/status/2093655947726238047/photo/1",
+              "media_key": "3_2093655928868675584",
+              "start": 77,
+              "url": "https://t.co/tJZDUVn3QP"
+            },
+            {
+              "display_url": "pic.x.com/tJZDUVn3QP",
+              "end": 100,
+              "expanded_url": "https://x.com/Sanevy_/status/2093655947726238047/photo/1",
+              "media_key": "3_2093655928881229824",
+              "start": 77,
+              "url": "https://t.co/tJZDUVn3QP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093655947726238047",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093655928868675584"
+          },
+          {
+            "media_key": "3_2093655928881229824"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "昨天80t➕9600mgpr自杀了\n被下病危通知书了老母签字\n靠着这个多巴胺啥的活下去\n但是我强制出院了 我不想待在里面。医生说我随时都有可能暴毙而亡… https://t.co/tJZDUVn3QP"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个违背了大众良知od喝大酒的神棍。\n☯️算命后付不怕跑单｜代请符箓、祈福请私讯\n传统宗教现代哲学文化传播者，又称中式廉价心理医生。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/buyaogaowosorry",
+                "end": 23,
+                "expanded_url": "https://t.me/buyaogaowosorry",
+                "start": 0,
+                "url": "https://t.co/AdoFGQJldT"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093663338475778391",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2069223594711011526",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1518404201168007168/1777353629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1863,
+          "following_count": 662,
+          "like_count": 1359,
+          "listed_count": 1,
+          "media_count": 220,
+          "tweet_count": 3057
+        },
+        "url": "https://t.co/AdoFGQJldT",
+        "username": "godspeedyou50",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-01-30T21:05:34.000Z",
+        "description": "卧槽尼玛是我的代名词。",
+        "id": "1752437729235984384",
+        "is_identity_verified": false,
+        "location": "深海之中",
+        "most_recent_tweet_id": "2093655947726238047",
+        "name": "in3酱火力全开",
+        "pinned_tweet_id": "2089775842281029736",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1752437729235984384/1708780719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1752446553397309440/skywCM1o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 39,
+          "like_count": 420,
+          "listed_count": 0,
+          "media_count": 88,
+          "tweet_count": 580
+        },
+        "url": "",
+        "username": "Sanevy_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

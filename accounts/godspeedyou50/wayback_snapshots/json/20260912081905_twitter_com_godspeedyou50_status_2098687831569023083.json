@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2097035016224252150",
+    "created_at": "2026-09-12T08:19:05.000Z",
+    "display_text_range": [
+      24,
+      30
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T09:19:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098687831569023083"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2079926361557524480",
+          "start": 0,
+          "username": "iwantredeyes"
+        },
+        {
+          "end": 23,
+          "id": "1957484941983510534",
+          "start": 14,
+          "username": "soutv420"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098687831569023083",
+    "in_reply_to_user_id": "2079926361557524480",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098686712176071026",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iwantredeyes @soutv420 小雨整的是不"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2097035016224252150",
+        "created_at": "2026-09-12T08:19:05.000Z",
+        "display_text_range": [
+          24,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T09:19:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098687831569023083"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2079926361557524480",
+              "start": 0,
+              "username": "iwantredeyes"
+            },
+            {
+              "end": 23,
+              "id": "1957484941983510534",
+              "start": 14,
+              "username": "soutv420"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098687831569023083",
+        "in_reply_to_user_id": "2079926361557524480",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098686712176071026",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iwantredeyes @soutv420 小雨整的是不"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2079926361557524480",
+        "conversation_id": "2097035016224252150",
+        "created_at": "2026-09-12T08:14:38.000Z",
+        "display_text_range": [
+          25,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T09:14:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098686712176071026"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1518404201168007168",
+              "start": 0,
+              "username": "godspeedyou50"
+            },
+            {
+              "end": 24,
+              "id": "1957484941983510534",
+              "start": 15,
+              "username": "soutv420"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098686712176071026",
+        "in_reply_to_user_id": "1518404201168007168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097106677472641236",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@godspeedyou50 @soutv420 我最开始也以为是旭来着"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个违背了大众良知od喝大酒的神棍。\n☯️算命后付不怕跑单｜代请符箓、祈福请私讯\n传统宗教现代哲学文化传播者，又称中式廉价心理医生。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/godspeedyoupr",
+                "end": 23,
+                "expanded_url": "https://t.me/godspeedyoupr",
+                "start": 0,
+                "url": "https://t.co/3vanSMgOi4"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098687831569023083",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2096142160496328763",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1518404201168007168/1777353629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1999,
+          "following_count": 706,
+          "like_count": 1407,
+          "listed_count": 1,
+          "media_count": 231,
+          "tweet_count": 3201
+        },
+        "url": "https://t.co/3vanSMgOi4",
+        "username": "godspeedyou50",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-22T13:50:54.000Z",
+        "description": "这里还有人吗？？？？？？？？？@crispyvege",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 15,
+                "username": "crispyvege"
+              }
+            ]
+          }
+        },
+        "id": "2079926361557524480",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098687728162402490",
+        "name": "红眼病",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2079926361557524480/1784733399",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080678026866810880/Tm-U-TII_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 199,
+          "following_count": 110,
+          "like_count": 3918,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 924
+        },
+        "url": "",
+        "username": "iwantredeyes",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-08-18T16:49:40.000Z",
+        "description": "網路新聞 笑料 迷因 地獄梗 一次滿足，公共論壇 自由投稿，想要每天呼 加入論壇，電報搜索 roll420bot",
+        "id": "1957484941983510534",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098682068788244968",
+        "name": "420抽了就發帖",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1957484941983510534/1787769104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091465686279434240/KXkJYyTY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 30,
+          "like_count": 61,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 229
+        },
+        "url": "",
+        "username": "soutv420",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

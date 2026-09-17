@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2095823225934782464"
+      ]
+    },
+    "author_id": "1518404201168007168",
+    "conversation_id": "2095823234193399852",
+    "created_at": "2026-09-04T10:36:12.000Z",
+    "display_text_range": [
+      0,
+      138
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T11:36:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2095823234193399852"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/tGw4SY0YmQ",
+          "end": 162,
+          "expanded_url": "https://x.com/godspeedyou50/status/2095823234193399852/photo/1",
+          "media_key": "3_2095823225934782464",
+          "start": 139,
+          "url": "https://t.co/tGw4SY0YmQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095823234193399852",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2095823225934782464"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "奈奈可能是我至今为止称之为亲朋里最洒脱大方善良的女孩\n我突然还是无法接受 虽然最近都在无法接受中\n\n我这辈子都会恨让她最后的人世间时光感觉到恶心的人 如果你们在视奸我 告诉你们 我没那么善良 我恨你们 我这一辈子都会让你们过得不自在 每一分每一秒我都带着这份恶意\n\n我懊恼…. https://t.co/tGw4SY0YmQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 304,
+        "media_key": "3_2095823225934782464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRXcHq3bIAAHzAG.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095823225934782464"
+          ]
+        },
+        "author_id": "1518404201168007168",
+        "conversation_id": "2095823234193399852",
+        "created_at": "2026-09-04T10:36:12.000Z",
+        "display_text_range": [
+          0,
+          138
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T11:36:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095823234193399852"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tGw4SY0YmQ",
+              "end": 162,
+              "expanded_url": "https://x.com/godspeedyou50/status/2095823234193399852/photo/1",
+              "media_key": "3_2095823225934782464",
+              "start": 139,
+              "url": "https://t.co/tGw4SY0YmQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095823234193399852",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095823225934782464"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "奈奈可能是我至今为止称之为亲朋里最洒脱大方善良的女孩\n我突然还是无法接受 虽然最近都在无法接受中\n\n我这辈子都会恨让她最后的人世间时光感觉到恶心的人 如果你们在视奸我 告诉你们 我没那么善良 我恨你们 我这一辈子都会让你们过得不自在 每一分每一秒我都带着这份恶意\n\n我懊恼…. https://t.co/tGw4SY0YmQ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个违背了大众良知od喝大酒的神棍。\n☯️算命后付不怕跑单｜代请符箓、祈福请私讯\n传统宗教现代哲学文化传播者，又称中式廉价心理医生。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/buyaogaowosorry",
+                "end": 23,
+                "expanded_url": "https://t.me/buyaogaowosorry",
+                "start": 0,
+                "url": "https://t.co/AdoFGQJldT"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095823234193399852",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2069223594711011526",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1518404201168007168/1777353629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1874,
+          "following_count": 666,
+          "like_count": 1368,
+          "listed_count": 1,
+          "media_count": 224,
+          "tweet_count": 3075
+        },
+        "url": "https://t.co/AdoFGQJldT",
+        "username": "godspeedyou50",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

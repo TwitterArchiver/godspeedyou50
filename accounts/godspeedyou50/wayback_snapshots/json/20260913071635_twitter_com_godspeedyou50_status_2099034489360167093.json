@@ -1,0 +1,386 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2099034390047375360",
+        "3_2099034390043271168"
+      ]
+    },
+    "author_id": "1518404201168007168",
+    "conversation_id": "2099034489360167093",
+    "created_at": "2026-09-13T07:16:35.000Z",
+    "display_text_range": [
+      0,
+      141
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-13T08:16:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2099034489360167093"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/57oKkAsAvm",
+          "end": 165,
+          "expanded_url": "https://x.com/godspeedyou50/status/2099034489360167093/video/1",
+          "media_key": "13_2099034390047375360",
+          "start": 142,
+          "url": "https://t.co/57oKkAsAvm"
+        },
+        {
+          "display_url": "pic.x.com/57oKkAsAvm",
+          "end": 165,
+          "expanded_url": "https://x.com/godspeedyou50/status/2099034489360167093/video/1",
+          "media_key": "3_2099034390043271168",
+          "start": 142,
+          "url": "https://t.co/57oKkAsAvm"
+        },
+        {
+          "display_url": "x.com/pharmakon14138…",
+          "end": 189,
+          "expanded_url": "https://twitter.com/pharmakon14138/status/2099020775504461866",
+          "start": 166,
+          "url": "https://t.co/8P5dYPyVg1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099034489360167093",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "13_2099034390047375360"
+      },
+      {
+        "media_key": "3_2099034390043271168"
+      }
+    ],
+    "note_tweet": {
+      "entities": {},
+      "text": "谢谢朋友们这么关心我，在我做推特之前，生命中并没有谁在意我所谓的生日，我自己也很烦庆生这个概念，收礼物就要送礼物，人情来往太麻烦。\n所以我打个广告，今天来找我的第二人格Pharmakon的宝子在瓦楞斯大人的定价下额外每个减20元，但是瓦楞斯的粉丝们不许来找我，找他也会折！ 哈哈哈哈\n然后今天依然接算命单，我农历生日再去吃顿好的，今天的客户们我会一并上香诚心帮大家祈福"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099020775504461866",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "谢谢朋友们这么关心我，在我做推特之前，生命中并没有谁在意我所谓的生日，我自己也很烦庆生这个概念，收礼物就要送礼物，人情来往太麻烦。\n所以我打个广告，今天来找我的第二人格Pharmakon的宝子在瓦楞斯大人的定价下额外每个减20元，但是瓦楞斯的粉丝们不许来找我，找他也会折！ 哈哈哈哈 https://t.co/57oKkAsAvm https://t.co/8P5dYPyVg1"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10646,
+        "height": 1920,
+        "media_key": "13_2099034390047375360",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2099034390047375360/img/rGd8a33vhjb3Cnvs.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099034390047375360/vid/avc1/720x1280/pYPghvHEAst3gVrB.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2099034390047375360/pl/AJQtuqOmpMIvAvxE.m3u8"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099034390047375360/vid/avc1/320x568/8A11jtzpDQCUin2K.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099034390047375360/vid/avc1/480x852/iJAxzzIgQpjuxkNo.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099034390047375360/vid/avc1/1080x1920/GiZEQkxkWWyDS7XA.mp4"
+          }
+        ],
+        "width": 1080
+      },
+      {
+        "height": 1904,
+        "media_key": "3_2099034390043271168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSFEqBXboAA-lAO.jpg",
+        "width": 1118
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2099020753635274753",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSE4QRyacAE0JAk.jpg",
+        "width": 1101
+      },
+      {
+        "height": 2043,
+        "media_key": "3_2099020753660420096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSE4QR4aIAAE01z.jpg",
+        "width": 1112
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2099034390047375360",
+            "3_2099034390043271168"
+          ]
+        },
+        "author_id": "1518404201168007168",
+        "conversation_id": "2099034489360167093",
+        "created_at": "2026-09-13T07:16:35.000Z",
+        "display_text_range": [
+          0,
+          141
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T08:16:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099034489360167093"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/57oKkAsAvm",
+              "end": 165,
+              "expanded_url": "https://x.com/godspeedyou50/status/2099034489360167093/video/1",
+              "media_key": "13_2099034390047375360",
+              "start": 142,
+              "url": "https://t.co/57oKkAsAvm"
+            },
+            {
+              "display_url": "pic.x.com/57oKkAsAvm",
+              "end": 165,
+              "expanded_url": "https://x.com/godspeedyou50/status/2099034489360167093/video/1",
+              "media_key": "3_2099034390043271168",
+              "start": 142,
+              "url": "https://t.co/57oKkAsAvm"
+            },
+            {
+              "display_url": "x.com/pharmakon14138…",
+              "end": 189,
+              "expanded_url": "https://twitter.com/pharmakon14138/status/2099020775504461866",
+              "start": 166,
+              "url": "https://t.co/8P5dYPyVg1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099034489360167093",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2099034390047375360"
+          },
+          {
+            "media_key": "3_2099034390043271168"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "谢谢朋友们这么关心我，在我做推特之前，生命中并没有谁在意我所谓的生日，我自己也很烦庆生这个概念，收礼物就要送礼物，人情来往太麻烦。\n所以我打个广告，今天来找我的第二人格Pharmakon的宝子在瓦楞斯大人的定价下额外每个减20元，但是瓦楞斯的粉丝们不许来找我，找他也会折！ 哈哈哈哈\n然后今天依然接算命单，我农历生日再去吃顿好的，今天的客户们我会一并上香诚心帮大家祈福"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099020775504461866",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "谢谢朋友们这么关心我，在我做推特之前，生命中并没有谁在意我所谓的生日，我自己也很烦庆生这个概念，收礼物就要送礼物，人情来往太麻烦。\n所以我打个广告，今天来找我的第二人格Pharmakon的宝子在瓦楞斯大人的定价下额外每个减20元，但是瓦楞斯的粉丝们不许来找我，找他也会折！ 哈哈哈哈 https://t.co/57oKkAsAvm https://t.co/8P5dYPyVg1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099020753635274753",
+            "3_2099020753660420096"
+          ]
+        },
+        "author_id": "2080966704356802560",
+        "conversation_id": "2099020775504461866",
+        "created_at": "2026-09-13T06:22:05.000Z",
+        "display_text_range": [
+          0,
+          53
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T07:22:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099020775504461866"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/w2CLCLbAP4",
+              "end": 77,
+              "expanded_url": "https://x.com/Pharmakon14138/status/2099020775504461866/photo/1",
+              "media_key": "3_2099020753635274753",
+              "start": 54,
+              "url": "https://t.co/w2CLCLbAP4"
+            },
+            {
+              "display_url": "pic.x.com/w2CLCLbAP4",
+              "end": 77,
+              "expanded_url": "https://x.com/Pharmakon14138/status/2099020775504461866/photo/1",
+              "media_key": "3_2099020753660420096",
+              "start": 54,
+              "url": "https://t.co/w2CLCLbAP4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099020775504461866",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2099020753635274753"
+          },
+          {
+            "media_key": "3_2099020753660420096"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "飘飘糖很多人没感觉 有时间我觉得我应该认真做一期关于引导的重要性以及学会感受体感 迷幻物质是很需要这些的！ https://t.co/w2CLCLbAP4"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个违背了大众良知od喝大酒的神棍。\n☯️算命后付不怕跑单｜代请符箓、祈福请私讯\n传统宗教现代哲学文化传播者，又称中式廉价心理医生。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/godspeedyoupr",
+                "end": 23,
+                "expanded_url": "https://t.me/godspeedyoupr",
+                "start": 0,
+                "url": "https://t.co/3vanSMgOi4"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099034489360167093",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2096142160496328763",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1518404201168007168/1777353629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2008,
+          "following_count": 712,
+          "like_count": 1438,
+          "listed_count": 1,
+          "media_count": 234,
+          "tweet_count": 3233
+        },
+        "url": "https://t.co/3vanSMgOi4",
+        "username": "godspeedyou50",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-25T10:43:18.000Z",
+        "description": "法马康二世在此，我是随时消融在历史长河的毒瘤，兜售各种非列管合法策划化学物质💊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/godspeedyoupr",
+                "end": 23,
+                "expanded_url": "https://t.me/godspeedyoupr",
+                "start": 0,
+                "url": "https://t.co/QC1vAgVgsX"
+              }
+            ]
+          }
+        },
+        "id": "2080966704356802560",
+        "is_identity_verified": false,
+        "location": "欢迎私信tg指路 ",
+        "most_recent_tweet_id": "2099020775504461866",
+        "name": "Pharmakon",
+        "pinned_tweet_id": "2081579185940938937",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2080966704356802560/1784976629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083912415851524096/qm0ThLdB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 64,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 50
+        },
+        "url": "https://t.co/QC1vAgVgsX",
+        "username": "Pharmakon14138",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2094641451921748055",
+    "created_at": "2026-09-01T07:32:35.000Z",
+    "display_text_range": [
+      10,
+      44
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-01T08:32:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094689863983562884"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1493016356182056961",
+          "start": 0,
+          "username": "Mintink3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094689863983562884",
+    "in_reply_to_user_id": "1493016356182056961",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094641451921748055",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mintink3 你妈挺关心你的 但是脑子有病而已 有时候把问题分开看 还是要爱妈妈的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2094641451921748055",
+        "created_at": "2026-09-01T07:32:35.000Z",
+        "display_text_range": [
+          10,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T08:32:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094689863983562884"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1493016356182056961",
+              "start": 0,
+              "username": "Mintink3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094689863983562884",
+        "in_reply_to_user_id": "1493016356182056961",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094641451921748055",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mintink3 你妈挺关心你的 但是脑子有病而已 有时候把问题分开看 还是要爱妈妈的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493016356182056961",
+        "conversation_id": "2094641451921748055",
+        "created_at": "2026-09-01T04:20:13.000Z",
+        "display_text_range": [
+          0,
+          137
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T05:09:05.000Z",
+          "edits_remaining": 2,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094638651653362170",
+          "2094640238694174798",
+          "2094640623550910706",
+          "2094641451921748055"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2094641451921748055",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "太窒息了 太绝望了 \n\n昨天睡了5小时今天睡了3小时 被我妈强制打电话叫醒查岗\n\n我都离家出来这么久了还天天查岗 我不接电话就报警（她只是问我吃饭了没有和在干什么）\n\n我刚离开家去北京的一个月她甚至平均每天给我打11个电话 最多一天22个电话\n\n我一直觉得我妈精神问题比我大 但是她说她考过了国家心理咨询师二级证书 她说她很健全 都是我才心理有问题\n\n我真的受不了\n\n我本来就是受不了她在家经常因为一些非常小的事情（比如我晾衣服的时候衣服没扯平衣角）而让我跪着四个小时一直骂我才跑出来生活的 \n\n她把从她家人对她催婚和一直嫌弃她不成事的无奈 对前夫（我爸）出轨和欠钱不还的愤恨 对来自公司其他人对她的勾心斗角 都发泄在了我身上\n\n但是没办法我还是没法脱离原生家庭 我妈妈现在每个月还要找我要钱\n\n我发誓以上我说的都是真的\n\n这真的太窒息了\n\n我妈妈已经报警抓我差不多10次了 \n\n我曾经因为被报警太多次 被室友嫌弃闹掰了 我现在独居"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 914,
+          "like_count": 39,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "太窒息了 太绝望了 \n\n昨天睡了5小时今天睡了3小时 被我妈强制打电话叫醒查岗\n\n我都离家出来这么久了还天天查岗 我不接电话就报警（她只是问我吃饭了没有和在干什么）\n\n我刚离开家去北京的一个月她甚至平均每天给我打11个电话 最多一天22个电话\n\n我一直觉得我妈精神问题比我大"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个违背了大众良知od喝大酒的神棍。\n☯️算命后付不怕跑单｜代请符箓、祈福请私讯\n传统宗教现代哲学文化传播者，又称中式廉价心理医生。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/buyaogaowosorry",
+                "end": 23,
+                "expanded_url": "https://t.me/buyaogaowosorry",
+                "start": 0,
+                "url": "https://t.co/AdoFGQJldT"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094689863983562884",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2069223594711011526",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1518404201168007168/1777353629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1871,
+          "following_count": 662,
+          "like_count": 1359,
+          "listed_count": 1,
+          "media_count": 222,
+          "tweet_count": 3060
+        },
+        "url": "https://t.co/AdoFGQJldT",
+        "username": "godspeedyou50",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-02-14T00:17:01.000Z",
+        "description": "09 166cm 41kg 性冷淡 重度焦虑 重度睡眠障碍💊休学做夜场 会fo同类和感兴趣的",
+        "id": "1493016356182056961",
+        "is_identity_verified": false,
+        "location": "Singapore",
+        "most_recent_tweet_id": "2094641640275324960",
+        "name": "Beatrice",
+        "pinned_tweet_id": "2094060987481837990",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1493016356182056961/1782402163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082516064773242880/k6m-rV3E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 950,
+          "following_count": 1123,
+          "like_count": 10721,
+          "listed_count": 1,
+          "media_count": 160,
+          "tweet_count": 1509
+        },
+        "url": "",
+        "username": "Mintink3",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

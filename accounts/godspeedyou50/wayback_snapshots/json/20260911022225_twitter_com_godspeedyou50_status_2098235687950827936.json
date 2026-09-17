@@ -1,0 +1,400 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2098222200260345856"
+      ],
+      "media_source_tweet_id": [
+        "2098222216001552565"
+      ]
+    },
+    "author_id": "1518404201168007168",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2098235687950827936",
+    "created_at": "2026-09-11T02:22:25.000Z",
+    "display_text_range": [
+      0,
+      76
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T03:22:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098235687950827936"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1625237813926182913",
+          "start": 3,
+          "username": "koizumi7723"
+        },
+        {
+          "end": 52,
+          "id": "2080966704356802560",
+          "start": 37,
+          "username": "Pharmakon14138"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nzPkyQ8Ro9",
+          "end": 76,
+          "expanded_url": "https://x.com/koizumi7723/status/2098222216001552565/photo/1",
+          "media_key": "3_2098222200260345856",
+          "start": 53,
+          "url": "https://t.co/nzPkyQ8Ro9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098235687950827936",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2098222200260345856"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098222216001552565",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @koizumi7723: 当解离鬼好舒服的，好爽的\n爱来自棉花糖 @Pharmakon14138 https://t.co/nzPkyQ8Ro9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2098222200260345856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR5h-WpbQAArldZ.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098222200260345856"
+          ],
+          "media_source_tweet_id": [
+            "2098222216001552565"
+          ]
+        },
+        "author_id": "1518404201168007168",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2098235687950827936",
+        "created_at": "2026-09-11T02:22:25.000Z",
+        "display_text_range": [
+          0,
+          76
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T03:22:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098235687950827936"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1625237813926182913",
+              "start": 3,
+              "username": "koizumi7723"
+            },
+            {
+              "end": 52,
+              "id": "2080966704356802560",
+              "start": 37,
+              "username": "Pharmakon14138"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nzPkyQ8Ro9",
+              "end": 76,
+              "expanded_url": "https://x.com/koizumi7723/status/2098222216001552565/photo/1",
+              "media_key": "3_2098222200260345856",
+              "start": 53,
+              "url": "https://t.co/nzPkyQ8Ro9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098235687950827936",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098222200260345856"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098222216001552565",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @koizumi7723: 当解离鬼好舒服的，好爽的\n爱来自棉花糖 @Pharmakon14138 https://t.co/nzPkyQ8Ro9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098222200260345856"
+          ]
+        },
+        "author_id": "1625237813926182913",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2098222216001552565",
+        "created_at": "2026-09-11T01:28:54.000Z",
+        "display_text_range": [
+          0,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T02:28:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098222216001552565"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 35,
+              "id": "2080966704356802560",
+              "start": 20,
+              "username": "Pharmakon14138"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nzPkyQ8Ro9",
+              "end": 59,
+              "expanded_url": "https://x.com/koizumi7723/status/2098222216001552565/photo/1",
+              "media_key": "3_2098222200260345856",
+              "start": 36,
+              "url": "https://t.co/nzPkyQ8Ro9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098222216001552565",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098222200260345856"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 50,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "当解离鬼好舒服的，好爽的\n爱来自棉花糖 @Pharmakon14138 https://t.co/nzPkyQ8Ro9"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个违背了大众良知od喝大酒的神棍。\n☯️算命后付不怕跑单｜代请符箓、祈福请私讯\n传统宗教现代哲学文化传播者，又称中式廉价心理医生。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/godspeedyoupr",
+                "end": 23,
+                "expanded_url": "https://t.me/godspeedyoupr",
+                "start": 0,
+                "url": "https://t.co/3vanSMgOi4"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098235687950827936",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2096142160496328763",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1518404201168007168/1777353629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1984,
+          "following_count": 706,
+          "like_count": 1396,
+          "listed_count": 1,
+          "media_count": 230,
+          "tweet_count": 3178
+        },
+        "url": "https://t.co/3vanSMgOi4",
+        "username": "godspeedyou50",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-02-13T20:57:54.000Z",
+        "description": "06顺女/友跨/LGBTQ/爱磕药自残/shedtwt/直fo会回/EN/CN/欢迎大家找我玩\n老公@chemy_05",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 50,
+                "username": "chemy_05"
+              }
+            ]
+          }
+        },
+        "id": "1625237813926182913",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098233127676350553",
+        "name": "小泉",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1625237813926182913/1676322456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1720311986050002944/pEEBk6Y6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 174,
+          "following_count": 396,
+          "like_count": 431,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 643
+        },
+        "url": "",
+        "username": "koizumi7723",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-25T10:43:18.000Z",
+        "description": "法马康二世在此，我是随时消融在历史长河的毒瘤，兜售各种非列管合法策划化学物质💊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/godspeedyoupr",
+                "end": 23,
+                "expanded_url": "https://t.me/godspeedyoupr",
+                "start": 0,
+                "url": "https://t.co/QC1vAgVgsX"
+              }
+            ]
+          }
+        },
+        "id": "2080966704356802560",
+        "is_identity_verified": false,
+        "location": "欢迎私信tg指路 ",
+        "most_recent_tweet_id": "2098225943563366431",
+        "name": "Pharmakon",
+        "pinned_tweet_id": "2081579185940938937",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2080966704356802560/1784976629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083912415851524096/qm0ThLdB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 221,
+          "following_count": 64,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 49
+        },
+        "url": "https://t.co/QC1vAgVgsX",
+        "username": "Pharmakon14138",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

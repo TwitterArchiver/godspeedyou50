@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2099033308994920519",
+    "created_at": "2026-09-13T09:24:00.000Z",
+    "display_text_range": [
+      13,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-13T10:24:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099066558056411600"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2076338240345579520",
+          "start": 0,
+          "username": "yuyuyu_2778"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099066558056411600",
+    "in_reply_to_user_id": "2076338240345579520",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099065892953022644",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuyuyu_2778 富贵爆操胖妓女"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2099033308994920519",
+        "created_at": "2026-09-13T09:24:00.000Z",
+        "display_text_range": [
+          13,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T10:24:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099066558056411600"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2076338240345579520",
+              "start": 0,
+              "username": "yuyuyu_2778"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099066558056411600",
+        "in_reply_to_user_id": "2076338240345579520",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099065892953022644",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuyuyu_2778 富贵爆操胖妓女"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076338240345579520",
+        "conversation_id": "2099033308994920519",
+        "created_at": "2026-09-13T09:21:22.000Z",
+        "display_text_range": [
+          15,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T10:21:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099065892953022644"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1518404201168007168",
+              "start": 0,
+              "username": "godspeedyou50"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099065892953022644",
+        "in_reply_to_user_id": "1518404201168007168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099049642273227163",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@godspeedyou50 我又想到福贵爹蹲在大缸上拉屎"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个违背了大众良知od喝大酒的神棍。\n☯️算命后付不怕跑单｜代请符箓、祈福请私讯\n传统宗教现代哲学文化传播者，又称中式廉价心理医生。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/godspeedyoupr",
+                "end": 23,
+                "expanded_url": "https://t.me/godspeedyoupr",
+                "start": 0,
+                "url": "https://t.co/3vanSMgOi4"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099066558056411600",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2096142160496328763",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1518404201168007168/1777353629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2009,
+          "following_count": 706,
+          "like_count": 1442,
+          "listed_count": 1,
+          "media_count": 234,
+          "tweet_count": 3243
+        },
+        "url": "https://t.co/3vanSMgOi4",
+        "username": "godspeedyou50",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-12T16:12:51.000Z",
+        "description": "",
+        "id": "2076338240345579520",
+        "is_identity_verified": false,
+        "location": "🚪88 288",
+        "most_recent_tweet_id": "2099066486254112843",
+        "name": "苦桃",
+        "pinned_tweet_id": "2090006420540580348",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076338240345579520/1787420436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080585066754039808/z70M0iUE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 178,
+          "following_count": 63,
+          "like_count": 716,
+          "listed_count": 1,
+          "media_count": 26,
+          "tweet_count": 230
+        },
+        "url": "",
+        "username": "yuyuyu_2778",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

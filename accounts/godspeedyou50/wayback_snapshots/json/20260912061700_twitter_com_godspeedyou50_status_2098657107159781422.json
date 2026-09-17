@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2097754899048280421",
+    "created_at": "2026-09-12T06:17:00.000Z",
+    "display_text_range": [
+      11,
+      47
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T07:17:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098657107159781422"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1936646015031164928",
+          "start": 0,
+          "username": "TwTxxxxx5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098657107159781422",
+    "in_reply_to_user_id": "1936646015031164928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097754899048280421",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TwTxxxxx5 所谓业力 其实就是指基因 家教 遗传的智商 做事的行为\n后天完全可以摆脱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2097754899048280421",
+        "created_at": "2026-09-12T06:17:00.000Z",
+        "display_text_range": [
+          11,
+          47
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T07:17:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098657107159781422"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1936646015031164928",
+              "start": 0,
+              "username": "TwTxxxxx5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098657107159781422",
+        "in_reply_to_user_id": "1936646015031164928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097754899048280421",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TwTxxxxx5 所谓业力 其实就是指基因 家教 遗传的智商 做事的行为\n后天完全可以摆脱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1936646015031164928",
+        "conversation_id": "2097754899048280421",
+        "created_at": "2026-09-09T18:31:56.000Z",
+        "display_text_range": [
+          0,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T19:31:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097754899048280421"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2097754899048280421",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1189,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "家族遗传精神病史算家族业力吗"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个违背了大众良知od喝大酒的神棍。\n☯️算命后付不怕跑单｜代请符箓、祈福请私讯\n传统宗教现代哲学文化传播者，又称中式廉价心理医生。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/godspeedyoupr",
+                "end": 23,
+                "expanded_url": "https://t.me/godspeedyoupr",
+                "start": 0,
+                "url": "https://t.co/3vanSMgOi4"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098657107159781422",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2096142160496328763",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1518404201168007168/1777353629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1999,
+          "following_count": 707,
+          "like_count": 1406,
+          "listed_count": 1,
+          "media_count": 231,
+          "tweet_count": 3197
+        },
+        "url": "https://t.co/3vanSMgOi4",
+        "username": "godspeedyou50",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-06-22T04:43:01.000Z",
+        "description": "你看起来很好吃\n我上网是来当皇帝的\n不会说人话的一律拉黑",
+        "id": "1936646015031164928",
+        "is_identity_verified": false,
+        "location": "kyoto",
+        "most_recent_tweet_id": "2098654477389852699",
+        "name": "小野大人",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1936646015031164928/1761188899",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096328949131538432/2MPXblmi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 754,
+          "following_count": 280,
+          "like_count": 14539,
+          "listed_count": 1,
+          "media_count": 90,
+          "tweet_count": 1038
+        },
+        "url": "",
+        "username": "TwTxxxxx5",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

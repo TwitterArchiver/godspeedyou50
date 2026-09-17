@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2096987742446211493",
+    "created_at": "2026-09-07T15:44:06.000Z",
+    "display_text_range": [
+      0,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T16:44:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096987884574400932"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2096987884574400932",
+    "in_reply_to_user_id": "1518404201168007168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096987742446211493",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "上一版农村人暴露了错别字"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2096987715405598720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRn_N4Mb0AA7_M0.jpg",
+        "width": 1051
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2096987715338383360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRn_N38aMAA_iCN.jpg",
+        "width": 1045
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2096987715325894656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRn_N35boAAjzCT.jpg",
+        "width": 1083
+      },
+      {
+        "height": 1752,
+        "media_key": "3_2096987715330052097",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRn_N36bEAEO1qB.jpg",
+        "width": 1134
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2096987742446211493",
+        "created_at": "2026-09-07T15:44:06.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T16:44:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096987884574400932"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2096987884574400932",
+        "in_reply_to_user_id": "1518404201168007168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096987742446211493",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "上一版农村人暴露了错别字"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096987715405598720",
+            "3_2096987715338383360",
+            "3_2096987715325894656",
+            "3_2096987715330052097"
+          ]
+        },
+        "author_id": "1518404201168007168",
+        "conversation_id": "2096987742446211493",
+        "created_at": "2026-09-07T15:43:32.000Z",
+        "display_text_range": [
+          0,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T16:43:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096987742446211493"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Cv4LGO9FRw",
+              "end": 34,
+              "expanded_url": "https://x.com/godspeedyou50/status/2096987742446211493/photo/1",
+              "media_key": "3_2096987715405598720",
+              "start": 11,
+              "url": "https://t.co/Cv4LGO9FRw"
+            },
+            {
+              "display_url": "pic.x.com/Cv4LGO9FRw",
+              "end": 34,
+              "expanded_url": "https://x.com/godspeedyou50/status/2096987742446211493/photo/1",
+              "media_key": "3_2096987715338383360",
+              "start": 11,
+              "url": "https://t.co/Cv4LGO9FRw"
+            },
+            {
+              "display_url": "pic.x.com/Cv4LGO9FRw",
+              "end": 34,
+              "expanded_url": "https://x.com/godspeedyou50/status/2096987742446211493/photo/1",
+              "media_key": "3_2096987715325894656",
+              "start": 11,
+              "url": "https://t.co/Cv4LGO9FRw"
+            },
+            {
+              "display_url": "pic.x.com/Cv4LGO9FRw",
+              "end": 34,
+              "expanded_url": "https://x.com/godspeedyou50/status/2096987742446211493/photo/1",
+              "media_key": "3_2096987715330052097",
+              "start": 11,
+              "url": "https://t.co/Cv4LGO9FRw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096987742446211493",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096987715405598720"
+          },
+          {
+            "media_key": "3_2096987715338383360"
+          },
+          {
+            "media_key": "3_2096987715325894656"
+          },
+          {
+            "media_key": "3_2096987715330052097"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "道常无为而无不可为～ https://t.co/Cv4LGO9FRw"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个违背了大众良知od喝大酒的神棍。\n☯️算命后付不怕跑单｜代请符箓、祈福请私讯\n传统宗教现代哲学文化传播者，又称中式廉价心理医生。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/buyaogaowosorry",
+                "end": 23,
+                "expanded_url": "https://t.me/buyaogaowosorry",
+                "start": 0,
+                "url": "https://t.co/AdoFGQJldT"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096987884574400932",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2096142160496328763",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1518404201168007168/1777353629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1895,
+          "following_count": 685,
+          "like_count": 1371,
+          "listed_count": 1,
+          "media_count": 227,
+          "tweet_count": 3121
+        },
+        "url": "https://t.co/AdoFGQJldT",
+        "username": "godspeedyou50",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2097053402517905858",
+    "created_at": "2026-09-08T09:41:53.000Z",
+    "display_text_range": [
+      17,
+      70
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T10:41:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097259119287934987"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2058879697011019776",
+          "start": 0,
+          "username": "Zarathustra8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097259119287934987",
+    "in_reply_to_user_id": "2058879697011019776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097053402517905858",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Zarathustra8964 你真无敌了 你突然变成这样 最后一句我不喜欢 虽然我没权利指手画脚 这不是什么值得自豪的 至少删掉最后一句"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 402,
+        "media_key": "3_2097053393772822528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRo683LbQAAJxVS.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2097053402517905858",
+        "created_at": "2026-09-08T09:41:53.000Z",
+        "display_text_range": [
+          17,
+          70
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T10:41:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097259119287934987"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2058879697011019776",
+              "start": 0,
+              "username": "Zarathustra8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097259119287934987",
+        "in_reply_to_user_id": "2058879697011019776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097053402517905858",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zarathustra8964 你真无敌了 你突然变成这样 最后一句我不喜欢 虽然我没权利指手画脚 这不是什么值得自豪的 至少删掉最后一句"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097053393772822528"
+          ]
+        },
+        "author_id": "2058879697011019776",
+        "conversation_id": "2097053402517905858",
+        "created_at": "2026-09-07T20:04:27.000Z",
+        "display_text_range": [
+          0,
+          97
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T21:04:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097053402517905858"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dBbLOGSSwJ",
+              "end": 121,
+              "expanded_url": "https://x.com/Zarathustra8964/status/2097053402517905858/photo/1",
+              "media_key": "3_2097053393772822528",
+              "start": 98,
+              "url": "https://t.co/dBbLOGSSwJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097053402517905858",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097053393772822528"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 506,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "查拉图斯特拉或许真的很难评，看虐待动物人类的影像还打赏，吸毒，自残，嗑药，三次自杀未遂，喜欢用血画画，异食癖喜欢吃自己的头发和皮肤组织，支持战争，挺爱纳粹，教导人自杀\n活到我这种地步也是一种牛逼 https://t.co/dBbLOGSSwJ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个违背了大众良知od喝大酒的神棍。\n☯️算命后付不怕跑单｜代请符箓、祈福请私讯\n传统宗教现代哲学文化传播者，又称中式廉价心理医生。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/buyaogaowosorry",
+                "end": 23,
+                "expanded_url": "https://t.me/buyaogaowosorry",
+                "start": 0,
+                "url": "https://t.co/AdoFGQJldT"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097259119287934987",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2096142160496328763",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1518404201168007168/1777353629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1926,
+          "following_count": 696,
+          "like_count": 1378,
+          "listed_count": 1,
+          "media_count": 231,
+          "tweet_count": 3151
+        },
+        "url": "https://t.co/AdoFGQJldT",
+        "username": "godspeedyou50",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-25T12:00:57.000Z",
+        "description": "在你的个人资料中添加简介",
+        "id": "2058879697011019776",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097058375842537954",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2097058375842537954",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2058879697011019776/1779711138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058883784288927744/va7XxYIs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 406,
+          "following_count": 155,
+          "like_count": 152,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 99
+        },
+        "url": "",
+        "username": "Zarathustra8964",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

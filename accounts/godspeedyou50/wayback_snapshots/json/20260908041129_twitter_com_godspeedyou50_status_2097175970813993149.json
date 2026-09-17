@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2097110276348780976",
+    "created_at": "2026-09-08T04:11:29.000Z",
+    "display_text_range": [
+      28,
+      33
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T05:11:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097175970813993149"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1840466031732776960",
+          "start": 0,
+          "username": "rr00kkrrwwii"
+        },
+        {
+          "end": 27,
+          "id": "2002410613662961664",
+          "start": 14,
+          "username": "shyshy080522"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097175970813993149",
+    "in_reply_to_user_id": "1840466031732776960",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097166111842410724",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rr00kkrrwwii @shyshy080522 发生了什么"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2097110276348780976",
+        "created_at": "2026-09-08T04:11:29.000Z",
+        "display_text_range": [
+          28,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T05:11:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097175970813993149"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1840466031732776960",
+              "start": 0,
+              "username": "rr00kkrrwwii"
+            },
+            {
+              "end": 27,
+              "id": "2002410613662961664",
+              "start": 14,
+              "username": "shyshy080522"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097175970813993149",
+        "in_reply_to_user_id": "1840466031732776960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097166111842410724",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rr00kkrrwwii @shyshy080522 发生了什么"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840466031732776960",
+        "conversation_id": "2097110276348780976",
+        "created_at": "2026-09-08T03:32:19.000Z",
+        "display_text_range": [
+          14,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T04:32:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097166111842410724"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2002410613662961664",
+              "start": 0,
+              "username": "shyshy080522"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097166111842410724",
+        "in_reply_to_user_id": "2002410613662961664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097110276348780976",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shyshy080522 不敢让你来了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个违背了大众良知od喝大酒的神棍。\n☯️算命后付不怕跑单｜代请符箓、祈福请私讯\n传统宗教现代哲学文化传播者，又称中式廉价心理医生。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/buyaogaowosorry",
+                "end": 23,
+                "expanded_url": "https://t.me/buyaogaowosorry",
+                "start": 0,
+                "url": "https://t.co/AdoFGQJldT"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097175970813993149",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2096142160496328763",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1518404201168007168/1777353629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1908,
+          "following_count": 689,
+          "like_count": 1376,
+          "listed_count": 1,
+          "media_count": 228,
+          "tweet_count": 3135
+        },
+        "url": "https://t.co/AdoFGQJldT",
+        "username": "godspeedyou50",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-09-29T18:58:05.000Z",
+        "description": "",
+        "id": "1840466031732776960",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097166111842410724",
+        "name": "-",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1840466031732776960/1778509626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094766141566763009/aKHD7cGv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3045,
+          "following_count": 24,
+          "like_count": 672,
+          "listed_count": 6,
+          "media_count": 12,
+          "tweet_count": 25
+        },
+        "url": "",
+        "username": "rr00kkrrwwii",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-12-20T16:07:55.000Z",
+        "description": "18｜170/100｜广州 深圳 川渝🚪188 接开盒业务",
+        "id": "2002410613662961664",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097120680068161732",
+        "name": "e",
+        "pinned_tweet_id": "2075741015085076728",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2002410613662961664/1766247041",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072347148398874624/gK9kkcOz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 207,
+          "following_count": 44,
+          "like_count": 53,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 64
+        },
+        "url": "",
+        "username": "shyshy080522",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

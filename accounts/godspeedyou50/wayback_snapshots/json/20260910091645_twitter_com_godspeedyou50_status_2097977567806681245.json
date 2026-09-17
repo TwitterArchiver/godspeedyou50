@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2097977567806681245",
+    "created_at": "2026-09-10T09:16:45.000Z",
+    "display_text_range": [
+      0,
+      41
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T10:16:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2097977567806681245"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/bo1109bo/statu…",
+          "end": 65,
+          "expanded_url": "https://twitter.com/bo1109bo/status/2097670845175140579",
+          "start": 42,
+          "url": "https://t.co/qwVJYaFxqI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097977567806681245",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097670845175140579",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这他妈了个逼的哪冒出来的法盲脑残我真绷了吧\n这么多人参加 你他妈直接抽奖刑期就好了 https://t.co/qwVJYaFxqI"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2097977567806681245",
+        "created_at": "2026-09-10T09:16:45.000Z",
+        "display_text_range": [
+          0,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T10:16:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097977567806681245"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bo1109bo/statu…",
+              "end": 65,
+              "expanded_url": "https://twitter.com/bo1109bo/status/2097670845175140579",
+              "start": 42,
+              "url": "https://t.co/qwVJYaFxqI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097977567806681245",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097670845175140579",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这他妈了个逼的哪冒出来的法盲脑残我真绷了吧\n这么多人参加 你他妈直接抽奖刑期就好了 https://t.co/qwVJYaFxqI"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2090493219801120769",
+        "conversation_id": "2097670845175140579",
+        "created_at": "2026-09-09T12:57:56.000Z",
+        "display_text_range": [
+          0,
+          83
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T13:57:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097670845175140579"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2097670845175140579",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 498,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 30,
+          "retweet_count": 28
+        },
+        "reply_settings": "everyone",
+        "text": "抽点10tQKT羟，抽奖。截止日期9.11 12:00。       作为一个腰带，先打出自己的名号\n参与方式，点赞转发本帖并评论留言，我会用数字轮盘选一位公平公正的"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个违背了大众良知od喝大酒的神棍。\n☯️算命后付不怕跑单｜代请符箓、祈福请私讯\n传统宗教现代哲学文化传播者，又称中式廉价心理医生。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/godspeedyoupr",
+                "end": 23,
+                "expanded_url": "https://t.me/godspeedyoupr",
+                "start": 0,
+                "url": "https://t.co/3vanSMgOi4"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097977567806681245",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2096142160496328763",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1518404201168007168/1777353629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1970,
+          "following_count": 706,
+          "like_count": 1394,
+          "listed_count": 1,
+          "media_count": 231,
+          "tweet_count": 3175
+        },
+        "url": "https://t.co/3vanSMgOi4",
+        "username": "godspeedyou50",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-20T17:40:24.000Z",
+        "description": "",
+        "id": "2090493219801120769",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097670845175140579",
+        "name": "辞",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092442727774576640/bJRzjiH2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 16,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 8
+        },
+        "url": "",
+        "username": "bo1109bo",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

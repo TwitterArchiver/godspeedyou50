@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2099075514657075405",
+    "created_at": "2026-09-13T09:59:36.000Z",
+    "display_text_range": [
+      0,
+      3
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-13T10:59:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2099075514657075405"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/pp_konig/statu…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/pp_konig/status/2099074149352354173",
+          "start": 4,
+          "url": "https://t.co/0KHBFR0UNp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099075514657075405",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099074149352354173",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "跪谢🙇 https://t.co/0KHBFR0UNp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1478,
+        "media_key": "3_2099074140439490560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSFozzIasAA_E8m.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2099075514657075405",
+        "created_at": "2026-09-13T09:59:36.000Z",
+        "display_text_range": [
+          0,
+          3
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T10:59:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099075514657075405"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/pp_konig/statu…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/pp_konig/status/2099074149352354173",
+              "start": 4,
+              "url": "https://t.co/0KHBFR0UNp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099075514657075405",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099074149352354173",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "跪谢🙇 https://t.co/0KHBFR0UNp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099074140439490560"
+          ]
+        },
+        "author_id": "1771182467128635392",
+        "conversation_id": "2099074149352354173",
+        "created_at": "2026-09-13T09:54:10.000Z",
+        "display_text_range": [
+          0,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T10:54:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099074149352354173"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 46,
+              "id": "1518404201168007168",
+              "start": 32,
+              "username": "godspeedyou50"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3xEVxFXFDk",
+              "end": 70,
+              "expanded_url": "https://x.com/PP_Konig/status/2099074149352354173/photo/1",
+              "media_key": "3_2099074140439490560",
+              "start": 47,
+              "url": "https://t.co/3xEVxFXFDk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099074149352354173",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2099074140439490560"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "人生第一次算命感觉比心理医生好多了\n我很少信玄学 杰森大哥好厉害@godspeedyou50 https://t.co/3xEVxFXFDk"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个违背了大众良知od喝大酒的神棍。\n☯️算命后付不怕跑单｜代请符箓、祈福请私讯\n传统宗教现代哲学文化传播者，又称中式廉价心理医生。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/godspeedyoupr",
+                "end": 23,
+                "expanded_url": "https://t.me/godspeedyoupr",
+                "start": 0,
+                "url": "https://t.co/3vanSMgOi4"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099075514657075405",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2096142160496328763",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1518404201168007168/1777353629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2009,
+          "following_count": 706,
+          "like_count": 1443,
+          "listed_count": 1,
+          "media_count": 234,
+          "tweet_count": 3245
+        },
+        "url": "https://t.co/3vanSMgOi4",
+        "username": "godspeedyou50",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-03-22T14:29:56.000Z",
+        "description": "they 立场温和 有些绝望 喜欢游戏 动画片 饲养照顾宠物 烹饪拍摄 药物知识 自我治疗精神病中 随你喜好 叫我盐 肉鸦 都可以 我看到了电子未来姐姐@uixxixu装在玻璃碗的布丁女儿@Ace_purin飞向天空歌唱的ro友@qngshu988723424 林子里的天使@Rinko_zero8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 76,
+                "username": "uixxixu"
+              },
+              {
+                "end": 104,
+                "start": 94,
+                "username": "Ace_purin"
+              },
+              {
+                "end": 130,
+                "start": 114,
+                "username": "qngshu988723424"
+              },
+              {
+                "end": 152,
+                "start": 137,
+                "username": "Rinko_zero8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+cLa7Bq6d2Hw0Z…",
+                "end": 23,
+                "expanded_url": "https://t.me/+cLa7Bq6d2Hw0ZGZl",
+                "start": 0,
+                "url": "https://t.co/wDoKzriQ9u"
+              }
+            ]
+          }
+        },
+        "id": "1771182467128635392",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099074149352354173",
+        "name": "鹽momiji🐦‍⬛",
+        "pinned_tweet_id": "2082970433289408754",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1771182467128635392/1756391074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091083541866336257/TSlO_YLF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 233,
+          "like_count": 1499,
+          "listed_count": 1,
+          "media_count": 276,
+          "tweet_count": 3376
+        },
+        "url": "https://t.co/wDoKzriQ9u",
+        "username": "PP_Konig",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

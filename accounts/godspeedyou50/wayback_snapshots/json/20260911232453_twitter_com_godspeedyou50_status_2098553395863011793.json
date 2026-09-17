@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2098553395863011793",
+    "created_at": "2026-09-11T23:24:53.000Z",
+    "display_text_range": [
+      0,
+      29
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T00:24:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2098553395863011793"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/sns142148/stat…",
+          "end": 53,
+          "expanded_url": "https://twitter.com/sns142148/status/2098530092536479832",
+          "start": 30,
+          "url": "https://t.co/9ctz21mu4r"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098553395863011793",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098530092536479832",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这是我没睡醒，还是我不太懂板子，这怎么全阳呢？ 我真该睡了 https://t.co/9ctz21mu4r"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2098530078842056704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR95_PvacAAXTHa.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2098553395863011793",
+        "created_at": "2026-09-11T23:24:53.000Z",
+        "display_text_range": [
+          0,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T00:24:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098553395863011793"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sns142148/stat…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/sns142148/status/2098530092536479832",
+              "start": 30,
+              "url": "https://t.co/9ctz21mu4r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098553395863011793",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098530092536479832",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这是我没睡醒，还是我不太懂板子，这怎么全阳呢？ 我真该睡了 https://t.co/9ctz21mu4r"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098530078842056704"
+          ]
+        },
+        "author_id": "1958564025727664128",
+        "conversation_id": "2098530092536479832",
+        "created_at": "2026-09-11T21:52:17.000Z",
+        "display_text_range": [
+          0,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T22:52:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098530092536479832"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1907414826101669888",
+              "start": 0,
+              "username": "JamFarewellSong"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oebK6g5uoE",
+              "end": 49,
+              "expanded_url": "https://x.com/SNS142148/status/2098530092536479832/photo/1",
+              "media_key": "3_2098530078842056704",
+              "start": 26,
+              "url": "https://t.co/oebK6g5uoE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098530092536479832",
+        "in_reply_to_user_id": "1907414826101669888",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098530078842056704"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@JamFarewellSong 我们在一起啦🥰💕 https://t.co/oebK6g5uoE"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个违背了大众良知od喝大酒的神棍。\n☯️算命后付不怕跑单｜代请符箓、祈福请私讯\n传统宗教现代哲学文化传播者，又称中式廉价心理医生。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/godspeedyoupr",
+                "end": 23,
+                "expanded_url": "https://t.me/godspeedyoupr",
+                "start": 0,
+                "url": "https://t.co/3vanSMgOi4"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098553395863011793",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2096142160496328763",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1518404201168007168/1777353629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1998,
+          "following_count": 707,
+          "like_count": 1404,
+          "listed_count": 1,
+          "media_count": 230,
+          "tweet_count": 3194
+        },
+        "url": "https://t.co/3vanSMgOi4",
+        "username": "godspeedyou50",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-08-21T16:17:14.000Z",
+        "description": "可以叫我橙子喔！可互fo/INFP/OD💊/重度XP享受者/性别酷儿🏳️‍🌈/药理学习ins…/重度焦虑/双相/ADHD/日本語を学んでいます 提问箱：\nhttps://t.co/VRLP0B0mx7\nHRT：2023.5.31",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sns142148",
+                "end": 100,
+                "expanded_url": "https://ngl.link/sns142148",
+                "start": 77,
+                "url": "https://t.co/VRLP0B0mx7"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LOVEsnsoverdose",
+                "end": 23,
+                "expanded_url": "https://t.me/LOVEsnsoverdose",
+                "start": 0,
+                "url": "https://t.co/XfQ0VJ0Sds"
+              }
+            ]
+          }
+        },
+        "id": "1958564025727664128",
+        "is_identity_verified": false,
+        "location": "歌舞伎町",
+        "most_recent_tweet_id": "2098530092536479832",
+        "name": "蒼崎橙子",
+        "pinned_tweet_id": "2058670486503240005",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1958564025727664128/1788558721",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095993261085413376/wg7KD3-7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 140,
+          "like_count": 1260,
+          "listed_count": 0,
+          "media_count": 147,
+          "tweet_count": 1195
+        },
+        "url": "https://t.co/XfQ0VJ0Sds",
+        "username": "SNS142148",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "the Bone Gatherer；电波系中央空调；MtX（断糖中）&泛性恋&ASD&BPD&CPTSD，性别/身材焦虑；od&自伤新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；“如果海洋注定要决堤，就让所有的苦水都注入我心中”\n欢迎大家都来扩列互fo喵😇",
+        "id": "1907414826101669888",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098338906110648369",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1907414826101669888/1775085260",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 595,
+          "following_count": 1772,
+          "like_count": 7248,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 1831
+        },
+        "url": "",
+        "username": "JamFarewellSong",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

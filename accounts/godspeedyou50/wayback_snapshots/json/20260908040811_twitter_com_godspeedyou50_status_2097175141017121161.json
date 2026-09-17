@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2097168635492253991",
+    "created_at": "2026-09-08T04:08:11.000Z",
+    "display_text_range": [
+      10,
+      85
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T05:08:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097175141017121161"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2096172013996089344",
+          "start": 0,
+          "username": "Mintink4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097175141017121161",
+    "in_reply_to_user_id": "2096172013996089344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097168635492253991",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mintink4 呼吸抑制是神经性焦虑导致的 不用考虑器质性问题\n你没有脱水只是肌肉紧绷\n出汗是所有致幻剂的通效代表效力发挥不错\n喝三四瓶电解质水就好了 外星人牌子那种"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2097168635492253991",
+        "created_at": "2026-09-08T04:08:11.000Z",
+        "display_text_range": [
+          10,
+          85
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T05:08:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097175141017121161"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2096172013996089344",
+              "start": 0,
+              "username": "Mintink4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097175141017121161",
+        "in_reply_to_user_id": "2096172013996089344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097168635492253991",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mintink4 呼吸抑制是神经性焦虑导致的 不用考虑器质性问题\n你没有脱水只是肌肉紧绷\n出汗是所有致幻剂的通效代表效力发挥不错\n喝三四瓶电解质水就好了 外星人牌子那种"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2096172013996089344",
+        "conversation_id": "2097168635492253991",
+        "created_at": "2026-09-08T03:42:20.000Z",
+        "display_text_range": [
+          0,
+          152
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T04:42:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097168635492253991"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2097168635492253991",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 208,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我以后不会再尝试🌵iso了\n\n（我以前说过不会再使用pr和美金刚和替来 我已经坚持到现在了）\n\n这种色胺作用时间太久了\n\n我吃了昂丹司琼还是胃部剧烈蠕动十多个小时至今\n\n腹泻➕持续出汗 导致我有点脱水了\n\n我吃了BZD还是睡不着 并且有点呼吸抑制（bzd联用）我不敢继续加药\n\n我现在想喝点酒然后去🏥输液"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个违背了大众良知od喝大酒的神棍。\n☯️算命后付不怕跑单｜代请符箓、祈福请私讯\n传统宗教现代哲学文化传播者，又称中式廉价心理医生。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/buyaogaowosorry",
+                "end": 23,
+                "expanded_url": "https://t.me/buyaogaowosorry",
+                "start": 0,
+                "url": "https://t.co/AdoFGQJldT"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097175141017121161",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2096142160496328763",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1518404201168007168/1777353629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1908,
+          "following_count": 689,
+          "like_count": 1376,
+          "listed_count": 1,
+          "media_count": 228,
+          "tweet_count": 3134
+        },
+        "url": "https://t.co/AdoFGQJldT",
+        "username": "godspeedyou50",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-05T09:43:32.000Z",
+        "description": "前世@Mintink3 被害 我转生了 我是性冷淡 没回fo就是当日关注上限了 请帮我寻回好友们 感谢",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 2,
+                "username": "Mintink3"
+              }
+            ]
+          }
+        },
+        "id": "2096172013996089344",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097173680522678628",
+        "name": "Beatrice二世",
+        "pinned_tweet_id": "2096176661050126752",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2096172013996089344/1788601626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096173219044896768/yaMgdXAb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 754,
+          "following_count": 250,
+          "like_count": 435,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 86
+        },
+        "url": "",
+        "username": "Mintink4",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

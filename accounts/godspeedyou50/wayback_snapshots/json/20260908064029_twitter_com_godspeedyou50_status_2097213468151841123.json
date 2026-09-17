@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2097212818760315227",
+    "created_at": "2026-09-08T06:40:29.000Z",
+    "display_text_range": [
+      0,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T07:40:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097213468151841123"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2097213468151841123",
+    "in_reply_to_user_id": "1518404201168007168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097212818760315227",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "腿上是我蚊子包 叮咬过敏"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9938,
+        "height": 1280,
+        "media_key": "13_2097212780562841600",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2097212780562841600/img/wP8UnBab5S12Cg0w.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097212780562841600/vid/avc1/320x568/SrIvGQyRHO8B__hC.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097212780562841600/vid/avc1/480x852/GA1_pQ9RUy0GfQAw.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097212780562841600/vid/avc1/720x1280/_53N4wBfDYoaqVGE.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2097212780562841600/pl/FBEUVnieL9ypytt3.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2097212818760315227",
+        "created_at": "2026-09-08T06:40:29.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T07:40:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097213468151841123"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2097213468151841123",
+        "in_reply_to_user_id": "1518404201168007168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097212818760315227",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "腿上是我蚊子包 叮咬过敏"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2097212780562841600"
+          ]
+        },
+        "author_id": "1518404201168007168",
+        "conversation_id": "2097212818760315227",
+        "created_at": "2026-09-08T06:37:54.000Z",
+        "display_text_range": [
+          0,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T07:37:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097212818760315227"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uqlO9cgrwB",
+              "end": 46,
+              "expanded_url": "https://x.com/godspeedyou50/status/2097212818760315227/video/1",
+              "media_key": "13_2097212780562841600",
+              "start": 23,
+              "url": "https://t.co/uqlO9cgrwB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097212818760315227",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2097212780562841600"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "完蛋了 肌阵挛了 家里没人 求求了不要癫痫😭 https://t.co/uqlO9cgrwB"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个违背了大众良知od喝大酒的神棍。\n☯️算命后付不怕跑单｜代请符箓、祈福请私讯\n传统宗教现代哲学文化传播者，又称中式廉价心理医生。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/buyaogaowosorry",
+                "end": 23,
+                "expanded_url": "https://t.me/buyaogaowosorry",
+                "start": 0,
+                "url": "https://t.co/AdoFGQJldT"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097213468151841123",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2096142160496328763",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1518404201168007168/1777353629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1917,
+          "following_count": 692,
+          "like_count": 1377,
+          "listed_count": 1,
+          "media_count": 231,
+          "tweet_count": 3142
+        },
+        "url": "https://t.co/AdoFGQJldT",
+        "username": "godspeedyou50",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

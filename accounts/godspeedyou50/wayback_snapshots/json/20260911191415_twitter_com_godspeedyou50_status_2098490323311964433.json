@@ -1,0 +1,344 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2097652758245752892",
+    "created_at": "2026-09-11T19:14:15.000Z",
+    "display_text_range": [
+      39,
+      47
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T20:14:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098490323311964433"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1831775593421266944",
+          "start": 0,
+          "username": "kekeianil"
+        },
+        {
+          "end": 24,
+          "id": "1678171777409875968",
+          "start": 11,
+          "username": "420420420CTL"
+        },
+        {
+          "end": 38,
+          "id": "1784109678953480192",
+          "start": 25,
+          "username": "chidianmaima"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098490323311964433",
+    "in_reply_to_user_id": "1831775593421266944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098456299159912526",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kekeianil @420420420CTL @chidianmaima yes 生日快乐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2097652758245752892",
+        "created_at": "2026-09-11T19:14:15.000Z",
+        "display_text_range": [
+          39,
+          47
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T20:14:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098490323311964433"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1831775593421266944",
+              "start": 0,
+              "username": "kekeianil"
+            },
+            {
+              "end": 24,
+              "id": "1678171777409875968",
+              "start": 11,
+              "username": "420420420CTL"
+            },
+            {
+              "end": 38,
+              "id": "1784109678953480192",
+              "start": 25,
+              "username": "chidianmaima"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098490323311964433",
+        "in_reply_to_user_id": "1831775593421266944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098456299159912526",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kekeianil @420420420CTL @chidianmaima yes 生日快乐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1831775593421266944",
+        "conversation_id": "2097652758245752892",
+        "created_at": "2026-09-11T16:59:03.000Z",
+        "display_text_range": [
+          43,
+          58
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T17:59:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098456299159912526"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1518404201168007168",
+              "start": 0,
+              "username": "godspeedyou50"
+            },
+            {
+              "end": 28,
+              "id": "1678171777409875968",
+              "start": 15,
+              "username": "420420420CTL"
+            },
+            {
+              "end": 42,
+              "id": "1784109678953480192",
+              "start": 29,
+              "username": "chidianmaima"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098456299159912526",
+        "in_reply_to_user_id": "1518404201168007168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098252111511429297",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@godspeedyou50 @420420420CTL @chidianmaima 我去 杰森你十三号 今天是我的"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个违背了大众良知od喝大酒的神棍。\n☯️算命后付不怕跑单｜代请符箓、祈福请私讯\n传统宗教现代哲学文化传播者，又称中式廉价心理医生。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/godspeedyoupr",
+                "end": 23,
+                "expanded_url": "https://t.me/godspeedyoupr",
+                "start": 0,
+                "url": "https://t.co/3vanSMgOi4"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098490323311964433",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2096142160496328763",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1518404201168007168/1777353629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1997,
+          "following_count": 708,
+          "like_count": 1403,
+          "listed_count": 1,
+          "media_count": 230,
+          "tweet_count": 3190
+        },
+        "url": "https://t.co/3vanSMgOi4",
+        "username": "godspeedyou50",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-09-05T19:25:23.000Z",
+        "description": "暂无",
+        "id": "1831775593421266944",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098462416862634016",
+        "name": "keke",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1831775593421266944/1784820009",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080575581465526273/X0pROOte_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 178,
+          "like_count": 1151,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 210
+        },
+        "url": "",
+        "username": "kekeianil",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-07-09T22:38:41.000Z",
+        "description": "支持亞洲大麻合法化，大麻除罪，正視醫療大麻用途，MTF🏳️‍⚧️🏳️‍🌈LGBTQ友好🧑‍🤝‍🧑👭只有x和谷歌電郵聯繫方式，會回私信，社群：https://t.co/YwMarw2XdU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/i/communities/…",
+                "end": 93,
+                "expanded_url": "https://x.com/i/communities/2002034506979750304",
+                "start": 70,
+                "url": "https://t.co/YwMarw2XdU"
+              }
+            ]
+          }
+        },
+        "id": "1678171777409875968",
+        "is_identity_verified": false,
+        "location": "Los Angeles, CA",
+        "most_recent_tweet_id": "2097819914325348564",
+        "name": "邦尼兔weed_420（大麻/電子煙）",
+        "pinned_tweet_id": "2056029691916713996",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1678171777409875968/1785863310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018807810830770177/xgp8x96H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5325,
+          "following_count": 702,
+          "like_count": 789,
+          "listed_count": 0,
+          "media_count": 209,
+          "tweet_count": 1209
+        },
+        "url": "",
+        "username": "420420420CTL",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-04-27T06:38:02.000Z",
+        "description": "双向11年💊🔪二号机@luanma7n",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 10,
+                "username": "luanma7n"
+              }
+            ]
+          }
+        },
+        "id": "1784109678953480192",
+        "is_identity_verified": false,
+        "location": "坟墓",
+        "most_recent_tweet_id": "2098410343211163825",
+        "name": "乱",
+        "pinned_tweet_id": "2097026618489442499",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1784109678953480192/1785667049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082386041592594432/sAP7OXp4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 384,
+          "following_count": 114,
+          "like_count": 984,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 548
+        },
+        "url": "",
+        "username": "chidianmaima",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

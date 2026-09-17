@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2089398431165104349",
+    "created_at": "2026-08-17T23:16:36.000Z",
+    "display_text_range": [
+      12,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T00:16:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089491615769608677"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1614311887419887616",
+          "start": 0,
+          "username": "lion040317"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089491615769608677",
+    "in_reply_to_user_id": "1614311887419887616",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089398431165104349",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lion040317 可以"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2089398431165104349",
+        "created_at": "2026-08-17T23:16:36.000Z",
+        "display_text_range": [
+          12,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T00:16:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089491615769608677"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1614311887419887616",
+              "start": 0,
+              "username": "lion040317"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089491615769608677",
+        "in_reply_to_user_id": "1614311887419887616",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089398431165104349",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lion040317 可以"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "2089398429122547712"
+          ]
+        },
+        "author_id": "1614311887419887616",
+        "conversation_id": "2089398431165104349",
+        "created_at": "2026-08-17T17:06:19.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T18:06:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089398431165104349"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2089398431165104349",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 943,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "明天早上o不o一点pr。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个违背了大众良知od喝大酒的神棍。\n☯️算命后付不怕跑单｜代请符箓、祈福请私讯\n传统宗教现代哲学文化传播者，又称中式廉价心理医生。\n魔界入口💊🎫@Pharmakon14138",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 73,
+                "username": "Pharmakon14138"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/buyaogaowosorry",
+                "end": 23,
+                "expanded_url": "https://t.me/buyaogaowosorry",
+                "start": 0,
+                "url": "https://t.co/AdoFGQJldT"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089491615769608677",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2069223594711011526",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1518404201168007168/1777353629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1793,
+          "following_count": 655,
+          "like_count": 1336,
+          "listed_count": 1,
+          "media_count": 216,
+          "tweet_count": 3018
+        },
+        "url": "https://t.co/AdoFGQJldT",
+        "username": "godspeedyou50",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-01-14T17:22:16.000Z",
+        "description": "04/女/短发/4i。机车妹/特摄厨/画手/恶趣味十足 吉林/不成熟的穿孔师。脾气很好^ ^，但焦虑型依赖/不配得感/焦虑症严重。请和我闲聊~\n我的ngl:https://t.co/9S8dc1Yv1i",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lion200403",
+                "end": 101,
+                "expanded_url": "https://ngl.link/lion200403",
+                "start": 78,
+                "url": "https://t.co/9S8dc1Yv1i"
+              }
+            ]
+          }
+        },
+        "id": "1614311887419887616",
+        "is_identity_verified": false,
+        "location": "地下18层",
+        "most_recent_tweet_id": "2089427297644536214",
+        "name": "狮子桑Lion",
+        "pinned_tweet_id": "2089032847634161668",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1614311887419887616/1783088331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086681545818193920/_AWKPSgR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1020,
+          "following_count": 326,
+          "like_count": 68,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 272
+        },
+        "url": "",
+        "username": "lion040317",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

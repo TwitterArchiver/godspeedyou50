@@ -1,0 +1,321 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2098951628678373377"
+      ]
+    },
+    "author_id": "1518404201168007168",
+    "conversation_id": "2098951642393813032",
+    "created_at": "2026-09-13T01:47:22.000Z",
+    "display_text_range": [
+      0,
+      80
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-13T02:47:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2098951642393813032"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/bOYiMMsKPV",
+          "end": 104,
+          "expanded_url": "https://x.com/godspeedyou50/status/2098951642393813032/photo/1",
+          "media_key": "3_2098951628678373377",
+          "start": 81,
+          "url": "https://t.co/bOYiMMsKPV"
+        },
+        {
+          "display_url": "x.com/nijika_dark2/s…",
+          "end": 128,
+          "expanded_url": "https://twitter.com/nijika_dark2/status/2098829563547836863",
+          "start": 105,
+          "url": "https://t.co/fRPyQUwKZY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098951642393813032",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2098951628678373377"
+      }
+    ],
+    "note_tweet": {
+      "entities": {},
+      "text": "看起来每个人都有对于原生家庭的误解，但至少我的家教导致我疯了也很健全，无论如何都再也不敢在经济能力能负担得起我破碎之前谈什么住院，我要死那天嘎嘣一下死了就得了。\n我不敢花父母钱是因为我13岁开始卷着铺盖去打工开始就习惯了什么都论借，爹妈也一样，我现在微信置顶还记着这两天又欠我妈五百块，祸不及家人，而且我家并不穷-.-"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098829563547836863",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "看起来每个人都有对于原生家庭的误解，但至少我的家教导致我疯了也很健全，无论如何都再也不敢在经济能力能负担得起我破碎之前谈什么住院，我要死那天嘎嘣一下死了就得了。 https://t.co/bOYiMMsKPV https://t.co/fRPyQUwKZY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2098951628678373377",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSD5YrQaIAEzUiN.jpg",
+        "width": 945
+      },
+      {
+        "height": 2376,
+        "media_key": "3_2098829557516419072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSCKXMvbQAAa2ft.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098951628678373377"
+          ]
+        },
+        "author_id": "1518404201168007168",
+        "conversation_id": "2098951642393813032",
+        "created_at": "2026-09-13T01:47:22.000Z",
+        "display_text_range": [
+          0,
+          80
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T02:47:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098951642393813032"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bOYiMMsKPV",
+              "end": 104,
+              "expanded_url": "https://x.com/godspeedyou50/status/2098951642393813032/photo/1",
+              "media_key": "3_2098951628678373377",
+              "start": 81,
+              "url": "https://t.co/bOYiMMsKPV"
+            },
+            {
+              "display_url": "x.com/nijika_dark2/s…",
+              "end": 128,
+              "expanded_url": "https://twitter.com/nijika_dark2/status/2098829563547836863",
+              "start": 105,
+              "url": "https://t.co/fRPyQUwKZY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098951642393813032",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098951628678373377"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "看起来每个人都有对于原生家庭的误解，但至少我的家教导致我疯了也很健全，无论如何都再也不敢在经济能力能负担得起我破碎之前谈什么住院，我要死那天嘎嘣一下死了就得了。\n我不敢花父母钱是因为我13岁开始卷着铺盖去打工开始就习惯了什么都论借，爹妈也一样，我现在微信置顶还记着这两天又欠我妈五百块，祸不及家人，而且我家并不穷-.-"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098829563547836863",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "看起来每个人都有对于原生家庭的误解，但至少我的家教导致我疯了也很健全，无论如何都再也不敢在经济能力能负担得起我破碎之前谈什么住院，我要死那天嘎嘣一下死了就得了。 https://t.co/bOYiMMsKPV https://t.co/fRPyQUwKZY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098829557516419072"
+          ]
+        },
+        "author_id": "2063809217488982016",
+        "conversation_id": "2098825311614095838",
+        "created_at": "2026-09-12T17:42:16.000Z",
+        "display_text_range": [
+          0,
+          108
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T18:42:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098829563547836863"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iuNuG9rSCi",
+              "end": 132,
+              "expanded_url": "https://x.com/Nijika_Dark2/status/2098829563547836863/photo/1",
+              "media_key": "3_2098829557516419072",
+              "start": 109,
+              "url": "https://t.co/iuNuG9rSCi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098829563547836863",
+        "in_reply_to_user_id": "2063809217488982016",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098829557516419072"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 373,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098825311614095838",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好的那么这里是来自其本人的吐槽发言之\n呃呃，如果她所言属实，父母掏了两三万给她住院从死亡上拉回来，但是是被他骂是折磨。那咋办呢？父母见死不救不管了？\n就这都要骂他爹妈为啥给医院砸钱不给他，这不废话么，不给医院死的更早 https://t.co/iuNuG9rSCi"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个违背了大众良知od喝大酒的神棍。\n☯️算命后付不怕跑单｜代请符箓、祈福请私讯\n传统宗教现代哲学文化传播者，又称中式廉价心理医生。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/godspeedyoupr",
+                "end": 23,
+                "expanded_url": "https://t.me/godspeedyoupr",
+                "start": 0,
+                "url": "https://t.co/3vanSMgOi4"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098951642393813032",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2096142160496328763",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1518404201168007168/1777353629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2002,
+          "following_count": 709,
+          "like_count": 1418,
+          "listed_count": 1,
+          "media_count": 233,
+          "tweet_count": 3207
+        },
+        "url": "https://t.co/3vanSMgOi4",
+        "username": "godspeedyou50",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-08T02:26:36.000Z",
+        "description": "这里是虹夏3.0｜前世@Nijika_overdose，寻回亲友中｜我的大脑空空如也｜坐标重庆🚩｜看到主页记得笑一下噻❤️💙💛💜❛˓◞˂̵✧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 11,
+                "username": "Nijika_overdose"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+CMlCMdCTShRjN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+CMlCMdCTShRjNzRl",
+                "start": 0,
+                "url": "https://t.co/fyxGlXApbL"
+              }
+            ]
+          }
+        },
+        "id": "2063809217488982016",
+        "is_identity_verified": false,
+        "location": "hrt日雌泰补/减肥💊/小rc零食↓",
+        "most_recent_tweet_id": "2098903844415795588",
+        "name": "超级虹虹虹虹夏",
+        "pinned_tweet_id": "2082110227827335559",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063810145600339968/UI1msXPu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 207,
+          "following_count": 208,
+          "like_count": 381,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 450
+        },
+        "url": "https://t.co/fyxGlXApbL",
+        "username": "Nijika_Dark2",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

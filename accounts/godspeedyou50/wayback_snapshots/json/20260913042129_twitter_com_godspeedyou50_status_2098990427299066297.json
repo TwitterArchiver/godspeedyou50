@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2098951642393813032",
+    "created_at": "2026-09-13T04:21:29.000Z",
+    "display_text_range": [
+      0,
+      52
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-13T05:21:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098990427299066297"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2098990427299066297",
+    "in_reply_to_user_id": "1518404201168007168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "哦，说是13岁，其实是周岁，虚岁比周岁大两岁但是没有过生日很清楚的记得是过生日以后14周岁在2020年。\n至于为什么这么小就能找得到工作，也是因为很幸运，有同学在传媒公司当主播当时团播的审查不严格，再加上她很努力业绩还不错，拖了领导帮忙就顺便把我塞进去当运营的学徒了，身份证当时都没办呢，但是人家也没有太在意"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098951642393813032",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "哦，说是13岁，其实是周岁，虚岁比周岁大两岁但是没有过生日很清楚的记得是过生日以后14周岁在2020年。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2098951628678373377",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSD5YrQaIAEzUiN.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2098951642393813032",
+        "created_at": "2026-09-13T04:21:29.000Z",
+        "display_text_range": [
+          0,
+          52
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T05:21:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098990427299066297"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2098990427299066297",
+        "in_reply_to_user_id": "1518404201168007168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "哦，说是13岁，其实是周岁，虚岁比周岁大两岁但是没有过生日很清楚的记得是过生日以后14周岁在2020年。\n至于为什么这么小就能找得到工作，也是因为很幸运，有同学在传媒公司当主播当时团播的审查不严格，再加上她很努力业绩还不错，拖了领导帮忙就顺便把我塞进去当运营的学徒了，身份证当时都没办呢，但是人家也没有太在意"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098951642393813032",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哦，说是13岁，其实是周岁，虚岁比周岁大两岁但是没有过生日很清楚的记得是过生日以后14周岁在2020年。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098951628678373377"
+          ]
+        },
+        "author_id": "1518404201168007168",
+        "conversation_id": "2098951642393813032",
+        "created_at": "2026-09-13T01:47:22.000Z",
+        "display_text_range": [
+          0,
+          80
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T02:47:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098951642393813032"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bOYiMMsKPV",
+              "end": 104,
+              "expanded_url": "https://x.com/godspeedyou50/status/2098951642393813032/photo/1",
+              "media_key": "3_2098951628678373377",
+              "start": 81,
+              "url": "https://t.co/bOYiMMsKPV"
+            },
+            {
+              "display_url": "x.com/nijika_dark2/s…",
+              "end": 128,
+              "expanded_url": "https://twitter.com/nijika_dark2/status/2098829563547836863",
+              "start": 105,
+              "url": "https://t.co/fRPyQUwKZY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098951642393813032",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098951628678373377"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "看起来每个人都有对于原生家庭的误解，但至少我的家教导致我疯了也很健全，无论如何都再也不敢在经济能力能负担得起我破碎之前谈什么住院，我要死那天嘎嘣一下死了就得了。\n我不敢花父母钱是因为我13岁开始卷着铺盖去打工开始就习惯了什么都论借，爹妈也一样，我现在微信置顶还记着这两天又欠我妈五百块，祸不及家人，而且我家并不穷-.-"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 540,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098829563547836863",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "看起来每个人都有对于原生家庭的误解，但至少我的家教导致我疯了也很健全，无论如何都再也不敢在经济能力能负担得起我破碎之前谈什么住院，我要死那天嘎嘣一下死了就得了。 https://t.co/bOYiMMsKPV https://t.co/fRPyQUwKZY"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个违背了大众良知od喝大酒的神棍。\n☯️算命后付不怕跑单｜代请符箓、祈福请私讯\n传统宗教现代哲学文化传播者，又称中式廉价心理医生。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/godspeedyoupr",
+                "end": 23,
+                "expanded_url": "https://t.me/godspeedyoupr",
+                "start": 0,
+                "url": "https://t.co/3vanSMgOi4"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098990427299066297",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2096142160496328763",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1518404201168007168/1777353629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2006,
+          "following_count": 713,
+          "like_count": 1432,
+          "listed_count": 1,
+          "media_count": 233,
+          "tweet_count": 3226
+        },
+        "url": "https://t.co/3vanSMgOi4",
+        "username": "godspeedyou50",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
