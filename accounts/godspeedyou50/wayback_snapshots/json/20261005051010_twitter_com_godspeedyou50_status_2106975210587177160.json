@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2106975210587177160",
+    "created_at": "2026-10-05T05:10:10.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-05T06:10:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106975210587177160"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1518404201168007168",
+          "start": 3,
+          "username": "godspeedyou50"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106975210587177160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019051606101409797",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @godspeedyou50: 今日立春了，正式开始了2026的丙午大运。\n只是天地之始前夕是一个渐变过程，但为什么不是昨日变局而是2.2日，我想一切问题积累到一定的临界点会瞬间爆发。\n起卦为山地剥、雷天大壮、地雷复。\n去年的一切劣根问题在这交运前夕局部的瓦解冰消再导致的…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2106975210587177160",
+        "created_at": "2026-10-05T05:10:10.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T06:10:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106975210587177160"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1518404201168007168",
+              "start": 3,
+              "username": "godspeedyou50"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106975210587177160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019051606101409797",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @godspeedyou50: 今日立春了，正式开始了2026的丙午大运。\n只是天地之始前夕是一个渐变过程，但为什么不是昨日变局而是2.2日，我想一切问题积累到一定的临界点会瞬间爆发。\n起卦为山地剥、雷天大壮、地雷复。\n去年的一切劣根问题在这交运前夕局部的瓦解冰消再导致的…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2019051606101409797",
+        "created_at": "2026-02-04T14:13:09.000Z",
+        "display_text_range": [
+          0,
+          144
+        ],
+        "edit_controls": {
+          "editable_until": "2026-02-04T15:13:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019051606101409797"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2019051606101409797",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "今日立春了，正式开始了2026的丙午大运。\n只是天地之始前夕是一个渐变过程，但为什么不是昨日变局而是2.2日，我想一切问题积累到一定的临界点会瞬间爆发。\n起卦为山地剥、雷天大壮、地雷复。\n去年的一切劣根问题在这交运前夕局部的瓦解冰消再导致的突发崩塌产生坏的问题，2.3日开始了地雷复的效应\n“亨，出入无疾，朋来无咎”\n我震惊的发觉了这一卦关乎物极必反的强烈征兆，实际上这卦显示圈内该进行组织反思分析互助合作这一类的讨论活动，想了想看到现状又想笑，所谓的od自由扩散主义和减害派的碰撞，但减害派又人人喊打，可笑至极的愚蠢。\n算了，立春了，天地交泰了，接下来该怎么走就慢慢观望着看吧，我们哪有组织，哪有圈友，不断的低龄化演变成小孩子的社交主义罢了，像极了特么的我小时候的qq扣字圈一样。\n2026，我的祈愿是少死两个…..🥲😂"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2740,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "今日立春了，正式开始了2026的丙午大运。\n只是天地之始前夕是一个渐变过程，但为什么不是昨日变局而是2.2日，我想一切问题积累到一定的临界点会瞬间爆发。\n起卦为山地剥、雷天大壮、地雷复。\n去年的一切劣根问题在这交运前夕局部的瓦解冰消再导致的突发崩塌产生坏的问题，2.3日开始了地雷复的效应"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个违背了良知od喝大酒的神棍。\n☯️算命后付不怕跑单｜代请符箓、祈福请私讯\n宗教现代哲学文化传播者，又称古典心理医生。\n生活号@pharmakon14138\nValenceLab匿名提问箱👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 64,
+                "username": "pharmakon14138"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "valence.top/ask/26kkrk8gm",
+                "end": 23,
+                "expanded_url": "https://valence.top/ask/26kkrk8gm",
+                "start": 0,
+                "url": "https://t.co/COtyXjNl1D"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106975210587177160",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2096142160496328763",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1518404201168007168/1777353629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2093,
+          "following_count": 721,
+          "like_count": 1509,
+          "listed_count": 1,
+          "media_count": 242,
+          "tweet_count": 3404
+        },
+        "url": "https://t.co/COtyXjNl1D",
+        "username": "godspeedyou50",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2101009305193664777",
+    "created_at": "2026-09-18T18:03:47.000Z",
+    "display_text_range": [
+      0,
+      108
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T19:03:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2101009305193664777"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/godspeedyou50/…",
+          "end": 132,
+          "expanded_url": "https://twitter.com/godspeedyou50/status/1823413696233886147",
+          "start": 109,
+          "url": "https://t.co/1tVlgxNMML"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101009305193664777",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "嗯 以及探索一下在此之前我的脑子到底都是什么样的构造\n时间的跨度正好是一个平均值 被删光的那个两年跟自此之后我的变化。\n新认识的朋友估计是没法想象我之前的行为有多匪夷所思且福大命大了\n我认为我成功对抗了某种命运跟病症\n顺着mect删过的记忆一点点检索挺有意思的，做了八个疗程电多少次倒是没记清楚\n总结：\n牛屎火锅中有某种治愈精神病的作用"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1823413696233886147",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "嗯 以及探索一下在此之前我的脑子到底都是什么样的构造\n时间的跨度正好是一个平均值 被删光的那个两年跟自此之后我的变化。\n新认识的朋友估计是没法想象我之前的行为有多匪夷所思且福大命大了\n我认为我成功对抗了某种命运跟病症 https://t.co/1tVlgxNMML"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1823413662662713348",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GU4RELma4AQuqZU.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1202,
+        "media_key": "3_1823413662650138624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GU4RELjbAAAO1uR.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1823413662654283776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GU4RELkaQAADM9i.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1236,
+        "media_key": "3_1823413662658519040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GU4RELla4AAuEaf.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2101009305193664777",
+        "created_at": "2026-09-18T18:03:47.000Z",
+        "display_text_range": [
+          0,
+          108
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T19:03:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101009305193664777"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/godspeedyou50/…",
+              "end": 132,
+              "expanded_url": "https://twitter.com/godspeedyou50/status/1823413696233886147",
+              "start": 109,
+              "url": "https://t.co/1tVlgxNMML"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101009305193664777",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "嗯 以及探索一下在此之前我的脑子到底都是什么样的构造\n时间的跨度正好是一个平均值 被删光的那个两年跟自此之后我的变化。\n新认识的朋友估计是没法想象我之前的行为有多匪夷所思且福大命大了\n我认为我成功对抗了某种命运跟病症\n顺着mect删过的记忆一点点检索挺有意思的，做了八个疗程电多少次倒是没记清楚\n总结：\n牛屎火锅中有某种治愈精神病的作用"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1823413696233886147",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "嗯 以及探索一下在此之前我的脑子到底都是什么样的构造\n时间的跨度正好是一个平均值 被删光的那个两年跟自此之后我的变化。\n新认识的朋友估计是没法想象我之前的行为有多匪夷所思且福大命大了\n我认为我成功对抗了某种命运跟病症 https://t.co/1tVlgxNMML"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1823413662662713348",
+            "3_1823413662650138624",
+            "3_1823413662654283776",
+            "3_1823413662658519040"
+          ]
+        },
+        "author_id": "1518404201168007168",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1823413696233886147",
+        "created_at": "2024-08-13T17:37:57.000Z",
+        "display_text_range": [
+          0,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2024-08-13T18:37:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1823413696233886147"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hvFE6AgpX5",
+              "end": 62,
+              "expanded_url": "https://x.com/JahsehWww/status/1823413696233886147/photo/1",
+              "media_key": "3_1823413662662713348",
+              "start": 39,
+              "url": "https://t.co/hvFE6AgpX5"
+            },
+            {
+              "display_url": "pic.x.com/hvFE6AgpX5",
+              "end": 62,
+              "expanded_url": "https://x.com/JahsehWww/status/1823413696233886147/photo/1",
+              "media_key": "3_1823413662650138624",
+              "start": 39,
+              "url": "https://t.co/hvFE6AgpX5"
+            },
+            {
+              "display_url": "pic.x.com/hvFE6AgpX5",
+              "end": 62,
+              "expanded_url": "https://x.com/JahsehWww/status/1823413696233886147/photo/1",
+              "media_key": "3_1823413662654283776",
+              "start": 39,
+              "url": "https://t.co/hvFE6AgpX5"
+            },
+            {
+              "display_url": "pic.x.com/hvFE6AgpX5",
+              "end": 62,
+              "expanded_url": "https://x.com/JahsehWww/status/1823413696233886147/photo/1",
+              "media_key": "3_1823413662658519040",
+              "start": 39,
+              "url": "https://t.co/hvFE6AgpX5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1823413696233886147",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_1823413662662713348"
+          },
+          {
+            "media_key": "3_1823413662650138624"
+          },
+          {
+            "media_key": "3_1823413662654283776"
+          },
+          {
+            "media_key": "3_1823413662658519040"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2826,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "普瑞戒完了，只需要每天往死里吃安眠药就行了，顺便去贵州溜达溜达~(¯▽¯~) https://t.co/hvFE6AgpX5"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个违背了良知od喝大酒的神棍。\n☯️算命后付不怕跑单｜代请符箓、祈福请私讯\n宗教现代哲学文化传播者，又称古典心理医生。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/godspeedyoupr",
+                "end": 23,
+                "expanded_url": "https://t.me/godspeedyoupr",
+                "start": 0,
+                "url": "https://t.co/3vanSMggsw"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101009305193664777",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2096142160496328763",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1518404201168007168/1777353629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2032,
+          "following_count": 710,
+          "like_count": 1471,
+          "listed_count": 1,
+          "media_count": 234,
+          "tweet_count": 3318
+        },
+        "url": "https://t.co/3vanSMggsw",
+        "username": "godspeedyou50",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

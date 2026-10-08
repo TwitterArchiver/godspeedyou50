@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2100806551216996439",
+    "created_at": "2026-09-18T04:38:07.000Z",
+    "display_text_range": [
+      0,
+      137
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T05:38:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2100806551216996439"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/godspeedyou50/…",
+          "end": 161,
+          "expanded_url": "https://twitter.com/godspeedyou50/status/2100806423299137733",
+          "start": 138,
+          "url": "https://t.co/1NY1zcutdV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100806551216996439",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100806423299137733",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "说这么危险的玩下去会时代退化跟原料公开趋势有鸡巴毛关系，大伙是一直在努力的做到天天吃得上便宜的大白米饭，但是跟便宜的糠也没关系吧。\n完蛋喽，接下来不是查完资料的字眼反驳就是恶俗部门出击，千万别掏出来自己起家的时候那风格吧，我也别用“们”了，莫名其妙的发言者。\n害怕….-.- https://t.co/1NY1zcutdV"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2100806551216996439",
+        "created_at": "2026-09-18T04:38:07.000Z",
+        "display_text_range": [
+          0,
+          137
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T05:38:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100806551216996439"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/godspeedyou50/…",
+              "end": 161,
+              "expanded_url": "https://twitter.com/godspeedyou50/status/2100806423299137733",
+              "start": 138,
+              "url": "https://t.co/1NY1zcutdV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100806551216996439",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100806423299137733",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "说这么危险的玩下去会时代退化跟原料公开趋势有鸡巴毛关系，大伙是一直在努力的做到天天吃得上便宜的大白米饭，但是跟便宜的糠也没关系吧。\n完蛋喽，接下来不是查完资料的字眼反驳就是恶俗部门出击，千万别掏出来自己起家的时候那风格吧，我也别用“们”了，莫名其妙的发言者。\n害怕….-.- https://t.co/1NY1zcutdV"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2100447035451388292",
+        "created_at": "2026-09-18T04:37:37.000Z",
+        "display_text_range": [
+          13,
+          100
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T05:37:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100806423299137733"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "239485187",
+              "start": 0,
+              "username": "freedogdrum"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100806423299137733",
+        "in_reply_to_user_id": "239485187",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "不清楚你是此账号的哪位运营者。如果你觉得我不懂药理，欢迎去查阅我以前的帖子，或者去验证我过去在私信里提供的物质使用帮助。我确实常说自己没文化，但当初爱德华邀请我介入 wiki 编辑时，圈子里的交流至少是基于事实的。我不反对任何环境和组织的更迭，只是对你们目前的沟通逻辑印象极差，以前的是我不提没必要包装资历，我也没兴趣废话。\n你要非要这么样跟我犟嘴只是抹黑你们的团队，单纯只和你聊几句实在的，赛乃普汀的阿片受体半衰期到底是多少？有没有3小时？3小时都说久了吧？我亲自嗑过不少那你呢，现在AI挺方便的，我不用查，我建议你去查查。\n如果你是做宣传的，我不明白你们这个进行转帖是怎么个宣传法，抨击别人抬高自己就是正确，别人提出质疑就是不对？\n那要这么说的话，我换个说法吧，赛乃普汀原粉化甚至不用说和1161坐一桌，甚至给1161提鞋都不配，就这么简单，1161哪怕说是除了傻逼直接拿手捏起来吃，大家都有有毫克秤的情况下他有一个明确的毒理边界，这个逼玩意儿原粉化对阿片受体下调有没有绝对的影响？长期吃下去的身体戒断反应和收货成正比么？\n这是最基本的药理常识，不用你说我是什么不懂药理的博主，我是不懂化学那一套，东西怎么吃不死人不难受这方面我再不懂也比现在你帐户的这个发言人懂，你们怎么玩我没兴趣管，但是别把键政的那一套逻辑拿出来往我身上扣高帽。\n可以完全做廉价，甚至我说这话的时候我都不清楚是你们在做此物质拼团，这是两码事。因为普瑞拼团这事儿我从来没有说过任何吧？这种还不错的事我没夸过你们也没挨过边吧？我随意编辑的几句话是不是影响所谓的“你局”生意”了，如果真的是你们在拼这个东西的原粉，那你们的逻辑难道不是为了压低利润？如果影响你们赚钱了的话那你来攻击我那合理。\n简单总结，我不说都是垃圾了，也不用提倒卖不倒卖利润不利润了，只问你这一个问题就湿了，如果你没理，请以后别来我下面和我聊这些，背后说我就是了，我不爱听，如果恶俗部门还在的话，搞我那我怕了。\n欢迎你来跟我聊理论，这是我随意编辑出来回复你的，接下来只是抓我语言漏洞的话就别给自家抹黑了。希望所有人都有很昂贵的精准毫克秤以及大家都能控制住自己，否则你还是呼吁一下大家用之前都自行装胶囊吧，就这么简单，就这么对比物质，我的看法永远不会变，哪怕我踩什么东西。\n题外话我也没捧过任何所谓物质吧？沐雨雪尘那会儿好像是我先拦着的吧？"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100591368209105201",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@freedogdrum 不清楚你是此账号的哪位运营者。如果你觉得我不懂药理，欢迎去查阅我以前的帖子，或者去验证我过去在私信里提供的物质使用帮助。我确实常说自己没文化，但当初爱德华邀请我介入 wiki"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个违背了良知od喝大酒的神棍。\n☯️算命后付不怕跑单｜代请符箓、祈福请私讯\n宗教现代哲学文化传播者，又称古典心理医生。\n@Pharmakon14138",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 61,
+                "username": "Pharmakon14138"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/godspeedyoupr",
+                "end": 23,
+                "expanded_url": "https://t.me/godspeedyoupr",
+                "start": 0,
+                "url": "https://t.co/3vanSMgOi4"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100806551216996439",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2096142160496328763",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1518404201168007168/1777353629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2027,
+          "following_count": 703,
+          "like_count": 1458,
+          "listed_count": 1,
+          "media_count": 233,
+          "tweet_count": 3295
+        },
+        "url": "https://t.co/3vanSMgOi4",
+        "username": "godspeedyou50",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2011-01-17T18:50:17.000Z",
+        "description": "自由是廉价的，或者又是像件大衣如此昂贵，人们付出了他们的生命而不放弃它。",
+        "id": "239485187",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100591381354058014",
+        "name": "原料革命自由宣传部",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/239485187/1788697096",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096573693447319553/kDU7qBmn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 216,
+          "like_count": 34,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 30
+        },
+        "url": "",
+        "username": "freedogdrum",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

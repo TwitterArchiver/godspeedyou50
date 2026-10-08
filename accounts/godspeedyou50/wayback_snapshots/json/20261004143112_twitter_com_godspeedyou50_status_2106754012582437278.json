@@ -1,0 +1,343 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2106432028812161336",
+    "created_at": "2026-10-04T14:31:12.000Z",
+    "display_text_range": [
+      43,
+      85
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-04T15:31:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106754012582437278"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1678171777409875968",
+          "start": 0,
+          "username": "420420420CTL"
+        },
+        {
+          "end": 26,
+          "id": "1402759909091971072",
+          "start": 14,
+          "username": "Liu89899552"
+        },
+        {
+          "end": 42,
+          "id": "1930981328473952256",
+          "start": 27,
+          "username": "Kongkongda5882"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106754012582437278",
+    "in_reply_to_user_id": "1678171777409875968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106737276403515732",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@420420420CTL @Liu89899552 @Kongkongda5882 再加上我咋发现这现在AI做的账号怎么粉丝这么鸡巴好，那得多少客户啊，我压根都咬碎了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2106432028812161336",
+        "created_at": "2026-10-04T14:31:12.000Z",
+        "display_text_range": [
+          43,
+          85
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T15:31:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106754012582437278"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1678171777409875968",
+              "start": 0,
+              "username": "420420420CTL"
+            },
+            {
+              "end": 26,
+              "id": "1402759909091971072",
+              "start": 14,
+              "username": "Liu89899552"
+            },
+            {
+              "end": 42,
+              "id": "1930981328473952256",
+              "start": 27,
+              "username": "Kongkongda5882"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106754012582437278",
+        "in_reply_to_user_id": "1678171777409875968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106737276403515732",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@420420420CTL @Liu89899552 @Kongkongda5882 再加上我咋发现这现在AI做的账号怎么粉丝这么鸡巴好，那得多少客户啊，我压根都咬碎了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1678171777409875968",
+        "conversation_id": "2106432028812161336",
+        "created_at": "2026-10-04T13:24:42.000Z",
+        "display_text_range": [
+          29,
+          47
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T14:24:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106737276403515732"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1402759909091971072",
+              "start": 0,
+              "username": "Liu89899552"
+            },
+            {
+              "end": 28,
+              "id": "1930981328473952256",
+              "start": 13,
+              "username": "Kongkongda5882"
+            },
+            {
+              "end": 43,
+              "id": "1518404201168007168",
+              "start": 29,
+              "username": "godspeedyou50"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106737276403515732",
+        "in_reply_to_user_id": "1402759909091971072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106657708023726178",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Liu89899552 @Kongkongda5882 @godspeedyou50 怎么看"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个违背了良知od喝大酒的神棍。\n☯️算命后付不怕跑单｜代请符箓、祈福请私讯\n宗教现代哲学文化传播者，又称古典心理医生。\n生活号@pharmakon14138\nValenceLab匿名提问箱👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 64,
+                "username": "pharmakon14138"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "valence.top/ask/26kkrk8gm",
+                "end": 23,
+                "expanded_url": "https://valence.top/ask/26kkrk8gm",
+                "start": 0,
+                "url": "https://t.co/COtyXjNl1D"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106754012582437278",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2096142160496328763",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1518404201168007168/1777353629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2073,
+          "following_count": 713,
+          "like_count": 1506,
+          "listed_count": 1,
+          "media_count": 239,
+          "tweet_count": 3387
+        },
+        "url": "https://t.co/COtyXjNl1D",
+        "username": "godspeedyou50",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-07-09T22:38:41.000Z",
+        "description": "支持亞洲大麻合法化，大麻除罪，正視醫療大麻用途，MTF🏳️‍⚧️🏳️‍🌈LGBTQ友好🧑‍🤝‍🧑👭只有x和谷歌電郵聯繫方式，會回私信，社群：https://t.co/YwMarw2XdU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/i/communities/…",
+                "end": 93,
+                "expanded_url": "https://x.com/i/communities/2002034506979750304",
+                "start": 70,
+                "url": "https://t.co/YwMarw2XdU"
+              }
+            ]
+          }
+        },
+        "id": "1678171777409875968",
+        "is_identity_verified": false,
+        "location": "Los Angeles, CA",
+        "most_recent_tweet_id": "2106737276403515732",
+        "name": "邦尼兔weed_420（大麻/電子煙）",
+        "pinned_tweet_id": "2056029691916713996",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1678171777409875968/1785863310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018807810830770177/xgp8x96H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5539,
+          "following_count": 702,
+          "like_count": 817,
+          "listed_count": 0,
+          "media_count": 215,
+          "tweet_count": 1230
+        },
+        "url": "",
+        "username": "420420420CTL",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-06-09T22:50:15.000Z",
+        "description": "",
+        "id": "1402759909091971072",
+        "is_identity_verified": false,
+        "location": "Manhattan, NY",
+        "most_recent_tweet_id": "2106714628340248775",
+        "name": "PeungJeh",
+        "pinned_tweet_id": "1752618126422986898",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1402759909091971072/1753074100",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024419243303784448/8FeuKx2b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 476,
+          "following_count": 1618,
+          "like_count": 56393,
+          "listed_count": 0,
+          "media_count": 531,
+          "tweet_count": 8985
+        },
+        "url": "",
+        "username": "Liu89899552",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-06-06T13:34:43.000Z",
+        "description": "主营业务：卜卦，看相，算命，起名，合婚，解梦，法事(和合术，祈福消灾，还阴债，补财库，化解冤亲债主，婴灵，超度，文昌等)，法事都在知名道观举行。法事做完后会提供缘主个人文表信息的视频及图片，法事在国家合法场所举行。\n备用号，空空道人02@kongkongda5588\n微博号，深山幽谷修行人。QQ3957228940",
+        "id": "1930981328473952256",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106753579474469236",
+        "name": "空空道人",
+        "pinned_tweet_id": "2043364394483220980",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930981758415343616/_EerIJvJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34420,
+          "following_count": 754,
+          "like_count": 208,
+          "listed_count": 117,
+          "media_count": 5919,
+          "tweet_count": 27978
+        },
+        "url": "",
+        "username": "Kongkongda5882",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2102624679580373389",
+    "created_at": "2026-09-23T05:02:43.000Z",
+    "display_text_range": [
+      0,
+      42
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-23T06:02:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102624679580373389"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2047900485324324865",
+          "start": 3,
+          "username": "naiiiiiii_77"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102624679580373389",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059927809192255863",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @naiiiiiii_77: 感觉这几个人的空间每次都要伴随着杰森的呼噜声结束"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2102624679580373389",
+        "created_at": "2026-09-23T05:02:43.000Z",
+        "display_text_range": [
+          0,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T06:02:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102624679580373389"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2047900485324324865",
+              "start": 3,
+              "username": "naiiiiiii_77"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102624679580373389",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059927809192255863",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @naiiiiiii_77: 感觉这几个人的空间每次都要伴随着杰森的呼噜声结束"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047900485324324865",
+        "conversation_id": "2059927809192255863",
+        "created_at": "2026-05-28T09:20:35.000Z",
+        "display_text_range": [
+          0,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-05-28T10:20:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059927809192255863"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/impart6324/sta…",
+              "end": 48,
+              "expanded_url": "https://twitter.com/impart6324/status/2059926481279816040",
+              "start": 25,
+              "url": "https://t.co/Ws8Xnm9MGH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059927809192255863",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3845,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059926481279816040",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "感觉这几个人的空间每次都要伴随着杰森的呼噜声结束 https://t.co/Ws8Xnm9MGH"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个违背了良知od喝大酒的神棍。\n☯️算命后付不怕跑单｜代请符箓、祈福请私讯\n宗教现代哲学文化传播者，又称古典心理医生。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/godspeedyoupr",
+                "end": 23,
+                "expanded_url": "https://t.me/godspeedyoupr",
+                "start": 0,
+                "url": "https://t.co/3vanSMggsw"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102624679580373389",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2096142160496328763",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1518404201168007168/1777353629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2053,
+          "following_count": 715,
+          "like_count": 1487,
+          "listed_count": 1,
+          "media_count": 236,
+          "tweet_count": 3343
+        },
+        "url": "https://t.co/3vanSMggsw",
+        "username": "godspeedyou50",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-25T04:50:10.000Z",
+        "description": "msk你别得瑟\n大号@Nana_naiiiiiii",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 10,
+                "username": "Nana_naiiiiiii"
+              }
+            ]
+          }
+        },
+        "id": "2047900485324324865",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2080645375946527025",
+        "name": "Naiiiiiii",
+        "pinned_tweet_id": "2057583301364453518",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047900485324324865/1777092832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047901274579030016/GuOfRlAe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 49,
+          "like_count": 353,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 50
+        },
+        "url": "",
+        "username": "naiiiiiii_77",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

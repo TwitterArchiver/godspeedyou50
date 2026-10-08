@@ -1,0 +1,336 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2105918697173024768"
+      ],
+      "media_source_tweet_id": [
+        "2105918951419162886"
+      ]
+    },
+    "author_id": "1518404201168007168",
+    "conversation_id": "2105920273937821998",
+    "created_at": "2026-10-02T07:18:14.000Z",
+    "display_text_range": [
+      0,
+      92
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-02T08:18:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105920273937821998"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2080966704356802560",
+          "start": 3,
+          "username": "Pharmakon14138"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "valence.top",
+          "end": 68,
+          "expanded_url": "https://valence.top/",
+          "start": 45,
+          "unwound_url": "https://valence.top/",
+          "url": "https://t.co/pruWHIDGQH"
+        },
+        {
+          "display_url": "pic.x.com/7xG5WuPUyP",
+          "end": 92,
+          "expanded_url": "https://x.com/Pharmakon14138/status/2105918951419162886/photo/1",
+          "media_key": "3_2105918697173024768",
+          "start": 69,
+          "url": "https://t.co/7xG5WuPUyP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105920273937821998",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2105918697173024768"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105918951419162886",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Pharmakon14138: ‘‘Jahseh今天吃什么’’\n治疗药物记录工具：https://t.co/pruWHIDGQH https://t.co/7xG5WuPUyP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 842,
+        "media_key": "3_2105918697173024768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTm55b7aAAA8KYq.jpg",
+        "width": 982
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105918697173024768"
+          ],
+          "media_source_tweet_id": [
+            "2105918951419162886"
+          ]
+        },
+        "author_id": "1518404201168007168",
+        "conversation_id": "2105920273937821998",
+        "created_at": "2026-10-02T07:18:14.000Z",
+        "display_text_range": [
+          0,
+          92
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T08:18:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105920273937821998"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2080966704356802560",
+              "start": 3,
+              "username": "Pharmakon14138"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "valence.top",
+              "end": 68,
+              "expanded_url": "https://valence.top/",
+              "start": 45,
+              "unwound_url": "https://valence.top/",
+              "url": "https://t.co/pruWHIDGQH"
+            },
+            {
+              "display_url": "pic.x.com/7xG5WuPUyP",
+              "end": 92,
+              "expanded_url": "https://x.com/Pharmakon14138/status/2105918951419162886/photo/1",
+              "media_key": "3_2105918697173024768",
+              "start": 69,
+              "url": "https://t.co/7xG5WuPUyP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105920273937821998",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2105918697173024768"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105918951419162886",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Pharmakon14138: ‘‘Jahseh今天吃什么’’\n治疗药物记录工具：https://t.co/pruWHIDGQH https://t.co/7xG5WuPUyP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105918697173024768"
+          ]
+        },
+        "author_id": "2080966704356802560",
+        "conversation_id": "2105918951419162886",
+        "created_at": "2026-10-02T07:12:58.000Z",
+        "display_text_range": [
+          0,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T08:12:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105918951419162886"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "valence.top",
+              "end": 48,
+              "expanded_url": "https://valence.top/",
+              "start": 25,
+              "unwound_url": "https://valence.top/",
+              "url": "https://t.co/pruWHIDGQH"
+            },
+            {
+              "display_url": "pic.x.com/7xG5WuPUyP",
+              "end": 72,
+              "expanded_url": "https://x.com/Pharmakon14138/status/2105918951419162886/photo/1",
+              "media_key": "3_2105918697173024768",
+              "start": 49,
+              "url": "https://t.co/7xG5WuPUyP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105918951419162886",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2105918697173024768"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "‘‘Jahseh今天吃什么’’\n治疗药物记录工具：https://t.co/pruWHIDGQH https://t.co/7xG5WuPUyP"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个违背了良知od喝大酒的神棍。\n☯️算命后付不怕跑单｜代请符箓、祈福请私讯\n宗教现代哲学文化传播者，又称古典心理医生。\n生活号@pharmakon14138\nValenceLab匿名提问箱👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 64,
+                "username": "pharmakon14138"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "valence.top/ask/26kkrk8gm",
+                "end": 23,
+                "expanded_url": "https://valence.top/ask/26kkrk8gm",
+                "start": 0,
+                "url": "https://t.co/COtyXjNl1D"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105920273937821998",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2096142160496328763",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1518404201168007168/1777353629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2054,
+          "following_count": 708,
+          "like_count": 1503,
+          "listed_count": 1,
+          "media_count": 238,
+          "tweet_count": 3372
+        },
+        "url": "https://t.co/COtyXjNl1D",
+        "username": "godspeedyou50",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-25T10:43:18.000Z",
+        "description": "法马康二世在此，我是随时消融在历史长河的毒瘤，兜售各种非列管合法策划化学物质💊\n算命人格衍生物",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/godspeedyoupr",
+                "end": 23,
+                "expanded_url": "https://t.me/godspeedyoupr",
+                "start": 0,
+                "url": "https://t.co/QC1vAgUIDp"
+              }
+            ]
+          }
+        },
+        "id": "2080966704356802560",
+        "is_identity_verified": false,
+        "location": "欢迎私信tg指路 ",
+        "most_recent_tweet_id": "2105918951419162886",
+        "name": "Pharmakon",
+        "pinned_tweet_id": "2081579185940938937",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2080966704356802560/1784976629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083912415851524096/qm0ThLdB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 336,
+          "following_count": 149,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 79
+        },
+        "url": "https://t.co/QC1vAgUIDp",
+        "username": "Pharmakon14138",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

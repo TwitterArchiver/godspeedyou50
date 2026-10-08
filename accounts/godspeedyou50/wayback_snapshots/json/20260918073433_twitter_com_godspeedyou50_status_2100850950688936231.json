@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2100447035451388292",
+    "created_at": "2026-09-18T07:34:33.000Z",
+    "display_text_range": [
+      13,
+      155
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T08:34:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100850950688936231"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "239485187",
+          "start": 0,
+          "username": "freedogdrum"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100850950688936231",
+    "in_reply_to_user_id": "239485187",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "我说的本身上就是暴论呀，看到了拼团的信息是我之前了解到的事实呀，snpt原粉的代购是不是你们我其实还真是没有定论。所以我我保持了一个问号内容，因为普瑞确实是你们做过吧而且我是指确实是一件好事吧，这部分我并没有狡辩这个如果我搞错了，你都这么说了我绝对完全道歉，但是删掉这么一大部分内容关于是否针对于个人的误解，我曲解了，bot是指谁权当按你说的，总之话说回来，这都是我的个人暴论了，那么在一个误会的基础下，我绝对也是暴论回复，🙏🙏🤝"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100849170089463819",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@freedogdrum 我说的本身上就是暴论呀，看到了拼团的信息是我之前了解到的事实呀，snpt原粉的代购是不是你们我其实还真是没有定论。所以我我保持了一个问号内容，因为普瑞确实是你们做过吧而且我是指确实是一件好事吧，这部分我并没有狡辩这个如果我搞错了，你都这么说了我绝对完全道歉，但是删掉这么一大部分内容关"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2100447035451388292",
+        "created_at": "2026-09-18T07:34:33.000Z",
+        "display_text_range": [
+          13,
+          155
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T08:34:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100850950688936231"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "239485187",
+              "start": 0,
+              "username": "freedogdrum"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100850950688936231",
+        "in_reply_to_user_id": "239485187",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我说的本身上就是暴论呀，看到了拼团的信息是我之前了解到的事实呀，snpt原粉的代购是不是你们我其实还真是没有定论。所以我我保持了一个问号内容，因为普瑞确实是你们做过吧而且我是指确实是一件好事吧，这部分我并没有狡辩这个如果我搞错了，你都这么说了我绝对完全道歉，但是删掉这么一大部分内容关于是否针对于个人的误解，我曲解了，bot是指谁权当按你说的，总之话说回来，这都是我的个人暴论了，那么在一个误会的基础下，我绝对也是暴论回复，🙏🙏🤝"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100849170089463819",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@freedogdrum 我说的本身上就是暴论呀，看到了拼团的信息是我之前了解到的事实呀，snpt原粉的代购是不是你们我其实还真是没有定论。所以我我保持了一个问号内容，因为普瑞确实是你们做过吧而且我是指确实是一件好事吧，这部分我并没有狡辩这个如果我搞错了，你都这么说了我绝对完全道歉，但是删掉这么一大部分内容关"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "239485187",
+        "conversation_id": "2100447035451388292",
+        "created_at": "2026-09-18T07:27:28.000Z",
+        "display_text_range": [
+          15,
+          126
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T08:27:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100849170089463819"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1518404201168007168",
+              "start": 0,
+              "username": "godspeedyou50"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100849170089463819",
+        "in_reply_to_user_id": "1518404201168007168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100846483641884753",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@godspeedyou50 那不是你自己先把某种物质原粉的使用和时代倒退挂钩？你要是没有带后半那部分heip谁会理你似的？我回复里说的那些可都是指的这个时代，顺带一提我们可没有在做试剂代购。承认自己不懂或者说错不丢人，你自己也知道自己说的是暴论不是？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个违背了良知od喝大酒的神棍。\n☯️算命后付不怕跑单｜代请符箓、祈福请私讯\n宗教现代哲学文化传播者，又称古典心理医生。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/godspeedyoupr",
+                "end": 23,
+                "expanded_url": "https://t.me/godspeedyoupr",
+                "start": 0,
+                "url": "https://t.co/3vanSMggsw"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100850950688936231",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2096142160496328763",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1518404201168007168/1777353629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2029,
+          "following_count": 711,
+          "like_count": 1461,
+          "listed_count": 1,
+          "media_count": 232,
+          "tweet_count": 3304
+        },
+        "url": "https://t.co/3vanSMggsw",
+        "username": "godspeedyou50",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2011-01-17T18:50:17.000Z",
+        "description": "自由是廉价的，或者又是像件大衣如此昂贵，人们付出了他们的生命而不放弃它。",
+        "id": "239485187",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100849170089463819",
+        "name": "原料革命自由宣传部",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/239485187/1788697096",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096573693447319553/kDU7qBmn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 216,
+          "like_count": 37,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 37
+        },
+        "url": "",
+        "username": "freedogdrum",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

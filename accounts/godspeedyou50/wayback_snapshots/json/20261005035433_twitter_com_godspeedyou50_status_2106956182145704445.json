@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2106956174339997696"
+      ]
+    },
+    "author_id": "1518404201168007168",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2106919826103132244",
+    "created_at": "2026-10-05T03:54:33.000Z",
+    "display_text_range": [
+      0,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-05T04:54:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106956182145704445"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/1bDAZTsh2W",
+          "end": 41,
+          "expanded_url": "https://x.com/godspeedyou50/status/2106956182145704445/photo/1",
+          "media_key": "3_2106956174339997696",
+          "start": 18,
+          "url": "https://t.co/1bDAZTsh2W"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106956182145704445",
+    "in_reply_to_user_id": "1518404201168007168",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2106956174339997696"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106919826103132244",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我没那么神 其实当时确实研究了好久 https://t.co/1bDAZTsh2W"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1110,
+        "media_key": "3_2106956174339997696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HT1pejjaAAAX-4J.jpg",
+        "width": 1290
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2106919811095867392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HT1IZ76aMAAwcWz.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106956174339997696"
+          ]
+        },
+        "author_id": "1518404201168007168",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2106919826103132244",
+        "created_at": "2026-10-05T03:54:33.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T04:54:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106956182145704445"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1bDAZTsh2W",
+              "end": 41,
+              "expanded_url": "https://x.com/godspeedyou50/status/2106956182145704445/photo/1",
+              "media_key": "3_2106956174339997696",
+              "start": 18,
+              "url": "https://t.co/1bDAZTsh2W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106956182145704445",
+        "in_reply_to_user_id": "1518404201168007168",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2106956174339997696"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106919826103132244",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我没那么神 其实当时确实研究了好久 https://t.co/1bDAZTsh2W"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106919811095867392"
+          ]
+        },
+        "author_id": "1518404201168007168",
+        "conversation_id": "2106919826103132244",
+        "created_at": "2026-10-05T01:30:05.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T02:30:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106919826103132244"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HuzPR1id21",
+              "end": 41,
+              "expanded_url": "https://x.com/godspeedyou50/status/2106919826103132244/photo/1",
+              "media_key": "3_2106919811095867392",
+              "start": 18,
+              "url": "https://t.co/HuzPR1id21"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106919826103132244",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2106919811095867392"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2983,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "天呢 节哀 世事无常 有些命数 唉 https://t.co/HuzPR1id21"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个违背了良知od喝大酒的神棍。\n☯️算命后付不怕跑单｜代请符箓、祈福请私讯\n宗教现代哲学文化传播者，又称古典心理医生。\n生活号@pharmakon14138\nValenceLab匿名提问箱👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 64,
+                "username": "pharmakon14138"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "valence.top/ask/26kkrk8gm",
+                "end": 23,
+                "expanded_url": "https://valence.top/ask/26kkrk8gm",
+                "start": 0,
+                "url": "https://t.co/COtyXjNl1D"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106956182145704445",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2096142160496328763",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1518404201168007168/1777353629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2084,
+          "following_count": 716,
+          "like_count": 1507,
+          "listed_count": 1,
+          "media_count": 242,
+          "tweet_count": 3399
+        },
+        "url": "https://t.co/COtyXjNl1D",
+        "username": "godspeedyou50",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

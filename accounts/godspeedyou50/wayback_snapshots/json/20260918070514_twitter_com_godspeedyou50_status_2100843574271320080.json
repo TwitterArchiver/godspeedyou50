@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2100447035451388292",
+    "created_at": "2026-09-18T07:05:14.000Z",
+    "display_text_range": [
+      13,
+      123
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T08:05:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100843574271320080"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "239485187",
+          "start": 0,
+          "username": "freedogdrum"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100843574271320080",
+    "in_reply_to_user_id": "239485187",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "意料之内 哈哈\n首先你并没有说某人，阅读理解及格的人都不会觉得是妄想。\n所以扣了高帽就不用摘，没人跟你理论，这个是你都承认你在抨击我了，怎么变成一个妄想呢，到底是在反对我说的某群体现象还是真的针对我这个本人呢，并不知道。\n而且回归本题一下，那我说的有什么问题吗？为什么任何的建议吃原粉谨慎一点的言论都演变成所谓无良药商灌胶囊呢，ok fine"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100841306390155417",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@freedogdrum 意料之内 哈哈\n首先你并没有说某人，阅读理解及格的人都不会觉得是妄想。\n所以扣了高帽就不用摘，没人跟你理论，这个是你都承认你在抨击我了，怎么变成一个妄想呢，到底是在反对我说的某群体现象还是真的针对我这个本人呢，并不知道。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2100447035451388292",
+        "created_at": "2026-09-18T07:05:14.000Z",
+        "display_text_range": [
+          13,
+          123
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T08:05:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100843574271320080"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "239485187",
+              "start": 0,
+              "username": "freedogdrum"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100843574271320080",
+        "in_reply_to_user_id": "239485187",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "意料之内 哈哈\n首先你并没有说某人，阅读理解及格的人都不会觉得是妄想。\n所以扣了高帽就不用摘，没人跟你理论，这个是你都承认你在抨击我了，怎么变成一个妄想呢，到底是在反对我说的某群体现象还是真的针对我这个本人呢，并不知道。\n而且回归本题一下，那我说的有什么问题吗？为什么任何的建议吃原粉谨慎一点的言论都演变成所谓无良药商灌胶囊呢，ok fine"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100841306390155417",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@freedogdrum 意料之内 哈哈\n首先你并没有说某人，阅读理解及格的人都不会觉得是妄想。\n所以扣了高帽就不用摘，没人跟你理论，这个是你都承认你在抨击我了，怎么变成一个妄想呢，到底是在反对我说的某群体现象还是真的针对我这个本人呢，并不知道。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "239485187",
+        "conversation_id": "2100447035451388292",
+        "created_at": "2026-09-18T06:56:13.000Z",
+        "display_text_range": [
+          15,
+          159
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T07:56:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100841306390155417"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1518404201168007168",
+              "start": 0,
+              "username": "godspeedyou50"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100841306390155417",
+        "in_reply_to_user_id": "1518404201168007168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100806423299137733",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@godspeedyou50 暂且不知你有没有文化或者编辑是不是随意，至少我看来你这确实是很随意了，也不知道是不是随意到豆包的界面里了，毕竟\"现在AI挺方便的\"。\n开幕雷击，怎么读出我说你不懂药理的？我不是说某bot不懂？然后又说我不客观(蝾音)，合着不难道是你写的这堆东西完全基于我抨击你的妄想上吗？\n不错，自嘲完美"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个违背了良知od喝大酒的神棍。\n☯️算命后付不怕跑单｜代请符箓、祈福请私讯\n宗教现代哲学文化传播者，又称古典心理医生。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/godspeedyoupr",
+                "end": 23,
+                "expanded_url": "https://t.me/godspeedyoupr",
+                "start": 0,
+                "url": "https://t.co/3vanSMggsw"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100843574271320080",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2096142160496328763",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1518404201168007168/1777353629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2028,
+          "following_count": 711,
+          "like_count": 1461,
+          "listed_count": 1,
+          "media_count": 232,
+          "tweet_count": 3300
+        },
+        "url": "https://t.co/3vanSMggsw",
+        "username": "godspeedyou50",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2011-01-17T18:50:17.000Z",
+        "description": "自由是廉价的，或者又是像件大衣如此昂贵，人们付出了他们的生命而不放弃它。",
+        "id": "239485187",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100843577186427173",
+        "name": "原料革命自由宣传部",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/239485187/1788697096",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096573693447319553/kDU7qBmn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 216,
+          "like_count": 35,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 33
+        },
+        "url": "",
+        "username": "freedogdrum",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,351 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2102999805194863092",
+    "created_at": "2026-09-24T06:40:04.000Z",
+    "display_text_range": [
+      46,
+      49
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-24T07:40:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103011568208527657"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1577362467419611137",
+          "start": 0,
+          "username": "Retepa8964"
+        },
+        {
+          "end": 28,
+          "id": "1245586764837695493",
+          "start": 12,
+          "username": "i0OJoOpG5NuTcjG"
+        },
+        {
+          "end": 45,
+          "id": "1684269091849404416",
+          "start": 29,
+          "username": "1212s1212bs1242"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103011568208527657",
+    "in_reply_to_user_id": "1577362467419611137",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102999805194863092",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Retepa8964 @i0OJoOpG5NuTcjG @1212s1212bs1242 哪儿啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3064,
+        "media_key": "3_2102999791617892353",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS9bKxYa4AE8Qb3.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2102999805194863092",
+        "created_at": "2026-09-24T06:40:04.000Z",
+        "display_text_range": [
+          46,
+          49
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T07:40:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103011568208527657"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1577362467419611137",
+              "start": 0,
+              "username": "Retepa8964"
+            },
+            {
+              "end": 28,
+              "id": "1245586764837695493",
+              "start": 12,
+              "username": "i0OJoOpG5NuTcjG"
+            },
+            {
+              "end": 45,
+              "id": "1684269091849404416",
+              "start": 29,
+              "username": "1212s1212bs1242"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103011568208527657",
+        "in_reply_to_user_id": "1577362467419611137",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102999805194863092",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Retepa8964 @i0OJoOpG5NuTcjG @1212s1212bs1242 哪儿啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102999791617892353"
+          ]
+        },
+        "author_id": "1577362467419611137",
+        "conversation_id": "2102999805194863092",
+        "created_at": "2026-09-24T05:53:20.000Z",
+        "display_text_range": [
+          0,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T06:53:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102999805194863092"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1245586764837695493",
+              "start": 0,
+              "username": "i0OJoOpG5NuTcjG"
+            },
+            {
+              "end": 33,
+              "id": "1684269091849404416",
+              "start": 17,
+              "username": "1212s1212bs1242"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hsqu9S60Td",
+              "end": 64,
+              "expanded_url": "https://x.com/Retepa8964/status/2102999805194863092/photo/1",
+              "media_key": "3_2102999791617892353",
+              "start": 41,
+              "url": "https://t.co/hsqu9S60Td"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102999805194863092",
+        "in_reply_to_user_id": "1245586764837695493",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2102999791617892353"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 62,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "@i0OJoOpG5NuTcjG @1212s1212bs1242 \n三只蛆吃郎 https://t.co/hsqu9S60Td"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个违背了良知od喝大酒的神棍。\n☯️算命后付不怕跑单｜代请符箓、祈福请私讯\n宗教现代哲学文化传播者，又称古典心理医生。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/godspeedyoupr",
+                "end": 23,
+                "expanded_url": "https://t.me/godspeedyoupr",
+                "start": 0,
+                "url": "https://t.co/3vanSMggsw"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103011568208527657",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2096142160496328763",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1518404201168007168/1777353629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2053,
+          "following_count": 707,
+          "like_count": 1495,
+          "listed_count": 1,
+          "media_count": 236,
+          "tweet_count": 3361
+        },
+        "url": "https://t.co/3vanSMggsw",
+        "username": "godspeedyou50",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-10-04T18:18:25.000Z",
+        "description": "＝阿瓜｜pc街机😻/都市传说/文史哲艺爱好者/生理女友好一切/后现代/神必学游客/oder/精分/数字游民?/查成分互fo\n👁你們怎麼辦，只有天知道。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/retepa555",
+                "end": 23,
+                "expanded_url": "https://ngl.link/retepa555",
+                "start": 0,
+                "url": "https://t.co/i8FVzhF71c"
+              }
+            ]
+          }
+        },
+        "id": "1577362467419611137",
+        "is_identity_verified": false,
+        "location": "第三高原",
+        "most_recent_tweet_id": "2103010210973679794",
+        "name": "無機質水樂",
+        "pinned_tweet_id": "2008084757700395499",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1577362467419611137/1756231334",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101293744683425792/WHovGnkv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 527,
+          "following_count": 977,
+          "like_count": 30440,
+          "listed_count": 0,
+          "media_count": 252,
+          "tweet_count": 2676
+        },
+        "url": "https://t.co/i8FVzhF71c",
+        "username": "Retepa8964",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-04-02T05:40:11.000Z",
+        "description": "一瞬的逃避是为了更好的自己，而非永久的逃避，人不可能逃避一辈子，不沉溺，不妥协，活出自己〒_〒",
+        "id": "1245586764837695493",
+        "is_identity_verified": false,
+        "location": "鏡の世界",
+        "most_recent_tweet_id": "2102626515905368234",
+        "name": "柘榴sukisu",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1245586764837695493/1699195016",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1721174450366992384/MDgo_P8J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 395,
+          "like_count": 2653,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 988
+        },
+        "url": "",
+        "username": "i0OJoOpG5NuTcjG",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-07-26T18:27:14.000Z",
+        "description": "4I/烟代",
+        "id": "1684269091849404416",
+        "is_identity_verified": false,
+        "location": "我爱你",
+        "most_recent_tweet_id": "2102999865722859952",
+        "name": "12",
+        "pinned_tweet_id": "2101701179524976916",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684269091849404416/1775462503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098702769708503040/JYBMlxoD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 876,
+          "following_count": 909,
+          "like_count": 17010,
+          "listed_count": 0,
+          "media_count": 1141,
+          "tweet_count": 10490
+        },
+        "url": "",
+        "username": "1212s1212bs1242",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

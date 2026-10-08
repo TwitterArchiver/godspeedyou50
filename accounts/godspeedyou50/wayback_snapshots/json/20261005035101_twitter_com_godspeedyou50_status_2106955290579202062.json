@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2106919826103132244",
+    "created_at": "2026-10-05T03:51:01.000Z",
+    "display_text_range": [
+      13,
+      31
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-05T04:51:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106955290579202062"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1402759909091971072",
+          "start": 0,
+          "username": "Liu89899552"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106955290579202062",
+    "in_reply_to_user_id": "1402759909091971072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106953767988212055",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Liu89899552 晚点看吧 私聊也行 你咋把自己户开了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2106953762199785472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HT1nSJoXUAA-0Fc.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2106919826103132244",
+        "created_at": "2026-10-05T03:51:01.000Z",
+        "display_text_range": [
+          13,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T04:51:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106955290579202062"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1402759909091971072",
+              "start": 0,
+              "username": "Liu89899552"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106955290579202062",
+        "in_reply_to_user_id": "1402759909091971072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106953767988212055",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Liu89899552 晚点看吧 私聊也行 你咋把自己户开了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106953762199785472"
+          ]
+        },
+        "author_id": "1402759909091971072",
+        "conversation_id": "2106919826103132244",
+        "created_at": "2026-10-05T03:44:58.000Z",
+        "display_text_range": [
+          15,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T04:44:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106953767988212055"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1518404201168007168",
+              "start": 0,
+              "username": "godspeedyou50"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/L0CYziYRZg",
+              "end": 64,
+              "expanded_url": "https://x.com/Liu89899552/status/2106953767988212055/photo/1",
+              "media_key": "3_2106953762199785472",
+              "start": 41,
+              "url": "https://t.co/L0CYziYRZg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106953767988212055",
+        "in_reply_to_user_id": "1518404201168007168",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2106953762199785472"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106933977454145746",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@godspeedyou50 那能看看我的盘吗？赚钱好难啊😭😭😭没有销售的命吗？ https://t.co/L0CYziYRZg"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个违背了良知od喝大酒的神棍。\n☯️算命后付不怕跑单｜代请符箓、祈福请私讯\n宗教现代哲学文化传播者，又称古典心理医生。\n生活号@pharmakon14138\nValenceLab匿名提问箱👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 64,
+                "username": "pharmakon14138"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "valence.top/ask/26kkrk8gm",
+                "end": 23,
+                "expanded_url": "https://valence.top/ask/26kkrk8gm",
+                "start": 0,
+                "url": "https://t.co/COtyXjNl1D"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106955290579202062",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2096142160496328763",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1518404201168007168/1777353629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2083,
+          "following_count": 716,
+          "like_count": 1507,
+          "listed_count": 1,
+          "media_count": 241,
+          "tweet_count": 3398
+        },
+        "url": "https://t.co/COtyXjNl1D",
+        "username": "godspeedyou50",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-06-09T22:50:15.000Z",
+        "description": "",
+        "id": "1402759909091971072",
+        "is_identity_verified": false,
+        "location": "Manhattan, NY",
+        "most_recent_tweet_id": "2106953838880297296",
+        "name": "PeungJeh",
+        "pinned_tweet_id": "1752618126422986898",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1402759909091971072/1753074100",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024419243303784448/8FeuKx2b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 476,
+          "following_count": 1618,
+          "like_count": 56405,
+          "listed_count": 0,
+          "media_count": 535,
+          "tweet_count": 8996
+        },
+        "url": "",
+        "username": "Liu89899552",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

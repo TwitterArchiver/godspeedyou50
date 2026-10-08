@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2100447035451388292",
+    "created_at": "2026-09-18T14:25:57.000Z",
+    "display_text_range": [
+      22,
+      59
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T15:25:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100954485048967200"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2096605025653186560",
+          "start": 0,
+          "username": "ylgmxcb"
+        },
+        {
+          "end": 21,
+          "id": "239485187",
+          "start": 9,
+          "username": "freedogdrum"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100954485048967200",
+    "in_reply_to_user_id": "2096605025653186560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100894098659868861",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ylgmxcb @freedogdrum 我以为我都删干净了 原来是两个套贴 互相传达理性就好  确实这就不好意思了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2100447035451388292",
+        "created_at": "2026-09-18T14:25:57.000Z",
+        "display_text_range": [
+          22,
+          59
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T15:25:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100954485048967200"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2096605025653186560",
+              "start": 0,
+              "username": "ylgmxcb"
+            },
+            {
+              "end": 21,
+              "id": "239485187",
+              "start": 9,
+              "username": "freedogdrum"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100954485048967200",
+        "in_reply_to_user_id": "2096605025653186560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100894098659868861",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ylgmxcb @freedogdrum 我以为我都删干净了 原来是两个套贴 互相传达理性就好  确实这就不好意思了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2096605025653186560",
+        "conversation_id": "2100447035451388292",
+        "created_at": "2026-09-18T10:26:00.000Z",
+        "display_text_range": [
+          28,
+          108
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T11:26:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100894098659868861"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1518404201168007168",
+              "start": 0,
+              "username": "godspeedyou50"
+            },
+            {
+              "end": 27,
+              "id": "239485187",
+              "start": 15,
+              "username": "freedogdrum"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100894098659868861",
+        "in_reply_to_user_id": "1518404201168007168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "杰森老师，读了你关于药理的看法，我的看法如下：\n确实，r/opioid_rcs对一个阿片，有所谓的euforia和legs的标准，一个阿片半衰期太短，那就不好。\n不过，tianeptine和砜代美沙酮，你要认为后者由于半衰期更长，滥用价值就一定更高，没有这样的道理。首先，tianeptine的代谢物（脂肪链氧化减两个碳）依然有活性，而砜代美沙酮不是，所以直接对比其半衰期本来就不是科学的对比方式。其次，砜代美沙酮虽然半衰期漫长，可有欣快感的时间却也就几个小时，后面处于一种既没有代谢掉，欣快感还不在的尴尬阶段，补也不是，不补，也不是。\n因此砜代美沙酮被称作“厕所阿片”，它漫长的半衰期带来的是漫长的戒断期，戒一个月体瘾还在。其原型美沙酮被称作液体手铐呢。\n最后，tianeptine有AMPAKine作用，其呼吸抑制风险稍好于其他阿片。当然，阿片本身就危险，任何阿片都有高于其他物质的风险。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100806423299137733",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@godspeedyou50 @freedogdrum 杰森老师，读了你关于药理的看法，我的看法如下：\n确实，r/opioid_rcs对一个阿片，有所谓的euforia和legs的标准，一个阿片半衰期太短，那就不好。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个违背了良知od喝大酒的神棍。\n☯️算命后付不怕跑单｜代请符箓、祈福请私讯\n宗教现代哲学文化传播者，又称古典心理医生。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/godspeedyoupr",
+                "end": 23,
+                "expanded_url": "https://t.me/godspeedyoupr",
+                "start": 0,
+                "url": "https://t.co/3vanSMggsw"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100954485048967200",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2096142160496328763",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1518404201168007168/1777353629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2031,
+          "following_count": 711,
+          "like_count": 1466,
+          "listed_count": 1,
+          "media_count": 232,
+          "tweet_count": 3309
+        },
+        "url": "https://t.co/3vanSMggsw",
+        "username": "godspeedyou50",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-06T14:23:43.000Z",
+        "description": "原料革命是一个致力于提供药物信息，消除信息差所导致的不平等的在药圈活动的组织。\n本账号即代表，为原料革命的最重要一环——宣传，所兢兢业业的人们。\n原料革命下属低价药商：@freepgbplz\n原料革命自由宣传部：@freedogdrum\n原料革命最锋利的剑：@UWATCHLIFE",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 84,
+                "username": "freepgbplz"
+              },
+              {
+                "end": 118,
+                "start": 106,
+                "username": "freedogdrum"
+              },
+              {
+                "end": 140,
+                "start": 129,
+                "username": "UWATCHLIFE"
+              }
+            ]
+          }
+        },
+        "id": "2096605025653186560",
+        "is_identity_verified": false,
+        "location": "OD圈",
+        "most_recent_tweet_id": "2100894098659868861",
+        "name": "原料革命宣传部",
+        "pinned_tweet_id": "2096964371150999637",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2096605025653186560/1788779650",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096919871372369920/iFcW2t6E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 264,
+          "following_count": 9,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 13
+        },
+        "url": "",
+        "username": "ylgmxcb",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2011-01-17T18:50:17.000Z",
+        "description": "自由是廉价的，或者又是像件大衣如此昂贵，人们付出了他们的生命而不放弃它。",
+        "id": "239485187",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100853420433580182",
+        "name": "原料革命自由宣传部",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/239485187/1788697096",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096573693447319553/kDU7qBmn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 216,
+          "like_count": 38,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 38
+        },
+        "url": "",
+        "username": "freedogdrum",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

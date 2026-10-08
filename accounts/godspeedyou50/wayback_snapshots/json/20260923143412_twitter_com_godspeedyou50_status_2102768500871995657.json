@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2102729896602857757",
+    "created_at": "2026-09-23T14:34:12.000Z",
+    "display_text_range": [
+      28,
+      63
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-23T15:34:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102768500871995657"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1125325219671842817",
+          "start": 0,
+          "username": "Beagleear_slapu"
+        },
+        {
+          "end": 27,
+          "id": "1621061237508345856",
+          "start": 17,
+          "username": "luooo_oo9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102768500871995657",
+    "in_reply_to_user_id": "1125325219671842817",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102758451697074521",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Beagleear_slapu @luooo_oo9 看楼主的帖子续集 透漏出一种自卑味浓的惊人的自证陷阱 月入几万… 可怜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2102729896602857757",
+        "created_at": "2026-09-23T14:34:12.000Z",
+        "display_text_range": [
+          28,
+          63
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T15:34:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102768500871995657"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1125325219671842817",
+              "start": 0,
+              "username": "Beagleear_slapu"
+            },
+            {
+              "end": 27,
+              "id": "1621061237508345856",
+              "start": 17,
+              "username": "luooo_oo9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102768500871995657",
+        "in_reply_to_user_id": "1125325219671842817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102758451697074521",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Beagleear_slapu @luooo_oo9 看楼主的帖子续集 透漏出一种自卑味浓的惊人的自证陷阱 月入几万… 可怜"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1125325219671842817",
+        "conversation_id": "2102729896602857757",
+        "created_at": "2026-09-23T13:54:16.000Z",
+        "display_text_range": [
+          11,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T14:54:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102758451697074521"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1621061237508345856",
+              "start": 0,
+              "username": "luooo_oo9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102758451697074521",
+        "in_reply_to_user_id": "1125325219671842817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 43,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102758223690576119",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luooo_oo9 那么缺实习章我也能盖…真没必要"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个违背了良知od喝大酒的神棍。\n☯️算命后付不怕跑单｜代请符箓、祈福请私讯\n宗教现代哲学文化传播者，又称古典心理医生。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/godspeedyoupr",
+                "end": 23,
+                "expanded_url": "https://t.me/godspeedyoupr",
+                "start": 0,
+                "url": "https://t.co/3vanSMggsw"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102768500871995657",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2096142160496328763",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1518404201168007168/1777353629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2057,
+          "following_count": 711,
+          "like_count": 1490,
+          "listed_count": 1,
+          "media_count": 237,
+          "tweet_count": 3355
+        },
+        "url": "https://t.co/3vanSMggsw",
+        "username": "godspeedyou50",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-05-06T09:03:34.000Z",
+        "description": "双性恋/brat/有主/猫猫大王的奴才",
+        "id": "1125325219671842817",
+        "is_identity_verified": false,
+        "location": "广东",
+        "most_recent_tweet_id": "2102768483041939881",
+        "name": "荒原犬",
+        "pinned_tweet_id": "2081521500050665743",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1125325219671842817/1747102128",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1660355160244359168/R387vl88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2143,
+          "following_count": 1663,
+          "like_count": 12400,
+          "listed_count": 2,
+          "media_count": 1904,
+          "tweet_count": 13134
+        },
+        "url": "",
+        "username": "Beagleear_slapu",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-02-02T08:21:39.000Z",
+        "description": "一只野生sub",
+        "id": "1621061237508345856",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102767043930144987",
+        "name": "ziolyo",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1621061237508345856/1783912864",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2102306460193755136/43Fc60N7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 867,
+          "following_count": 6,
+          "like_count": 1433,
+          "listed_count": 2,
+          "media_count": 10,
+          "tweet_count": 121
+        },
+        "url": "",
+        "username": "luooo_oo9",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

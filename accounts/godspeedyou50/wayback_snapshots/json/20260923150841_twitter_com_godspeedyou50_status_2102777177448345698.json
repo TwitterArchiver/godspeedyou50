@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2102777150856470528"
+      ]
+    },
+    "author_id": "1518404201168007168",
+    "conversation_id": "2102777177448345698",
+    "created_at": "2026-09-23T15:08:41.000Z",
+    "display_text_range": [
+      0,
+      49
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-23T16:08:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2102777177448345698"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/PjDLwhBqiE",
+          "end": 73,
+          "expanded_url": "https://x.com/godspeedyou50/status/2102777177448345698/photo/1",
+          "media_key": "3_2102777150856470528",
+          "start": 50,
+          "url": "https://t.co/PjDLwhBqiE"
+        },
+        {
+          "display_url": "x.com/luooo_oo9/stat…",
+          "end": 97,
+          "expanded_url": "https://twitter.com/luooo_oo9/status/2102773548872065369",
+          "start": 74,
+          "url": "https://t.co/ZrEUCOOioN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102777177448345698",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2102777150856470528"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102773548872065369",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "谢谢你哈 美女 看起来你是学新闻学的 挂我骂你的一排不挂我讲理的一条 行 祝你幸福哈 幸福 幸福😊 https://t.co/PjDLwhBqiE https://t.co/ZrEUCOOioN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2102777150856470528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS6QrX6boAAvSj7.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2102773533948755969",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS6NY14bwAEa_VV.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2102773533890002944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS6NY1qbQAAcOJE.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102777150856470528"
+          ]
+        },
+        "author_id": "1518404201168007168",
+        "conversation_id": "2102777177448345698",
+        "created_at": "2026-09-23T15:08:41.000Z",
+        "display_text_range": [
+          0,
+          49
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T16:08:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102777177448345698"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PjDLwhBqiE",
+              "end": 73,
+              "expanded_url": "https://x.com/godspeedyou50/status/2102777177448345698/photo/1",
+              "media_key": "3_2102777150856470528",
+              "start": 50,
+              "url": "https://t.co/PjDLwhBqiE"
+            },
+            {
+              "display_url": "x.com/luooo_oo9/stat…",
+              "end": 97,
+              "expanded_url": "https://twitter.com/luooo_oo9/status/2102773548872065369",
+              "start": 74,
+              "url": "https://t.co/ZrEUCOOioN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102777177448345698",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2102777150856470528"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102773548872065369",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "谢谢你哈 美女 看起来你是学新闻学的 挂我骂你的一排不挂我讲理的一条 行 祝你幸福哈 幸福 幸福😊 https://t.co/PjDLwhBqiE https://t.co/ZrEUCOOioN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102773533948755969",
+            "3_2102773533890002944"
+          ]
+        },
+        "author_id": "1621061237508345856",
+        "conversation_id": "2102773548872065369",
+        "created_at": "2026-09-23T14:54:16.000Z",
+        "display_text_range": [
+          0,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T15:54:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102773548872065369"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EWatSoYot3",
+              "end": 67,
+              "expanded_url": "https://x.com/luooo_oo9/status/2102773548872065369/photo/1",
+              "media_key": "3_2102773533948755969",
+              "start": 44,
+              "url": "https://t.co/EWatSoYot3"
+            },
+            {
+              "display_url": "pic.x.com/EWatSoYot3",
+              "end": 67,
+              "expanded_url": "https://x.com/luooo_oo9/status/2102773548872065369/photo/1",
+              "media_key": "3_2102773533890002944",
+              "start": 44,
+              "url": "https://t.co/EWatSoYot3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102773548872065369",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2102773533948755969"
+          },
+          {
+            "media_key": "3_2102773533890002944"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 789,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "臭傻逼你真的气死我了 如果你和日本人关在一个房间 一把枪有两发子弹我会都打在你的脑门上 https://t.co/EWatSoYot3"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个违背了良知od喝大酒的神棍。\n☯️算命后付不怕跑单｜代请符箓、祈福请私讯\n宗教现代哲学文化传播者，又称古典心理医生。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/godspeedyoupr",
+                "end": 23,
+                "expanded_url": "https://t.me/godspeedyoupr",
+                "start": 0,
+                "url": "https://t.co/3vanSMggsw"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102777177448345698",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2096142160496328763",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1518404201168007168/1777353629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2056,
+          "following_count": 711,
+          "like_count": 1494,
+          "listed_count": 1,
+          "media_count": 238,
+          "tweet_count": 3360
+        },
+        "url": "https://t.co/3vanSMggsw",
+        "username": "godspeedyou50",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-02-02T08:21:39.000Z",
+        "description": "一只野生sub",
+        "id": "1621061237508345856",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102777083105853840",
+        "name": "ziolyo",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1621061237508345856/1783912864",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2102306460193755136/43Fc60N7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 883,
+          "following_count": 6,
+          "like_count": 1434,
+          "listed_count": 2,
+          "media_count": 11,
+          "tweet_count": 134
+        },
+        "url": "",
+        "username": "luooo_oo9",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

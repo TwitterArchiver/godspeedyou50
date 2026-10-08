@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2102640317099069440"
+      ]
+    },
+    "author_id": "1518404201168007168",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      }
+    ],
+    "conversation_id": "2102640345855209474",
+    "created_at": "2026-09-23T06:04:58.000Z",
+    "display_text_range": [
+      0,
+      84
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-23T07:04:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2102640345855209474"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/5bQXe9nkVK",
+          "end": 108,
+          "expanded_url": "https://x.com/godspeedyou50/status/2102640345855209474/photo/1",
+          "media_key": "3_2102640317099069440",
+          "start": 85,
+          "url": "https://t.co/5bQXe9nkVK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102640345855209474",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2102640317099069440"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "鼠辈你举报我就不要选可能传播自杀自残，你妈死之前我不会死，除非你妈明天就上吊。\n所以我还是真心发愿你家除了你妈全部都cos晴天娃娃\n到时候我挂两挂鞭庆祝哈，作孽的杂碎。 https://t.co/5bQXe9nkVK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2102640317099069440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS4UOmca0AAiGh8.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102640317099069440"
+          ]
+        },
+        "author_id": "1518404201168007168",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2102640345855209474",
+        "created_at": "2026-09-23T06:04:58.000Z",
+        "display_text_range": [
+          0,
+          84
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T07:04:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102640345855209474"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5bQXe9nkVK",
+              "end": 108,
+              "expanded_url": "https://x.com/godspeedyou50/status/2102640345855209474/photo/1",
+              "media_key": "3_2102640317099069440",
+              "start": 85,
+              "url": "https://t.co/5bQXe9nkVK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102640345855209474",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2102640317099069440"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "鼠辈你举报我就不要选可能传播自杀自残，你妈死之前我不会死，除非你妈明天就上吊。\n所以我还是真心发愿你家除了你妈全部都cos晴天娃娃\n到时候我挂两挂鞭庆祝哈，作孽的杂碎。 https://t.co/5bQXe9nkVK"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个违背了良知od喝大酒的神棍。\n☯️算命后付不怕跑单｜代请符箓、祈福请私讯\n宗教现代哲学文化传播者，又称古典心理医生。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/godspeedyoupr",
+                "end": 23,
+                "expanded_url": "https://t.me/godspeedyoupr",
+                "start": 0,
+                "url": "https://t.co/3vanSMggsw"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102640345855209474",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2096142160496328763",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1518404201168007168/1777353629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2053,
+          "following_count": 707,
+          "like_count": 1487,
+          "listed_count": 1,
+          "media_count": 237,
+          "tweet_count": 3344
+        },
+        "url": "https://t.co/3vanSMggsw",
+        "username": "godspeedyou50",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

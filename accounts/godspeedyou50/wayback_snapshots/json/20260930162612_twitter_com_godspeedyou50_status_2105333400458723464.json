@@ -1,0 +1,312 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080943898684448768"
+      ],
+      "media_source_tweet_id": [
+        "2080943910223040583"
+      ]
+    },
+    "author_id": "1518404201168007168",
+    "conversation_id": "2105333400458723464",
+    "created_at": "2026-09-30T16:26:12.000Z",
+    "display_text_range": [
+      0,
+      73
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-30T17:26:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105333400458723464"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1124790071314587648",
+          "start": 3,
+          "username": "LanwujiDrink"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2Al5t6Ydga",
+          "end": 73,
+          "expanded_url": "https://x.com/LanwujiDrink/status/2080943910223040583/photo/1",
+          "media_key": "3_2080943898684448768",
+          "start": 50,
+          "url": "https://t.co/2Al5t6Ydga"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105333400458723464",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2080943898684448768"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080943910223040583",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LanwujiDrink: 望周知、没有成瘾性、没毒性不伤脑子还维持2-4周持续抗抑郁效果 https://t.co/2Al5t6Ydga"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 955,
+        "media_key": "3_2080943898684448768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOD_c1aaYAAnHtd.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080943898684448768"
+          ],
+          "media_source_tweet_id": [
+            "2080943910223040583"
+          ]
+        },
+        "author_id": "1518404201168007168",
+        "conversation_id": "2105333400458723464",
+        "created_at": "2026-09-30T16:26:12.000Z",
+        "display_text_range": [
+          0,
+          73
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T17:26:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105333400458723464"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1124790071314587648",
+              "start": 3,
+              "username": "LanwujiDrink"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2Al5t6Ydga",
+              "end": 73,
+              "expanded_url": "https://x.com/LanwujiDrink/status/2080943910223040583/photo/1",
+              "media_key": "3_2080943898684448768",
+              "start": 50,
+              "url": "https://t.co/2Al5t6Ydga"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105333400458723464",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2080943898684448768"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080943910223040583",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LanwujiDrink: 望周知、没有成瘾性、没毒性不伤脑子还维持2-4周持续抗抑郁效果 https://t.co/2Al5t6Ydga"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080943898684448768"
+          ]
+        },
+        "author_id": "1124790071314587648",
+        "conversation_id": "2080943910223040583",
+        "created_at": "2026-07-25T09:11:04.000Z",
+        "display_text_range": [
+          0,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-07-25T10:11:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080943910223040583"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2Al5t6Ydga",
+              "end": 55,
+              "expanded_url": "https://x.com/LanwujiDrink/status/2080943910223040583/photo/1",
+              "media_key": "3_2080943898684448768",
+              "start": 32,
+              "url": "https://t.co/2Al5t6Ydga"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080943910223040583",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2080943898684448768"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 32,
+          "impression_count": 42055,
+          "like_count": 180,
+          "quote_count": 4,
+          "reply_count": 62,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "望周知、没有成瘾性、没毒性不伤脑子还维持2-4周持续抗抑郁效果 https://t.co/2Al5t6Ydga"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个违背了良知od喝大酒的神棍。\n☯️算命后付不怕跑单｜代请符箓、祈福请私讯\n宗教现代哲学文化传播者，又称古典心理医生。\n生活号@pharmakon14138",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 64,
+                "username": "pharmakon14138"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/godspeedyoupr",
+                "end": 23,
+                "expanded_url": "https://t.me/godspeedyoupr",
+                "start": 0,
+                "url": "https://t.co/3vanSMgOi4"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105333400458723464",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2096142160496328763",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1518404201168007168/1777353629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2050,
+          "following_count": 706,
+          "like_count": 1500,
+          "listed_count": 1,
+          "media_count": 237,
+          "tweet_count": 3368
+        },
+        "url": "https://t.co/3vanSMgOi4",
+        "username": "godspeedyou50",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-05-04T21:37:05.000Z",
+        "description": "無極® Manager",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wujichem",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wujichem",
+                "start": 0,
+                "url": "https://t.co/7eJAqlg7IH"
+              }
+            ]
+          }
+        },
+        "id": "1124790071314587648",
+        "is_identity_verified": false,
+        "location": "长期主义产品only",
+        "most_recent_tweet_id": "2105278831963832659",
+        "name": "☯️🧬無極® 生物科技",
+        "pinned_tweet_id": "2080943910223040583",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1124790071314587648/1787324550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088162509668921344/A5ZqYWNN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1629,
+          "following_count": 108,
+          "like_count": 3704,
+          "listed_count": 0,
+          "media_count": 102,
+          "tweet_count": 1982
+        },
+        "url": "https://t.co/7eJAqlg7IH",
+        "username": "LanwujiDrink",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

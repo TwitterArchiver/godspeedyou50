@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2087930382045818988",
+    "created_at": "2026-09-18T05:32:52.000Z",
+    "display_text_range": [
+      12,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T06:32:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100820327635050892"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1317884415872126976",
+          "start": 0,
+          "username": "yinglongzi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100820327635050892",
+    "in_reply_to_user_id": "1317884415872126976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087930382045818988",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yinglongzi 润龟"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2087930382045818988",
+        "created_at": "2026-09-18T05:32:52.000Z",
+        "display_text_range": [
+          12,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T06:32:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100820327635050892"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1317884415872126976",
+              "start": 0,
+              "username": "yinglongzi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100820327635050892",
+        "in_reply_to_user_id": "1317884415872126976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087930382045818988",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yinglongzi 润龟"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1317884415872126976",
+        "conversation_id": "2087930382045818988",
+        "created_at": "2026-08-13T15:52:49.000Z",
+        "display_text_range": [
+          0,
+          156
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T16:52:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087930382045818988"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2087930382045818988",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "有一个男的特别特别讨厌  很少看见这样讨厌的人  他在多伦多可能很多年了  也结婚了  前不久知道我在多伦多之后  就想约我  然后就是每次都要和我讲价  以及磨磨唧唧  我见过他一次  在停车场  车上  帮他打了飞机  因为他不想做  也不想我口  觉得愧对老婆吧可能  然后就是这样一个男人  我删了好友了  然后隔三差五总要来加我  加上之后呢  一会说打视频  一会说去北约克见面  然后还要讲价  很少见到这么抠的男人  我已经表达过了  如果不想约  不要来打扰我  刚刚又故技重施  加我好友  当然还是一如既往的墨迹  所以这次把他拉黑了  简直是忍无可忍  骂也懒得骂了  只是心疼他老婆  看照片还蛮漂亮的"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5972,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有一个男的特别特别讨厌  很少看见这样讨厌的人  他在多伦多可能很多年了  也结婚了  前不久知道我在多伦多之后  就想约我  然后就是每次都要和我讲价  以及磨磨唧唧  我见过他一次  在停车场  车上  帮他打了飞机  因为他不想做  也不想我口  觉得愧对老婆吧可能  然后就是这样一个男人  我删了好友了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个违背了良知od喝大酒的神棍。\n☯️算命后付不怕跑单｜代请符箓、祈福请私讯\n宗教现代哲学文化传播者，又称古典心理医生。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/godspeedyoupr",
+                "end": 23,
+                "expanded_url": "https://t.me/godspeedyoupr",
+                "start": 0,
+                "url": "https://t.co/3vanSMggsw"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100820327635050892",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2096142160496328763",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1518404201168007168/1777353629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2028,
+          "following_count": 706,
+          "like_count": 1459,
+          "listed_count": 1,
+          "media_count": 232,
+          "tweet_count": 3296
+        },
+        "url": "https://t.co/3vanSMggsw",
+        "username": "godspeedyou50",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-10-18T17:45:17.000Z",
+        "description": "🇨🇦 本人愿为广大在多伦多的男子提供生理及心理辅导 这是我的日记本",
+        "id": "1317884415872126976",
+        "is_identity_verified": false,
+        "location": "Canada",
+        "most_recent_tweet_id": "2100815775837700148",
+        "name": "小汪老师",
+        "pinned_tweet_id": "2022325087525814732",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1317884415872126976/1769048644",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098229294669639680/oliDBc-h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6765,
+          "following_count": 24,
+          "like_count": 2158,
+          "listed_count": 23,
+          "media_count": 1202,
+          "tweet_count": 4707
+        },
+        "url": "",
+        "username": "yinglongzi",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

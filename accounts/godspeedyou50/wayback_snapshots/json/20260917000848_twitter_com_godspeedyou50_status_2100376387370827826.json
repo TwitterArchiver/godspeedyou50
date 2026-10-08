@@ -1,0 +1,334 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2100141775461794166",
+    "created_at": "2026-09-17T00:08:48.000Z",
+    "display_text_range": [
+      15,
+      47
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T01:08:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100376387370827826"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1710447447225597952",
+          "start": 0,
+          "username": "return1125203"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100376387370827826",
+    "in_reply_to_user_id": "1710447447225597952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100141775461794166",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@return1125203 日本佬就是垃圾中的垃圾 垃圾中的大垃圾 哈哈哈 具体为什么我不说"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2408,
+        "media_key": "3_2100141751986274304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSUzy-EbwAAuTmU.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2408,
+        "media_key": "3_2100141760186101760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSUzzcnbMAAp6e4.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2408,
+        "media_key": "3_2100141767828058114",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSUzz5FaMAIk1M7.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2100141775461794166",
+        "created_at": "2026-09-17T00:08:48.000Z",
+        "display_text_range": [
+          15,
+          47
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T01:08:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100376387370827826"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1710447447225597952",
+              "start": 0,
+              "username": "return1125203"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100376387370827826",
+        "in_reply_to_user_id": "1710447447225597952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100141775461794166",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@return1125203 日本佬就是垃圾中的垃圾 垃圾中的大垃圾 哈哈哈 具体为什么我不说"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100141751986274304",
+            "3_2100141760186101760",
+            "3_2100141767828058114"
+          ]
+        },
+        "author_id": "1710447447225597952",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Ethereum Cryptocurrency",
+              "id": "1007361429752594432",
+              "name": "Ethereum cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Ethereum Cryptocurrency",
+              "id": "1007361429752594432",
+              "name": "Ethereum cryptocurrency"
+            }
+          }
+        ],
+        "conversation_id": "2100141775461794166",
+        "created_at": "2026-09-16T08:36:32.000Z",
+        "display_text_range": [
+          0,
+          141
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T09:36:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100141775461794166"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BUZs66NFK3",
+              "end": 165,
+              "expanded_url": "https://x.com/return1125203/status/2100141775461794166/photo/1",
+              "media_key": "3_2100141751986274304",
+              "start": 142,
+              "url": "https://t.co/BUZs66NFK3"
+            },
+            {
+              "display_url": "pic.x.com/BUZs66NFK3",
+              "end": 165,
+              "expanded_url": "https://x.com/return1125203/status/2100141775461794166/photo/1",
+              "media_key": "3_2100141760186101760",
+              "start": 142,
+              "url": "https://t.co/BUZs66NFK3"
+            },
+            {
+              "display_url": "pic.x.com/BUZs66NFK3",
+              "end": 165,
+              "expanded_url": "https://x.com/return1125203/status/2100141775461794166/photo/1",
+              "media_key": "3_2100141767828058114",
+              "start": 142,
+              "url": "https://t.co/BUZs66NFK3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100141775461794166",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100141751986274304"
+          },
+          {
+            "media_key": "3_2100141760186101760"
+          },
+          {
+            "media_key": "3_2100141767828058114"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 510,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个看起来很厉害，但不知道是不是真的。确实，1d-LSD，ETH-LAD在中国和日本都没被列管，如果说是结构类似物列管那么应该会像芬太尼一样整类列管，会写出来，而 LSD 是单独列管的，比如 1p-LSD，1v-LSD，LSD 是明确在目录里的，这个的风险就不知道了。感觉很有空间。 https://t.co/BUZs66NFK3"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个违背了大众良知od喝大酒的神棍。\n☯️算命后付不怕跑单｜代请符箓、祈福请私讯\n宗教现代哲学文化传播者，又称古典心理医生。\n@Pharmakon14138",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 63,
+                "username": "Pharmakon14138"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/godspeedyoupr",
+                "end": 23,
+                "expanded_url": "https://t.me/godspeedyoupr",
+                "start": 0,
+                "url": "https://t.co/3vanSMggsw"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100376387370827826",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2096142160496328763",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1518404201168007168/1777353629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2011,
+          "following_count": 708,
+          "like_count": 1451,
+          "listed_count": 1,
+          "media_count": 235,
+          "tweet_count": 3260
+        },
+        "url": "https://t.co/3vanSMggsw",
+        "username": "godspeedyou50",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-10-07T00:10:38.000Z",
+        "description": "",
+        "id": "1710447447225597952",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100336766230393217",
+        "name": "a半颗瓜子花生",
+        "pinned_tweet_id": "2062055771014307970",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877200701341970433/cgYfbWwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 281,
+          "like_count": 42,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 93
+        },
+        "url": "",
+        "username": "return1125203",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

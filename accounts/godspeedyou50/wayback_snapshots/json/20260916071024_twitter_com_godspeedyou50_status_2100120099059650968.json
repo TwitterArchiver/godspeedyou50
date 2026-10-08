@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2100119075552919862",
+    "created_at": "2026-09-16T07:10:24.000Z",
+    "display_text_range": [
+      13,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T08:10:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100120099059650968"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1151351883706990593",
+          "start": 0,
+          "username": "wowo7112061"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100120099059650968",
+    "in_reply_to_user_id": "1151351883706990593",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100119075552919862",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wowo7112061 你好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2100119075552919862",
+        "created_at": "2026-09-16T07:10:24.000Z",
+        "display_text_range": [
+          13,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T08:10:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100120099059650968"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1151351883706990593",
+              "start": 0,
+              "username": "wowo7112061"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100120099059650968",
+        "in_reply_to_user_id": "1151351883706990593",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100119075552919862",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wowo7112061 你好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1151351883706990593",
+        "conversation_id": "2100119075552919862",
+        "created_at": "2026-09-16T07:06:20.000Z",
+        "display_text_range": [
+          0,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T08:06:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100119075552919862"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 14,
+              "tag": "无畏契约"
+            },
+            {
+              "end": 23,
+              "start": 20,
+              "tag": "黄双"
+            },
+            {
+              "end": 27,
+              "start": 24,
+              "tag": "陪玩"
+            },
+            {
+              "end": 33,
+              "start": 28,
+              "tag": "瓦罗兰特"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100119075552919862",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们瓦的黄双都是哪里找的啊！#无畏契约 #黄双 #陪玩 #瓦罗兰特"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个违背了大众良知od喝大酒的神棍。\n☯️算命后付不怕跑单｜代请符箓、祈福请私讯\n宗教现代哲学文化传播者，又称古典心理医生。\n@Pharmakon14138",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 63,
+                "username": "Pharmakon14138"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/godspeedyoupr",
+                "end": 23,
+                "expanded_url": "https://t.me/godspeedyoupr",
+                "start": 0,
+                "url": "https://t.co/3vanSMggsw"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100120099059650968",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2096142160496328763",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1518404201168007168/1777353629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2007,
+          "following_count": 709,
+          "like_count": 1450,
+          "listed_count": 1,
+          "media_count": 235,
+          "tweet_count": 3254
+        },
+        "url": "https://t.co/3vanSMggsw",
+        "username": "godspeedyou50",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-07-17T04:44:14.000Z",
+        "description": "北京/好想有人一起od一起做爱/脾气不好gay离远点别让我骂你/私信看眼缘加vx",
+        "id": "1151351883706990593",
+        "is_identity_verified": false,
+        "location": "北京, 中华人民共和国",
+        "most_recent_tweet_id": "2100119075552919862",
+        "name": "惘闻",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1347581062415749127/Th6rhbDZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1656,
+          "following_count": 631,
+          "like_count": 837,
+          "listed_count": 6,
+          "media_count": 14,
+          "tweet_count": 139
+        },
+        "url": "",
+        "username": "wowo7112061",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

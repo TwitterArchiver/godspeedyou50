@@ -1,0 +1,407 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2101961680809038097",
+    "created_at": "2026-09-21T09:08:11.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-21T10:08:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101961680809038097"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 135,
+          "start": 132,
+          "tag": "粗口"
+        },
+        {
+          "end": 139,
+          "start": 136,
+          "tag": "控r"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1988504764561465344",
+          "start": 3,
+          "username": "GlenMoore522310"
+        },
+        {
+          "end": 118,
+          "id": "1784776615152820224",
+          "start": 103,
+          "username": "12345678AAAbcd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101961680809038097",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 21
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101639098821984729",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @GlenMoore522310: 【DJ粗口控R】大脑放空 狠狠吸入rush✌️🤪✌️舌头不由自主的伸出来，吸得脖子都红了狠狠喷射🥵一闻rush什么都忘了，就知道自己是条无🧠贱狗🐶\n自用男士香薰找他@12345678AAAbcd\n🐧:1191941045\n#粗口 #控r…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 616863,
+        "height": 720,
+        "media_key": "13_2101638589658574849",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2101638589658574849/img/PCE7_k6zYrf0dWEa.jpg",
+        "public_metrics": {
+          "view_count": 1302
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2101638589658574849/vid/avc1/480x270/_wKjqDb8CDW3azCc.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2101638589658574849/vid/avc1/640x360/3jy8gSdyw0d6GCN4.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2101638589658574849/vid/avc1/1280x720/bHjkTZtuHVwKPUA_.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2101638589658574849/pl/0qxB0u1HjGLJ4b4r.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2101961680809038097",
+        "created_at": "2026-09-21T09:08:11.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T10:08:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101961680809038097"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 135,
+              "start": 132,
+              "tag": "粗口"
+            },
+            {
+              "end": 139,
+              "start": 136,
+              "tag": "控r"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1988504764561465344",
+              "start": 3,
+              "username": "GlenMoore522310"
+            },
+            {
+              "end": 118,
+              "id": "1784776615152820224",
+              "start": 103,
+              "username": "12345678AAAbcd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101961680809038097",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 21
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101639098821984729",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @GlenMoore522310: 【DJ粗口控R】大脑放空 狠狠吸入rush✌️🤪✌️舌头不由自主的伸出来，吸得脖子都红了狠狠喷射🥵一闻rush什么都忘了，就知道自己是条无🧠贱狗🐶\n自用男士香薰找他@12345678AAAbcd\n🐧:1191941045\n#粗口 #控r…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2101638589658574849"
+          ]
+        },
+        "author_id": "1988504764561465344",
+        "conversation_id": "2101639098821984729",
+        "created_at": "2026-09-20T11:46:22.000Z",
+        "display_text_range": [
+          0,
+          157
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T12:46:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101639098821984729"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 114,
+              "start": 111,
+              "tag": "粗口"
+            },
+            {
+              "end": 118,
+              "start": 115,
+              "tag": "控r"
+            },
+            {
+              "end": 126,
+              "start": 119,
+              "tag": "爆吸rush"
+            },
+            {
+              "end": 132,
+              "start": 127,
+              "tag": "无脑傻逼"
+            },
+            {
+              "end": 136,
+              "start": 133,
+              "tag": "光脚"
+            },
+            {
+              "end": 140,
+              "start": 137,
+              "tag": "黑袜"
+            },
+            {
+              "end": 146,
+              "start": 141,
+              "tag": "男同调教"
+            },
+            {
+              "end": 152,
+              "start": 147,
+              "tag": "rush"
+            },
+            {
+              "end": 157,
+              "start": 153,
+              "tag": "翻白眼"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 97,
+              "id": "1784776615152820224",
+              "start": 82,
+              "username": "12345678AAAbcd"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yc5ciKbenb",
+              "end": 181,
+              "expanded_url": "https://x.com/GlenMoore522310/status/2101639098821984729/video/1",
+              "media_key": "13_2101638589658574849",
+              "start": 158,
+              "url": "https://t.co/yc5ciKbenb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101639098821984729",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2101638589658574849"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 34,
+          "impression_count": 2994,
+          "like_count": 146,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "【DJ粗口控R】大脑放空 狠狠吸入rush✌️🤪✌️舌头不由自主的伸出来，吸得脖子都红了狠狠喷射🥵一闻rush什么都忘了，就知道自己是条无🧠贱狗🐶\n自用男士香薰找他@12345678AAAbcd\n🐧:1191941045\n#粗口 #控r #爆吸rush #无脑傻逼 ＃光脚 #黑袜 #男同调教 #rush #翻白眼 https://t.co/yc5ciKbenb"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个违背了良知od喝大酒的神棍。\n☯️算命后付不怕跑单｜代请符箓、祈福请私讯\n宗教现代哲学文化传播者，又称古典心理医生。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/godspeedyoupr",
+                "end": 23,
+                "expanded_url": "https://t.me/godspeedyoupr",
+                "start": 0,
+                "url": "https://t.co/3vanSMggsw"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101961680809038097",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2096142160496328763",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1518404201168007168/1777353629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2047,
+          "following_count": 715,
+          "like_count": 1472,
+          "listed_count": 1,
+          "media_count": 234,
+          "tweet_count": 3325
+        },
+        "url": "https://t.co/3vanSMggsw",
+        "username": "godspeedyou50",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-12T07:11:13.000Z",
+        "description": "男士自用香薰@12345678AAAbcd\n\n分享优秀作品如有侵权联系我立即删除",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 6,
+                "username": "12345678AAAbcd"
+              }
+            ]
+          }
+        },
+        "id": "1988504764561465344",
+        "is_identity_verified": false,
+        "location": "USA",
+        "most_recent_tweet_id": "2101864892022321552",
+        "name": "Glen Moore🥵",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101174764773748736/RSVAkj2U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 246,
+          "following_count": 2,
+          "like_count": 6,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 6
+        },
+        "url": "",
+        "username": "GlenMoore522310",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-04-29T02:48:11.000Z",
+        "description": "| 主营男士香薰 | 同志用品|全帼可发 | 私密发货|\n🐧1191941045\n🐧3907848845（备用号）\n🛰️ CC-abc119\n✈️@a1191941045\n请勿重复添加\n|接代理代发|接代理代发|",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 73,
+                "username": "a1191941045"
+              }
+            ]
+          }
+        },
+        "id": "1784776615152820224",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101919422739005598",
+        "name": "-R（香薰接代发）",
+        "pinned_tweet_id": "2095007869989253628",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094999759736172544/SyIffbtB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 240,
+          "following_count": 3,
+          "like_count": 52,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 3
+        },
+        "url": "",
+        "username": "12345678AAAbcd",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

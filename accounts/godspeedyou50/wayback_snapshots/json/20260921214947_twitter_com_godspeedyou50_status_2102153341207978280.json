@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1518404201168007168",
+    "conversation_id": "2102152577152319870",
+    "created_at": "2026-09-21T21:49:47.000Z",
+    "display_text_range": [
+      16,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-21T22:49:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102153341207978280"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1838620535804317696",
+          "start": 0,
+          "username": "karmakarma1221"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102153341207978280",
+    "in_reply_to_user_id": "1838620535804317696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102152577152319870",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@karmakarma1221 凭啥啊啊啊啊啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14713,
+        "height": 720,
+        "media_key": "13_2102152508760076288",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2102152508760076288/img/BkS9cFaHu4hvg7KI.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2102152508760076288/vid/avc1/480x270/yBNc7s2CBPeqTXAP.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2102152508760076288/vid/avc1/640x360/rm6GgxQ8SVUgHTV0.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2102152508760076288/vid/avc1/1280x720/6EIfmrvJkk6rfCus.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2102152508760076288/pl/XPdV-PWXPM_zU3f5.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2102152577152319870",
+        "created_at": "2026-09-21T21:49:47.000Z",
+        "display_text_range": [
+          16,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T22:49:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102153341207978280"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1838620535804317696",
+              "start": 0,
+              "username": "karmakarma1221"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102153341207978280",
+        "in_reply_to_user_id": "1838620535804317696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102152577152319870",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@karmakarma1221 凭啥啊啊啊啊啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2102152508760076288"
+          ]
+        },
+        "author_id": "1838620535804317696",
+        "conversation_id": "2102152577152319870",
+        "created_at": "2026-09-21T21:46:45.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T22:46:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102152577152319870"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gWMSjNSOBa",
+              "end": 29,
+              "expanded_url": "https://x.com/karmakarma1221/status/2102152577152319870/video/1",
+              "media_key": "13_2102152508760076288",
+              "start": 6,
+              "url": "https://t.co/gWMSjNSOBa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102152577152319870",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2102152508760076288"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谢谢爱你们 https://t.co/gWMSjNSOBa"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个违背了良知od喝大酒的神棍。\n☯️算命后付不怕跑单｜代请符箓、祈福请私讯\n宗教现代哲学文化传播者，又称古典心理医生。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/godspeedyoupr",
+                "end": 23,
+                "expanded_url": "https://t.me/godspeedyoupr",
+                "start": 0,
+                "url": "https://t.co/3vanSMggsw"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102153341207978280",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2096142160496328763",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1518404201168007168/1777353629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2049,
+          "following_count": 717,
+          "like_count": 1480,
+          "listed_count": 1,
+          "media_count": 234,
+          "tweet_count": 3332
+        },
+        "url": "https://t.co/3vanSMggsw",
+        "username": "godspeedyou50",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-09-24T16:44:40.000Z",
+        "description": "这是一个存档点 我是蛞蝓 关注蛞蝓喵 关注蛞蝓谢谢喵♪( ´▽｀)\n\n我的提问箱 https://t.co/PXiBB5RMOP",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/karmakarma1221",
+                "end": 64,
+                "expanded_url": "https://ngl.link/karmakarma1221",
+                "start": 41,
+                "url": "https://t.co/PXiBB5RMOP"
+              }
+            ]
+          }
+        },
+        "id": "1838620535804317696",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102152577152319870",
+        "name": "蛞蝓神膜拜膜拜",
+        "pinned_tweet_id": "2095932363028976113",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1838620535804317696/1788627972",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094138347459334144/xPDXKL7u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1445,
+          "following_count": 870,
+          "like_count": 1033,
+          "listed_count": 0,
+          "media_count": 250,
+          "tweet_count": 3075
+        },
+        "url": "",
+        "username": "karmakarma1221",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
