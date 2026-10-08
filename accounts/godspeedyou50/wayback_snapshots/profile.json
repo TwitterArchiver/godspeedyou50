@@ -1,12 +1,20 @@
 {
   "name": "Jahseh",
   "username": "@godspeedyou50",
-  "bio": "一个违背了大众良知od喝大酒的神棍。\n☯️算命后付不怕跑单｜代请符箓、祈福请私讯\n传统宗教现代哲学文化传播者，又称中式廉价心理医生。",
+  "bio": "一个违背了良知od喝大酒的神棍。\n☯️算命后付不怕跑单｜代请符箓、祈福请私讯\n宗教现代哲学文化传播者，又称古典心理医生。\n生活号@pharmakon14138\nValenceLab匿名提问箱👇",
   "location": "",
-  "link": "https://t.me/godspeedyoupr",
+  "link": "https://valence.top/ask/26kkrk8gm",
   "avatar": "avatar/avatar.jpg",
   "banner": "avatar/1500x500.jpg",
   "pinned": "2069223594711011526",
-  "bio_entities": {},
+  "bio_entities": {
+    "mentions": [
+      {
+        "end": 79,
+        "start": 64,
+        "username": "pharmakon14138"
+      }
+    ]
+  },
   "_avatar_source": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg"
 }
